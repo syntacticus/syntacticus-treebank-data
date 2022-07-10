@@ -104,15 +104,15 @@
 3	izwis	jūs	P	Pp	PERS2|NUMBp|GENDp|CASEd	1	obl	_	_
 4	þatei	þatei	G	G-	INFLn	1	comp	_	_
 5	nibai	nibai	G	G-	INFLn	17	comp	_	_
-6	managizo	manags	A	A-	NUMBs|GENDf|CASEn|DEGRc|STREw	7	xobj	_	_
+6	managizo	manags	A	A-	NUMBs|GENDn|CASEn|DEGRc|STREw	7	sub	_	_
 7	wairþiþ	wairþan	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	5	pred	_	_
 8	izwaraizos	izwar	P	Ps	PERS2|NUMBs|GENDf|CASEg	9	atr	_	_
-9	garaihteins	garaihteins	N	Nb	NUMBs|GENDf|CASEn	7	sub	_	_
+9	garaihteins	garaihtei	N	Nb	NUMBs|GENDf|CASEg	6	part	_	_
 10	þau	þau	D	Df	INFLn	6	obl	_	_
 11	þize	sa	P	Pd	NUMBp|GENDm|CASEg	12	aux	_	_
-12	bokarje	bokareis	N	Nb	NUMBp|GENDm|CASEg	13	atr	_	_
-13	jah	jah	C	C-	INFLn	10	atr	_	_
-14	Fareisaie	Fareisaius	N	Nb	NUMBp|GENDm|CASEg	13	atr	_	_
+12	bokarje	bokareis	N	Nb	NUMBp|GENDm|CASEg	13	part	_	_
+13	jah	jah	C	C-	INFLn	10	part	_	_
+14	Fareisaie	Fareisaius	N	Nb	NUMBp|GENDm|CASEg	13	part	_	_
 15	ni	ni	D	Df	INFLn	17	aux	_	_
 16	þau	þau	D	Df	INFLn	17	aux	_	_
 17	qimiþ	qiman	V	V-	PERS2|NUMBp|TENSp|MOODi|VOICa	4	pred	_	_
@@ -5277,8 +5277,8 @@
 1	andanahtja	andanahti	N	Nb	NUMBs|GENDn|CASEd	3	sub	_	_
 2	þan	þan	D	Df	INFLn	7	aux	_	_
 3	waurþanamma	wairþan	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDn|CASEd|STREs	7	adv	_	_
-4	þan	þan	D	Df	INFLn	7	adv	_	_
-5	gasaggq	ga-siggqan	V	V-	PERS3|NUMBs|TENSu|MOODi|VOICa	4	aux	_	_
+4	þan	þan	D	Dq	INFLn	5	adv	_	_
+5	gasaggq	ga-siggqan	V	V-	PERS3|NUMBs|TENSu|MOODi|VOICa	7	adv	_	_
 6	sauil	sauïl	N	Nb	NUMBs|GENDn|CASEn	5	sub	_	_
 7	berun	bairan	V	V-	PERS3|NUMBp|TENSu|MOODi|VOICa	0	pred	_	_
 8	du	du	R	R-	INFLn	7	obl	_	_
@@ -7115,7 +7115,7 @@
 11	keiniþ	keinan	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	12	pred	_	_
 12	jah	jah	C	C-	INFLn	8	pred	_	_
 13	liudiþ	liudan	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	12	pred	_	_
-14	swe	swe	G	G-	INFLn	16	adv	_	_
+14	swe	swe	D	Dq	INFLn	16	adv	_	_
 15	ni	ni	D	Df	INFLn	16	aux	_	_
 16	wait	witan#1	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	13	adv	_	_
 17	is	is	P	Pp	PERS3|NUMBs|GENDm|CASEn	16	sub	_	_
@@ -8851,8 +8851,8 @@
 13	þans	sa	P	Pd	NUMBp|GENDm|CASEa	14	aux	_	_
 14	liutans	liuts	A	A-	NUMBp|GENDm|CASEa|DEGRp|STREw	12	apos	_	_
 15	swe	swe	D	Df	INFLn	16	adv	_	_
-16	gameliþ	ga-meljan	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDn|CASEn|STREs	9	atr	_	_
-17	ist	wisan#1	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	16	aux	_	_
+16	gameliþ	ga-meljan	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDn|CASEn|STREs	17	xobj	_	_
+17	ist	wisan#1	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	9	adv	_	_
 
 1	so	sa	P	Pd	NUMBs|GENDf|CASEn	2	aux	_	_
 2	managei	managei	N	Nb	NUMBs|GENDf|CASEn	5	sub	_	_
@@ -11787,9 +11787,9 @@
 13	du	du	R	R-	INFLn	14	aux	_	_
 14	giban	giban	V	V-	TENSp|MOODn|VOICa	12	atr	_	_
 15	alja	alja	C	C-	INFLn	0	pred	_	_
-16	þaimei	saei	P	Pr	NUMBp|GENDm|CASEd	17	obl	_	_
-17	manwiþ	manwjan	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDn|CASEn|STREs	15	obl(19)pred	_	_
-18	was	wisan#1	V	V-	PERS3|NUMBs|TENSu|MOODi|VOICa	17	aux	_	_
+16	þaimei	saei	P	Pr	NUMBp|GENDm|CASEd	18	obl	_	_
+17	manwiþ	manwjan	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDn|CASEn|STREs	18	xobj	_	_
+18	was	wisan#1	V	V-	PERS3|NUMBs|TENSu|MOODi|VOICa	15	obl(19)pred	_	_
 
 1	jah	jah	C	C-	INFLn	5	aux	_	_
 2	gahausjandans	ga-hausjan	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDm|CASEn|STREw	5	xadv	_	_
@@ -33830,7 +33830,7 @@
 6	iþ	iþ	C	C-	INFLn	0	pred	_	_
 7	allata	alls	P	Px	NUMBs|GENDn|CASEn	14	sub	_	_
 8	þatei	saei	P	Pr	NUMBs|GENDn|CASEa	9	obj	_	_
-9	qaþ	qiþan	V	V-	PERS3|NUMBs|TENSu|MOODi|VOICa	7	aux	_	_
+9	qaþ	qiþan	V	V-	PERS3|NUMBs|TENSu|MOODi|VOICa	7	atr	_	_
 10	Iohannes	Iohannes	N	Ne	NUMBs|GENDm|CASEn	9	sub	_	_
 11	bi	bi	R	R-	INFLn	9	adv	_	_
 12	þana	sa	P	Pd	NUMBs|GENDm|CASEa	11	obl	_	_
@@ -36673,7 +36673,7 @@
 6	in	in	R	R-	INFLn	4	obl(8)pred	_	_
 7	izwis	jūs	P	Pp	PERS2|NUMBp|GENDp|CASEd	6	obl	_	_
 
-1	swe	swe	G	G-	INFLn	5	adv	_	_
+1	swe	swe	D	Dq	INFLn	5	adv	_	_
 2	sa	sa	P	Pd	NUMBs|GENDm|CASEn	3	aux	_	_
 3	weinatains	weinatains	N	Nb	NUMBs|GENDm|CASEn	5	sub	_	_
 4	ni	ni	D	Df	INFLn	5	aux	_	_
@@ -47824,7 +47824,7 @@
 
 1	þairh	þairh	R	R-	INFLn	7	adv	_	_
 2	wepna	wepna	N	Nb	NUMBp|GENDn|CASEa	1	obl	_	_
-3	garaihteins	garaihteins	N	Nb	NUMBs|GENDf|CASEg	2	atr	_	_
+3	garaihteins	garaihtei	N	Nb	NUMBs|GENDf|CASEg	2	atr	_	_
 4	taihswona	taihswa	A	A-	NUMBp|GENDn|CASEa|DEGRp|STREw	5	atr	_	_
 5	jah	jah	C	C-	INFLn	2	atr	_	_
 6	hleidumona	hleiduma	A	A-	NUMBp|GENDn|CASEa|DEGRc|STREw	5	atr	_	_
@@ -54060,7 +54060,7 @@
 3	frijoþ	frijon	V	V-	PERS2|NUMBp|TENSp|MOODm|VOICa	0	pred	_	_
 4	qenins	qens	N	Nb	NUMBp|GENDf|CASEa	3	obj	_	_
 5	izwaros	izwar	P	Ps	PERS2|NUMBp|GENDf|CASEa	4	atr	_	_
-6	swaswe	swaswe	G	G-	INFLn	9	adv	_	_
+6	swaswe	swaswe	D	Dq	INFLn	9	adv	_	_
 7	jah	jah	D	Df	INFLn	9	aux	_	_
 8	Xristus	Xristus	N	Ne	NUMBs|GENDm|CASEn	9	sub	_	_
 9	frijoda	frijon	V	V-	PERS3|NUMBs|TENSu|MOODi|VOICa	11	adv	_	_
@@ -56841,7 +56841,7 @@
 10	þaim	sa	P	Pd	NUMBp|GENDq|CASEd	11	aux	_	_
 11	galaubjandam	ga-laubjan	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDm|CASEd|STREw	9	apos	_	_
 12	wesum	wisan#1	V	V-	PERS1|NUMBp|TENSu|MOODi|VOICa	0	comp(40)pred	_	_
-13	swaswe	swaswe	G	G-	INFLn	14	adv	_	_
+13	swaswe	swaswe	D	Dq	INFLn	14	adv	_	_
 14	wituþ	witan#1	V	V-	PERS2|NUMBp|TENSp|MOODi|VOICa	21	adv	_	_
 15	ainƕarjanoh	ainƕarjizuh	P	Px	NUMBs|GENDm|CASEa	21	obj	_	_
 16	izwara	jūs	P	Pp	PERS2|NUMBp|GENDm|CASEg	15	part	_	_
@@ -61070,7 +61070,7 @@
 13	du	du	R	R-	INFLn	6	adv	_	_
 14	talzeinai	talzeins*	N	Nb	NUMBs|GENDf|CASEd	13	obl	_	_
 15	in	in	R	R-	INFLn	14	atr	_	_
-16	garaihtein	garaihteins	N	Nb	NUMBs|GENDf|CASEd	15	obl	_	_
+16	garaihtein	garaihtei	N	Nb	NUMBs|GENDf|CASEd	15	obl	_	_
 17	ei	ei	G	G-	INFLn	0	adv(27)pred	_	_
 18	ustauhans	us-tiuhan	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDm|CASEn|STREs	19	xobj(28)xobj	_	_
 19	sijai	wisan#1	V	V-	PERS3|NUMBs|TENSp|MOODo|VOICa	17	pred	_	_
