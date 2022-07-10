@@ -176,7 +176,7 @@
     <printed-text-publisher>I.N.C.M.</printed-text-publisher>
     <printed-text-place>Lisboa</printed-text-place>
     <printed-text-date>1951</printed-text-date>
-    <div>
+    <div id="4712">
       <title>Crónica Geral de Espanha 155</title>
       <sentence id="140424" status="reviewed">
         <token id="1806519" form="Como" citation-part="Título 155 1.0 " lemma="como" part-of-speech="G-" morphology="---------n" head-id="1984056" relation="comp" presentation-after=" "/>
@@ -311,7 +311,7 @@
         <token id="1806627" form="apostolligos" citation-part="Título 155 1.7 " lemma="apóstolo" part-of-speech="Nb" morphology="-p---m---i" head-id="1806621" relation="sub" presentation-after=". "/>
       </sentence>
     </div>
-    <div>
+    <div id="4713">
       <title>Crónica Geral de Espanha 156</title>
       <sentence id="140427" status="reviewed">
         <token id="1806628" form="Como" citation-part="Título 156 2.0 " lemma="como" part-of-speech="G-" morphology="---------n" head-id="1984282" relation="comp" presentation-after=" "/>
@@ -2166,7 +2166,7 @@
         <token id="1808082" form="treedores" citation-part="Título 156 2.23 " lemma="traidor" part-of-speech="A-" morphology="-p---m-p-i" head-id="1808081" relation="obl" presentation-after=". "/>
       </sentence>
     </div>
-    <div>
+    <div id="4714">
       <title>Crónica Geral de Espanha 157</title>
       <sentence id="140472" status="reviewed">
         <token id="1808083" form="Como" citation-part="Título 157 4.0 " lemma="como" part-of-speech="G-" morphology="---------n" head-id="1985023" relation="comp" presentation-before="[Fol-58b] " presentation-after=" "/>
@@ -2674,7 +2674,7 @@
         <token id="1817854" form="elles" citation-part="Título 157 4.19 " lemma="ele" part-of-speech="Pp" morphology="3p---m---i" head-id="1808482" relation="obl" presentation-after=". "/>
       </sentence>
     </div>
-    <div>
+    <div id="4715">
       <title>Crónica Geral de Espanha 158</title>
       <sentence id="140481" status="reviewed">
         <token id="1808483" form="Como" citation-part="Título 158 5.0 " lemma="como" part-of-speech="Dq" morphology="---------n" head-id="1808484" relation="adv" presentation-after=" "/>
@@ -3674,7 +3674,7 @@
         <token id="1809302" form="fallasen" citation-part="Título 158 5.29 " lemma="falar" part-of-speech="V-" morphology="3pis-----i" head-id="1809297" relation="atr" presentation-after=". "/>
       </sentence>
     </div>
-    <div>
+    <div id="4716">
       <title>Crónica Geral de Espanha 159</title>
       <sentence id="140503" status="reviewed">
         <token id="1809303" form="Como" citation-part="Título 159 6.0 " lemma="como" part-of-speech="Dq" morphology="---------n" head-id="1809307" relation="adv" presentation-after=" "/>
@@ -4940,7 +4940,7 @@
         <token id="1810332" form="vĩĩr" citation-part="Título 159 6.37 " lemma="vir" part-of-speech="V-" morphology="---n-----n" head-id="1810330" relation="comp" presentation-after=". "/>
       </sentence>
     </div>
-    <div>
+    <div id="4717">
       <title>Crónica Geral de Espanha 160</title>
       <sentence id="140530" status="reviewed">
         <token id="1810333" form="Como" citation-part="Título 160 7.0 " lemma="como" part-of-speech="G-" morphology="---------n" head-id="1810338" relation="adv" presentation-after=" "/>
@@ -5320,7 +5320,7 @@
         <token id="1810629" form="rey" citation-part="Título 160 7.17 " lemma="rei" part-of-speech="Nb" morphology="-s---m---i" head-id="1810627" relation="obl" presentation-after=". "/>
       </sentence>
     </div>
-    <div>
+    <div id="4718">
       <title>Crónica Geral de Espanha 161</title>
       <sentence id="140541" status="reviewed">
         <token id="1810630" form="Como" citation-part="Título 161 8.0 " lemma="como" part-of-speech="G-" morphology="---------n" head-id="1989086" relation="comp" presentation-after=" "/>
@@ -6387,7 +6387,7 @@
         <token id="1811484" form="defenson" citation-part="Título 161 8.35 " lemma="defensõ" part-of-speech="Nb" morphology="-s---f---i" head-id="1811482" relation="obl" presentation-after=". "/>
       </sentence>
     </div>
-    <div>
+    <div id="4719">
       <title>Crónica Geral de Espanha 162</title>
       <sentence id="140563" status="reviewed">
         <token id="1811485" form="Como" citation-part="Título 162 9.0 " lemma="como" part-of-speech="G-" morphology="---------n" head-id="1989370" relation="comp" presentation-after=" "/>
@@ -7996,7 +7996,7 @@
         <token id="1812743" form="ben" citation-part="Título 162 9.62 " lemma="bem" part-of-speech="Df" morphology="---------n" head-id="1812742" relation="adv" presentation-after=". "/>
       </sentence>
     </div>
-    <div>
+    <div id="4720">
       <title>Crónica Geral de Espanha 163</title>
       <sentence id="140606" status="reviewed">
         <token id="1812744" form="Como" citation-part="Título 163 10.0 " lemma="como" part-of-speech="G-" morphology="---------n" head-id="1989588" relation="comp" presentation-after=" "/>
@@ -8863,7 +8863,7 @@
         <token id="1813447" form="Setembro" citation-part="Título 163 10.26 " lemma="Setembro" part-of-speech="Ne" morphology="---------n" head-id="1813446" relation="obl" presentation-after=". "/>
       </sentence>
     </div>
-    <div>
+    <div id="4721">
       <title>Crónica Geral de Espanha 164</title>
       <sentence id="140624" status="reviewed">
         <token id="1813448" form="Como" citation-part="Título 164 11.0 " lemma="como" part-of-speech="G-" morphology="---------n" head-id="1989590" relation="comp" presentation-after=" "/>
@@ -10520,7 +10520,7 @@
         <token id="1814766" form="terras" citation-part="Título 164 11.53 " lemma="terra" part-of-speech="Nb" morphology="-p---f---i" head-id="1814764" relation="obl" presentation-after=". "/>
       </sentence>
     </div>
-    <div>
+    <div id="4722">
       <title>Crónica Geral de Espanha 165</title>
       <sentence id="140677" status="reviewed">
         <token id="1814767" form="Como" citation-part="Título 165 12.0 " lemma="como" part-of-speech="G-" morphology="---------n" head-id="1990007" relation="comp" presentation-after=" "/>
@@ -11341,7 +11341,7 @@
         <token id="1815435" form="piedade" citation-part="Título 165 12.29 " lemma="piedade" part-of-speech="Nb" morphology="-s---f---i" head-id="1815434" relation="obj" presentation-after=". "/>
       </sentence>
     </div>
-    <div>
+    <div id="4723">
       <title>Crónica Geral de Espanha 166</title>
       <sentence id="140696" status="reviewed">
         <token id="1815436" form="Como" citation-part="Título 166 13.0 " lemma="como" part-of-speech="G-" morphology="---------n" head-id="1815452" relation="comp" presentation-after=" "/>
@@ -12490,7 +12490,7 @@
         <token id="1816372" form="carcer" citation-part="Título 166 14.24 " lemma="carcere" part-of-speech="Nb" morphology="-s---f---i" head-id="1816370" relation="obl" presentation-after=". "/>
       </sentence>
     </div>
-    <div>
+    <div id="4724">
       <title>Crónica Geral de Espanha 167</title>
       <sentence id="140724" status="reviewed">
         <token id="1816373" form="Como" citation-part="Título 167 15.0 " lemma="como" part-of-speech="G-" morphology="---------n" head-id="1991989" relation="comp" presentation-after=" "/>

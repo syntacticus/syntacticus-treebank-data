@@ -174,7 +174,7 @@
     <reviewer>Kristin Bech (110 sentences)</reviewer>
     <electronic-text-editor>Ann Taylor, Anthony Warner, Susan Pintzuk, Frank Beths</electronic-text-editor>
     <electronic-text-original-url>http://www-users.york.ac.uk/~lang22/YCOE/YcoeHome.htm</electronic-text-original-url>
-    <div>
+    <div id="4325">
       <title>Orosius 1</title>
       <sentence id="115567" status="reviewed">
         <token id="1591588" form="Ohthere" citation-part="1.1" lemma="Ohthere" part-of-speech="Ne" morphology="-s---mn--i" head-id="1591589" relation="sub" information-status="new" presentation-after=" "/>
@@ -1416,7 +1416,7 @@
         </token>
       </sentence>
     </div>
-    <div>
+    <div id="4327">
       <title>Orosius 3</title>
       <sentence id="116658" status="reviewed">
         <token id="1610530" form="Æfter" citation-part="3.9" lemma="æfter" part-of-speech="R-" morphology="---------n" head-id="1610532" relation="aux" presentation-after=" "/>

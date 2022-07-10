@@ -175,7 +175,7 @@
     <printed-text-publisher>Livraria Sá da Costa</printed-text-publisher>
     <printed-text-place>Lisboa</printed-text-place>
     <printed-text-date>1947</printed-text-date>
-    <div>
+    <div id="4438">
       <title>Livro 8 Capítulo 9</title>
       <sentence id="121917" status="reviewed">
         <token id="1691595" form="D" citation-part="9" lemma="de" part-of-speech="R-" morphology="---------n" head-id="1704840" relation="obl"/>
@@ -2155,7 +2155,7 @@
         <token id="1705131" form="Rei" citation-part="9" lemma="rei" part-of-speech="Nb" morphology="-s---m---i" head-id="1693171" relation="obl" information-status="old_inact" presentation-after=". "/>
       </sentence>
     </div>
-    <div>
+    <div id="4439">
       <title>Livro 8 Capítulo 10</title>
       <sentence id="121965" status="reviewed">
         <token id="1693173" form="D" citation-part="10" lemma="de" part-of-speech="R-" morphology="---------n" head-id="1708700" relation="obl"/>
@@ -5217,7 +5217,7 @@
         </token>
       </sentence>
     </div>
-    <div>
+    <div id="4440">
       <title>Livro 8 Capítulo 11</title>
       <sentence id="122040" status="reviewed">
         <token id="1695545" form="D" citation-part="11" lemma="de" part-of-speech="R-" morphology="---------n" head-id="1770839" relation="obl"/>
@@ -8646,7 +8646,7 @@
         <token id="1698294" form="todo" citation-part="11" lemma="todo" part-of-speech="Px" morphology="-s---m---i" head-id="1698293" relation="sub" presentation-after=". "/>
       </sentence>
     </div>
-    <div>
+    <div id="4441">
       <title>Livro 8 Capítulo 12</title>
       <sentence id="122136" status="reviewed">
         <token id="1698295" form="De" citation-part="12" lemma="de" part-of-speech="R-" morphology="---------n" head-id="1775005" relation="obl" presentation-after=" "/>
@@ -12236,7 +12236,7 @@
         <token id="1701207" form="Japões" citation-part="12" lemma="japões" part-of-speech="Nb" morphology="-p---m---i" head-id="1701205" relation="obl" presentation-after=". "/>
       </sentence>
     </div>
-    <div>
+    <div id="4442">
       <title>Livro 8 Capítulo 13</title>
       <sentence id="122259" status="reviewed">
         <token id="1701208" form="De" citation-part="13" lemma="de" part-of-speech="R-" morphology="---------n" head-id="1783270" relation="obl" presentation-after=" "/>
@@ -13767,7 +13767,7 @@
         <token id="1702435" form="cometessem" citation-part="13" lemma="cometer" part-of-speech="V-" morphology="3pis-----i" head-id="1702431" relation="pred" presentation-after=". "/>
       </sentence>
     </div>
-    <div>
+    <div id="4443">
       <title>Livro 8 Capítulo 14</title>
       <sentence id="122301" status="reviewed">
         <token id="1702436" form="De" citation-part="14" lemma="de" part-of-speech="R-" morphology="---------n" head-id="1783309" relation="obl" presentation-after=" "/>
