@@ -925,7 +925,7 @@
         <token id="1303929" form="en" citation-part="3" lemma="en" part-of-speech="R-" morphology="---------n" head-id="1303933" relation="adv" information-status="info_unannotatable" presentation-after=" "/>
         <token id="1303930" form="quel" citation-part="3" lemma="quel" part-of-speech="Pi" morphology="-s---fn--i" head-id="1303931" relation="atr" information-status="info_unannotatable" presentation-after=" "/>
         <token id="1303931" form="maniere" citation-part="3" lemma="maniere" part-of-speech="Nb" morphology="-s---fo--i" head-id="1303929" relation="obl" information-status="info_unannotatable" presentation-after=" "/>
-        <token id="1303932" form="il" citation-part="3" lemma="il" part-of-speech="Pp" morphology="3s---mn--i" head-id="1303933" relation="sub" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1303932" form="il" citation-part="3" lemma="il" part-of-speech="Pp" morphology="3s---mn--i" head-id="1303933" relation="sub" information-status="old" presentation-after=" "/>
         <token id="1303933" form="poïst" citation-part="3" lemma="pooir" part-of-speech="V-" morphology="3sis-----i" head-id="1303928" relation="comp" presentation-after=" "/>
         <token id="1303934" form="cel" citation-part="3" lemma="cel" part-of-speech="Pd" morphology="-s---mo--i" head-id="1303935" relation="atr" information-status="info_unannotatable" presentation-after=" "/>
         <token id="1303935" form="cerf" citation-part="3" lemma="cerf" part-of-speech="Nb" morphology="-s---mo--i" head-id="1303936" relation="obj" antecedent-id="1303887" information-status="old" presentation-after=" "/>
@@ -1091,7 +1091,7 @@
           <slash target-id="1304054" relation="sub"/>
         </token>
         <token id="1304061" form="dont" citation-part="3" lemma="dont" part-of-speech="Dq" morphology="---------n" head-id="1304064" relation="obl" information-status="info_unannotatable" presentation-after=" "/>
-        <token id="1304062" form="il" citation-part="3" lemma="il" part-of-speech="Pp" morphology="3s---mn--i" head-id="1304064" relation="sub" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1304062" form="il" citation-part="3" lemma="il" part-of-speech="Pp" morphology="3s---mn--i" head-id="1304064" relation="sub" information-status="old" presentation-after=" "/>
         <token id="1304063" form="ne" citation-part="3" lemma="ne" part-of-speech="Df" morphology="---------n" head-id="1304064" relation="aux" presentation-after=" "/>
         <token id="1304064" form="poïst" citation-part="3" lemma="pooir" part-of-speech="V-" morphology="3sis-----i" head-id="1304060" relation="obj" information-status="non_spec" presentation-after=" "/>
         <token id="1304065" form="chevir" citation-part="3" lemma="chevir" part-of-speech="V-" morphology="---n-----n" head-id="1304064" relation="xobj" presentation-after=", ">
@@ -1435,7 +1435,7 @@
           <slash target-id="1304311" relation="xsub"/>
         </token>
         <token id="1304329" form="e" citation-part="4" lemma="et" part-of-speech="C-" morphology="---------n" relation="pred" presentation-after=" "/>
-        <token id="2017633" empty-token-sort="P" head-id="1304330" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2017633" empty-token-sort="P" head-id="1304330" relation="sub" information-status="old"/>
         <token id="1304330" form="ot" citation-part="4" lemma="avoir" part-of-speech="V-" morphology="3sri-----i" head-id="1304329" relation="pred" presentation-after=" ">
           <slash target-id="1304309" relation="adv"/>
         </token>
@@ -1443,7 +1443,7 @@
         <token id="1304332" form="grant" citation-part="4" lemma="grant" part-of-speech="A-" morphology="-s---fop-i" head-id="1304333" relation="atr" presentation-after=" "/>
         <token id="1304333" form="peor" citation-part="4" lemma="paor" part-of-speech="Nb" morphology="-s---fo--i" head-id="1304330" relation="obj" information-status="new" presentation-after=" "/>
         <token id="1304334" form="qu" citation-part="4" lemma="que" part-of-speech="G-" morphology="---------n" head-id="1304331" relation="comp" presentation-after="'"/>
-        <token id="1304335" form="il" citation-part="4" lemma="il" part-of-speech="Pp" morphology="3s---mn--i" head-id="1304336" relation="sub" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1304335" form="il" citation-part="4" lemma="il" part-of-speech="Pp" morphology="3s---mn--i" head-id="1304336" relation="sub" information-status="old" presentation-after=" "/>
         <token id="1304336" form="chaï" citation-part="4" lemma="cheoir" part-of-speech="V-" morphology="3sri-----i" head-id="1304334" relation="pred" presentation-after=" "/>
         <token id="1304337" form="de" citation-part="4" lemma="de" part-of-speech="R-" morphology="---------n" head-id="1304336" relation="adv" information-status="info_unannotatable" presentation-after=" "/>
         <token id="1304338" form="sus" citation-part="4" lemma="sus" part-of-speech="R-" morphology="---------n" head-id="1304337" relation="obl" information-status="info_unannotatable" presentation-after=" "/>
@@ -2453,7 +2453,7 @@
         <token id="1305096" form="tel" citation-part="8" lemma="tel" part-of-speech="A-" morphology="-s---fop-i" head-id="1305097" relation="atr" presentation-after=" "/>
         <token id="1305097" form="maniere" citation-part="8" lemma="maniere" part-of-speech="Nb" morphology="-s---fo--i" head-id="1305095" relation="obl" information-status="old_inact" presentation-after=" "/>
         <token id="1305098" form="com" citation-part="8" lemma="come" part-of-speech="G-" morphology="---------n" head-id="1305096" relation="comp" presentation-after=" "/>
-        <token id="1305099" form="il" citation-part="8" lemma="il" part-of-speech="Pp" morphology="3s---mn--i" head-id="1305103" relation="sub" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1305099" form="il" citation-part="8" lemma="il" part-of-speech="Pp" morphology="3s---mn--i" head-id="1305103" relation="sub" information-status="old" presentation-after=" "/>
         <token id="1305100" form="l" citation-part="8" lemma="le" part-of-speech="S-" morphology="-s---fn--i" head-id="1305103" relation="obj" antecedent-id="1305090" information-status="old" presentation-after="'"/>
         <token id="1305101" form="avoit" citation-part="8" lemma="avoir" part-of-speech="V-" morphology="3sii-----i" head-id="1305103" relation="aux" presentation-after=" "/>
         <token id="1305102" form="devant" citation-part="8" lemma="devant" part-of-speech="R-" morphology="---------n" head-id="1305103" relation="adv" information-status="info_unannotatable" presentation-after=" "/>

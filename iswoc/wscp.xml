@@ -7559,7 +7559,7 @@
         <token id="1991375" empty-token-sort="P" head-id="1444181" relation="sub" antecedent-id="1444178" information-status="old"/>
         <token id="1444181" form="æfdon" citation-part="MARK 8.1" lemma="habban" part-of-speech="V-" morphology="3pui-----i" relation="pred" presentation-after=" "/>
         <token id="1444182" form="hwæt" citation-part="MARK 8.1" lemma="hwæt" part-of-speech="Pi" morphology="-s---na--i" head-id="1444184" relation="obj" information-status="info_unannotatable" presentation-after=" "/>
-        <token id="1444183" form="hi" citation-part="MARK 8.1" lemma="hi" part-of-speech="Pp" morphology="3p---mn--i" head-id="1444184" relation="sub" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1444183" form="hi" citation-part="MARK 8.1" lemma="hi" part-of-speech="Pp" morphology="3p---mn--i" head-id="1444184" relation="sub" information-status="old" presentation-after=" "/>
         <token id="1444184" form="æton" citation-part="MARK 8.1" lemma="etan" part-of-speech="V-" morphology="3pui-----i" head-id="1444181" relation="obj" information-status="non_spec" presentation-after=". "/>
       </sentence>
       <sentence id="102815" status="reviewed">
@@ -7680,31 +7680,31 @@
         <token id="1444267" form="hlafas" citation-part="MARK 8.6" lemma="hlaf" part-of-speech="Nb" morphology="-p---ma--i" head-id="1444264" relation="obj" antecedent-id="1444252" information-status="old" presentation-after=" "/>
         <token id="1444268" form="&amp;" citation-part="MARK 8.6" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1444263" relation="aux" presentation-after=" "/>
         <token id="1444269" form="Gode" citation-part="MARK 8.6" lemma="God" part-of-speech="Ne" morphology="-s---md--i" head-id="1444270" relation="obl" information-status="acc_gen" presentation-after=" "/>
-        <token id="1991378" empty-token-sort="P" head-id="1444270" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="1991378" empty-token-sort="P" head-id="1444270" relation="sub" information-status="old"/>
         <token id="1444270" form="þancode" citation-part="MARK 8.6" lemma="þancian" part-of-speech="V-" morphology="3sux-----i" head-id="1444263" relation="pred" presentation-after="; ">
           <slash target-id="1444256" relation="sub"/>
         </token>
         <token id="1444271" form="&amp;" citation-part="MARK 8.6" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1444263" relation="aux" presentation-after=" "/>
         <token id="1444272" form="hi" citation-part="MARK 8.6" lemma="hi" part-of-speech="Pp" morphology="3p---ma--i" head-id="1444273" relation="obj" antecedent-id="1444267" information-status="old" presentation-after=" "/>
-        <token id="1991379" empty-token-sort="P" head-id="1444273" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="1991379" empty-token-sort="P" head-id="1444273" relation="sub" information-status="old"/>
         <token id="1444273" form="bræc" citation-part="MARK 8.6" lemma="brecan" part-of-speech="V-" morphology="3sux-----i" head-id="1444263" relation="pred" presentation-after=" ">
           <slash target-id="1444256" relation="sub"/>
         </token>
         <token id="1444274" form="&amp;" citation-part="MARK 8.6" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1444263" relation="aux" presentation-after=" "/>
-        <token id="1991380" empty-token-sort="P" head-id="1444275" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="1991380" empty-token-sort="P" head-id="1444275" relation="sub" information-status="old"/>
         <token id="1444275" form="sealde" citation-part="MARK 8.6" lemma="sellan" part-of-speech="V-" morphology="3sux-----i" head-id="1444263" relation="pred" presentation-after=" ">
           <slash target-id="1444256" relation="sub"/>
           <slash target-id="1444272" relation="obj"/>
         </token>
         <token id="1991381" empty-token-sort="P" head-id="1444275" relation="obj" antecedent-id="1444272" information-status="old"/>
-        <token id="1444276" form="his" citation-part="MARK 8.6" lemma="his" part-of-speech="Ps" morphology="---------n" head-id="1444277" relation="atr" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1444276" form="his" citation-part="MARK 8.6" lemma="his" part-of-speech="Ps" morphology="---------n" head-id="1444277" relation="atr" information-status="old" presentation-after=" "/>
         <token id="1444277" form="leorningcnihtum" citation-part="MARK 8.6" lemma="leornungcniht" part-of-speech="Nb" morphology="-p---md--i" head-id="1444275" relation="obl" antecedent-id="1444250" information-status="old" presentation-after=" "/>
         <token id="1444278" form="þæt" citation-part="MARK 8.6" lemma="þæt" part-of-speech="G-" morphology="---------n" head-id="1444275" relation="adv" presentation-after=" "/>
         <token id="1444279" form="hi" citation-part="MARK 8.6" lemma="hi" part-of-speech="Pp" morphology="3p---mn--i" head-id="1444282" relation="sub" antecedent-id="1444277" information-status="old" presentation-after=" "/>
         <token id="1444280" form="toforan" citation-part="MARK 8.6" lemma="toforan" part-of-speech="R-" morphology="---------n" head-id="1444282" relation="obl" presentation-after=" "/>
         <token id="1444281" form="him" citation-part="MARK 8.6" lemma="hi" part-of-speech="Pp" morphology="3p---md--i" head-id="1444280" relation="obl" antecedent-id="1444259" information-status="old" presentation-after=" "/>
         <token id="1444282" form="asetton" citation-part="MARK 8.6" lemma="asettan" part-of-speech="V-" morphology="3pui-----i" head-id="1444278" relation="pred" presentation-after=", "/>
-        <token id="1991382" empty-token-sort="P" head-id="1444282" relation="obj" antecedent-id="0" information-status="old"/>
+        <token id="1991382" empty-token-sort="P" head-id="1444282" relation="obj" information-status="old"/>
       </sentence>
       <sentence id="102826" status="reviewed">
         <token id="1444283" form="&amp;" citation-part="MARK 8.6" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1444286" relation="aux" presentation-after=" "/>
@@ -7824,13 +7824,13 @@
         <token id="1444359" form="tacen" citation-part="MARK 8.11" lemma="tacn" part-of-speech="Nb" morphology="-s---na--i" head-id="1444362" relation="obj" information-status="non_spec" presentation-after=" "/>
         <token id="1444360" form="of" citation-part="MARK 8.11" lemma="of" part-of-speech="R-" morphology="---------n" head-id="1444362" relation="adv" presentation-after=" "/>
         <token id="1444361" form="heofone" citation-part="MARK 8.11" lemma="heofon" part-of-speech="Nb" morphology="-s---md--i" head-id="1444360" relation="obl" information-status="acc_gen" presentation-after=" "/>
-        <token id="1991389" empty-token-sort="P" head-id="1444362" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="1991389" empty-token-sort="P" head-id="1444362" relation="sub" information-status="old"/>
         <token id="1444362" form="sohton" citation-part="MARK 8.11" lemma="secan" part-of-speech="V-" morphology="3pui-----i" head-id="1444353" relation="pred" presentation-after=" ">
           <slash target-id="1444352" relation="sub"/>
         </token>
         <token id="1444363" form="&amp;" citation-part="MARK 8.11" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1444353" relation="aux" presentation-after=" "/>
         <token id="1444364" form="his" citation-part="MARK 8.11" lemma="he" part-of-speech="Pp" morphology="3s---mg--i" head-id="1444365" relation="obl" antecedent-id="1444356" information-status="old" presentation-after=" "/>
-        <token id="1991390" empty-token-sort="P" head-id="1444365" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="1991390" empty-token-sort="P" head-id="1444365" relation="sub" information-status="old"/>
         <token id="1444365" form="fandedon" citation-part="MARK 8.11" lemma="fandian" part-of-speech="V-" morphology="3pui-----i" head-id="1444353" relation="pred" presentation-after=". ">
           <slash target-id="1444352" relation="sub"/>
         </token>
@@ -7882,7 +7882,7 @@
         <token id="1991391" empty-token-sort="P" head-id="1444395" relation="sub" antecedent-id="1444379" information-status="old"/>
         <token id="1444395" form="astah" citation-part="MARK 8.13" lemma="astigan" part-of-speech="V-" morphology="3sui-----i" head-id="1444396" relation="pred" presentation-after=", "/>
         <token id="1444396" form="&amp;" citation-part="MARK 8.13" lemma="&amp;" part-of-speech="C-" morphology="---------n" relation="pred" presentation-after=" "/>
-        <token id="1991392" empty-token-sort="P" head-id="1444397" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="1991392" empty-token-sort="P" head-id="1444397" relation="sub" information-status="old"/>
         <token id="1444397" form="ferde" citation-part="MARK 8.13" lemma="feran" part-of-speech="V-" morphology="3sux-----i" head-id="1444396" relation="pred" presentation-after=" "/>
         <token id="1444398" form="ofer" citation-part="MARK 8.13" lemma="ofer" part-of-speech="R-" morphology="---------n" head-id="1444397" relation="obl" presentation-after=" "/>
         <token id="1444399" form="þone" citation-part="MARK 8.13" lemma="se" part-of-speech="Pd" morphology="-s---ma--i" head-id="1444400" relation="atr" presentation-after=" "/>
@@ -8003,10 +8003,10 @@
           <slash target-id="1444475" relation="sub"/>
         </token>
         <token id="1444480" form="&amp;" citation-part="MARK 8.18" lemma="&amp;" part-of-speech="C-" morphology="---------n" relation="pred" presentation-after=" "/>
-        <token id="1444481" form="earan" citation-part="MARK 8.18" lemma="eare" part-of-speech="Nb" morphology="-p---na--i" head-id="1690888" relation="obj" antecedent-id="0" information-status="acc_inf" presentation-after=" "/>
+        <token id="1444481" form="earan" citation-part="MARK 8.18" lemma="eare" part-of-speech="Nb" morphology="-p---na--i" head-id="1690888" relation="obj" information-status="acc_inf" presentation-after=" "/>
         <token id="1444482" form="&amp;" citation-part="MARK 8.18" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1444480" relation="pred" presentation-after=" "/>
         <token id="1444483" form="ne" citation-part="MARK 8.18" lemma="ne" part-of-speech="Df" morphology="---------n" head-id="1444484" relation="aux" presentation-after=" "/>
-        <token id="1991399" empty-token-sort="P" head-id="1444484" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="1991399" empty-token-sort="P" head-id="1444484" relation="sub" information-status="old"/>
         <token id="1444484" form="gehyrað" citation-part="MARK 8.18" lemma="gehyran" part-of-speech="V-" morphology="2ppi-----i" head-id="1444482" relation="pred" presentation-after="; ">
           <slash target-id="1444475" relation="sub"/>
         </token>
@@ -8131,7 +8131,7 @@
         <token id="1444568" form="þa" citation-part="MARK 8.23" lemma="se" part-of-speech="Pd" morphology="-p---na--i" head-id="1444569" relation="atr" presentation-after=" "/>
         <token id="1444569" form="wic" citation-part="MARK 8.23" lemma="wic" part-of-speech="Nb" morphology="-p---na--i" head-id="1444567" relation="obl" antecedent-id="1444542" information-status="old" presentation-after="; "/>
         <token id="1444570" form="&amp;" citation-part="MARK 8.23" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1444564" relation="aux" presentation-after=" "/>
-        <token id="1991441" empty-token-sort="P" head-id="1444571" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="1991441" empty-token-sort="P" head-id="1444571" relation="sub" information-status="old"/>
         <token id="1444571" form="spætte" citation-part="MARK 8.23" lemma="spætan" part-of-speech="V-" morphology="3sux-----i" head-id="1444564" relation="pred" presentation-after=" ">
           <slash target-id="1444560" relation="sub"/>
         </token>
@@ -8139,7 +8139,7 @@
         <token id="1444573" form="his" citation-part="MARK 8.23" lemma="his" part-of-speech="Ps" morphology="---------n" head-id="1444574" relation="atr" antecedent-id="1444566" information-status="old" presentation-after=" "/>
         <token id="1444574" form="eagan" citation-part="MARK 8.23" lemma="eage" part-of-speech="Nb" morphology="-p---nx--i" head-id="1444572" relation="obl" information-status="new" presentation-after=", "/>
         <token id="1444575" form="&amp;" citation-part="MARK 8.23" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1444564" relation="aux" presentation-after=" "/>
-        <token id="1444576" form="his" citation-part="MARK 8.23" lemma="his" part-of-speech="Ps" morphology="---------n" head-id="1444577" relation="atr" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1444576" form="his" citation-part="MARK 8.23" lemma="his" part-of-speech="Ps" morphology="---------n" head-id="1444577" relation="atr" information-status="old" presentation-after=" "/>
         <token id="1444577" form="hand" citation-part="MARK 8.23" lemma="hand" part-of-speech="Nb" morphology="-s---fa--i" head-id="1444579" relation="obj" information-status="new" presentation-after=" "/>
         <token id="1444578" form="on" citation-part="MARK 8.23" lemma="on" part-of-speech="R-" morphology="---------n" head-id="1444579" relation="adv"/>
         <token id="1991442" empty-token-sort="P" head-id="1444579" relation="sub" antecedent-id="1444576" information-status="old"/>
@@ -8148,7 +8148,7 @@
         </token>
         <token id="1444580" form="&amp;" citation-part="MARK 8.23" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1444564" relation="aux" presentation-after=" "/>
         <token id="1444581" form="hine" citation-part="MARK 8.23" lemma="he" part-of-speech="Pp" morphology="3s---ma--i" head-id="1444582" relation="obj" information-status="old" presentation-after=" "/>
-        <token id="1991443" empty-token-sort="P" head-id="1444582" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="1991443" empty-token-sort="P" head-id="1444582" relation="sub" information-status="old"/>
         <token id="1444582" form="axode" citation-part="MARK 8.23" lemma="ascian" part-of-speech="V-" morphology="3sux-----i" head-id="1444564" relation="pred" presentation-after=" ">
           <slash target-id="1444560" relation="sub"/>
         </token>
@@ -8203,7 +8203,7 @@
         </token>
         <token id="1444617" form="swa" citation-part="MARK 8.25" lemma="swa" part-of-speech="Df" morphology="---------n" head-id="1444618" relation="aux" presentation-after=" "/>
         <token id="1444618" form="þæt" citation-part="MARK 8.25" lemma="þæt" part-of-speech="G-" morphology="---------n" head-id="1444615" relation="adv" presentation-after=" "/>
-        <token id="1444619" form="he" citation-part="MARK 8.25" lemma="he" part-of-speech="Pp" morphology="3s---mn--i" head-id="1444622" relation="sub" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1444619" form="he" citation-part="MARK 8.25" lemma="he" part-of-speech="Pp" morphology="3s---mn--i" head-id="1444622" relation="sub" information-status="old" presentation-after=" "/>
         <token id="1444620" form="beorhtlice" citation-part="MARK 8.25" lemma="beorhtlice" part-of-speech="Df" morphology="-------p-i" head-id="1444622" relation="adv" presentation-after=" "/>
         <token id="1444621" form="eall" citation-part="MARK 8.25" lemma="eal" part-of-speech="Py" morphology="-s---nazsi" head-id="1444622" relation="obj" information-status="quant" presentation-after=" "/>
         <token id="1444622" form="geseah" citation-part="MARK 8.25" lemma="geseon" part-of-speech="V-" morphology="3sui-----i" head-id="1444618" relation="pred" presentation-after=". "/>
@@ -8420,7 +8420,7 @@
         </token>
         <token id="1444766" form="Petre" citation-part="MARK 8.33" lemma="Petrus" part-of-speech="Ne" morphology="-s---md--i" head-id="1444765" relation="obl" antecedent-id="1991476" information-status="old" presentation-after=" "/>
         <token id="1444767" form="&amp;" citation-part="MARK 8.33" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1444764" relation="aux" presentation-after=" "/>
-        <token id="1991478" empty-token-sort="P" head-id="1444768" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="1991478" empty-token-sort="P" head-id="1444768" relation="sub" information-status="old"/>
         <token id="1444768" form="cwæð" citation-part="MARK 8.33" lemma="cweþan" part-of-speech="V-" morphology="3sui-----i" head-id="1444764" relation="pred" presentation-after=", ">
           <slash target-id="1444762" relation="sub"/>
         </token>
@@ -8429,7 +8429,7 @@
         <token id="1991479" empty-token-sort="P" head-id="1444769" relation="sub" antecedent-id="1444766" information-status="old"/>
         <token id="1444769" form="ga" citation-part="MARK 8.33" lemma="gan" part-of-speech="V-" morphology="2spx-----i" relation="pred" presentation-after=" "/>
         <token id="1444770" form="onbæc" citation-part="MARK 8.33" lemma="onbæc" part-of-speech="Df" morphology="---------n" head-id="1444769" relation="adv" presentation-after=" "/>
-        <token id="1444771" form="Satanas" citation-part="MARK 8.33" lemma="Satanas" part-of-speech="Ne" morphology="-s---mn--i" relation="voc" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1444771" form="Satanas" citation-part="MARK 8.33" lemma="Satanas" part-of-speech="Ne" morphology="-s---mn--i" relation="voc" information-status="old" presentation-after=" "/>
       </sentence>
       <sentence id="102886" status="reviewed">
         <token id="1444772" form="forþam" citation-part="MARK 8.33" lemma="forðam" part-of-speech="C-" morphology="---------n" head-id="1444775" relation="aux" presentation-after=" "/>
@@ -8473,12 +8473,12 @@
         </token>
         <token id="1991480" empty-token-sort="P" head-id="1444801" relation="sub" antecedent-id="1444797" information-status="non_spec_old"/>
         <token id="1444801" form="wiðsace" citation-part="MARK 8.34" lemma="wiþsacan" part-of-speech="V-" morphology="3sps-----i" head-id="1444804" relation="pred" presentation-after=" "/>
-        <token id="1444802" form="hine" citation-part="MARK 8.34" lemma="he" part-of-speech="Pp" morphology="3s---ma--i" head-id="1444801" relation="obj" antecedent-id="0" information-status="non_spec_old" presentation-after=" "/>
+        <token id="1444802" form="hine" citation-part="MARK 8.34" lemma="he" part-of-speech="Pp" morphology="3s---ma--i" head-id="1444801" relation="obj" information-status="non_spec_old" presentation-after=" "/>
         <token id="1444803" form="sylfne" citation-part="MARK 8.34" lemma="self" part-of-speech="A-" morphology="-s---mazsi" head-id="1444802" relation="atr" presentation-after=" "/>
         <token id="1444804" form="&amp;" citation-part="MARK 8.34" lemma="&amp;" part-of-speech="C-" morphology="---------n" relation="pred" presentation-after=" "/>
         <token id="1991481" empty-token-sort="P" head-id="1444805" relation="sub" antecedent-id="1444802" information-status="non_spec_old"/>
         <token id="1444805" form="nime" citation-part="MARK 8.34" lemma="niman" part-of-speech="V-" morphology="1sps-----i" head-id="1444804" relation="pred" presentation-after=" "/>
-        <token id="1444806" form="his" citation-part="MARK 8.34" lemma="his" part-of-speech="Ps" morphology="---------n" head-id="1444807" relation="atr" antecedent-id="0" information-status="non_spec_old" presentation-after=" "/>
+        <token id="1444806" form="his" citation-part="MARK 8.34" lemma="his" part-of-speech="Ps" morphology="---------n" head-id="1444807" relation="atr" information-status="non_spec_old" presentation-after=" "/>
         <token id="1444807" form="cwylminge" citation-part="MARK 8.34" lemma="cwylming" part-of-speech="Nb" morphology="-s---fx--i" head-id="1444805" relation="obj" information-status="non_spec" presentation-after=" "/>
         <token id="1444808" form="&amp;" citation-part="MARK 8.34" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1444804" relation="aux" presentation-after=" "/>
         <token id="1991482" empty-token-sort="P" head-id="1444809" relation="sub" antecedent-id="1444806" information-status="non_spec_old"/>
@@ -8531,7 +8531,7 @@
         <token id="1444844" form="do" citation-part="MARK 8.36" lemma="don" part-of-speech="V-" morphology="3sps-----i" head-id="1444843" relation="pred" presentation-after=" ">
           <slash target-id="1444839" relation="sub"/>
         </token>
-        <token id="1444845" form="his" citation-part="MARK 8.36" lemma="his" part-of-speech="Ps" morphology="---------n" head-id="1444846" relation="atr" antecedent-id="0" information-status="non_spec_old" presentation-after=" "/>
+        <token id="1444845" form="his" citation-part="MARK 8.36" lemma="his" part-of-speech="Ps" morphology="---------n" head-id="1444846" relation="atr" information-status="non_spec_old" presentation-after=" "/>
         <token id="1444846" form="sawle" citation-part="MARK 8.36" lemma="sawel" part-of-speech="Nb" morphology="-s---fa--i" head-id="1444844" relation="obj" information-status="non_spec" presentation-after=" "/>
         <token id="1444847" form="forwyrd" citation-part="MARK 8.36" lemma="forwyrd" part-of-speech="Nb" morphology="-s---fa--i" head-id="1444844" relation="xobj" presentation-after="? ">
           <slash target-id="1444846" relation="xsub"/>
@@ -9269,7 +9269,7 @@
         <token id="1445379" form="ne" citation-part="MARK 9.25" lemma="ne" part-of-speech="Df" morphology="---------n" head-id="1445380" relation="aux" presentation-after=" "/>
         <token id="1991985" empty-token-sort="P" head-id="1445380" relation="sub" antecedent-id="1991984" information-status="old"/>
         <token id="1445380" form="ga" citation-part="MARK 9.25" lemma="gan" part-of-speech="V-" morphology="2spx-----i" relation="pred" presentation-after=" "/>
-        <token id="1445381" form="þu" citation-part="MARK 9.25" lemma="þu" part-of-speech="Pp" morphology="2s----n--i" head-id="1445380" relation="sub" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1445381" form="þu" citation-part="MARK 9.25" lemma="þu" part-of-speech="Pp" morphology="2s----n--i" head-id="1445380" relation="sub" information-status="old" presentation-after=" "/>
         <token id="1445382" form="leng" citation-part="MARK 9.25" lemma="lange" part-of-speech="Df" morphology="-------c-i" head-id="1445380" relation="adv" presentation-after=" "/>
         <token id="1445383" form="on" citation-part="MARK 9.25" lemma="on" part-of-speech="R-" morphology="---------n" head-id="1445380" relation="obl" presentation-after=" "/>
         <token id="1445384" form="hine" citation-part="MARK 9.25" lemma="he" part-of-speech="Pp" morphology="3s---ma--i" head-id="1445383" relation="obl" antecedent-id="1445377" information-status="old" presentation-after=". "/>
@@ -9964,7 +9964,7 @@
         <token id="1445874" form="habbað" citation-part="MARK 9.50" lemma="habban" part-of-speech="V-" morphology="2p-m-----i" relation="pred" presentation-after=" "/>
         <token id="1445875" form="sibbe" citation-part="MARK 9.50" lemma="sib" part-of-speech="Nb" morphology="-s---fx--i" head-id="1445874" relation="arg" information-status="kind" presentation-after=" "/>
         <token id="1445876" form="betwux" citation-part="MARK 9.50" lemma="betweoh" part-of-speech="R-" morphology="---------n" head-id="1445874" relation="obl" presentation-after=" "/>
-        <token id="1445877" form="eow" citation-part="MARK 9.50" lemma="ge" part-of-speech="Pp" morphology="2p----x--i" head-id="1445876" relation="obl" antecedent-id="0" information-status="old" presentation-after=". "/>
+        <token id="1445877" form="eow" citation-part="MARK 9.50" lemma="ge" part-of-speech="Pp" morphology="2p----x--i" head-id="1445876" relation="obl" information-status="old" presentation-after=". "/>
       </sentence>
     </div>
     <div>
@@ -10175,7 +10175,7 @@
           <slash target-id="1446016" relation="sub"/>
         </token>
         <token id="1446024" form="unrihthæmed" citation-part="MARK 10.11" lemma="unrihthæmed" part-of-speech="Nb" morphology="-s---na--i" head-id="1446026" relation="obj" information-status="non_spec" presentation-after=" "/>
-        <token id="1446025" form="he" citation-part="MARK 10.11" lemma="he" part-of-speech="Pp" morphology="3s---mn--i" head-id="1446026" relation="sub" antecedent-id="0" information-status="non_spec_old" presentation-after=" "/>
+        <token id="1446025" form="he" citation-part="MARK 10.11" lemma="he" part-of-speech="Pp" morphology="3s---mn--i" head-id="1446026" relation="sub" information-status="non_spec_old" presentation-after=" "/>
         <token id="1446026" form="wyrcð" citation-part="MARK 10.11" lemma="wyrcan" part-of-speech="V-" morphology="3ppi-----i" relation="pred" presentation-after=" "/>
         <token id="1446027" form="þurh" citation-part="MARK 10.11" lemma="þurh" part-of-speech="R-" morphology="---------n" head-id="1446026" relation="obl" presentation-after=" "/>
         <token id="1446028" form="hi" citation-part="MARK 10.11" lemma="heo" part-of-speech="Pp" morphology="3s---fa--i" head-id="1446027" relation="obl" antecedent-id="1446019" information-status="non_spec_old" presentation-after=". "/>
@@ -10194,7 +10194,7 @@
         <token id="1446038" form="nimð" citation-part="MARK 10.12" lemma="niman" part-of-speech="V-" morphology="3spi-----i" head-id="1446036" relation="pred" presentation-after=" ">
           <slash target-id="1446032" relation="sub"/>
         </token>
-        <token id="1446039" form="heo" citation-part="MARK 10.12" lemma="heo" part-of-speech="Pp" morphology="3s---fn--i" head-id="1446040" relation="sub" antecedent-id="0" information-status="non_spec_old" presentation-after=" "/>
+        <token id="1446039" form="heo" citation-part="MARK 10.12" lemma="heo" part-of-speech="Pp" morphology="3s---fn--i" head-id="1446040" relation="sub" information-status="non_spec_old" presentation-after=" "/>
         <token id="1446040" form="unrihthæmð" citation-part="MARK 10.12" lemma="unrihthæman" part-of-speech="V-" morphology="xspi-----i" relation="pred" presentation-after=". "/>
       </sentence>
       <sentence id="103022" status="reviewed">
@@ -10325,7 +10325,7 @@
           <slash target-id="1446122" relation="sub"/>
         </token>
         <token id="1446132" form="&amp;" citation-part="MARK 10.17" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1446126" relation="aux" presentation-after=" "/>
-        <token id="2000888" empty-token-sort="P" head-id="1446133" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2000888" empty-token-sort="P" head-id="1446133" relation="sub" information-status="old"/>
         <token id="1446133" form="bæd" citation-part="MARK 10.17" lemma="biddan" part-of-speech="V-" morphology="3sui-----i" head-id="1446126" relation="pred" presentation-after=" ">
           <slash target-id="1446122" relation="sub"/>
         </token>
@@ -10409,7 +10409,7 @@
       <sentence id="103043" status="reviewed">
         <token id="2000889" empty-token-sort="P" head-id="1446184" relation="sub" antecedent-id="1446183" information-status="old"/>
         <token id="1446184" form="wurða" citation-part="MARK 10.19" lemma="weorþian" part-of-speech="V-" morphology="2s-m-----i" relation="pred" presentation-after=" "/>
-        <token id="1446185" form="þinne" citation-part="MARK 10.19" lemma="þin" part-of-speech="Ps" morphology="2s---ma--i" head-id="1446186" relation="atr" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1446185" form="þinne" citation-part="MARK 10.19" lemma="þin" part-of-speech="Ps" morphology="2s---ma--i" head-id="1446186" relation="atr" information-status="old" presentation-after=" "/>
         <token id="1446186" form="fæder" citation-part="MARK 10.19" lemma="fæder" part-of-speech="Nb" morphology="-s---ma--i" head-id="1446187" relation="obj" information-status="kind" presentation-after=" "/>
         <token id="1446187" form="&amp;" citation-part="MARK 10.19" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1446184" relation="obj" presentation-after=" "/>
         <token id="1446188" form="þine" citation-part="MARK 10.19" lemma="þin" part-of-speech="Ps" morphology="2s---fa--i" head-id="1446189" relation="atr" antecedent-id="1446185" information-status="old" presentation-after=" "/>
@@ -10463,7 +10463,7 @@
         <token id="1446216" form="Gesyle" citation-part="MARK 10.21" lemma="gesyllan" part-of-speech="V-" morphology="2s-m-----i" relation="pred" presentation-after=" "/>
         <token id="1446217" form="eall" citation-part="MARK 10.21" lemma="eal" part-of-speech="Py" morphology="-s---nazsi" head-id="1446216" relation="obj" information-status="quant" presentation-after=" "/>
         <token id="1446218" form="þæt" citation-part="MARK 10.21" lemma="se" part-of-speech="Pd" morphology="-s---na--i" head-id="1446220" relation="obj" presentation-after=" "/>
-        <token id="1446219" form="ðu" citation-part="MARK 10.21" lemma="þu" part-of-speech="Pp" morphology="2s----n--i" head-id="1446220" relation="sub" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1446219" form="ðu" citation-part="MARK 10.21" lemma="þu" part-of-speech="Pp" morphology="2s----n--i" head-id="1446220" relation="sub" information-status="old" presentation-after=" "/>
         <token id="1446220" form="age" citation-part="MARK 10.21" lemma="agan" part-of-speech="V-" morphology="2sps-----i" head-id="1446217" relation="atr" presentation-after=" "/>
       </sentence>
       <sentence id="103049" status="reviewed">
@@ -10512,7 +10512,7 @@
         </token>
         <token id="1446246" form="for" citation-part="MARK 10.22" lemma="for" part-of-speech="R-" morphology="---------n" head-id="1446247" relation="aux" presentation-after=" "/>
         <token id="1446247" form="þam" citation-part="MARK 10.22" lemma="þæm" part-of-speech="G-" morphology="---------n" head-id="1446244" relation="adv" presentation-after=" "/>
-        <token id="1446248" form="he" citation-part="MARK 10.22" lemma="he" part-of-speech="Pp" morphology="3s---mn--i" head-id="1446249" relation="sub" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1446248" form="he" citation-part="MARK 10.22" lemma="he" part-of-speech="Pp" morphology="3s---mn--i" head-id="1446249" relation="sub" information-status="old" presentation-after=" "/>
         <token id="1446249" form="hæfde" citation-part="MARK 10.22" lemma="habban" part-of-speech="V-" morphology="3sux-----i" head-id="1446247" relation="pred" presentation-after=" "/>
         <token id="1446250" form="mycele" citation-part="MARK 10.22" lemma="micel" part-of-speech="Py" morphology="-s---fapsi" head-id="1446251" relation="atr" information-status="info_unannotatable" presentation-after=" "/>
         <token id="1446251" form="æhta" citation-part="MARK 10.22" lemma="æht" part-of-speech="Nb" morphology="-p---fa--i" head-id="1446249" relation="obj" information-status="quant" presentation-after=". "/>
@@ -10870,7 +10870,7 @@
           <slash target-id="1446497" relation="sub"/>
         </token>
         <token id="1446504" form="&amp;" citation-part="MARK 10.34" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1446501" relation="aux" presentation-after=" "/>
-        <token id="2000903" empty-token-sort="P" head-id="1446505" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2000903" empty-token-sort="P" head-id="1446505" relation="sub" information-status="old"/>
         <token id="1446505" form="ofsleað" citation-part="MARK 10.34" lemma="ofslean" part-of-speech="V-" morphology="3ppi-----i" head-id="1446501" relation="pred" presentation-after=" ">
           <slash target-id="1446497" relation="sub"/>
         </token>
@@ -10942,7 +10942,7 @@
         <token id="1446553" form="wyt" citation-part="MARK 10.37" lemma="wit" part-of-speech="Pp" morphology="1d----n--i" head-id="1446554" relation="sub" antecedent-id="1446551" information-status="old" presentation-after=" "/>
         <token id="1446554" form="sitton" citation-part="MARK 10.37" lemma="sittan" part-of-speech="V-" morphology="1pps-----i" head-id="1446552" relation="pred" presentation-after=" "/>
         <token id="1446555" form="on" citation-part="MARK 10.37" lemma="on" part-of-speech="R-" morphology="---------n" head-id="1446554" relation="obl" presentation-after=" "/>
-        <token id="1446556" form="þinon" citation-part="MARK 10.37" lemma="þin" part-of-speech="Ps" morphology="2s---nd--i" head-id="1446557" relation="atr" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1446556" form="þinon" citation-part="MARK 10.37" lemma="þin" part-of-speech="Ps" morphology="2s---nd--i" head-id="1446557" relation="atr" information-status="old" presentation-after=" "/>
         <token id="1446557" form="wuldre" citation-part="MARK 10.37" lemma="wuldor" part-of-speech="Nb" morphology="-s---nd--i" head-id="1446555" relation="obl" information-status="new" presentation-after=", "/>
         <token id="1446558" form="an" citation-part="MARK 10.37" lemma="an" part-of-speech="Py" morphology="-s---mnzsi" head-id="1691295" relation="sub" antecedent-id="1446553" information-status="acc_inf" presentation-after=" "/>
         <token id="1446559" form="on" citation-part="MARK 10.37" lemma="on" part-of-speech="R-" morphology="---------n" head-id="1691295" relation="obl" presentation-after=" "/>
@@ -11269,7 +11269,7 @@
         <token id="1446786" form="miltsa" citation-part="MARK 10.48" lemma="miltsian" part-of-speech="V-" morphology="2s-m-----i" relation="pred" presentation-after=" "/>
         <token id="1446787" form="me" citation-part="MARK 10.48" lemma="ic" part-of-speech="Pp" morphology="1s----x--i" head-id="1446786" relation="arg" antecedent-id="1446780" information-status="old" presentation-after=", "/>
         <token id="1446788" form="Dauides" citation-part="MARK 10.48" lemma="Dauid" part-of-speech="Ne" morphology="-s---mg--i" head-id="1446789" relation="atr" antecedent-id="1446769" information-status="old" presentation-after=" "/>
-        <token id="1446789" form="sunu" citation-part="MARK 10.48" lemma="sunu" part-of-speech="Nb" morphology="-s---mn--i" relation="voc" antecedent-id="0" information-status="old" presentation-after=". "/>
+        <token id="1446789" form="sunu" citation-part="MARK 10.48" lemma="sunu" part-of-speech="Nb" morphology="-s---mn--i" relation="voc" information-status="old" presentation-after=". "/>
       </sentence>
       <sentence id="103108" status="reviewed">
         <token id="1446790" form="Ða" citation-part="MARK 10.49" lemma="þa" part-of-speech="Df" morphology="---------n" head-id="1446791" relation="adv" presentation-after=" "/>
@@ -11300,7 +11300,7 @@
           <slash target-id="1446803" relation="xsub"/>
         </token>
         <token id="1446805" form="&amp;" citation-part="MARK 10.49" lemma="&amp;" part-of-speech="C-" morphology="---------n" relation="pred" presentation-after=" "/>
-        <token id="2000914" empty-token-sort="P" head-id="1446806" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2000914" empty-token-sort="P" head-id="1446806" relation="sub" information-status="old"/>
         <token id="1446806" form="aris" citation-part="MARK 10.49" lemma="arisan" part-of-speech="V-" morphology="2s-m-----i" head-id="1446805" relation="pred" presentation-after="; "/>
       </sentence>
       <sentence id="103112" status="reviewed">
@@ -11323,7 +11323,7 @@
         <token id="1446819" form="&amp;" citation-part="MARK 10.50" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1446816" relation="aux" presentation-after=" "/>
         <token id="1446820" form="to" citation-part="MARK 10.50" lemma="to" part-of-speech="R-" morphology="---------n" head-id="1446822" relation="obl" presentation-after=" "/>
         <token id="1446821" form="him" citation-part="MARK 10.50" lemma="he" part-of-speech="Pp" morphology="3s---md--i" head-id="1446820" relation="obl" antecedent-id="1446808" information-status="old" presentation-after=" "/>
-        <token id="2000916" empty-token-sort="P" head-id="1446822" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2000916" empty-token-sort="P" head-id="1446822" relation="sub" information-status="old"/>
         <token id="1446822" form="com" citation-part="MARK 10.50" lemma="cuman" part-of-speech="V-" morphology="3sui-----i" head-id="1446816" relation="pred" presentation-after=". ">
           <slash target-id="1446811" relation="sub"/>
         </token>
@@ -11423,7 +11423,7 @@
         <token id="1446882" form="þam" citation-part="MARK 11.2" lemma="se" part-of-speech="Pd" morphology="-s---od--i" head-id="1446883" relation="atr" presentation-after=" "/>
         <token id="1446883" form="castele" citation-part="MARK 11.2" lemma="castel" part-of-speech="Nb" morphology="-s---od--i" head-id="1446881" relation="obl" information-status="new" presentation-after=" "/>
         <token id="1446884" form="þe" citation-part="MARK 11.2" lemma="þe" part-of-speech="G-" morphology="---------n" head-id="1446883" relation="atr" presentation-after=" "/>
-        <token id="1446885" form="inc" citation-part="MARK 11.2" lemma="git" part-of-speech="Pp" morphology="2d----x--i" head-id="1446886" relation="obl" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1446885" form="inc" citation-part="MARK 11.2" lemma="git" part-of-speech="Pp" morphology="2d----x--i" head-id="1446886" relation="obl" information-status="old" presentation-after=" "/>
         <token id="1446886" form="ys" citation-part="MARK 11.2" lemma="wesan" part-of-speech="V-" morphology="3spi-----i" head-id="1446884" relation="pred" presentation-after=", "/>
       </sentence>
       <sentence id="103124" status="reviewed">
@@ -11450,7 +11450,7 @@
         <token id="1446904" form="&amp;" citation-part="MARK 11.2" lemma="&amp;" part-of-speech="C-" morphology="---------n" relation="pred" presentation-after=" "/>
         <token id="1446905" form="to" citation-part="MARK 11.2" lemma="to" part-of-speech="R-" morphology="---------n" head-id="1446907" relation="obl" presentation-after=" "/>
         <token id="1446906" form="me" citation-part="MARK 11.2" lemma="ic" part-of-speech="Pp" morphology="1s----x--i" head-id="1446905" relation="obl" antecedent-id="1446893" information-status="old" presentation-after=" "/>
-        <token id="2013609" empty-token-sort="P" head-id="1446907" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2013609" empty-token-sort="P" head-id="1446907" relation="sub" information-status="old"/>
         <token id="1446907" form="gelædað" citation-part="MARK 11.2" lemma="gelædan" part-of-speech="V-" morphology="2p-m-----i" head-id="1446904" relation="pred" presentation-after=". "/>
         <token id="2013610" empty-token-sort="P" head-id="1446907" relation="obj" antecedent-id="1446903" information-status="old"/>
       </sentence>
@@ -11465,7 +11465,7 @@
         <token id="2013611" empty-token-sort="P" head-id="1446915" relation="sub" antecedent-id="1446912" information-status="old"/>
         <token id="1446915" form="secgað" citation-part="MARK 11.3" lemma="secgan" part-of-speech="V-" morphology="2p-m-----i" relation="pred" presentation-after=" "/>
         <token id="1446916" form="þæt" citation-part="MARK 11.3" lemma="þæt" part-of-speech="G-" morphology="---------n" head-id="1446915" relation="comp" presentation-after=" "/>
-        <token id="1446917" form="Drihten" citation-part="MARK 11.3" lemma="Dryhten" part-of-speech="Ne" morphology="-s---mn--i" head-id="1446918" relation="sub" antecedent-id="0" information-status="acc_inf" presentation-after=" "/>
+        <token id="1446917" form="Drihten" citation-part="MARK 11.3" lemma="Dryhten" part-of-speech="Ne" morphology="-s---mn--i" head-id="1446918" relation="sub" information-status="acc_inf" presentation-after=" "/>
         <token id="1446918" form="hæfð" citation-part="MARK 11.3" lemma="habban" part-of-speech="V-" morphology="3spi-----i" head-id="1446916" relation="pred" presentation-after=" "/>
         <token id="1446919" form="his" citation-part="MARK 11.3" lemma="he" part-of-speech="Pp" morphology="3s---mg--i" head-id="1446920" relation="narg" information-status="acc_sit" presentation-after=" "/>
         <token id="1446920" form="neode" citation-part="MARK 11.3" lemma="neod" part-of-speech="Nb" morphology="-s---fx--i" head-id="1446918" relation="arg" information-status="info_unannotatable" presentation-after=" "/>
@@ -11696,7 +11696,7 @@
           <slash target-id="1447084" relation="sub"/>
         </token>
         <token id="1447088" form="hwæþer" citation-part="MARK 11.13" lemma="hwæðer" part-of-speech="G-" morphology="---------n" head-id="1447087" relation="adv" presentation-after=" "/>
-        <token id="1447089" form="he" citation-part="MARK 11.13" lemma="he" part-of-speech="Pp" morphology="3s---mn--i" head-id="1447093" relation="sub" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1447089" form="he" citation-part="MARK 11.13" lemma="he" part-of-speech="Pp" morphology="3s---mn--i" head-id="1447093" relation="sub" information-status="old" presentation-after=" "/>
         <token id="1447090" form="þar" citation-part="MARK 11.13" lemma="þær" part-of-speech="Df" morphology="---------n" head-id="1447093" relation="adv" presentation-after=" "/>
         <token id="1447091" form="on" citation-part="MARK 11.13" lemma="on" part-of-speech="Df" morphology="---------n" head-id="1447093" relation="adv" presentation-after=" "/>
         <token id="1447092" form="aht" citation-part="MARK 11.13" lemma="aht" part-of-speech="Nb" morphology="-s---na--i" head-id="1447093" relation="obj" information-status="non_spec" presentation-after=" "/>
@@ -12009,7 +12009,7 @@
         <token id="2013687" empty-token-sort="P" head-id="1447323" relation="sub" antecedent-id="1447320" information-status="old"/>
         <token id="1447323" form="gelyfað" citation-part="MARK 11.24" lemma="gelyfan" part-of-speech="V-" morphology="2p-m-----i" relation="pred" presentation-after=" "/>
         <token id="1447324" form="þæt" citation-part="MARK 11.24" lemma="þæt" part-of-speech="G-" morphology="---------n" head-id="1447323" relation="comp" presentation-after=" "/>
-        <token id="1447325" form="ge" citation-part="MARK 11.24" lemma="ge" part-of-speech="Pp" morphology="2p----n--i" head-id="1447327" relation="sub" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1447325" form="ge" citation-part="MARK 11.24" lemma="ge" part-of-speech="Pp" morphology="2p----n--i" head-id="1447327" relation="sub" information-status="old" presentation-after=" "/>
         <token id="1447326" form="hit" citation-part="MARK 11.24" lemma="hit" part-of-speech="Pp" morphology="3s---na--i" head-id="1447327" relation="obj" information-status="quant" presentation-after=" "/>
         <token id="1447327" form="onfoð" citation-part="MARK 11.24" lemma="onfon" part-of-speech="V-" morphology="2ppi-----i" head-id="1447324" relation="pred" presentation-after=", "/>
       </sentence>
@@ -12032,7 +12032,7 @@
         <token id="2013688" empty-token-sort="P" head-id="1447339" relation="sub" antecedent-id="1447336" information-status="old"/>
         <token id="1447339" form="forgifaþ" citation-part="MARK 11.25" lemma="forgifan" part-of-speech="V-" morphology="2p-m-----i" relation="pred" presentation-after=" "/>
         <token id="1447340" form="gif" citation-part="MARK 11.25" lemma="gif" part-of-speech="G-" morphology="---------n" head-id="1447339" relation="adv" presentation-after=" "/>
-        <token id="1447341" form="ge" citation-part="MARK 11.25" lemma="ge" part-of-speech="Pp" morphology="2p----n--i" head-id="1447345" relation="sub" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1447341" form="ge" citation-part="MARK 11.25" lemma="ge" part-of-speech="Pp" morphology="2p----n--i" head-id="1447345" relation="sub" information-status="old" presentation-after=" "/>
         <token id="1447342" form="hwæt" citation-part="MARK 11.25" lemma="hwæt" part-of-speech="Pi" morphology="-s---na--i" head-id="1447345" relation="obj" information-status="non_spec" presentation-after=" "/>
         <token id="1447343" form="agen" citation-part="MARK 11.25" lemma="agen" part-of-speech="R-" morphology="---------n" head-id="1447345" relation="obl" presentation-after=" "/>
         <token id="1447344" form="ænigne" citation-part="MARK 11.25" lemma="ænig" part-of-speech="Py" morphology="-s---mapsi" head-id="1447343" relation="obl" information-status="non_spec" presentation-after=" "/>
@@ -12182,7 +12182,7 @@
           <slash target-id="1447451" relation="sub"/>
         </token>
         <token id="1447454" form="betweox" citation-part="MARK 11.31" lemma="betweoh" part-of-speech="R-" morphology="---------n" head-id="1447453" relation="adv" presentation-after=" "/>
-        <token id="1447455" form="him" citation-part="MARK 11.31" lemma="hi" part-of-speech="Pp" morphology="3p---md--i" head-id="1447454" relation="obl" antecedent-id="0" information-status="old" presentation-after=", "/>
+        <token id="1447455" form="him" citation-part="MARK 11.31" lemma="hi" part-of-speech="Pp" morphology="3p---md--i" head-id="1447454" relation="obl" information-status="old" presentation-after=", "/>
       </sentence>
       <sentence id="121894" status="reviewed">
         <token id="1447456" form="gif" citation-part="MARK 11.31" lemma="gif" part-of-speech="G-" morphology="---------n" head-id="1447462" relation="adv" presentation-after=" "/>
@@ -12292,21 +12292,21 @@
         </token>
         <token id="1447525" form="hine" citation-part="MARK 12.1" lemma="he" part-of-speech="Pp" morphology="3s---ma--i" head-id="1447524" relation="obj" antecedent-id="1447522" information-status="old" presentation-after=" "/>
         <token id="1447526" form="&amp;" citation-part="MARK 12.1" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1447523" relation="aux" presentation-after=" "/>
-        <token id="2013697" empty-token-sort="P" head-id="1447527" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2013697" empty-token-sort="P" head-id="1447527" relation="sub" information-status="old"/>
         <token id="1447527" form="dealf" citation-part="MARK 12.1" lemma="delfan" part-of-speech="V-" morphology="3sui-----i" head-id="1447523" relation="pred" presentation-after=" ">
           <slash target-id="1447519" relation="sub"/>
         </token>
         <token id="1447528" form="anne" citation-part="MARK 12.1" lemma="an" part-of-speech="Py" morphology="-s---mazsi" head-id="1447529" relation="atr" information-status="info_unannotatable" presentation-after=" "/>
         <token id="1447529" form="seað" citation-part="MARK 12.1" lemma="seaþ" part-of-speech="Nb" morphology="-s---ma--i" head-id="1447527" relation="obj" information-status="new" presentation-after=" "/>
         <token id="1447530" form="&amp;" citation-part="MARK 12.1" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1447523" relation="aux" presentation-after=" "/>
-        <token id="2013698" empty-token-sort="P" head-id="1447531" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2013698" empty-token-sort="P" head-id="1447531" relation="sub" information-status="old"/>
         <token id="1447531" form="getimbrode" citation-part="MARK 12.1" lemma="getimbran" part-of-speech="V-" morphology="3sux-----i" head-id="1447523" relation="pred" presentation-after=" ">
           <slash target-id="1447519" relation="sub"/>
         </token>
         <token id="1447532" form="ænne" citation-part="MARK 12.1" lemma="an" part-of-speech="Py" morphology="-s---mazsi" head-id="1447533" relation="atr" information-status="info_unannotatable" presentation-after=" "/>
         <token id="1447533" form="stypel" citation-part="MARK 12.1" lemma="stipel" part-of-speech="Nb" morphology="-s---ma--i" head-id="1447531" relation="obj" information-status="new" presentation-after=" "/>
         <token id="1447534" form="&amp;" citation-part="MARK 12.1" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1447523" relation="aux" presentation-after=" "/>
-        <token id="2013699" empty-token-sort="P" head-id="1447535" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2013699" empty-token-sort="P" head-id="1447535" relation="sub" information-status="old"/>
         <token id="1447535" form="gesette" citation-part="MARK 12.1" lemma="gesettan" part-of-speech="V-" morphology="3sux-----i" head-id="1447523" relation="pred" presentation-after=" ">
           <slash target-id="1447519" relation="sub"/>
         </token>
@@ -12314,7 +12314,7 @@
         <token id="1447537" form="mid" citation-part="MARK 12.1" lemma="mid" part-of-speech="R-" morphology="---------n" head-id="1447535" relation="obl" presentation-after=" "/>
         <token id="1447538" form="eorðtilium" citation-part="MARK 12.1" lemma="eorþtilia" part-of-speech="Nb" morphology="-p---md--i" head-id="1447537" relation="obl" information-status="new" presentation-after="; "/>
         <token id="1447539" form="&amp;" citation-part="MARK 12.1" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1447523" relation="aux" presentation-after=" "/>
-        <token id="2013700" empty-token-sort="P" head-id="1447540" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2013700" empty-token-sort="P" head-id="1447540" relation="sub" information-status="old"/>
         <token id="1447540" form="ferde" citation-part="MARK 12.1" lemma="feran" part-of-speech="V-" morphology="3sux-----i" head-id="1447523" relation="pred" presentation-after=" ">
           <slash target-id="1447519" relation="sub"/>
         </token>
@@ -12499,7 +12499,7 @@
         <token id="1447661" form="þa" citation-part="MARK 12.9" lemma="se" part-of-speech="Pd" morphology="-p---ma--i" head-id="1447662" relation="atr" presentation-after=" "/>
         <token id="1447662" form="tiligean" citation-part="MARK 12.9" lemma="tilia" part-of-speech="Nb" morphology="-p---ma--i" head-id="1447660" relation="obj" antecedent-id="2013705" information-status="old" presentation-after=" "/>
         <token id="1447663" form="&amp;" citation-part="MARK 12.9" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1447659" relation="aux" presentation-after=" "/>
-        <token id="2013708" empty-token-sort="P" head-id="1447664" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2013708" empty-token-sort="P" head-id="1447664" relation="sub" information-status="old"/>
         <token id="1447664" form="sylð" citation-part="MARK 12.9" lemma="sellan" part-of-speech="V-" morphology="3spi-----i" head-id="1447659" relation="pred" presentation-after=" ">
           <slash target-id="1447657" relation="sub"/>
         </token>
@@ -12801,7 +12801,7 @@
         </token>
         <token id="1447866" form="&amp;" citation-part="MARK 12.18" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1447863" relation="aux" presentation-after=" "/>
         <token id="1447867" form="þus" citation-part="MARK 12.18" lemma="þus" part-of-speech="Df" morphology="---------n" head-id="1447868" relation="adv" presentation-after=" "/>
-        <token id="2013722" empty-token-sort="P" head-id="1447868" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2013722" empty-token-sort="P" head-id="1447868" relation="sub" information-status="old"/>
         <token id="1447868" form="cwædon" citation-part="MARK 12.18" lemma="cweþan" part-of-speech="V-" morphology="3pui-----i" head-id="1447863" relation="pred" presentation-after=". ">
           <slash target-id="1447856" relation="sub"/>
         </token>
@@ -12824,7 +12824,7 @@
         <token id="1447879" form="læfð" citation-part="MARK 12.19" lemma="læfan" part-of-speech="V-" morphology="3spi-----i" head-id="1447878" relation="pred" presentation-after=" ">
           <slash target-id="1447875" relation="sub"/>
         </token>
-        <token id="1447880" form="his" citation-part="MARK 12.19" lemma="his" part-of-speech="Ps" morphology="---------n" head-id="1447881" relation="atr" antecedent-id="0" information-status="non_spec_old" presentation-after=" "/>
+        <token id="1447880" form="his" citation-part="MARK 12.19" lemma="his" part-of-speech="Ps" morphology="---------n" head-id="1447881" relation="atr" information-status="non_spec_old" presentation-after=" "/>
         <token id="1447881" form="wif" citation-part="MARK 12.19" lemma="wif" part-of-speech="Nb" morphology="-s---na--i" head-id="1447879" relation="obj" information-status="non_spec" presentation-after=" "/>
         <token id="1447882" form="&amp;" citation-part="MARK 12.19" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1447878" relation="aux" presentation-after=" "/>
         <token id="1447883" form="n" citation-part="MARK 12.19" lemma="ne" part-of-speech="Df" morphology="---------n" head-id="1705029" relation="aux"/>
@@ -12834,9 +12834,9 @@
           <slash target-id="1447875" relation="sub"/>
         </token>
         <token id="1447884" form="nan" citation-part="MARK 12.19" lemma="nan" part-of-speech="Py" morphology="-s---nazsi" head-id="1447885" relation="atr" information-status="info_unannotatable" presentation-after=" "/>
-        <token id="1447885" form="bearn" citation-part="MARK 12.19" lemma="bearn" part-of-speech="Nb" morphology="-s---na--i" head-id="1705029" relation="obj" antecedent-id="0" information-status="non_spec_inf" presentation-after=" "/>
+        <token id="1447885" form="bearn" citation-part="MARK 12.19" lemma="bearn" part-of-speech="Nb" morphology="-s---na--i" head-id="1705029" relation="obj" information-status="non_spec_inf" presentation-after=" "/>
         <token id="1447886" form="þæt" citation-part="MARK 12.19" lemma="þæt" part-of-speech="G-" morphology="---------n" head-id="1447872" relation="comp" presentation-after=" "/>
-        <token id="1447887" form="his" citation-part="MARK 12.19" lemma="his" part-of-speech="Ps" morphology="---------n" head-id="1447888" relation="atr" antecedent-id="0" information-status="non_spec_old" presentation-after=" "/>
+        <token id="1447887" form="his" citation-part="MARK 12.19" lemma="his" part-of-speech="Ps" morphology="---------n" head-id="1447888" relation="atr" information-status="non_spec_old" presentation-after=" "/>
         <token id="1447888" form="broðor" citation-part="MARK 12.19" lemma="broðor" part-of-speech="Nb" morphology="-s---mn--i" head-id="1447889" relation="sub" information-status="non_spec" presentation-after=" "/>
         <token id="1447889" form="nime" citation-part="MARK 12.19" lemma="niman" part-of-speech="V-" morphology="3sps-----i" head-id="1447892" relation="pred" presentation-after=" "/>
         <token id="1447890" form="his" citation-part="MARK 12.19" lemma="his" part-of-speech="Ps" morphology="---------n" head-id="1447891" relation="atr" antecedent-id="1447887" information-status="non_spec_old" presentation-after=" "/>
@@ -13081,7 +13081,7 @@
         <token id="1448054" form="wel" citation-part="MARK 12.28" lemma="wel" part-of-speech="Df" morphology="-------p-i" head-id="1448055" relation="adv" presentation-after=" "/>
         <token id="1448055" form="andswarode" citation-part="MARK 12.28" lemma="andswarian" part-of-speech="V-" morphology="3sux-----i" head-id="1448051" relation="pred" presentation-after=" "/>
         <token id="1448056" form="&amp;" citation-part="MARK 12.28" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1448049" relation="aux" presentation-after=" "/>
-        <token id="2013732" empty-token-sort="P" head-id="1448057" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2013732" empty-token-sort="P" head-id="1448057" relation="sub" information-status="old"/>
         <token id="1448057" form="ahsode" citation-part="MARK 12.28" lemma="ascian" part-of-speech="V-" morphology="3sux-----i" head-id="1448049" relation="pred" presentation-after=" ">
           <slash target-id="1448040" relation="sub"/>
         </token>
@@ -13169,7 +13169,7 @@
       <sentence id="103274" status="reviewed">
         <token id="2013822" empty-token-sort="P" head-id="1448113" relation="sub" antecedent-id="1448101" information-status="old"/>
         <token id="1448113" form="lufa" citation-part="MARK 12.31" lemma="lufian" part-of-speech="V-" morphology="2s-m-----i" relation="pred" presentation-after=" "/>
-        <token id="1448114" form="þinne" citation-part="MARK 12.31" lemma="þin" part-of-speech="Ps" morphology="2s---ma--i" head-id="1448115" relation="atr" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1448114" form="þinne" citation-part="MARK 12.31" lemma="þin" part-of-speech="Ps" morphology="2s---ma--i" head-id="1448115" relation="atr" information-status="old" presentation-after=" "/>
         <token id="1448115" form="nehstan" citation-part="MARK 12.31" lemma="nihsta" part-of-speech="Nb" morphology="-s---ma--i" head-id="1448113" relation="obj" information-status="kind" presentation-after=" "/>
         <token id="1448116" form="swa" citation-part="MARK 12.31" lemma="swa" part-of-speech="G-" morphology="---------n" head-id="1448113" relation="adv" presentation-after=" "/>
         <token id="1448117" form="þe" citation-part="MARK 12.31" lemma="þu" part-of-speech="Pp" morphology="2s----a--i" head-id="2013786" relation="obj" antecedent-id="1448114" information-status="old" presentation-after=" "/>
@@ -13335,7 +13335,7 @@
         <token id="1448235" form="healfe" citation-part="MARK 12.36" lemma="healf" part-of-speech="Nb" morphology="-s---fa--i" head-id="1448232" relation="obl" information-status="new" presentation-after=" "/>
         <token id="1448236" form="oð" citation-part="MARK 12.36" lemma="oþ" part-of-speech="G-" morphology="---------n" head-id="1448231" relation="adv" presentation-after=" "/>
         <token id="1448237" form="ic" citation-part="MARK 12.36" lemma="ic" part-of-speech="Pp" morphology="1s----n--i" head-id="1448240" relation="sub" antecedent-id="1448233" information-status="old" presentation-after=" "/>
-        <token id="1448238" form="þine" citation-part="MARK 12.36" lemma="þin" part-of-speech="Ps" morphology="2s---ma--i" head-id="1448239" relation="atr" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1448238" form="þine" citation-part="MARK 12.36" lemma="þin" part-of-speech="Ps" morphology="2s---ma--i" head-id="1448239" relation="atr" information-status="old" presentation-after=" "/>
         <token id="1448239" form="fynd" citation-part="MARK 12.36" lemma="feond" part-of-speech="Nb" morphology="-p---ma--i" head-id="1448240" relation="obj" information-status="new" presentation-after=" "/>
         <token id="1448240" form="asette" citation-part="MARK 12.36" lemma="asettan" part-of-speech="V-" morphology="1spx-----i" head-id="1448236" relation="pred" presentation-after=" "/>
         <token id="1448241" form="to" citation-part="MARK 12.36" lemma="to" part-of-speech="R-" morphology="---------n" head-id="1448240" relation="obl" presentation-after=" "/>
@@ -13751,7 +13751,7 @@
       <sentence id="103311" status="reviewed">
         <token id="2014122" empty-token-sort="P" head-id="1448540" relation="sub" antecedent-id="1448508" information-status="old"/>
         <token id="1448540" form="Warniað" citation-part="MARK 13.9" lemma="warenian" part-of-speech="V-" morphology="2p-m-----i" relation="pred" presentation-after=" "/>
-        <token id="1448541" form="eow" citation-part="MARK 13.9" lemma="ge" part-of-speech="Pp" morphology="2p----a--i" head-id="1448540" relation="obj" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1448541" form="eow" citation-part="MARK 13.9" lemma="ge" part-of-speech="Pp" morphology="2p----a--i" head-id="1448540" relation="obj" information-status="old" presentation-after=" "/>
         <token id="1448542" form="sylfe" citation-part="MARK 13.9" lemma="self" part-of-speech="A-" morphology="-p---mazsi" head-id="1448541" relation="apos" presentation-after="; "/>
       </sentence>
       <sentence id="103312" status="reviewed">
@@ -13819,7 +13819,7 @@
           <slash target-id="1448583" relation="sub"/>
         </token>
         <token id="1448589" form="þæt" citation-part="MARK 13.11" lemma="se" part-of-speech="Pd" morphology="-s---nn--i" head-id="1448595" relation="sub" presentation-after=" "/>
-        <token id="1448590" form="eow" citation-part="MARK 13.11" lemma="ge" part-of-speech="Pp" morphology="2p----x--i" head-id="1448595" relation="arg" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1448590" form="eow" citation-part="MARK 13.11" lemma="ge" part-of-speech="Pp" morphology="2p----x--i" head-id="1448595" relation="arg" information-status="old" presentation-after=" "/>
         <token id="1448591" form="on" citation-part="MARK 13.11" lemma="on" part-of-speech="R-" morphology="---------n" head-id="1448595" relation="adv" presentation-after=" "/>
         <token id="1448592" form="þære" citation-part="MARK 13.11" lemma="se" part-of-speech="Pd" morphology="-s---fd--i" head-id="1448593" relation="atr" presentation-after=" "/>
         <token id="1448593" form="tide" citation-part="MARK 13.11" lemma="tid" part-of-speech="Nb" morphology="-s---fd--i" head-id="1448591" relation="obl" antecedent-id="1448580" information-status="non_spec_old" presentation-after=" "/>
@@ -14105,7 +14105,7 @@
       <sentence id="103337" status="reviewed">
         <token id="2014150" empty-token-sort="P" head-id="1448805" relation="sub" antecedent-id="1448785" information-status="old"/>
         <token id="1448805" form="Warniað" citation-part="MARK 13.23" lemma="warenian" part-of-speech="V-" morphology="2p-m-----i" relation="pred" presentation-after=" "/>
-        <token id="1448806" form="eow" citation-part="MARK 13.23" lemma="ge" part-of-speech="Pp" morphology="2p----x--i" head-id="1448805" relation="arg" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1448806" form="eow" citation-part="MARK 13.23" lemma="ge" part-of-speech="Pp" morphology="2p----x--i" head-id="1448805" relation="arg" information-status="old" presentation-after=" "/>
         <token id="1448807" form="nu" citation-part="MARK 13.23" lemma="nu" part-of-speech="Df" morphology="---------n" head-id="1448805" relation="adv" presentation-after=" "/>
         <token id="1448808" form="ealle" citation-part="MARK 13.23" lemma="eal" part-of-speech="Py" morphology="-p---nazsi" head-id="1448809" relation="atr" information-status="info_unannotatable" presentation-after=" "/>
         <token id="1448809" form="þing" citation-part="MARK 13.23" lemma="þing" part-of-speech="Nb" morphology="-p---na--i" head-id="1448805" relation="obj" information-status="quant" presentation-after=" "/>
@@ -14309,12 +14309,12 @@
         <token id="2014152" empty-token-sort="P" head-id="1448953" relation="sub" antecedent-id="1448913" information-status="old"/>
         <token id="1448953" form="Warniað" citation-part="MARK 13.33" lemma="warenian" part-of-speech="V-" morphology="2p-m-----i" head-id="1448954" relation="pred" presentation-after=" "/>
         <token id="1448954" form="&amp;" citation-part="MARK 13.33" lemma="&amp;" part-of-speech="C-" morphology="---------n" relation="pred" presentation-after=" "/>
-        <token id="2014153" empty-token-sort="P" head-id="1448955" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2014153" empty-token-sort="P" head-id="1448955" relation="sub" information-status="old"/>
         <token id="1448955" form="waciað" citation-part="MARK 13.33" lemma="wacian" part-of-speech="V-" morphology="2p-m-----i" head-id="1448954" relation="pred" presentation-after=" "/>
         <token id="1448956" form="&amp;" citation-part="MARK 13.33" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1448954" relation="aux" presentation-after=" "/>
         <token id="2014154" empty-token-sort="P" head-id="1448957" relation="sub" antecedent-id="2014153" information-status="old"/>
         <token id="1448957" form="gebiddaþ" citation-part="MARK 13.33" lemma="gebiddan" part-of-speech="V-" morphology="2p-m-----i" head-id="1448954" relation="pred" presentation-after=" "/>
-        <token id="1448958" form="eow" citation-part="MARK 13.33" lemma="ge" part-of-speech="Pp" morphology="2p----x--i" head-id="1448957" relation="arg" antecedent-id="0" information-status="old" presentation-after=", "/>
+        <token id="1448958" form="eow" citation-part="MARK 13.33" lemma="ge" part-of-speech="Pp" morphology="2p----x--i" head-id="1448957" relation="arg" information-status="old" presentation-after=", "/>
       </sentence>
       <sentence id="103354" status="reviewed">
         <token id="1448959" form="ge" citation-part="MARK 13.33" lemma="ge" part-of-speech="Pp" morphology="2p----n--i" head-id="1691524" relation="sub" antecedent-id="1448958" information-status="old" presentation-after=" "/>
@@ -14342,7 +14342,7 @@
         <token id="1448974" form="sealde" citation-part="MARK 13.34" lemma="sellan" part-of-speech="V-" morphology="3sux-----i" head-id="1448973" relation="pred" presentation-after=" ">
           <slash target-id="1448967" relation="sub"/>
         </token>
-        <token id="1448975" form="his" citation-part="MARK 13.34" lemma="his" part-of-speech="Ps" morphology="---------n" head-id="1448976" relation="atr" antecedent-id="0" information-status="non_spec_old" presentation-after=" "/>
+        <token id="1448975" form="his" citation-part="MARK 13.34" lemma="his" part-of-speech="Ps" morphology="---------n" head-id="1448976" relation="atr" information-status="non_spec_old" presentation-after=" "/>
         <token id="1448976" form="þeowum" citation-part="MARK 13.34" lemma="þeow" part-of-speech="A-" morphology="-p---mdpsi" head-id="1448974" relation="obl" information-status="non_spec" presentation-after=" "/>
         <token id="1448977" form="þæne" citation-part="MARK 13.34" lemma="se" part-of-speech="Pd" morphology="-s---ma--i" head-id="1448978" relation="atr" presentation-after=" "/>
         <token id="1448978" form="anwald" citation-part="MARK 13.34" lemma="anweald" part-of-speech="Nb" morphology="-s---ma--i" head-id="1448974" relation="obj" information-status="non_spec" presentation-after=" "/>
@@ -14501,7 +14501,7 @@
         <token id="1449086" form="hæfde" citation-part="MARK 14.3" lemma="habban" part-of-speech="V-" morphology="3sux-----i" head-id="1449085" relation="pred" presentation-after=" ">
           <slash target-id="1449084" relation="sub"/>
         </token>
-        <token id="1449087" form="hyre" citation-part="MARK 14.3" lemma="hire" part-of-speech="Ps" morphology="---------n" head-id="1449088" relation="atr" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1449087" form="hyre" citation-part="MARK 14.3" lemma="hire" part-of-speech="Ps" morphology="---------n" head-id="1449088" relation="atr" information-status="old" presentation-after=" "/>
         <token id="1449088" form="sealfbox" citation-part="MARK 14.3" lemma="sealfbox" part-of-speech="Nb" morphology="-s---oa--i" head-id="1449086" relation="obj" information-status="new" presentation-after=" "/>
         <token id="1449089" form="deorwyrþes" citation-part="MARK 14.3" lemma="deorwyrþe" part-of-speech="A-" morphology="-s---mgpsi" head-id="1449090" relation="atr" presentation-after=" "/>
         <token id="1449090" form="nardes" citation-part="MARK 14.3" lemma="nard" part-of-speech="Nb" morphology="-s---mg--i" head-id="1449088" relation="atr" information-status="info_unannotatable" presentation-after="; "/>
@@ -14509,7 +14509,7 @@
         <token id="1449092" form="tobrocenum" citation-part="MARK 14.3" lemma="tobrecan" part-of-speech="V-" morphology="-sup-od-si" head-id="1449097" relation="adv" presentation-after=" "/>
         <token id="1449093" form="sealfboxe" citation-part="MARK 14.3" lemma="sealfbox" part-of-speech="Nb" morphology="-s---od--i" head-id="1449092" relation="sub" antecedent-id="1449088" information-status="old" presentation-after=" "/>
         <token id="1449094" form="ofer" citation-part="MARK 14.3" lemma="ofer" part-of-speech="R-" morphology="---------n" head-id="1449097" relation="obl" presentation-after=" "/>
-        <token id="1449095" form="his" citation-part="MARK 14.3" lemma="his" part-of-speech="Ps" morphology="---------n" head-id="1449096" relation="atr" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1449095" form="his" citation-part="MARK 14.3" lemma="his" part-of-speech="Ps" morphology="---------n" head-id="1449096" relation="atr" information-status="old" presentation-after=" "/>
         <token id="1449096" form="heafod" citation-part="MARK 14.3" lemma="heafod" part-of-speech="Nb" morphology="-s---na--i" head-id="1449094" relation="obl" information-status="new" presentation-after=" "/>
         <token id="2014162" empty-token-sort="P" head-id="1449097" relation="sub" antecedent-id="1449087" information-status="old"/>
         <token id="1449097" form="aget" citation-part="MARK 14.3" lemma="agitan" part-of-speech="V-" morphology="3sui-----i" head-id="1449085" relation="pred" presentation-after=". ">
@@ -14869,7 +14869,7 @@
         <token id="1449338" form="þa" citation-part="MARK 14.16" lemma="se" part-of-speech="Pd" morphology="-s---fa--i" head-id="1449339" relation="atr" presentation-after=" "/>
         <token id="1449339" form="ceastre" citation-part="MARK 14.16" lemma="ceaster" part-of-speech="Nb" morphology="-s---fa--i" head-id="1449337" relation="obl" antecedent-id="1449281" information-status="old" presentation-after=" "/>
         <token id="1449340" form="&amp;" citation-part="MARK 14.16" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1449335" relation="aux" presentation-after=" "/>
-        <token id="2014176" empty-token-sort="P" head-id="1449341" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2014176" empty-token-sort="P" head-id="1449341" relation="sub" information-status="old"/>
         <token id="1449341" form="fundon" citation-part="MARK 14.16" lemma="findan" part-of-speech="V-" morphology="3pui-----i" head-id="1449335" relation="pred" presentation-after=" ">
           <slash target-id="1449334" relation="sub"/>
         </token>
@@ -15027,14 +15027,14 @@
           <slash target-id="1449440" relation="sub"/>
         </token>
         <token id="1449446" form="&amp;" citation-part="MARK 14.22" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1449442" relation="aux" presentation-after=" "/>
-        <token id="2014181" empty-token-sort="P" head-id="1449447" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2014181" empty-token-sort="P" head-id="1449447" relation="sub" information-status="old"/>
         <token id="1449447" form="sealde" citation-part="MARK 14.22" lemma="sellan" part-of-speech="V-" morphology="3sux-----i" head-id="1449442" relation="pred" presentation-after=" ">
           <slash target-id="1449440" relation="sub"/>
         </token>
         <token id="1449448" form="him" citation-part="MARK 14.22" lemma="hi" part-of-speech="Pp" morphology="3p---md--i" head-id="1449447" relation="obl" antecedent-id="1449435" information-status="old" presentation-after=" "/>
         <token id="1449449" form="&amp;" citation-part="MARK 14.22" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1449442" relation="aux" presentation-after=" "/>
         <token id="1449450" form="þus" citation-part="MARK 14.22" lemma="þus" part-of-speech="Df" morphology="---------n" head-id="1449451" relation="adv" presentation-after=" "/>
-        <token id="2014182" empty-token-sort="P" head-id="1449451" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2014182" empty-token-sort="P" head-id="1449451" relation="sub" information-status="old"/>
         <token id="1449451" form="cwæð" citation-part="MARK 14.22" lemma="cweþan" part-of-speech="V-" morphology="3sui-----i" head-id="1449442" relation="pred" presentation-after=", ">
           <slash target-id="1449440" relation="sub"/>
         </token>
@@ -15060,10 +15060,10 @@
         <token id="1449460" form="&amp;" citation-part="MARK 14.23" lemma="&amp;" part-of-speech="C-" morphology="---------n" relation="pred" presentation-after=" "/>
         <token id="1449461" form="Gode" citation-part="MARK 14.23" lemma="God" part-of-speech="Ne" morphology="-s---md--i" head-id="1449463" relation="obl" information-status="acc_gen" presentation-after=" "/>
         <token id="1449462" form="þancas" citation-part="MARK 14.23" lemma="þanc" part-of-speech="Nb" morphology="-p---ma--i" head-id="1449463" relation="obj" information-status="new" presentation-after=" "/>
-        <token id="2014186" empty-token-sort="P" head-id="1449463" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2014186" empty-token-sort="P" head-id="1449463" relation="sub" information-status="old"/>
         <token id="1449463" form="dyde" citation-part="MARK 14.23" lemma="don" part-of-speech="V-" morphology="3sux-----i" head-id="1449460" relation="pred" presentation-after=" "/>
         <token id="1449464" form="&amp;" citation-part="MARK 14.23" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1449460" relation="aux" presentation-after=" "/>
-        <token id="2014187" empty-token-sort="P" head-id="1449465" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2014187" empty-token-sort="P" head-id="1449465" relation="sub" information-status="old"/>
         <token id="1449465" form="sealde" citation-part="MARK 14.23" lemma="sellan" part-of-speech="V-" morphology="3sux-----i" head-id="1449460" relation="pred" presentation-after=" "/>
         <token id="2014188" empty-token-sort="P" head-id="1449465" relation="obj" antecedent-id="1449459" information-status="old"/>
         <token id="1449466" form="him" citation-part="MARK 14.23" lemma="hi" part-of-speech="Pp" morphology="3p---md--i" head-id="1449465" relation="obl" antecedent-id="2014183" information-status="old" presentation-after=" "/>
@@ -15433,7 +15433,7 @@
           <slash target-id="1449725" relation="xsub"/>
         </token>
         <token id="1449727" form="&amp;" citation-part="MARK 14.37" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1449723" relation="aux" presentation-after=" "/>
-        <token id="2014195" empty-token-sort="P" head-id="1449728" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2014195" empty-token-sort="P" head-id="1449728" relation="sub" information-status="old"/>
         <token id="1449728" form="cwæð" citation-part="MARK 14.37" lemma="cweþan" part-of-speech="V-" morphology="3sui-----i" head-id="1449723" relation="pred" presentation-after=" ">
           <slash target-id="1449722" relation="sub"/>
         </token>
@@ -15461,10 +15461,10 @@
           <slash target-id="1449743" relation="adv"/>
         </token>
         <token id="1449741" form="&amp;" citation-part="MARK 14.38" lemma="&amp;" part-of-speech="C-" morphology="---------n" relation="pred" presentation-after=" "/>
-        <token id="2014197" empty-token-sort="P" head-id="1449742" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2014197" empty-token-sort="P" head-id="1449742" relation="sub" information-status="old"/>
         <token id="1449742" form="gebiddað" citation-part="MARK 14.38" lemma="gebiddan" part-of-speech="V-" morphology="2p-m-----i" head-id="1449741" relation="pred" presentation-after=" "/>
         <token id="1449743" form="þæt" citation-part="MARK 14.38" lemma="þæt" part-of-speech="G-" morphology="---------n" head-id="1449742" relation="adv" presentation-after=" "/>
-        <token id="1449744" form="ge" citation-part="MARK 14.38" lemma="ge" part-of-speech="Pp" morphology="2p----n--i" head-id="1449748" relation="sub" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1449744" form="ge" citation-part="MARK 14.38" lemma="ge" part-of-speech="Pp" morphology="2p----n--i" head-id="1449748" relation="sub" information-status="old" presentation-after=" "/>
         <token id="1449745" form="on" citation-part="MARK 14.38" lemma="on" part-of-speech="R-" morphology="---------n" head-id="1449748" relation="obl" presentation-after=" "/>
         <token id="1449746" form="costnunge" citation-part="MARK 14.38" lemma="costnung" part-of-speech="Nb" morphology="-s---fx--i" head-id="1449745" relation="obl" information-status="non_spec" presentation-after=" "/>
         <token id="1449747" form="ne" citation-part="MARK 14.38" lemma="ne" part-of-speech="Df" morphology="---------n" head-id="1449748" relation="aux" presentation-after=" "/>
@@ -15548,7 +15548,7 @@
         <token id="1449796" form="slapað" citation-part="MARK 14.41" lemma="slæpan" part-of-speech="V-" morphology="2p-m-----i" head-id="1449798" relation="pred" presentation-after=" "/>
         <token id="1449797" form="nu" citation-part="MARK 14.41" lemma="nu" part-of-speech="Df" morphology="---------n" head-id="1449796" relation="adv" presentation-after=" "/>
         <token id="1449798" form="&amp;" citation-part="MARK 14.41" lemma="&amp;" part-of-speech="C-" morphology="---------n" relation="pred" presentation-after=" "/>
-        <token id="2014200" empty-token-sort="P" head-id="1449799" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2014200" empty-token-sort="P" head-id="1449799" relation="sub" information-status="old"/>
         <token id="1449799" form="restað" citation-part="MARK 14.41" lemma="restan" part-of-speech="V-" morphology="2p-m-----i" head-id="1449798" relation="pred" presentation-after="; "/>
       </sentence>
       <sentence id="103453" status="reviewed">
@@ -15669,9 +15669,9 @@
         </token>
         <token id="2014206" empty-token-sort="P" head-id="1449871" relation="obj" antecedent-id="1449868" information-status="non_spec_old"/>
         <token id="1449872" form="&amp;" citation-part="MARK 14.44" lemma="&amp;" part-of-speech="C-" morphology="---------n" relation="pred" presentation-after=" "/>
-        <token id="2014205" empty-token-sort="P" head-id="1449873" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2014205" empty-token-sort="P" head-id="1449873" relation="sub" information-status="old"/>
         <token id="1449873" form="lædað" citation-part="MARK 14.44" lemma="lædan" part-of-speech="V-" morphology="2p-m-----i" head-id="1449872" relation="pred" presentation-after=" "/>
-        <token id="1449874" form="hine" citation-part="MARK 14.44" lemma="he" part-of-speech="Pp" morphology="3s---ma--i" head-id="1449873" relation="obj" antecedent-id="0" information-status="non_spec_old" presentation-after=" "/>
+        <token id="1449874" form="hine" citation-part="MARK 14.44" lemma="he" part-of-speech="Pp" morphology="3s---ma--i" head-id="1449873" relation="obj" information-status="non_spec_old" presentation-after=" "/>
         <token id="1449875" form="wærlice" citation-part="MARK 14.44" lemma="wærlice" part-of-speech="Df" morphology="-------p-i" head-id="1449873" relation="adv" presentation-after=". "/>
       </sentence>
       <sentence id="103464" status="reviewed">
@@ -15736,7 +15736,7 @@
         <token id="1449918" form="his" citation-part="MARK 14.47" lemma="his" part-of-speech="Ps" morphology="---------n" head-id="1449919" relation="atr" antecedent-id="1449916" information-status="old" presentation-after=" "/>
         <token id="1449919" form="eare" citation-part="MARK 14.47" lemma="eare" part-of-speech="Nb" morphology="-s---na--i" head-id="1449921" relation="obj" information-status="new" presentation-after=" "/>
         <token id="1449920" form="of" citation-part="MARK 14.47" lemma="of" part-of-speech="Df" morphology="---------n" head-id="1449921" relation="adv" presentation-after=" "/>
-        <token id="2014211" empty-token-sort="P" head-id="1449921" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2014211" empty-token-sort="P" head-id="1449921" relation="sub" information-status="old"/>
         <token id="1449921" form="acearf" citation-part="MARK 14.47" lemma="aceorfan" part-of-speech="V-" morphology="3sui-----i" head-id="1449912" relation="pred" presentation-after=". ">
           <slash target-id="1449902" relation="sub"/>
         </token>
@@ -15887,7 +15887,7 @@
         <token id="1450023" form="wyrmde" citation-part="MARK 14.54" lemma="wirman" part-of-speech="V-" morphology="3sux-----i" head-id="1450022" relation="pred" presentation-after=" ">
           <slash target-id="1450017" relation="sub"/>
         </token>
-        <token id="1450024" form="hine" citation-part="MARK 14.54" lemma="he" part-of-speech="Pp" morphology="3s---ma--i" head-id="1450023" relation="obj" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1450024" form="hine" citation-part="MARK 14.54" lemma="he" part-of-speech="Pp" morphology="3s---ma--i" head-id="1450023" relation="obj" information-status="old" presentation-after=" "/>
         <token id="1450025" form="æt" citation-part="MARK 14.54" lemma="æt" part-of-speech="R-" morphology="---------n" head-id="1450023" relation="adv" presentation-after=" "/>
         <token id="1450026" form="þam" citation-part="MARK 14.54" lemma="se" part-of-speech="Pd" morphology="-s---nd--i" head-id="1450027" relation="atr" presentation-after=" "/>
         <token id="1450027" form="fyre" citation-part="MARK 14.54" lemma="fyr" part-of-speech="Nb" morphology="-s---nd--i" head-id="1450025" relation="obl" antecedent-id="1450015" information-status="acc_inf" presentation-after=". "/>
@@ -16400,7 +16400,7 @@
         <token id="1450373" form="hælend" citation-part="MARK 15.1" lemma="hælend" part-of-speech="Nb" morphology="-s---ma--i" head-id="1450371" relation="obj" antecedent-id="1450348" information-status="old" presentation-after=" "/>
         <token id="1450374" form="gebundenne" citation-part="MARK 15.1" lemma="gebindan" part-of-speech="V-" morphology="-sup-ma-si" head-id="1450373" relation="atr" presentation-after=" "/>
         <token id="1450375" form="&amp;" citation-part="MARK 15.1" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1450370" relation="aux" presentation-after=" "/>
-        <token id="2014225" empty-token-sort="P" head-id="1450376" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2014225" empty-token-sort="P" head-id="1450376" relation="sub" information-status="old"/>
         <token id="1450376" form="sealdon" citation-part="MARK 15.1" lemma="sellan" part-of-speech="V-" morphology="3pui-----i" head-id="1450370" relation="pred" presentation-after=" ">
           <slash target-id="1450360" relation="sub"/>
         </token>
@@ -16642,7 +16642,7 @@
         <token id="1450544" form="him" citation-part="MARK 15.15" lemma="hi" part-of-speech="Pp" morphology="3p---md--i" head-id="1450543" relation="obl" antecedent-id="1450540" information-status="old" presentation-after=" "/>
         <token id="1450545" form="Barraban" citation-part="MARK 15.15" lemma="Barrabas" part-of-speech="Ne" morphology="-s---mx--i" head-id="1450543" relation="arg" antecedent-id="1450503" information-status="old" presentation-after=" "/>
         <token id="1450546" form="&amp;" citation-part="MARK 15.15" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1450542" relation="aux" presentation-after=" "/>
-        <token id="2014230" empty-token-sort="P" head-id="1450547" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2014230" empty-token-sort="P" head-id="1450547" relation="sub" information-status="old"/>
         <token id="1450547" form="sealde" citation-part="MARK 15.15" lemma="sellan" part-of-speech="V-" morphology="3sux-----i" head-id="1450542" relation="pred" presentation-after=" ">
           <slash target-id="1450536" relation="sub"/>
         </token>
@@ -16942,7 +16942,7 @@
         </token>
         <token id="1450749" form="&amp;" citation-part="MARK 15.29" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1450745" relation="aux" presentation-after=" "/>
         <token id="1450750" form="ðus" citation-part="MARK 15.29" lemma="þus" part-of-speech="Df" morphology="---------n" head-id="1450751" relation="adv" presentation-after=" "/>
-        <token id="2014895" empty-token-sort="P" head-id="1450751" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2014895" empty-token-sort="P" head-id="1450751" relation="sub" information-status="old"/>
         <token id="1450751" form="cwædon" citation-part="MARK 15.29" lemma="cweþan" part-of-speech="V-" morphology="3pui-----i" head-id="1450745" relation="pred" presentation-after=", ">
           <slash target-id="1450740" relation="sub"/>
         </token>
@@ -17098,7 +17098,7 @@
         <token id="1450855" form="þis" citation-part="MARK 15.35" lemma="þes" part-of-speech="Pd" morphology="-s---na--i" head-id="1450856" relation="obj" antecedent-id="1450845" information-status="old" presentation-after=" "/>
         <token id="2014899" empty-token-sort="P" head-id="1450856" relation="sub" antecedent-id="1450849" information-status="old"/>
         <token id="1450856" form="gehyrdon" citation-part="MARK 15.35" lemma="gehyran" part-of-speech="V-" morphology="3pui-----i" head-id="1450854" relation="pred" presentation-after=" "/>
-        <token id="1450857" form="hi" citation-part="MARK 15.35" lemma="hi" part-of-speech="Pp" morphology="3p---mn--i" head-id="1450858" relation="sub" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1450857" form="hi" citation-part="MARK 15.35" lemma="hi" part-of-speech="Pp" morphology="3p---mn--i" head-id="1450858" relation="sub" information-status="old" presentation-after=" "/>
         <token id="1450858" form="cwædon" citation-part="MARK 15.35" lemma="cweþan" part-of-speech="V-" morphology="3pui-----i" relation="pred" presentation-after=", "/>
       </sentence>
       <sentence id="122477" status="reviewed">
@@ -17124,19 +17124,19 @@
         <token id="1450873" form="&amp;" citation-part="MARK 15.36" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1450867" relation="aux" presentation-after=" "/>
         <token id="1450874" form="on" citation-part="MARK 15.36" lemma="on" part-of-speech="R-" morphology="---------n" head-id="1450876" relation="obl" presentation-after=" "/>
         <token id="1450875" form="hreod" citation-part="MARK 15.36" lemma="hreod" part-of-speech="Nb" morphology="-s---na--i" head-id="1450874" relation="obl" information-status="new" presentation-after=" "/>
-        <token id="2014902" empty-token-sort="P" head-id="1450876" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2014902" empty-token-sort="P" head-id="1450876" relation="sub" information-status="old"/>
         <token id="1450876" form="sette" citation-part="MARK 15.36" lemma="settan" part-of-speech="V-" morphology="3sux-----i" head-id="1450867" relation="pred" presentation-after=" ">
           <slash target-id="1450866" relation="sub"/>
         </token>
         <token id="1450877" form="&amp;" citation-part="MARK 15.36" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1450867" relation="aux" presentation-after=" "/>
         <token id="1450878" form="him" citation-part="MARK 15.36" lemma="he" part-of-speech="Pp" morphology="3s---md--i" head-id="1450880" relation="obl" antecedent-id="1450860" information-status="old" presentation-after=" "/>
         <token id="1450879" form="drincan" citation-part="MARK 15.36" lemma="drincan" part-of-speech="V-" morphology="---n-----n" head-id="1450880" relation="comp" presentation-after=" "/>
-        <token id="2014903" empty-token-sort="P" head-id="1450880" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2014903" empty-token-sort="P" head-id="1450880" relation="sub" information-status="old"/>
         <token id="1450880" form="sealde" citation-part="MARK 15.36" lemma="sellan" part-of-speech="V-" morphology="3sux-----i" head-id="1450867" relation="pred" presentation-after=" ">
           <slash target-id="1450866" relation="sub"/>
         </token>
         <token id="1450881" form="&amp;" citation-part="MARK 15.36" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1450867" relation="aux" presentation-after=" "/>
-        <token id="2014904" empty-token-sort="P" head-id="1450882" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2014904" empty-token-sort="P" head-id="1450882" relation="sub" information-status="old"/>
         <token id="1450882" form="cwæð" citation-part="MARK 15.36" lemma="cweþan" part-of-speech="V-" morphology="3sui-----i" head-id="1450867" relation="pred" presentation-after=", ">
           <slash target-id="1450866" relation="sub"/>
         </token>
@@ -17145,7 +17145,7 @@
         <token id="2014906" empty-token-sort="P" head-id="1450883" relation="sub" antecedent-id="1450857" information-status="old"/>
         <token id="1450883" form="lætað" citation-part="MARK 15.36" lemma="lætan" part-of-speech="V-" morphology="2p-m-----i" relation="pred" presentation-after=" "/>
         <token id="1450884" form="þæt" citation-part="MARK 15.36" lemma="þæt" part-of-speech="G-" morphology="---------n" head-id="1450883" relation="comp" presentation-after=" "/>
-        <token id="1450885" form="we" citation-part="MARK 15.36" lemma="we" part-of-speech="Pp" morphology="1p----n--i" head-id="1450886" relation="sub" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1450885" form="we" citation-part="MARK 15.36" lemma="we" part-of-speech="Pp" morphology="1p----n--i" head-id="1450886" relation="sub" information-status="old" presentation-after=" "/>
         <token id="1450886" form="geseon" citation-part="MARK 15.36" lemma="geseon" part-of-speech="V-" morphology="1pps-----i" head-id="1450884" relation="pred" presentation-after=" "/>
         <token id="1450887" form="hwæðer" citation-part="MARK 15.36" lemma="hwæðer" part-of-speech="G-" morphology="---------n" head-id="1450886" relation="adv" presentation-after=" "/>
         <token id="1450888" form="Helias" citation-part="MARK 15.36" lemma="Helias" part-of-speech="Ne" morphology="-s---mn--i" head-id="1450889" relation="sub" antecedent-id="1450862" information-status="old" presentation-after=" "/>
@@ -17381,7 +17381,7 @@
         <token id="1451051" form="&amp;" citation-part="MARK 15.46" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1451047" relation="aux" presentation-after=" "/>
         <token id="1451052" form="on" citation-part="MARK 15.46" lemma="on" part-of-speech="R-" morphology="---------n" head-id="1451054" relation="obl" presentation-after=" "/>
         <token id="1451053" form="byrgene" citation-part="MARK 15.46" lemma="byrgen" part-of-speech="Nb" morphology="-s---fx--i" head-id="1451052" relation="obl" information-status="new" presentation-after=" "/>
-        <token id="2014913" empty-token-sort="P" head-id="1451054" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2014913" empty-token-sort="P" head-id="1451054" relation="sub" information-status="old"/>
         <token id="1451054" form="lede" citation-part="MARK 15.46" lemma="lædan" part-of-speech="V-" morphology="3sux-----i" head-id="1451047" relation="pred" presentation-after=" ">
           <slash target-id="1451044" relation="sub"/>
           <slash target-id="1451048" relation="obj"/>
@@ -17395,7 +17395,7 @@
           <slash target-id="1451055" relation="xsub"/>
         </token>
         <token id="1451060" form="&amp;" citation-part="MARK 15.46" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1451047" relation="aux" presentation-after=" "/>
-        <token id="2014914" empty-token-sort="P" head-id="1451061" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2014914" empty-token-sort="P" head-id="1451061" relation="sub" information-status="old"/>
         <token id="1451061" form="wylte" citation-part="MARK 15.46" lemma="wiltan" part-of-speech="V-" morphology="3sux-----i" head-id="1451047" relation="pred" presentation-after=" ">
           <slash target-id="1451044" relation="sub"/>
         </token>
@@ -17471,9 +17471,9 @@
         <token id="1451112" form="upasprungenre" citation-part="MARK 16.2" lemma="upaspringan" part-of-speech="V-" morphology="-sup-fd-si" head-id="1451108" relation="adv" presentation-after=" "/>
         <token id="1451113" form="sunnan" citation-part="MARK 16.2" lemma="sunne" part-of-speech="Nb" morphology="-s---fd--i" head-id="1451112" relation="sub" information-status="acc_gen" presentation-after=". "/>
         <token id="1451114" form="&amp;" citation-part="MARK 16.3" lemma="&amp;" part-of-speech="C-" morphology="---------n" relation="pred" presentation-after=" "/>
-        <token id="2015082" empty-token-sort="P" head-id="1451115" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2015082" empty-token-sort="P" head-id="1451115" relation="sub" information-status="old"/>
         <token id="1451115" form="cwædon" citation-part="MARK 16.3" lemma="cweþan" part-of-speech="V-" morphology="3pui-----i" head-id="1451114" relation="pred" presentation-after=" "/>
-        <token id="1451116" form="him" citation-part="MARK 16.3" lemma="hi" part-of-speech="Pp" morphology="3p---md--i" head-id="1451117" relation="obl" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1451116" form="him" citation-part="MARK 16.3" lemma="hi" part-of-speech="Pp" morphology="3p---md--i" head-id="1451117" relation="obl" information-status="old" presentation-after=" "/>
         <token id="1451117" form="betwynan" citation-part="MARK 16.3" lemma="betweonan" part-of-speech="R-" morphology="---------n" head-id="1451115" relation="obl" presentation-after=", "/>
       </sentence>
       <sentence id="122549" status="reviewed">
@@ -17591,7 +17591,7 @@
         <token id="2015083" empty-token-sort="P" head-id="1451194" relation="sub" antecedent-id="1451174" information-status="old"/>
         <token id="1451194" form="farað" citation-part="MARK 16.7" lemma="faran" part-of-speech="V-" morphology="2p-m-----i" head-id="1451195" relation="pred" presentation-after=" "/>
         <token id="1451195" form="&amp;" citation-part="MARK 16.7" lemma="&amp;" part-of-speech="C-" morphology="---------n" relation="pred" presentation-after=" "/>
-        <token id="2015084" empty-token-sort="P" head-id="1451196" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2015084" empty-token-sort="P" head-id="1451196" relation="sub" information-status="old"/>
         <token id="1451196" form="secgað" citation-part="MARK 16.7" lemma="secgan" part-of-speech="V-" morphology="2p-m-----i" head-id="1451195" relation="pred" presentation-after=" "/>
         <token id="1451197" form="his" citation-part="MARK 16.7" lemma="his" part-of-speech="Ps" morphology="---------n" head-id="1451198" relation="atr" antecedent-id="1451191" information-status="old" presentation-after=" "/>
         <token id="1451198" form="leorningcnihtum" citation-part="MARK 16.7" lemma="leornungcniht" part-of-speech="Nb" morphology="-p---md--i" head-id="1451199" relation="obl" information-status="old_inact" presentation-after=" "/>
@@ -17640,7 +17640,7 @@
         <token id="1451229" form="þære" citation-part="MARK 16.8" lemma="þære" part-of-speech="Pd" morphology="-s---fd--i" head-id="1451230" relation="atr" presentation-after=" "/>
         <token id="1451230" form="gesyhðe" citation-part="MARK 16.8" lemma="gesiht" part-of-speech="Nb" morphology="-s---fd--i" head-id="1451228" relation="obl" antecedent-id="1451150" information-status="old" presentation-after=" "/>
         <token id="1451231" form="þe" citation-part="MARK 16.8" lemma="þe" part-of-speech="G-" morphology="---------n" head-id="1451230" relation="atr" presentation-after=" "/>
-        <token id="1451232" form="hi" citation-part="MARK 16.8" lemma="hi" part-of-speech="Pp" morphology="3p---fn--i" head-id="1451233" relation="sub" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1451232" form="hi" citation-part="MARK 16.8" lemma="hi" part-of-speech="Pp" morphology="3p---fn--i" head-id="1451233" relation="sub" information-status="old" presentation-after=" "/>
         <token id="1451233" form="gesawon" citation-part="MARK 16.8" lemma="geseon" part-of-speech="V-" morphology="3pui-----i" head-id="1451231" relation="pred" presentation-after="; "/>
       </sentence>
       <sentence id="103631" status="reviewed">
@@ -17790,7 +17790,7 @@
         <token id="1451347" form="gelyfdon" citation-part="MARK 16.14" lemma="gelifan" part-of-speech="V-" morphology="3pui-----i" head-id="1451343" relation="pred" presentation-after=" "/>
         <token id="1451348" form="þam" citation-part="MARK 16.14" lemma="se" part-of-speech="Pd" morphology="-p---md--i" head-id="1451347" relation="obl" presentation-after=" "/>
         <token id="1451349" form="ðe" citation-part="MARK 16.14" lemma="þe" part-of-speech="G-" morphology="---------n" head-id="1451348" relation="atr" presentation-after=" "/>
-        <token id="1451350" form="hine" citation-part="MARK 16.14" lemma="he" part-of-speech="Pp" morphology="3s---ma--i" head-id="1451354" relation="sub" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1451350" form="hine" citation-part="MARK 16.14" lemma="he" part-of-speech="Pp" morphology="3s---ma--i" head-id="1451354" relation="sub" information-status="old" presentation-after=" "/>
         <token id="1451351" form="gesawon" citation-part="MARK 16.14" lemma="geseon" part-of-speech="V-" morphology="3pui-----i" head-id="1451349" relation="pred" presentation-after=" "/>
         <token id="1451352" form="of" citation-part="MARK 16.14" lemma="of" part-of-speech="R-" morphology="---------n" head-id="1451354" relation="obl" presentation-after=" "/>
         <token id="1451353" form="deaþe" citation-part="MARK 16.14" lemma="deaþ" part-of-speech="Nb" morphology="-s---md--i" head-id="1451352" relation="obl" information-status="kind" presentation-after=" "/>

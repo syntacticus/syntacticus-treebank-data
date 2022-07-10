@@ -1114,7 +1114,7 @@
         </token>
         <token id="1271364" form="&amp;" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1271359" relation="aux" presentation-after=" "/>
         <token id="1271365" form="sige" lemma="sige" part-of-speech="Nb" morphology="-s---mx--i" head-id="1271366" relation="arg" antecedent-id="1271353" information-status="acc_inf" presentation-after=" "/>
-        <token id="2016929" empty-token-sort="P" head-id="1271366" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2016929" empty-token-sort="P" head-id="1271366" relation="sub" information-status="old"/>
         <token id="1271366" form="nom" lemma="niman" part-of-speech="V-" morphology="3sui-----i" head-id="1271359" relation="pred" presentation-after="; ">
           <slash target-id="1271351" relation="sub"/>
         </token>
@@ -1320,7 +1320,7 @@
         </token>
         <token id="1271509" form="&amp;" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1271504" relation="aux" presentation-after=" "/>
         <token id="1271510" form="sige" lemma="sige" part-of-speech="Nb" morphology="-s---mx--i" head-id="1271511" relation="arg" antecedent-id="1271496" information-status="acc_inf" presentation-after=" "/>
-        <token id="2016935" empty-token-sort="P" head-id="1271511" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2016935" empty-token-sort="P" head-id="1271511" relation="sub" information-status="old"/>
         <token id="1271511" form="namon" lemma="niman" part-of-speech="V-" morphology="3pui-----i" head-id="1271504" relation="pred" presentation-after="; ">
           <slash target-id="1271494" relation="sub"/>
         </token>
@@ -1385,7 +1385,7 @@
         <token id="1271556" form="&amp;" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1271554" relation="obj" presentation-after=" "/>
         <token id="1271557" form="Lundenburg" lemma="Lundenburh" part-of-speech="Ne" morphology="-s---fa--i" head-id="1271556" relation="obj" information-status="acc_gen" presentation-after=", "/>
         <token id="1271558" form="&amp;" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1271553" relation="aux" presentation-after=" "/>
-        <token id="2016939" empty-token-sort="P" head-id="1271559" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2016939" empty-token-sort="P" head-id="1271559" relation="sub" information-status="old"/>
         <token id="1271559" form="gefliemdon" lemma="geflyman" part-of-speech="V-" morphology="3pui-----i" head-id="1271553" relation="pred" presentation-after=" ">
           <slash target-id="1271549" relation="sub"/>
         </token>
@@ -1446,7 +1446,7 @@
         <token id="1271607" form="&amp;" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1271590" relation="aux" presentation-after=" "/>
         <token id="1271608" form="þær" lemma="þær" part-of-speech="Df" morphology="---------n" head-id="1271610" relation="adv" presentation-after=" "/>
         <token id="1271609" form="sige" lemma="sige" part-of-speech="Nb" morphology="-s---mx--i" head-id="1271610" relation="arg" antecedent-id="1271595" information-status="acc_inf" presentation-after=" "/>
-        <token id="2016942" empty-token-sort="P" head-id="1271610" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2016942" empty-token-sort="P" head-id="1271610" relation="sub" information-status="old"/>
         <token id="1271610" form="namon" lemma="niman" part-of-speech="V-" morphology="3pui-----i" head-id="1271590" relation="pred" presentation-after=". ">
           <slash target-id="1271580" relation="sub"/>
         </token>
@@ -1660,7 +1660,7 @@
         <token id="1271769" form="weorþnesse" lemma="weorþness" part-of-speech="Nb" morphology="-s---fd--i" head-id="1271767" relation="obl" information-status="info_unannotatable" presentation-after=", "/>
         <token id="1271770" form="&amp;" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1271760" relation="aux" presentation-after=" "/>
         <token id="1271771" form="þær" lemma="þær" part-of-speech="Df" morphology="---------n" head-id="1271772" relation="adv" presentation-after=" "/>
-        <token id="2016948" empty-token-sort="P" head-id="1271772" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2016948" empty-token-sort="P" head-id="1271772" relation="sub" information-status="old"/>
         <token id="1271772" form="was" lemma="wesan" part-of-speech="V-" morphology="3sui-----i" head-id="1271760" relation="pred" presentation-after=" ">
           <slash target-id="1271741" relation="sub"/>
         </token>
@@ -1671,7 +1671,7 @@
         </token>
         <token id="1271776" form="&amp;" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1271760" relation="aux" presentation-after=" "/>
         <token id="1271777" form="þa" lemma="þa" part-of-speech="Df" morphology="---------n" head-id="1271780" relation="adv" presentation-after=" "/>
-        <token id="1271778" form="him" lemma="he" part-of-speech="Pp" morphology="3s---md--i" head-id="1271780" relation="obl" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1271778" form="him" lemma="he" part-of-speech="Pp" morphology="3s---md--i" head-id="1271780" relation="obl" information-status="old" presentation-after=" "/>
         <token id="1271779" form="hamweard" lemma="hamweard" part-of-speech="Df" morphology="-------p-i" head-id="1271780" relation="obl" information-status="info_unannotatable" presentation-after=" "/>
         <token id="2016949" empty-token-sort="P" head-id="1271780" relation="sub" antecedent-id="1271778" information-status="old"/>
         <token id="1271780" form="for" lemma="faran" part-of-speech="V-" morphology="3sui-----i" head-id="1271760" relation="pred" presentation-after=", ">
@@ -2313,7 +2313,7 @@
         <token id="1272362" form="þæt" lemma="þæt" part-of-speech="Pd" morphology="-s---na--i" head-id="1272363" relation="atr" presentation-after=" "/>
         <token id="1272363" form="lond" lemma="land" part-of-speech="Nb" morphology="-s---na--i" head-id="1272365" relation="obj" antecedent-id="1272337" information-status="old" presentation-after=" "/>
         <token id="1272364" form="all" lemma="eal" part-of-speech="Py" morphology="-s---napsi" head-id="1272363" relation="atr" information-status="info_unannotatable" presentation-after=" "/>
-        <token id="2017947" empty-token-sort="P" head-id="1272365" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2017947" empty-token-sort="P" head-id="1272365" relation="sub" information-status="old"/>
         <token id="1272365" form="geeodon" lemma="gegan" part-of-speech="V-" morphology="3sui-----i" head-id="1272357" relation="pred" presentation-after="; ">
           <slash target-id="1272354" relation="sub"/>
         </token>
@@ -2384,7 +2384,7 @@
         </token>
         <token id="1272412" form="&amp;" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1272407" relation="aux" presentation-after=" "/>
         <token id="1272413" form="sige" lemma="sige" part-of-speech="Nb" morphology="-s---mx--i" head-id="1272414" relation="arg" antecedent-id="1272411" information-status="acc_inf" presentation-after=" "/>
-        <token id="2017949" empty-token-sort="P" head-id="1272414" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2017949" empty-token-sort="P" head-id="1272414" relation="sub" information-status="old"/>
         <token id="1272414" form="nam" lemma="niman" part-of-speech="V-" morphology="3sui-----i" head-id="1272407" relation="pred" presentation-after="; ">
           <slash target-id="1272403" relation="sub"/>
         </token>
@@ -2924,7 +2924,7 @@
         <token id="1272814" form="Burgræd" lemma="Burgred" part-of-speech="Ne" morphology="-s---ma--i" head-id="1272813" relation="apos" presentation-after=" "/>
         <token id="1272815" form="ofer" lemma="ofer" part-of-speech="R-" morphology="---------n" head-id="1272817" relation="obl" presentation-after=" "/>
         <token id="1272816" form="sæ" lemma="sæ" part-of-speech="Nb" morphology="-s---fx--i" head-id="1272815" relation="obl" information-status="acc_gen" presentation-after=" "/>
-        <token id="2017986" empty-token-sort="P" head-id="1272817" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2017986" empty-token-sort="P" head-id="1272817" relation="sub" information-status="old"/>
         <token id="1272817" form="adræfdon" lemma="adræfan" part-of-speech="V-" morphology="3pui-----i" head-id="1272807" relation="pred" presentation-after=" ">
           <slash target-id="1272802" relation="sub"/>
         </token>
@@ -2940,7 +2940,7 @@
         <token id="1272827" form="þæt" lemma="se" part-of-speech="Pd" morphology="-s---na--i" head-id="1272828" relation="atr" presentation-after=" "/>
         <token id="1272828" form="lond" lemma="land" part-of-speech="Nb" morphology="-s---na--i" head-id="1272830" relation="obj" antecedent-id="1272806" information-status="acc_inf" presentation-after=" "/>
         <token id="1272829" form="all" lemma="eal" part-of-speech="Py" morphology="-s---napsi" head-id="1272828" relation="atr" information-status="info_unannotatable" presentation-after=" "/>
-        <token id="2017987" empty-token-sort="P" head-id="1272830" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2017987" empty-token-sort="P" head-id="1272830" relation="sub" information-status="old"/>
         <token id="1272830" form="geeodon" lemma="gegan" part-of-speech="V-" morphology="3sui-----i" head-id="1272807" relation="pred" presentation-after="; ">
           <slash target-id="1272802" relation="sub"/>
         </token>
@@ -3193,7 +3193,7 @@
         <token id="1273012" form="halgan" lemma="halig" part-of-speech="A-" morphology="-s---mdpwi" head-id="1273013" relation="atr" presentation-after=" "/>
         <token id="1273013" form="beage" lemma="beah" part-of-speech="Nb" morphology="-s---md--i" head-id="1273010" relation="obl" information-status="kind" presentation-after=", "/>
         <token id="1273014" form="þe" lemma="þe" part-of-speech="G-" morphology="---------n" head-id="1273008" relation="apos" presentation-after=" "/>
-        <token id="1273015" form="hie" lemma="hi" part-of-speech="Pp" morphology="3p---mn--i" head-id="1783291" relation="sub" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1273015" form="hie" lemma="hi" part-of-speech="Pp" morphology="3p---mn--i" head-id="1783291" relation="sub" information-status="old" presentation-after=" "/>
         <token id="1273016" form="ær" lemma="ær" part-of-speech="Df" morphology="-------p-i" head-id="1783291" relation="adv" presentation-after=" "/>
         <token id="1273017" form="nanre" lemma="nan" part-of-speech="Px" morphology="-s---fd--i" head-id="1273018" relation="atr" information-status="new" presentation-after=" "/>
         <token id="1273018" form="þeode" lemma="þeod" part-of-speech="Nb" morphology="-s---fd--i" head-id="1783291" relation="obl" information-status="non_spec" presentation-after=" "/>
@@ -3350,7 +3350,7 @@
         <token id="1273132" form="þa" lemma="se" part-of-speech="Pd" morphology="-s---fa--i" head-id="1273134" relation="atr" presentation-after=" "/>
         <token id="1273133" form="godne" lemma="god" part-of-speech="A-" morphology="-s---mapsi" head-id="1273134" relation="atr" presentation-after=" "/>
         <token id="1273134" form="friþ" lemma="friþ" part-of-speech="Nb" morphology="-s---oa--i" head-id="1273135" relation="obj" information-status="kind" presentation-after=" "/>
-        <token id="2018001" empty-token-sort="P" head-id="1273135" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2018001" empty-token-sort="P" head-id="1273135" relation="sub" information-status="old"/>
         <token id="1273135" form="heoldon" lemma="healdan" part-of-speech="V-" morphology="3pui-----i" head-id="1273127" relation="pred" presentation-after="; ">
           <slash target-id="1273116" relation="sub"/>
         </token>
@@ -3613,14 +3613,14 @@
         <token id="1273330" form="here" lemma="here" part-of-speech="Nb" morphology="-s---ma--i" head-id="1273327" relation="obl" antecedent-id="1273260" information-status="old" presentation-after=", "/>
         <token id="1273331" form="&amp;" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1273318" relation="aux" presentation-after=" "/>
         <token id="1273332" form="hiene" lemma="he" part-of-speech="Pp" morphology="3s---ma--i" head-id="1273333" relation="obj" antecedent-id="1273330" information-status="old" presentation-after=" "/>
-        <token id="2018011" empty-token-sort="P" head-id="1273333" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2018011" empty-token-sort="P" head-id="1273333" relation="sub" information-status="old"/>
         <token id="1273333" form="gefliemde" lemma="geflyman" part-of-speech="V-" morphology="3sux-----i" head-id="1273318" relation="pred" presentation-after=", ">
           <slash target-id="1273308" relation="sub"/>
         </token>
         <token id="1273334" form="&amp;" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1273318" relation="aux" presentation-after=" "/>
         <token id="1273335" form="him" lemma="hi" part-of-speech="Pp" morphology="3p---md--i" head-id="1273336" relation="obl" antecedent-id="1273332" information-status="old" presentation-after=" "/>
         <token id="1273336" form="æfter" lemma="æfter" part-of-speech="R-" morphology="---------n" head-id="1273337" relation="adv" presentation-after=" "/>
-        <token id="2018012" empty-token-sort="P" head-id="1273337" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2018012" empty-token-sort="P" head-id="1273337" relation="sub" information-status="old"/>
         <token id="1273337" form="rad" lemma="ridan" part-of-speech="V-" morphology="3sui-----i" head-id="1273318" relation="pred" presentation-after=" ">
           <slash target-id="1273308" relation="sub"/>
         </token>
@@ -3629,7 +3629,7 @@
         <token id="1273340" form="geweorc" lemma="geweorc" part-of-speech="Nb" morphology="-s---na--i" head-id="1273338" relation="obl" information-status="acc_inf" presentation-after=", "/>
         <token id="1273341" form="&amp;" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1273318" relation="aux" presentation-after=" "/>
         <token id="1273342" form="þær" lemma="þær" part-of-speech="Df" morphology="---------n" head-id="1273343" relation="obl" information-status="info_unannotatable" presentation-after=" "/>
-        <token id="2018013" empty-token-sort="P" head-id="1273343" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2018013" empty-token-sort="P" head-id="1273343" relation="sub" information-status="old"/>
         <token id="1273343" form="sæt" lemma="sittan" part-of-speech="V-" morphology="3sui-----i" head-id="1273318" relation="pred" presentation-after=" ">
           <slash target-id="1273308" relation="sub"/>
         </token>
@@ -3833,7 +3833,7 @@
         <token id="1273487" form="þæt" lemma="se" part-of-speech="Pd" morphology="-s---na--i" head-id="1273488" relation="atr" presentation-after=" "/>
         <token id="1273488" form="lond" lemma="land" part-of-speech="Nb" morphology="-s---na--i" head-id="1273486" relation="obj" antecedent-id="1273483" information-status="old" presentation-after=", "/>
         <token id="1273489" form="&amp;" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1273485" relation="aux" presentation-after=" "/>
-        <token id="2018025" empty-token-sort="P" head-id="1273490" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2018025" empty-token-sort="P" head-id="1273490" relation="sub" information-status="old"/>
         <token id="1273490" form="gedælde" lemma="gedælan" part-of-speech="V-" morphology="3sux-----i" head-id="1273485" relation="pred" presentation-after=". ">
           <slash target-id="1273479" relation="sub"/>
           <slash target-id="1273488" relation="obj"/>
@@ -4069,12 +4069,12 @@
         <token id="1273649" form="ða" lemma="se" part-of-speech="Pd" morphology="-s---fa--i" head-id="1273650" relation="atr" presentation-after=" "/>
         <token id="1273650" form="ceastre" lemma="ceaster" part-of-speech="Nb" morphology="-s---fa--i" head-id="1273648" relation="obj" antecedent-id="1273646" information-status="old" presentation-after=", "/>
         <token id="1273651" form="&amp;" lemma="&amp;" part-of-speech="C-" morphology="---------n" relation="pred" presentation-after=" "/>
-        <token id="2018034" empty-token-sort="P" head-id="1273652" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2018034" empty-token-sort="P" head-id="1273652" relation="sub" information-status="old"/>
         <token id="1273652" form="worhton" lemma="wyrcan" part-of-speech="V-" morphology="3pui-----i" head-id="1273651" relation="pred" presentation-after=" "/>
         <token id="1273653" form="oþer" lemma="oðer" part-of-speech="A-" morphology="-s---nazsi" head-id="1273654" relation="atr" presentation-after=" "/>
         <token id="1273654" form="fæsten" lemma="fæsten" part-of-speech="Nb" morphology="-s---na--i" head-id="1273652" relation="obj" information-status="new" presentation-after=" "/>
         <token id="1273655" form="ymb" lemma="ymb" part-of-speech="R-" morphology="---------n" head-id="1273652" relation="adv" presentation-after=" "/>
-        <token id="1273656" form="hie" lemma="hi" part-of-speech="Pp" morphology="3p---ma--i" head-id="1273655" relation="obl" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1273656" form="hie" lemma="hi" part-of-speech="Pp" morphology="3p---ma--i" head-id="1273655" relation="obl" information-status="old" presentation-after=" "/>
         <token id="1273657" form="selfe" lemma="self" part-of-speech="A-" morphology="-s---mapsi" head-id="1273656" relation="apos" presentation-after=". "/>
       </sentence>
       <sentence id="90989" status="reviewed">
@@ -4171,7 +4171,7 @@
         <token id="1273726" form="&amp;" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1273717" relation="aux" presentation-after=" "/>
         <token id="1273727" form="þa" lemma="se" part-of-speech="Pd" morphology="-p---ma--i" head-id="1273728" relation="atr" presentation-after=" "/>
         <token id="1273728" form="men" lemma="mann" part-of-speech="Nb" morphology="-p---ma--i" head-id="1273729" relation="obj" antecedent-id="1273719" information-status="old" presentation-after=" "/>
-        <token id="2018039" empty-token-sort="P" head-id="1273729" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2018039" empty-token-sort="P" head-id="1273729" relation="sub" information-status="old"/>
         <token id="1273729" form="ofslogon" lemma="ofslean" part-of-speech="V-" morphology="3pui-----i" head-id="1273717" relation="pred" presentation-after="; ">
           <slash target-id="1273713" relation="sub"/>
         </token>
@@ -4721,7 +4721,7 @@
         <token id="1274141" form="&amp;" lemma="&amp;" part-of-speech="C-" morphology="---------n" relation="pred" presentation-after=" "/>
         <token id="1274142" form="tu" lemma="twegen" part-of-speech="Py" morphology="-p---nazti" head-id="1274143" relation="atr" information-status="info_unannotatable" presentation-after=" "/>
         <token id="1274143" form="folcgefeoht" lemma="folcgefeoht" part-of-speech="Nb" morphology="-p---na--i" head-id="1274144" relation="obj" information-status="new" presentation-after=" "/>
-        <token id="2018052" empty-token-sort="P" head-id="1274144" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2018052" empty-token-sort="P" head-id="1274144" relation="sub" information-status="old"/>
         <token id="1274144" form="gefuhton" lemma="gefeohtan" part-of-speech="V-" morphology="3pui-----i" head-id="1274141" relation="pred" presentation-after=", "/>
         <token id="1274145" form="&amp;" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1274141" relation="aux" presentation-after=" "/>
         <token id="1274146" form="þæt" lemma="se" part-of-speech="Pd" morphology="-s---na--i" head-id="1274147" relation="atr" presentation-after=" "/>
@@ -4729,7 +4729,7 @@
         <token id="1274148" form="oft" lemma="oft" part-of-speech="Df" morphology="-------p-i" head-id="1274149" relation="adv" presentation-after=" "/>
         <token id="1274149" form="&amp;" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1274151" relation="adv" presentation-after=" "/>
         <token id="1274150" form="gelome" lemma="gelome" part-of-speech="Df" morphology="-------p-i" head-id="1274149" relation="adv" presentation-after=" "/>
-        <token id="2018053" empty-token-sort="P" head-id="1274151" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="2018053" empty-token-sort="P" head-id="1274151" relation="sub" information-status="old"/>
         <token id="1274151" form="forhergodon" lemma="forhergian" part-of-speech="V-" morphology="3pui-----i" head-id="1274141" relation="pred" presentation-after=", "/>
       </sentence>
       <sentence id="91039" status="reviewed">
@@ -5350,7 +5350,7 @@
         <token id="1274627" form="worhte" lemma="wyrcan" part-of-speech="V-" morphology="3sux-----i" head-id="1274626" relation="pred" presentation-after=" ">
           <slash target-id="1274618" relation="sub"/>
         </token>
-        <token id="1274628" form="him" lemma="he" part-of-speech="Pp" morphology="3s---md--i" head-id="1274627" relation="obl" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1274628" form="him" lemma="he" part-of-speech="Pp" morphology="3s---md--i" head-id="1274627" relation="obl" information-status="old" presentation-after=" "/>
         <token id="1274629" form="geweorc" lemma="geweorc" part-of-speech="Nb" morphology="-s---na--i" head-id="1274627" relation="obj" information-status="new" presentation-after=" "/>
         <token id="1274630" form="æt" lemma="æt" part-of-speech="R-" morphology="---------n" head-id="1274627" relation="adv" presentation-after=" "/>
         <token id="1274631" form="Middeltune" lemma="Middeltun" part-of-speech="Ne" morphology="-s---md--i" head-id="1274630" relation="obl" information-status="acc_gen" presentation-after=", "/>
@@ -6286,7 +6286,7 @@
         <token id="1275352" form="Temese" lemma="Temes" part-of-speech="Ne" morphology="-s---xx--i" head-id="1275351" relation="obl" antecedent-id="1275334" information-status="old" presentation-after=" "/>
         <token id="1275353" form="oþ" lemma="oþ" part-of-speech="R-" morphology="---------n" head-id="1788621" relation="aux"/>
         <token id="1788621" form="þæt" lemma="þæt" part-of-speech="G-" morphology="---------n" head-id="1275348" relation="adv" presentation-after=" "/>
-        <token id="1275354" form="hie" lemma="hi" part-of-speech="Pp" morphology="3p---mn--i" head-id="1275355" relation="sub" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1275354" form="hie" lemma="hi" part-of-speech="Pp" morphology="3p---mn--i" head-id="1275355" relation="sub" information-status="old" presentation-after=" "/>
         <token id="1275355" form="gedydon" lemma="gedon" part-of-speech="V-" morphology="3pui-----i" head-id="1788621" relation="pred" presentation-after=" "/>
         <token id="1275356" form="æt" lemma="æt" part-of-speech="R-" morphology="---------n" head-id="1275355" relation="obl" presentation-after=" "/>
         <token id="1275357" form="Sæferne" lemma="Sæfern" part-of-speech="Ne" morphology="-s---xx--i" head-id="1275356" relation="obl" information-status="acc_gen" presentation-after=", "/>
@@ -6549,7 +6549,7 @@
         <token id="1275565" form="&amp;" lemma="&amp;" part-of-speech="C-" morphology="---------n" relation="pred" presentation-after=" "/>
         <token id="2018256" empty-token-sort="P" head-id="1275566" relation="sub" antecedent-id="1275562" information-status="old"/>
         <token id="1275566" form="befæston" lemma="befæstan" part-of-speech="V-" morphology="3pui-----i" head-id="1275565" relation="pred" presentation-after=" "/>
-        <token id="1275567" form="hira" lemma="hira" part-of-speech="Ps" morphology="---------n" head-id="1275568" relation="atr" antecedent-id="0" information-status="old" presentation-after=" "/>
+        <token id="1275567" form="hira" lemma="hira" part-of-speech="Ps" morphology="---------n" head-id="1275568" relation="atr" information-status="old" presentation-after=" "/>
         <token id="1275568" form="wif" lemma="wif" part-of-speech="Nb" morphology="-p---na--i" head-id="1275569" relation="obj" information-status="new" presentation-after=", "/>
         <token id="1275569" form="&amp;" lemma="&amp;" part-of-speech="C-" morphology="---------n" head-id="1275566" relation="obj" presentation-after=" "/>
         <token id="1275570" form="hira" lemma="hira" part-of-speech="Ps" morphology="---------n" head-id="1275571" relation="atr" antecedent-id="1275567" information-status="old" presentation-after=" "/>
