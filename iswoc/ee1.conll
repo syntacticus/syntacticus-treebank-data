@@ -3515,9 +3515,9 @@
 23	llaue	llave	N	Nb	NUMBs|GENDf	16	obj	_	_
 24	en	en	R	R-	INFLn	16	adv	_	_
 25	semeiante	semejante	A	A-	NUMBs|GENDp|DEGRp	24	obl	_	_
-26	cuemo	como	G	G-	INFLn	25	comp	_	_
-27	que	que	G	G-	INFLn	26	aux	_	_
-28	querie	querer	V	V-	PERS3|NUMBs|TENSi|MOODi	26	pred	_	_
+26	cuemo	como	G	G-	INFLn	27	aux	_	_
+27	que	que	G	G-	INFLn	25	comp	_	_
+28	querie	querer	V	V-	PERS3|NUMBs|TENSi|MOODi	27	pred	_	_
 29	abrir	abrir	V	V-	MOODn|INFLn	28	xobj	_	_
 30	puerta	puerta	N	Nb	NUMBs|GENDf	29	obj	_	_
 
@@ -6862,10 +6862,10 @@
 31	ante	ante	D	Df	INFLn	33	adv	_	_
 32	lo	lo	P	Pp	PERS3|NUMBs|GENDm	33	obj	_	_
 33	acabasse	acabar	V	V-	PERS3|NUMBs|TENSi|MOODs	36	atr	_	_
-34	que	que	G	G-	INFLn	15	comp	_	_
+34	que	que	G	G-	INFLn	4	aux	_	_
 35	con	con	R	R-	INFLn	37	obl	_	_
 36	aquel	aquel	P	Pd	NUMBs|GENDm	35	obl	_	_
-37	casarie	casar	V	V-	PERS3|NUMBs|TENSt|MOODi	34	pred	_	_
+37	casarie	casar	V	V-	PERS3|NUMBs|TENSt|MOODi	4	pred	_	_
 
 1	ellos	él	P	Pp	PERS3|NUMBp|GENDm	2	sub	_	_
 2	dixieron	decir	V	V-	PERS3|NUMBp|TENSr|MOODi	0	pred	_	_

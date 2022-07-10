@@ -5567,7 +5567,7 @@
         <token id="1369744" form="E" citation-part="3" lemma="y" part-of-speech="C-" morphology="---------n" head-id="1369757" relation="aux" presentation-after=" "/>
         <token id="1369745" form="con" citation-part="3" lemma="con" part-of-speech="R-" morphology="---------n" head-id="1369757" relation="obl" presentation-after=" "/>
         <token id="1369746" form="esta" citation-part="3" lemma="este" part-of-speech="Pd" morphology="-s---f---i" head-id="1369747" relation="atr" presentation-after=" "/>
-        <token id="1369747" form="diligencia" citation-part="3" lemma="diligencia" part-of-speech="Nb" morphology="-s---f---i" head-id="1369745" relation="obl" antecedent-id="1369703" information-status="acc_inf" presentation-after=" "/>
+        <token id="1369747" form="diligencia" citation-part="3" lemma="diligencia" part-of-speech="Nb" morphology="-s---f---i" head-id="1369745" relation="obl" information-status="acc_inf" presentation-after=" "/>
         <token id="1369748" form="que" citation-part="3" lemma="que" part-of-speech="Pr" morphology="---------n" head-id="1369749" relation="obj" presentation-after=" "/>
         <token id="2021590" empty-token-sort="P" head-id="1369749" relation="sub" information-status="old"/>
         <token id="1369749" form="tenia" citation-part="3" lemma="tener" part-of-speech="V-" morphology="3sii-----i" head-id="1369747" relation="atr" presentation-after=" "/>

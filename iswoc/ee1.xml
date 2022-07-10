@@ -4495,10 +4495,10 @@
         <token id="1359641" form="llaue" citation-part="RUB 5 5.9" lemma="llave" part-of-speech="Nb" morphology="-s---f---i" head-id="1359634" relation="obj" information-status="new" presentation-after=". "/>
         <token id="1359642" form="en" citation-part="RUB 5 5.9" lemma="en" part-of-speech="R-" morphology="---------n" head-id="1359634" relation="adv" presentation-after=" "/>
         <token id="1359643" form="semeiante" citation-part="RUB 5 5.9" lemma="semejante" part-of-speech="A-" morphology="-s---p-p-i" head-id="1359642" relation="obl" presentation-after=" "/>
-        <token id="1359644" form="cuemo" citation-part="RUB 5 5.9" lemma="como" part-of-speech="G-" morphology="---------n" head-id="1359643" relation="comp" presentation-after=" "/>
-        <token id="1359645" form="que" citation-part="RUB 5 5.9" lemma="que" part-of-speech="G-" morphology="---------n" head-id="1359644" relation="aux" presentation-after=" "/>
+        <token id="1359644" form="cuemo" citation-part="RUB 5 5.9" lemma="como" part-of-speech="G-" morphology="---------n" head-id="1359645" relation="aux" presentation-after=" "/>
+        <token id="1359645" form="que" citation-part="RUB 5 5.9" lemma="que" part-of-speech="G-" morphology="---------n" head-id="1359643" relation="comp" presentation-after=" "/>
         <token id="1992162" empty-token-sort="P" head-id="1359646" relation="sub" antecedent-id="1359624" information-status="old"/>
-        <token id="1359646" form="querie" citation-part="RUB 5 5.9" lemma="querer" part-of-speech="V-" morphology="3sii-----i" head-id="1359644" relation="pred" presentation-after=" "/>
+        <token id="1359646" form="querie" citation-part="RUB 5 5.9" lemma="querer" part-of-speech="V-" morphology="3sii-----i" head-id="1359645" relation="pred" presentation-after=" "/>
         <token id="1359647" form="abrir" citation-part="RUB 5 5.9" lemma="abrir" part-of-speech="V-" morphology="---n-----n" head-id="1359646" relation="xobj" presentation-after=" ">
           <slash target-id="1359646" relation="xsub"/>
         </token>
@@ -8694,11 +8694,11 @@
         <token id="1362908" form="ante" citation-part="RUB 10 11.38" lemma="ante" part-of-speech="Df" morphology="---------n" head-id="1362910" relation="adv" presentation-after=" "/>
         <token id="1362909" form="lo" citation-part="RUB 10 11.38" lemma="lo" part-of-speech="Pp" morphology="3s---m---i" head-id="1362910" relation="obj" antecedent-id="1362903" information-status="old" presentation-after=" "/>
         <token id="1362910" form="acabasse" citation-part="RUB 10 11.38" lemma="acabar" part-of-speech="V-" morphology="3sis-----i" head-id="1362913" relation="atr" presentation-after=". "/>
-        <token id="1362911" form="que" citation-part="RUB 10 11.38" lemma="que" part-of-speech="G-" morphology="---------n" head-id="1362892" relation="comp" presentation-after=" "/>
+        <token id="1362911" form="que" citation-part="RUB 10 11.38" lemma="que" part-of-speech="G-" morphology="---------n" head-id="1362881" relation="aux" presentation-after=" "/>
         <token id="1362912" form="con" citation-part="RUB 10 11.38" lemma="con" part-of-speech="R-" morphology="---------n" head-id="1362914" relation="obl" presentation-after=" "/>
         <token id="1362913" form="aquel" citation-part="RUB 10 11.38" lemma="aquel" part-of-speech="Pd" morphology="-s---m---i" head-id="1362912" relation="obl" information-status="non_spec" presentation-after=" "/>
         <token id="2013913" empty-token-sort="P" head-id="1362914" relation="sub" antecedent-id="2013912" information-status="old"/>
-        <token id="1362914" form="casarie" citation-part="RUB 10 11.38" lemma="casar" part-of-speech="V-" morphology="3sti-----i" head-id="1362911" relation="pred" presentation-after=" "/>
+        <token id="1362914" form="casarie" citation-part="RUB 10 11.38" lemma="casar" part-of-speech="V-" morphology="3sti-----i" head-id="1362881" relation="pred" presentation-after=" "/>
       </sentence>
       <sentence id="96623" status="reviewed">
         <token id="1362915" form="ellos" citation-part="RUB 10 11.39" lemma="él" part-of-speech="Pp" morphology="3p---m---i" head-id="1362916" relation="sub" antecedent-id="1362907" information-status="old" presentation-after=" "/>

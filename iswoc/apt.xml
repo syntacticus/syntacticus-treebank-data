@@ -752,7 +752,7 @@
         <token id="1639674" form="aræde" citation-part="3" lemma="arædan" part-of-speech="V-" morphology="xxps-----i" head-id="1639676" relation="apos" presentation-after=", "/>
         <token id="1639675" form="onfo" citation-part="3" lemma="onfon" part-of-speech="V-" morphology="3sps-----i" relation="pred" presentation-after=" "/>
         <token id="1639676" form="se" citation-part="3" lemma="se" part-of-speech="Pd" morphology="-s---mn--i" head-id="1639675" relation="sub" information-status="non_spec" presentation-after=" "/>
-        <token id="1639677" form="mynre" citation-part="3" lemma="mynre" part-of-speech="Ps" morphology="1s---fg--i" head-id="1639678" relation="atr" antecedent-id="1639671" information-status="old" presentation-after=" "/>
+        <token id="1639677" form="mynre" citation-part="3" lemma="min" part-of-speech="Ps" morphology="1s---fg--i" head-id="1639678" relation="atr" antecedent-id="1639671" information-status="old" presentation-after=" "/>
         <token id="1639678" form="dohtor" citation-part="3" lemma="dohtor" part-of-speech="Nb" morphology="-s---fg--i" head-id="1639675" relation="obl" antecedent-id="1639656" information-status="old" presentation-after=" "/>
         <token id="1639679" form="to" citation-part="3" lemma="to" part-of-speech="R-" morphology="---------n" head-id="1639675" relation="xobj" information-status="info_unannotatable" presentation-after=" ">
           <slash target-id="1639678" relation="xsub"/>

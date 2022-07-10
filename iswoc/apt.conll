@@ -461,7 +461,7 @@
 8	aræde	arædan	V	V-	PERSx|NUMBx|TENSp|MOODs	10	apos	_	_
 9	onfo	onfon	V	V-	PERS3|NUMBs|TENSp|MOODs	0	pred	_	_
 10	se	se	P	Pd	NUMBs|GENDm|CASEn	9	sub	_	_
-11	mynre	mynre	P	Ps	PERS1|NUMBs|GENDf|CASEg	12	atr	_	_
+11	mynre	min	P	Ps	PERS1|NUMBs|GENDf|CASEg	12	atr	_	_
 12	dohtor	dohtor	N	Nb	NUMBs|GENDf|CASEg	9	obl	_	_
 13	to	to	R	R-	INFLn	9	xobj	_	_
 14	wife	wif	N	Nb	NUMBs|GENDn|CASEd	13	obl	_	_

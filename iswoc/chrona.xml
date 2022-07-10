@@ -190,7 +190,7 @@
         <token id="1270716" form="Ecgbryht" lemma="Ecgbryht" part-of-speech="Ne" morphology="-s---mn--i" head-id="1270717" relation="sub" information-status="new" presentation-after=" "/>
         <token id="1270717" form="feng" lemma="fon" part-of-speech="V-" morphology="3sui-----i" relation="pred" presentation-after=" "/>
         <token id="1270718" form="to" lemma="to" part-of-speech="R-" morphology="---------n" head-id="1270717" relation="obl" presentation-after=" "/>
-        <token id="1270719" form="Wesseaxna" lemma="West-Seaxe" part-of-speech="Ne" morphology="-p---mg--i" head-id="1270720" relation="atr" antecedent-id="1270703" information-status="old" presentation-after=" "/>
+        <token id="1270719" form="Wesseaxna" lemma="West-Seaxe" part-of-speech="Ne" morphology="-p---mg--i" head-id="1270720" relation="atr" information-status="old" presentation-after=" "/>
         <token id="1270720" form="rice" lemma="rice" part-of-speech="Nb" morphology="-s---nx--i" head-id="1270718" relation="obl" antecedent-id="1270709" information-status="acc_inf" presentation-after="; "/>
       </sentence>
       <sentence id="90664" status="reviewed">

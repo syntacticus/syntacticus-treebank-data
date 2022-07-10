@@ -996,9 +996,9 @@
 51	era	ser	V	V-	PERS3|NUMBs|TENSi|MOODi	48	pred	_	_
 52	ésta	este	P	Pd	NUMBs|GENDf	51	xobj	_	_
 
-1	que	que	G	G-	INFLn	3	aux	_	_
+1	que	que	G	G-	INFLn	0	comp(49)pred	_	_
 2	vien	bien	D	Df	INFLn	3	adv	_	_
-3	sabía	saber	V	V-	PERS3|NUMBs|TENSi|MOODi	0	pred	_	_
+3	sabía	saber	V	V-	PERS3|NUMBs|TENSi|MOODi	1	pred	_	_
 4	él	él	P	Pp	PERS3|NUMBs|GENDm	3	sub	_	_
 5	que	que	G	G-	INFLn	17	comp	_	_
 6	el	el	S	S-	NUMBs|GENDm	7	aux	_	_
@@ -1712,8 +1712,8 @@
 5	vinía	venir	V	V-	PERS3|NUMBs|TENSi|MOODi	3	adv	_	_
 6	preguntó	preguntar	V	V-	PERS3|NUMBs|TENSr|MOODi	0	pred	_	_
 7	l	le	P	Pp	PERS3|NUMBs|GENDm	6	obl	_	_
-8	por	por	R	R-	INFLn	9	aux	_	_
-9	qué	qué	P	Pi	INFLn	10	adv	_	_
+8	por	por	R	R-	INFLn	10	adv	_	_
+9	qué	qué	P	Pi	INFLn	8	obl	_	_
 10	fiziera	hacer	V	V-	PERS3|NUMBs|TENSl|MOODi	6	comp	_	_
 11	aquello	aquello	P	Pd	INFLn	10	obj	_	_
 
@@ -1753,7 +1753,7 @@
 18	feziera	hacer	V	V-	PERS3|NUMBs|TENSl|MOODi	14	comp	_	_
 
 1	et	et	C	C-	INFLn	22	aux	_	_
-2	que	que	G	G-	INFLn	20	aux	_	_
+2	que	que	G	G-	INFLn	0	comp(46)pred	_	_
 3	así	así	D	Df	INFLn	22	adv	_	_
 4	como	como	G	G-	INFLn	3	comp	_	_
 5	de	de	R	R-	INFLn	8	obl	_	_
@@ -1771,13 +1771,13 @@
 17	muy	muy	D	Df	INFLn	18	adv	_	_
 18	grant	grande	A	A-	NUMBs|GENDm|DEGRp	19	atr	_	_
 19	parte	parte	N	Nb	NUMBs|GENDf	16	obj	_	_
-20	que	que	G	G-	INFLn	0	comp(46)pred	_	_
+20	que	que	G	G-	INFLn	0	aux(46)pred	_	_
 21	así	así	D	Df	INFLn	22	adv	_	_
-22	era	ser	V	V-	PERS3|NUMBs|TENSi|MOODi	20	pred	_	_
+22	era	ser	V	V-	PERS3|NUMBs|TENSi|MOODi	2	pred	_	_
 23	muy	muy	D	Df	INFLn	24	adv	_	_
 24	grant	grande	A	A-	NUMBs|GENDm|DEGRp	25	atr	_	_
 25	razón	razón	N	Nb	NUMBs|GENDf	22	sub	_	_
-26	que	que	G	G-	INFLn	39	aux	_	_
+26	que	que	G	G-	INFLn	22	comp	_	_
 27	de	de	R	R-	INFLn	30	apos	_	_
 28	la	el	S	S-	NUMBs|GENDf	29	aux	_	_
 29	lazeria	laceria	N	Nb	NUMBs|GENDf	27	obl	_	_
@@ -1790,10 +1790,10 @@
 36	rey	rey	N	Nb	NUMBs|GENDm	37	sub	_	_
 37	quería	querer	V	V-	PERS3|NUMBs|TENSi|MOODi	33	atr	_	_
 38	tomar	tomar	V	V-	MOODn|INFLn	37	xobj	_	_
-39	que	que	G	G-	INFLn	22	comp	_	_
+39	que	que	G	G-	INFLn	26	aux	_	_
 40	él	él	P	Pp	PERS3|NUMBs|GENDm	42	sub	_	_
 41	otrosí	otrosí	D	Df	INFLn	42	adv	_	_
-42	tomase	tomar	V	V-	PERS3|NUMBs|TENSi|MOODs	39	pred	_	_
+42	tomase	tomar	V	V-	PERS3|NUMBs|TENSi|MOODs	26	pred	_	_
 43	ende	ende	D	Df	INFLn	42	obl	_	_
 44	su	su	P	Ps	NUMBs|GENDf	45	atr	_	_
 45	parte	parte	N	Nb	NUMBs|GENDf	42	obj	_	_
@@ -1875,16 +1875,16 @@
 20	vida	vida	N	Nb	NUMBs|GENDf	17	obl	_	_
 
 1	et	et	C	C-	INFLn	0	aux(17)pred	_	_
-2	que	que	G	G-	INFLn	9	aux	_	_
+2	que	que	G	G-	INFLn	0	comp(17)pred	_	_
 3	pues	pues	D	Df	INFLn	4	aux	_	_
 4	que	que	G	G-	INFLn	11	adv	_	_
 5	a	a	R	R-	INFLn	6	aux	_	_
 6	ir	ir	V	V-	MOODn|INFLn	8	xobj	_	_
 7	se	se	P	Pk	INFLn	6	aux	_	_
 8	avían	haber	V	V-	PERS3|NUMBp|TENSi|MOODi	4	pred	_	_
-9	que	que	G	G-	INFLn	0	comp(17)pred	_	_
+9	que	que	G	G-	INFLn	2	aux	_	_
 10	se	se	P	Pk	INFLn	11	aux	_	_
-11	fuesen	ser	V	V-	PERS3|NUMBp|TENSi|MOODs	9	pred	_	_
+11	fuesen	ser	V	V-	PERS3|NUMBp|TENSi|MOODs	2	pred	_	_
 12	ante	ante	D	Df	INFLn	13	aux	_	_
 13	que	que	G	G-	INFLn	11	adv	_	_
 14	pudiesen	poder	V	V-	PERS3|NUMBp|TENSi|MOODs	13	pred	_	_
@@ -2768,21 +2768,21 @@
 2	el	el	S	S-	NUMBs|GENDm	3	aux	_	_
 3	fijo	hijo	N	Nb	NUMBs|GENDm	4	sub	_	_
 4	dixo	decir	V	V-	PERS3|NUMBs|TENSr|MOODi	0	pred	_	_
-5	que	que	G	G-	INFLn	4	comp	_	_
+5	que	que	G	G-	INFLn	4	comp(26)comp	_	_
 6	le	le	P	Pp	PERS3|NUMBs|GENDm	7	obl	_	_
 7	parescía	parecer	V	V-	PERS3|NUMBs|TENSr|MOODi	5	pred	_	_
 8	que	que	G	G-	INFLn	7	comp	_	_
 9	dizían	decir	V	V-	PERS3|NUMBp|TENSi|MOODi	8	pred	_	_
 10	verdat	verdad	N	Nb	NUMBs|GENDf	9	obj	_	_
-11	que	que	G	G-	INFLn	17	aux	_	_
+11	que	que	G	G-	INFLn	4	comp(26)comp	_	_
 12	pues	pues	G	G-	INFLn	19	adv	_	_
 13	la	el	S	S-	NUMBs|GENDf	14	aux	_	_
 14	vestía	bestia	N	Nb	NUMBs|GENDf	15	sub	_	_
 15	iba	ir	V	V-	PERS3|NUMBs|TENSi|MOODi	12	pred	_	_
 16	descargada	descargar	V	V-	NUMBs|MOODp|GENDf	15	xobj	_	_
-17	que	que	G	G-	INFLn	7	adv	_	_
+17	que	que	G	G-	INFLn	11	aux	_	_
 18	non	non	D	Df	INFLn	19	aux	_	_
-19	era	ser	V	V-	PERS3|NUMBs|TENSi|MOODi	17	pred	_	_
+19	era	ser	V	V-	PERS3|NUMBs|TENSi|MOODi	11	pred	_	_
 20	buen	bueno	A	A-	NUMBs|GENDm|DEGRp	21	atr	_	_
 21	seso	seso	N	Nb	NUMBs|GENDm	19	xobj	_	_
 22	ir	ir	V	V-	MOODn|INFLn	19	comp	_	_
@@ -12260,13 +12260,13 @@
 36	para	para	R	R-	INFLn	33	obl	_	_
 37	la	el	S	S-	NUMBs|GENDf	38	aux	_	_
 38	Corte	corte	N	Nb	NUMBs|GENDf	36	obl	_	_
-39	que	que	P	Pr	INFLn	41	obl	_	_
-40	asaz	asaz	A	A-	INFLn	41	adv	_	_
-41	avía	haber	V	V-	PERS3|NUMBs|TENSi|MOODi	38	atr	_	_
+39	que	que	G	G-	INFLn	33	adv	_	_
+40	asaz	asaz	A	A-	INFLn	41	obj	_	_
+41	avía	haber	V	V-	PERS3|NUMBs|TENSi|MOODi	39	pred	_	_
 42	en	en	R	R-	INFLn	45	obl	_	_
 43	qué	que	P	Pr	INFLn	42	obl	_	_
 44	le	le	P	Pp	PERS3|NUMBs|GENDm	45	obl	_	_
-45	fazer	hacer	V	V-	MOODn|INFLn	41	comp	_	_
+45	fazer	hacer	V	V-	MOODn|INFLn	40	atr	_	_
 46	bien	bien	D	Df	INFLn	45	adv	_	_
 
 1	Et	et	C	C-	INFLn	4	aux	_	_
