@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<proiel export-time="2018-04-04T22:24:09+02:00" schema-version="2.1">
+<proiel export-time="2023-04-12T21:08:46+02:00" schema-version="2.1">
   <annotation>
     <relations>
       <value tag="adnom" summary="adnominal" primary="true" secondary="true"/>
@@ -171,7 +171,7 @@
     <funder>Department of Philosophy, Classics, History of Arts and Ideas</funder>
     <distributor>Department of Philosophy, Classics, History of Arts and Ideas</distributor>
     <distributor-address>PO Box 1020 Blindern, N-0315 Oslo</distributor-address>
-    <date>04 April 2018</date>
+    <date>12 April 2023</date>
     <license>CC BY-NC-SA 4.0</license>
     <license-url>https://creativecommons.org/licenses/by-nc-sa/4.0/</license-url>
     <reference-system>book, section</reference-system>
@@ -14835,7 +14835,7 @@
       <sentence id="86730" status="reviewed">
         <token id="1209814" form="Talis" citation-part="1.144" lemma="talis" part-of-speech="Pd" morphology="-s---pn--i" head-id="1209817" relation="atr" presentation-after=" "/>
         <token id="1209815" form="est" citation-part="1.144" lemma="sum" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=" "/>
-        <token id="1209816" form="igitur" citation-part="1.144" lemma="igitur" part-of-speech="C-" morphology="---------n" head-id="1209815" relation="aux" presentation-after=" "/>
+        <token id="1209816" form="igitur" citation-part="1.144" lemma="igitur" part-of-speech="Df" morphology="---------n" head-id="1209815" relation="aux" presentation-after=" "/>
         <token id="1209817" form="ordo" citation-part="1.144" lemma="ordo" part-of-speech="Nb" morphology="-s---mn--i" head-id="1209815" relation="sub" presentation-after=" "/>
         <token id="1209818" form="actionum" citation-part="1.144" lemma="actio" part-of-speech="Nb" morphology="-p---fg--i" head-id="1209817" relation="atr" presentation-after=" "/>
         <token id="1209819" form="adhibendus" citation-part="1.144" lemma="adhibeo" part-of-speech="V-" morphology="-s-g-mn--i" head-id="1209815" relation="xobj" presentation-after=", ">

@@ -5253,7 +5253,7 @@
 14	reductus	reduco	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDm|CASEn	4	atr	_	_
 
 1	clamare	clamo	V	V-	TENSp|MOODn|VOICa	0	pred	_	_
-2	praeclari	praeclarus	A	A-	NUMBp|GENDm|CASEb|DEGRp	3	atr	_	_
+2	praeclari	praeclarus	A	A-	NUMBp|GENDm|CASEn|DEGRp	3	atr	_	_
 3	Ariopagitae	Ariopagita	N	Nb	NUMBp|GENDm|CASEn	1	sub	_	_
 4	se	se	P	Pk	PERS3|NUMBp|GENDm|CASEa	7	sub	_	_
 5	non	non	D	Df	INFLn	7	aux	_	_
