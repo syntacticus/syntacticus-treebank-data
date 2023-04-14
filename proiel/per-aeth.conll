@@ -15,7 +15,7 @@
 11	illi	ille	P	Pd	NUMBp|GENDm|CASEn	10	aux	_	_
 12	inter	inter	R	R-	INFLn	14	adv	_	_
 13	quos	qui	P	Pr	NUMBp|GENDm|CASEa	12	obl	_	_
-14	ibamus	eo	V	V-	PERS1|NUMBp|TENSi|MOODi|VOICa	10	atr	_	_
+14	ibamus	eo#1	V	V-	PERS1|NUMBp|TENSi|MOODi|VOICa	10	atr	_	_
 15	aperiebant	aperio	V	V-	PERS3|NUMBp|TENSi|MOODi|VOICa	16	atr	_	_
 16	et	et	C	C-	INFLn	6	atr	_	_
 17	faciebant	facio	V	V-	PERS3|NUMBp|TENSi|MOODi|VOICa	16	atr	_	_
@@ -338,7 +338,7 @@
 
 1	Nobis	nos	P	Pp	PERS1|NUMBp|GENDp|CASEb	3	sub	_	_
 2	ergo	ergo	D	Df	INFLn	15	aux	_	_
-3	euntibus	eo	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDm|CASEb	15	adv	_	_
+3	euntibus	eo#1	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDm|CASEb	15	adv	_	_
 4	ab	ab	R	R-	INFLn	3	obl	_	_
 5	eo	is	P	Pd	NUMBs|GENDo|CASEb	6	atr	_	_
 6	loco	locus	N	Nb	NUMBs|GENDm|CASEb	4	obl	_	_
@@ -1704,7 +1704,7 @@
 13	tenditur	tendo	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	9	atr	_	_
 14	per	per	R	R-	INFLn	13	adv	_	_
 15	longum	longus	A	A-	NUMBs|GENDo|CASEa|DEGRp	14	obl	_	_
-16	iremus	eo	V	V-	PERS1|NUMBp|TENSi|MOODs|VOICa	7	pred	_	_
+16	iremus	eo#1	V	V-	PERS1|NUMBp|TENSi|MOODs|VOICa	7	pred	_	_
 17	id	is	P	Pp	PERS3|NUMBs|GENDn|CASEn	18	sub	_	_
 18	est	sum	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	parpred	_	_
 19	illa	ille	P	Pd	NUMBs|GENDf|CASEb	20	atr	_	_
@@ -1848,7 +1848,7 @@
 1	Nos	nos	P	Pp	PERS1|NUMBp|GENDp|CASEa	7	sub	_	_
 2	etiam	etiam	D	Df	INFLn	7	aux	_	_
 3	quemadmodum	quemadmodum	D	Dq	INFLn	4	adv	_	_
-4	ibamus	eo	V	V-	PERS1|NUMBp|TENSi|MOODi|VOICa	7	adv	_	_
+4	ibamus	eo#1	V	V-	PERS1|NUMBp|TENSi|MOODi|VOICa	7	adv	_	_
 5	de	de	R	R-	INFLn	7	adv	_	_
 6	contra	contra	D	Df	INFLn	5	obl	_	_
 7	uidebamus	video	V	V-	PERS1|NUMBp|TENSi|MOODi|VOICa	0	pred	_	_
@@ -2284,7 +2284,7 @@
 18	filii	filius	N	Nb	NUMBp|GENDm|CASEn	20	sub	_	_
 19	Israhel	Israel	N	Ne	INFLn	18	atr	_	_
 20	tetigerant	tango	V	V-	PERS3|NUMBp|TENSl|MOODi|VOICa	16	atr	_	_
-21	eundo	eo	V	V-	MOODd|CASEb	22	adv	_	_
+21	eundo	eo#1	V	V-	MOODd|CASEb	22	adv	_	_
 22	uel	vel	C	C-	INFLn	20	adv	_	_
 23	redeundo	redeo	V	V-	MOODd|CASEb	22	adv	_	_
 24	ad	ad	R	R-	INFLn	23	obl	_	_
@@ -2443,7 +2443,7 @@
 14	Faran	Faran	N	Ne	INFLn	12	obl	_	_
 15	ubi	ubi	D	Dq	INFLn	18	adv	_	_
 16	et	et	D	Df	INFLn	17	aux	_	_
-17	euntes	eo	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDp|CASEn	18	xadv	_	_
+17	euntes	eo#1	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDp|CASEn	18	xadv	_	_
 18	manseramus	maneo	V	V-	PERS1|NUMBp|TENSl|MOODi|VOICa	9	apos	_	_
 19	sicut	sicut	D	Dq	INFLn	22	adv	_	_
 20	et	et	D	Df	INFLn	21	aux	_	_
@@ -2457,7 +2457,7 @@
 5	facientes	facio	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDm|CASEn	7	xadv	_	_
 6	aquam	aqua	N	Nb	NUMBs|GENDf|CASEa	5	obj	_	_
 7	et	et	C	C-	INFLn	13	xadv	_	_
-8	euntes	eo	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDm|CASEn	7	xadv	_	_
+8	euntes	eo#1	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDm|CASEn	7	xadv	_	_
 9	adhuc	adhuc	D	Df	INFLn	8	adv	_	_
 10	aliquantulum	aliquantulum	D	Df	INFLn	8	adv	_	_
 11	inter	inter	R	R-	INFLn	8	adv	_	_
@@ -2607,7 +2607,7 @@
 11	quo	qui	P	Pr	NUMBs|GENDo|CASEb	12	atr	_	_
 12	loco	locus	N	Nb	NUMBs|GENDm|CASEb	10	obl	_	_
 13	et	et	D	Df	INFLn	17	aux	_	_
-14	euntes	eo	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDp|CASEn	17	xadv	_	_
+14	euntes	eo#1	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDp|CASEn	17	xadv	_	_
 15	inter	inter	R	R-	INFLn	17	obl	_	_
 16	montes	mons	N	Nb	NUMBp|GENDm|CASEa	15	obl	_	_
 17	intraueramus	intro	V	V-	PERS1|NUMBp|TENSl|MOODi|VOICa	12	atr	_	_
@@ -2637,7 +2637,7 @@
 15	per	per	R	R-	INFLn	13	adv	_	_
 16	iter	iter	N	Nb	NUMBs|GENDn|CASEa	15	obl	_	_
 17	quod	qui	P	Pr	NUMBs|GENDn|CASEa	18	obl	_	_
-18	ierant	eo	V	V-	PERS3|NUMBp|TENSl|MOODi|VOICa	16	atr	_	_
+18	ierant	eo#1	V	V-	PERS3|NUMBp|TENSl|MOODi|VOICa	16	atr	_	_
 19	id	is	P	Pp	PERS3|NUMBs|GENDn|CASEn	20	sub	_	_
 20	est	sum	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	parpred	_	_
 21	usque	usque	D	Df	INFLn	22	adv	_	_
@@ -2692,7 +2692,7 @@
 6	eisdem	idem	P	Pd	NUMBp|GENDq|CASEb	7	atr	_	_
 7	mansionibus	mansio	N	Nb	NUMBp|GENDf|CASEb	5	adv	_	_
 8	quibus	qui	P	Pr	NUMBp|GENDq|CASEb	9	adv	_	_
-9	ieramus	eo	V	V-	PERS1|NUMBp|TENSl|MOODi|VOICa	5	atr	_	_
+9	ieramus	eo#1	V	V-	PERS1|NUMBp|TENSl|MOODi|VOICa	5	atr	_	_
 10	reuersi	revertor	V	V-	NUMBp|TENSr|MOODp|VOICp|GENDm|CASEn	0	pred	_	_
 11	sumus	sum	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	10	aux	_	_
 12	in	in	R	R-	INFLn	10	obl	_	_
@@ -2743,7 +2743,7 @@
 23	de	de	R	R-	INFLn	22	obl	_	_
 24	Ramesse	Ramesse	N	Ne	INFLn	23	obl	_	_
 25	tetigerant	tango	V	V-	PERS3|NUMBp|TENSl|MOODi|VOICa	18	atr	_	_
-26	euntes	eo	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDp|CASEn	25	xadv	_	_
+26	euntes	eo#1	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDp|CASEn	25	xadv	_	_
 27	donec	donec	G	G-	INFLn	26	adv	_	_
 28	peruenirent	pervenio	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	27	pred	_	_
 29	usque	usque	D	Df	INFLn	30	adv	_	_
@@ -2909,7 +2909,7 @@
 14	ambulasse	ambulo	V	V-	TENSr|MOODn|VOICa	3	comp	_	_
 15	ut	ut	G	G-	INFLn	13	apos	_	_
 16	quantum	quantum	D	Dq	INFLn	17	adv	_	_
-17	irent	eo	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	19	apos	_	_
+17	irent	eo#1	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICa	19	apos	_	_
 18	dextra	dexter	A	A-	NUMBs|GENDf|CASEb|DEGRp	17	adv	_	_
 19	tantum	tantum	D	Df	INFLn	20	adv	_	_
 20	reuerterentur	revertor	V	V-	PERS3|NUMBp|TENSi|MOODs|VOICp	15	pred(31)pred	_	_
@@ -2918,7 +2918,7 @@
 23	denuo	denuo	D	Df	INFLn	26	adv	_	_
 24	in	in	R	R-	INFLn	26	adv	_	_
 25	ante	ante	D	Df	INFLn	24	obl	_	_
-26	ibant	eo	V	V-	PERS3|NUMBp|TENSi|MOODi|VOICa	27	apos	_	_
+26	ibant	eo#1	V	V-	PERS3|NUMBp|TENSi|MOODi|VOICa	27	apos	_	_
 27	tantum	tantum	D	Df	INFLn	30	adv	_	_
 28	denuo	denuo	D	Df	INFLn	30	adv	_	_
 29	retro	retro	D	Df	INFLn	30	adv	_	_
@@ -3492,7 +3492,7 @@
 22	post	post	R	R-	INFLn	24	adv	_	_
 23	illos	ille	P	Pd	NUMBp|GENDm|CASEa	22	obl	_	_
 24	occuparet	occupo	V	V-	PERS3|NUMBs|TENSi|MOODs|VOICa	21	pred	_	_
-25	isset	eo	V	V-	PERS3|NUMBs|TENSl|MOODs|VOICa	32	pred	_	_
+25	isset	eo#1	V	V-	PERS3|NUMBs|TENSl|MOODs|VOICa	32	pred	_	_
 26	cum	cum	R	R-	INFLn	25	adv	_	_
 27	omni	omnis	P	Px	NUMBs|GENDq|CASEb	28	atr	_	_
 28	exercitu	exercitus	N	Nb	NUMBs|GENDm|CASEb	26	obl	_	_
@@ -4302,7 +4302,7 @@
 13	montem	mons	N	Nb	NUMBs|GENDm|CASEa	14	apos	_	_
 14	Nabau	Nabau	N	Ne	INFLn	12	obl	_	_
 
-1	Euntibus	eo	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDq|CASEb	3	adv	_	_
+1	Euntibus	eo#1	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDq|CASEb	3	adv	_	_
 2	nobis	nos	P	Pp	PERS1|NUMBp|GENDp|CASEb	1	sub	_	_
 3	commonuit	commoneo	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	0	pred	_	_
 4	presbyter	presbyter	N	Nb	NUMBs|GENDm|CASEn	3	sub	_	_
@@ -4372,7 +4372,7 @@
 6	auidi	avidus	A	A-	NUMBp|GENDm|CASEn|DEGRp	7	xadv	_	_
 7	optati	opto	V	V-	NUMBp|TENSr|MOODp|VOICp|GENDm|CASEn	10	pred	_	_
 8	sumus	sum	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	7	aux	_	_
-9	ire	eo	V	V-	TENSp|MOODn|VOICa	7	xobj	_	_
+9	ire	eo#1	V	V-	TENSp|MOODn|VOICa	7	xobj	_	_
 10	et	et	C	C-	INFLn	0	pred	_	_
 11	statim	statim	D	Df	INFLn	15	adv	_	_
 12	diuertentes	diverto	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDp|CASEn	15	xadv	_	_
@@ -5238,7 +5238,7 @@
 15	iter	iter	N	Nb	NUMBs|GENDn|CASEa	14	obl	_	_
 16	omne	omnis	P	Px	NUMBs|GENDn|CASEa	15	atr	_	_
 17	quod	qui	P	Pr	NUMBs|GENDn|CASEa	18	obl	_	_
-18	iueramus	eo	V	V-	PERS1|NUMBp|TENSl|MOODi|VOICa	15	atr	_	_
+18	iueramus	eo#1	V	V-	PERS1|NUMBp|TENSl|MOODi|VOICa	15	atr	_	_
 19	regressi	regredior	V	V-	NUMBp|TENSr|MOODp|VOICp|GENDm|CASEn	0	pred	_	_
 20	sumus	sum	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	19	aux	_	_
 21	in	in	R	R-	INFLn	19	obl	_	_
@@ -5337,7 +5337,7 @@
 27	usque	usque	D	Df	INFLn	28	adv	_	_
 28	ad	ad	R	R-	INFLn	24	atr	_	_
 29	Carneas	Carneas	N	Ne	INFLn	28	obl	_	_
-30	eundo	eo	V	V-	MOODd|CASEb	22	xadv	_	_
+30	eundo	eo#1	V	V-	MOODd|CASEb	22	xadv	_	_
 31	per	per	R	R-	INFLn	30	adv	_	_
 32	mansiones	mansio	N	Nb	NUMBp|GENDf|CASEa	31	obl	_	_
 33	octo	octo	M	Ma	INFLn	32	atr	_	_
@@ -5365,7 +5365,7 @@
 1	in	in	R	R-	INFLn	4	adv	_	_
 2	quo	qui	P	Pr	NUMBs|GENDo|CASEb	3	atr	_	_
 3	itinere	iter	N	Nb	NUMBs|GENDn|CASEb	1	obl	_	_
-4	hiens	eo	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDf|CASEn	5	xadv	_	_
+4	hiens	eo#1	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDf|CASEn	5	xadv	_	_
 5	uidi	video	V	V-	PERS1|NUMBs|TENSr|MOODi|VOICa	0	pred	_	_
 6	super	super	R	R-	INFLn	5	adv	_	_
 7	ripam	ripa	N	Nb	NUMBs|GENDf|CASEa	6	obl	_	_
@@ -5841,7 +5841,7 @@
 1	Statim	statim	D	Df	INFLn	3	adv	_	_
 2	ergo	ergo	D	Df	INFLn	3	aux	_	_
 3	cepimus	coepi	V	V-	PERS1|NUMBp|TENSr|MOODi|VOICa	0	pred	_	_
-4	ire	eo	V	V-	TENSp|MOODn|VOICa	3	xobj	_	_
+4	ire	eo#1	V	V-	TENSp|MOODn|VOICa	3	xobj	_	_
 5	cum	cum	R	R-	INFLn	4	adv	_	_
 6	eo	is	P	Pp	PERS3|NUMBs|GENDo|CASEb	5	obl	_	_
 7	pedibus	pes	N	Nb	NUMBp|GENDm|CASEb	4	adv	_	_
@@ -6079,12 +6079,12 @@
 34	iter	iter	N	Nb	NUMBs|GENDn|CASEa	32	obj	_	_
 35	nostrum	noster	P	Ps	PERS1|NUMBs|GENDo|CASEa	34	atr	_	_
 36	quo	quo	D	Dq	INFLn	37	adv	_	_
-37	ibamus	eo	V	V-	PERS1|NUMBp|TENSi|MOODi|VOICa	35	atr	_	_
+37	ibamus	eo#1	V	V-	PERS1|NUMBp|TENSi|MOODi|VOICa	35	atr	_	_
 
 1	Ac	atque	C	C-	INFLn	21	aux	_	_
 2	sic	sic	D	Df	INFLn	21	aux	_	_
 3	ergo	ergo	D	Df	INFLn	21	aux	_	_
-4	euntes	eo	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDp|CASEn	21	xadv	_	_
+4	euntes	eo#1	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDp|CASEn	21	xadv	_	_
 5	aliquandiu	aliquamdiu	D	Df	INFLn	4	adv	_	_
 6	per	per	R	R-	INFLn	4	adv	_	_
 7	uallem	valles	N	Nb	NUMBs|GENDf|CASEa	6	obl	_	_
@@ -6156,7 +6156,7 @@
 13	nostrum	noster	P	Ps	PERS1|NUMBs|GENDn|CASEa	12	atr	_	_
 
 1	Item	item	D	Df	INFLn	6	adv	_	_
-2	euntes	eo	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDp|CASEn	6	xadv	_	_
+2	euntes	eo#1	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDp|CASEn	6	xadv	_	_
 3	in	in	R	R-	INFLn	2	adv	_	_
 4	eo	is	P	Pd	NUMBs|GENDo|CASEb	5	atr	_	_
 5	itinere	iter	N	Nb	NUMBs|GENDn|CASEb	3	obl	_	_
@@ -6295,7 +6295,7 @@
 16	ostendere	ostendo	V	V-	TENSp|MOODn|VOICa	15	xobj	_	_
 17	itaque	itaque	D	Df	INFLn	20	aux	_	_
 18	ergo	ergo	D	Df	INFLn	20	aux	_	_
-19	ire	eo	V	V-	TENSp|MOODn|VOICa	20	xobj	_	_
+19	ire	eo#1	V	V-	TENSp|MOODn|VOICa	20	xobj	_	_
 20	cepimus	coepi	V	V-	PERS1|NUMBp|TENSr|MOODi|VOICa	0	pred	_	_
 21	iter	iter	N	Nb	NUMBs|GENDn|CASEa	20	obj	_	_
 22	nostrum	noster	P	Ps	PERS1|NUMBs|GENDo|CASEa	21	atr	_	_
@@ -6513,7 +6513,7 @@
 17	mansiones	mansio	N	Nb	NUMBp|GENDf|CASEa	15	obl	_	_
 18	per	per	R	R-	INFLn	20	adv	_	_
 19	quas	qui	P	Pr	NUMBp|GENDf|CASEa	18	obl	_	_
-20	ieramus	eo	V	V-	PERS1|NUMBp|TENSl|MOODi|VOICa	17	atr	_	_
+20	ieramus	eo#1	V	V-	PERS1|NUMBp|TENSl|MOODi|VOICa	17	atr	_	_
 21	tres	tres	M	Ma	NUMBp|GENDp|CASEa	22	atr	_	_
 22	annos	annus	N	Nb	NUMBp|GENDm|CASEa	20	adv	_	_
 
@@ -6705,7 +6705,7 @@
 23	inde	inde	D	Df	INFLn	26	adv	_	_
 24	ad	ad	R	R-	INFLn	26	obl	_	_
 25	Mesopotamiam	Mesopotamia	N	Ne	NUMBs|GENDf|CASEa	24	obl	_	_
-26	irem	eo	V	V-	PERS1|NUMBs|TENSi|MOODs|VOICa	14	pred	_	_
+26	irem	eo#1	V	V-	PERS1|NUMBs|TENSi|MOODs|VOICa	14	pred	_	_
 27	sicut	sicut	D	Dq	INFLn	29	adv	_	_
 28	et	et	D	Df	INFLn	29	aux	_	_
 29	factum	facio	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDn|CASEn	26	adv	_	_
@@ -7719,7 +7719,7 @@
 9	ad	ad	R	R-	INFLn	8	obl	_	_
 10	me	ego	P	Pp	PERS1|NUMBs|GENDm|CASEa	9	obl	_	_
 
-1	Eamus	eo	V	V-	PERS1|NUMBp|TENSp|MOODs|VOICa	0	pred	_	_
+1	Eamus	eo#1	V	V-	PERS1|NUMBp|TENSp|MOODs|VOICa	0	pred	_	_
 2	nunc	nunc	D	Df	INFLn	1	adv	_	_
 3	ad	ad	R	R-	INFLn	1	obl	_	_
 4	portam	porta	N	Nb	NUMBs|GENDf|CASEa	3	obl	_	_
@@ -8698,8 +8698,8 @@
 16	sed	sed	C	C-	INFLn	0	pred	_	_
 17	cum	cum	G	G-	INFLn	20	adv	_	_
 18	uolueris	volo#1	V	V-	PERS2|NUMBs|TENSt|MOODi|VOICa	17	pred	_	_
-19	ire	eo	V	V-	TENSp|MOODn|VOICa	18	xobj	_	_
-20	imus	eo	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	23	pred	_	_
+19	ire	eo#1	V	V-	TENSp|MOODn|VOICa	18	xobj	_	_
+20	imus	eo#1	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	23	pred	_	_
 21	te	tu	P	Pp	PERS2|NUMBs|GENDf|CASEb	22	obl	_	_
 22	cum	cum	R	R-	INFLn	20	adv	_	_
 23	et	et	C	C-	INFLn	16	pred	_	_
@@ -9229,7 +9229,7 @@
 23	quidem	quidem	D	Df	INFLn	29	aux	_	_
 24	Tharso	Tarsus	N	Ne	NUMBs|GENDf|CASEb	22	apos	_	_
 25	et	et	D	Df	INFLn	29	aux	_	_
-26	eundo	eo	V	V-	MOODd|CASEb	29	adv	_	_
+26	eundo	eo#1	V	V-	MOODd|CASEb	29	adv	_	_
 27	Ierusolimam	Hierosolyma	N	Ne	NUMBs|GENDf|CASEa	26	obl	_	_
 28	iam	iam	D	Df	INFLn	29	adv	_	_
 29	fueram	sum	V	V-	PERS1|NUMBs|TENSl|MOODi|VOICa	21	apos	_	_
@@ -9604,7 +9604,7 @@
 14	singulas	singulus	A	A-	NUMBp|GENDf|CASEa|DEGRp	15	atr	_	_
 15	prouincias	provincia	N	Nb	NUMBp|GENDf|CASEn	13	obl	_	_
 16	quas	qui	P	Pr	NUMBp|GENDf|CASEa	18	obj	_	_
-17	eundo	eo	V	V-	MOODd|CASEb	18	adv	_	_
+17	eundo	eo#1	V	V-	MOODd|CASEb	18	adv	_	_
 18	transiueram	transeo	V	V-	PERS1|NUMBs|TENSl|MOODi|VOICa	15	atr	_	_
 19	id	is	P	Pp	PERS3|NUMBs|GENDn|CASEn	20	sub	_	_
 20	est	sum	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	parpred	_	_
@@ -9662,7 +9662,7 @@
 29	non	non	D	Df	INFLn	30	aux	_	_
 30	solum	solum	D	Df	INFLn	31	atr	_	_
 31	uoluntatem	voluntas	N	Nb	NUMBs|GENDf|CASEa	33	obj	_	_
-32	eundi	eo	V	V-	MOODd|CASEg	31	narg	_	_
+32	eundi	eo#1	V	V-	MOODd|CASEg	31	narg	_	_
 33	sed	sed	C	C-	INFLn	41	obj	_	_
 34	et	et	D	Df	INFLn	35	aux	_	_
 35	facultatem	facultas	N	Nb	NUMBs|GENDf|CASEa	33	obj	_	_
@@ -11119,7 +11119,7 @@
 8	hora	hora	N	Nb	NUMBs|GENDf|CASEn	7	xobj	_	_
 9	tertia	tertius	M	Mo	NUMBs|GENDf|CASEn	8	atr	_	_
 10	illuc	illuc	D	Df	INFLn	11	obl	_	_
-11	eatur	eo	V	V-	PERS3|NUMBs|TENSp|MOODs|VOICp	5	pred(19)pred	_	_
+11	eatur	eo#1	V	V-	PERS3|NUMBs|TENSp|MOODs|VOICp	5	pred(19)pred	_	_
 12	fiat	fio	V	V-	PERS3|NUMBs|TENSp|MOODs|VOICa	5	pred(19)pred	_	_
 13	primum	primum	D	Df	INFLn	12	adv	_	_
 14	missa	missa	N	Nb	NUMBs|GENDf|CASEn	12	sub	_	_
@@ -11149,7 +11149,7 @@
 8	necesse	necesse	D	Df	INFLn	9	xobj	_	_
 9	est	sum	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	2	pred	_	_
 10	lenius	leniter	D	Df	DEGRc	11	adv	_	_
-11	iri	eo	V	V-	TENSp|MOODn|VOICp	9	comp	_	_
+11	iri	eo#1	V	V-	TENSp|MOODn|VOICp	9	comp	_	_
 12	ac	atque	C	C-	INFLn	14	aux	_	_
 13	sic	sic	D	Df	INFLn	14	aux	_	_
 14	peruenitur	pervenio	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	0	pred	_	_
@@ -11414,7 +11414,7 @@
 22	ecclesiae	ecclesia	N	Nb	NUMBs|GENDf|CASEg	21	narg	_	_
 23	facta	facio	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDf|CASEn	20	pred	_	_
 24	fuerit	sum	V	V-	PERS3|NUMBs|TENSr|MOODs|VOICa	23	aux	_	_
-25	hitur	eo	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	2	pred	_	_
+25	hitur	eo#1	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	2	pred	_	_
 26	cum	cum	R	R-	INFLn	25	adv	_	_
 27	ymnis	hymnus	N	Nb	NUMBp|GENDm|CASEb	26	obl	_	_
 28	ad	ad	R	R-	INFLn	25	obl	_	_
@@ -11928,7 +11928,7 @@
 6	facta	facio	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDf|CASEb	9	adv	_	_
 7	ad	ad	R	R-	INFLn	9	obl	_	_
 8	Anastase	Anastasis	N	Ne	NUMBs|GENDm|CASEb	7	obl	_	_
-9	itur	eo	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	0	pred	_	_
+9	itur	eo#1	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	0	pred	_	_
 10	cum	cum	R	R-	INFLn	9	adv	_	_
 11	ymnis	hymnus	N	Nb	NUMBp|GENDm|CASEb	10	obl	_	_
 12	sicut	sicut	D	Dq	INFLn	16	adv	_	_
@@ -11981,7 +11981,7 @@
 7	primo	primus	M	Mo	NUMBs|GENDo|CASEb	6	atr	_	_
 8	ad	ad	R	R-	INFLn	10	obl	_	_
 9	Anastasem	Anastasis	N	Ne	NUMBs|GENDm|CASEa	8	obl	_	_
-10	itur	eo	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	15	pred	_	_
+10	itur	eo#1	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	15	pred	_	_
 11	sicut	sicut	D	Df	INFLn	10	adv	_	_
 12	et	et	D	Df	INFLn	14	aux	_	_
 13	toto	totus	A	A-	NUMBs|GENDo|CASEb|DEGRp	14	atr	_	_
@@ -11997,7 +11997,7 @@
 1	Denuo	denuo	D	Df	INFLn	4	adv	_	_
 2	ad	ad	R	R-	INFLn	4	adv	_	_
 3	tertia	tertius	M	Mo	NUMBs|GENDf|CASEb	2	obl	_	_
-4	itur	eo	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	7	pred	_	_
+4	itur	eo#1	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	7	pred	_	_
 5	ad	ad	R	R-	INFLn	4	obl	_	_
 6	Anastasim	Anastasis	N	Ne	NUMBs|GENDm|CASEa	5	obl	_	_
 7	et	et	C	C-	INFLn	0	pred	_	_
@@ -12020,7 +12020,7 @@
 24	et	et	D	Df	INFLn	25	aux	_	_
 25	ad	ad	R	R-	INFLn	27	adv	_	_
 26	tertiam	tertius	M	Mo	NUMBs|GENDf|CASEa	25	obl	_	_
-27	eatur	eo	V	V-	PERS3|NUMBs|TENSp|MOODs|VOICp	23	pred	_	_
+27	eatur	eo#1	V	V-	PERS3|NUMBs|TENSp|MOODs|VOICp	23	pred	_	_
 
 1	Item	item	D	Df	INFLn	9	adv	_	_
 2	ad	ad	R	R-	INFLn	9	adv	_	_
@@ -12060,7 +12060,7 @@
 2	feria	feria	N	Nb	NUMBs|GENDf|CASEb	5	adv	_	_
 3	autem	autem	D	Df	INFLn	5	aux	_	_
 4	similiter	similiter	D	Df	DEGRp	5	adv	_	_
-5	itur	eo	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	10	pred	_	_
+5	itur	eo#1	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	10	pred	_	_
 6	de	de	R	R-	INFLn	5	adv	_	_
 7	noctu	noctu	D	Df	INFLn	6	obl	_	_
 8	ad	ad	R	R-	INFLn	5	obl	_	_
@@ -12284,7 +12284,7 @@
 13	nonam	nonus	M	Mo	NUMBs|GENDf|CASEa	12	obl	_	_
 14	in	in	R	R-	INFLn	16	obl	_	_
 15	Syon	Sion	N	Ne	INFLn	14	obl	_	_
-16	itur	eo	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	10	pred	_	_
+16	itur	eo#1	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	10	pred	_	_
 17	et	et	C	C-	INFLn	10	aux	_	_
 18	similiter	similiter	D	Df	DEGRp	25	adv	_	_
 19	inde	inde	D	Df	INFLn	25	obl	_	_
@@ -12927,7 +12927,7 @@
 10	a	ab	R	R-	INFLn	9	atr	_	_
 11	ciuitate	civitas	N	Nb	NUMBs|GENDf|CASEb	10	obl	_	_
 
-1	Euntibus	eo	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDm|CASEb	15	adv	_	_
+1	Euntibus	eo#1	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDm|CASEb	15	adv	_	_
 2	autem	autem	D	Df	INFLn	15	aux	_	_
 3	de	de	R	R-	INFLn	1	obl	_	_
 4	Ierusolima	Hierosolyma	N	Ne	INFLn	3	obl	_	_
@@ -13000,7 +13000,7 @@
 12	Lazarium	Lazarium	N	Ne	NUMBs|GENDn|CASEa	11	obl	_	_
 13	cum	cum	R	R-	INFLn	15	adv	_	_
 14	ymnis	hymnus	N	Nb	NUMBp|GENDm|CASEb	13	obl	_	_
-15	itur	eo	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	0	pred	_	_
+15	itur	eo#1	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	0	pred	_	_
 
 1	In	in	R	R-	INFLn	5	obl	_	_
 2	Lazario	Lazarium	N	Ne	NUMBs|GENDn|CASEb	1	obl	_	_
@@ -13302,7 +13302,7 @@
 31	et	et	C	C-	INFLn	38	aux	_	_
 32	iam	iam	D	Df	INFLn	38	adv	_	_
 33	unusquisque	unusquisque	P	Px	NUMBs|GENDm|CASEn	38	sub	_	_
-34	hiens	eo	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDm|CASEn	38	xadv	_	_
+34	hiens	eo#1	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDm|CASEn	38	xadv	_	_
 35	ad	ad	R	R-	INFLn	34	obl	_	_
 36	domum	domus	N	Nb	NUMBs|GENDf|CASEa	35	obl	_	_
 37	suam	suus	P	Pt	PERS3|NUMBs|GENDf|CASEa	36	atr	_	_
@@ -13474,7 +13474,7 @@
 6	Oliueti	olivetum	N	Nb	NUMBs|GENDn|CASEg	5	atr	_	_
 7	totum	totum	D	Df	INFLn	9	adv	_	_
 8	pedibus	pes	N	Nb	NUMBp|GENDm|CASEb	9	adv	_	_
-9	itur	eo	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	0	pred	_	_
+9	itur	eo#1	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	0	pred	_	_
 
 1	Nam	nam	D	Df	INFLn	0	aux(12)pred	_	_
 2	totus	totus	A	A-	NUMBs|GENDm|CASEn|DEGRp	3	atr	_	_
@@ -13754,7 +13754,7 @@
 13	ad	ad	R	R-	INFLn	11	adv	_	_
 14	Martyrium	martyrium	N	Nb	NUMBs|GENDn|CASEa	13	obl	_	_
 15	et	et	C	C-	INFLn	9	pred	_	_
-16	itum	eo	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDn|CASEn	15	pred	_	_
+16	itum	eo#1	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDn|CASEn	15	pred	_	_
 17	fuerit	sum	V	V-	PERS3|NUMBs|TENSr|MOODs|VOICa	16	aux	_	_
 18	ad	ad	R	R-	INFLn	16	obl	_	_
 19	Anastase	Anastasis	N	Ne	NUMBs|GENDm|CASEb	18	obl	_	_
@@ -13921,7 +13921,7 @@
 13	ubi	ubi	D	Dq	INFLn	16	adv	_	_
 14	Iudas	Iudas	N	Ne	NUMBs|GENDm|CASEn	16	sub	_	_
 15	Scariothes	Scarioth	N	Ne	NUMBs|GENDm|CASEn	14	apos	_	_
-16	hiuit	eo	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	12	atr(26)atr	_	_
+16	hiuit	eo#1	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	12	atr(26)atr	_	_
 17	ad	ad	R	R-	INFLn	16	obl	_	_
 18	Iudeos	Iudaei	N	Nb	NUMBp|GENDm|CASEa	17	obl	_	_
 19	definiuit	definio	V	V-	PERS3|NUMBs|TENSr|MOODi|VOICa	12	atr(26)atr	_	_
@@ -14118,7 +14118,7 @@
 3	et	et	D	Df	INFLn	4	aux	_	_
 4	ibi	ibi	D	Df	INFLn	1	adv	_	_
 5	missa	missa	N	Nb	NUMBs|GENDf|CASEb	1	sub	_	_
-6	itur	eo	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	15	pred	_	_
+6	itur	eo#1	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	15	pred	_	_
 7	ad	ad	R	R-	INFLn	6	obl	_	_
 8	Anastase	Anastasis	N	Ne	NUMBs|GENDm|CASEb	7	obl	_	_
 9	fit	fio	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	15	pred	_	_
@@ -14226,7 +14226,7 @@
 5	noctis	nox	N	Nb	NUMBs|GENDf|CASEg	4	atr	_	_
 6	forsitan	forsitan	D	Df	INFLn	7	aux	_	_
 7	sexta	sextus	M	Mo	NUMBs|GENDf|CASEb	4	atr	_	_
-8	itur	eo	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	0	pred	_	_
+8	itur	eo#1	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	0	pred	_	_
 9	susu	sursum	D	Df	INFLn	8	adv	_	_
 10	in	in	R	R-	INFLn	8	obl	_	_
 11	Imbomon	Imbomon	N	Ne	INFLn	10	obl	_	_
@@ -14473,7 +14473,7 @@
 3	ex	ex	R	R-	INFLn	6	adv	_	_
 4	illa	ille	P	Pd	NUMBs|GENDf|CASEb	5	atr	_	_
 5	hora	hora	N	Nb	NUMBs|GENDf|CASEb	3	obl	_	_
-6	hitur	eo	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	0	pred	_	_
+6	hitur	eo#1	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	0	pred	_	_
 7	ad	ad	R	R-	INFLn	6	obl	_	_
 8	ciuitatem	civitas	N	Nb	NUMBs|GENDf|CASEa	7	obl	_	_
 9	pedibus	pes	N	Nb	NUMBp|GENDm|CASEb	6	adv	_	_
@@ -14626,7 +14626,7 @@
 9	dicit	dico	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 10	eis	is	P	Pp	PERS3|NUMBp|GENDm|CASEd	9	obl	_	_
 
-1	Ite	eo	V	V-	PERS2|NUMBp|TENSp|MOODm|VOICa	12	pred	_	_
+1	Ite	eo#1	V	V-	PERS2|NUMBp|TENSp|MOODm|VOICa	12	pred	_	_
 2	interim	interim	D	Df	INFLn	1	adv	_	_
 3	nunc	nunc	D	Df	INFLn	1	adv	_	_
 4	unusquisque	unusquisque	P	Px	NUMBs|GENDm|CASEn	1	sub	_	_
@@ -14975,7 +14975,7 @@
 6	se	se	P	Pk	PERS3|NUMBs|GENDf|CASEa	7	obj	_	_
 7	fecerit	facio	V	V-	PERS3|NUMBs|TENSr|MOODs|VOICa	9	adv	_	_
 8	sic	sic	D	Df	INFLn	9	aux	_	_
-9	itur	eo	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	0	pred	_	_
+9	itur	eo#1	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	0	pred	_	_
 10	ante	ante	R	R-	INFLn	9	obl	_	_
 11	Crucem	crux	N	Nb	NUMBs|GENDf|CASEa	10	obl	_	_
 12	si	si	G	G-	INFLn	9	adv	_	_
@@ -15999,7 +15999,7 @@
 2	inde	inde	D	Df	INFLn	5	obl	_	_
 3	cum	cum	R	R-	INFLn	5	adv	_	_
 4	ymnis	hymnus	N	Nb	NUMBp|GENDm|CASEb	3	obl	_	_
-5	itur	eo	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	0	pred	_	_
+5	itur	eo#1	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	0	pred	_	_
 6	in	in	R	R-	INFLn	5	obl	_	_
 7	Imbomon	Imbomon	N	Ne	INFLn	6	obl	_	_
 8	susu	sursum	D	Df	INFLn	6	apos	_	_
@@ -16195,7 +16195,7 @@
 14	consuetudinem	consuetudo	N	Nb	NUMBs|GENDf|CASEa	13	obl	_	_
 15	et	et	C	C-	INFLn	0	pred	_	_
 16	inde	inde	D	Df	INFLn	17	obl	_	_
-17	itur	eo	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	15	pred	_	_
+17	itur	eo#1	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	15	pred	_	_
 18	ad	ad	R	R-	INFLn	17	obl	_	_
 19	Anastase	Anastasis	N	Ne	NUMBs|GENDm|CASEb	18	obl	_	_
 20	cum	cum	R	R-	INFLn	17	adv	_	_
@@ -16577,7 +16577,7 @@
 10	in	in	R	R-	INFLn	5	apos	_	_
 11	Eleona	Eleona	N	Ne	INFLn	10	obl	_	_
 12	primum	primum	D	Df	INFLn	13	adv	_	_
-13	itur	eo	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	26	pred	_	_
+13	itur	eo#1	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	26	pred	_	_
 14	in	in	R	R-	INFLn	13	obl	_	_
 15	Imbomon	Imbomon	N	Ne	INFLn	14	obl	_	_
 16	id	is	P	Pp	PERS3|NUMBs|GENDn|CASEn	17	sub	_	_
@@ -16675,7 +16675,7 @@
 16	et	et	C	C-	INFLn	10	aux	_	_
 17	cum	cum	R	R-	INFLn	19	adv	_	_
 18	ymnis	hymnus	N	Nb	NUMBp|GENDm|CASEb	17	obl	_	_
-19	itur	eo	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	10	pred	_	_
+19	itur	eo#1	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	10	pred	_	_
 20	ad	ad	R	R-	INFLn	19	obl	_	_
 21	illam	ille	P	Pd	NUMBs|GENDf|CASEa	22	aux	_	_
 22	ecclesiam	ecclesia	N	Nb	NUMBs|GENDf|CASEa	20	obl	_	_
@@ -16792,7 +16792,7 @@
 22	lente	lente	D	Df	DEGRp	23	adv	_	_
 23	et	et	C	C-	INFLn	25	adv	_	_
 24	lente	lente	D	Df	DEGRp	23	adv	_	_
-25	itur	eo	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	21	pred	_	_
+25	itur	eo#1	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	21	pred	_	_
 26	totum	totum	D	Df	INFLn	25	adv	_	_
 27	pro	pro	R	R-	INFLn	25	adv	_	_
 28	populo	populus	N	Nb	NUMBs|GENDm|CASEb	27	obl	_	_
@@ -16837,7 +16837,7 @@
 16	denuo	denuo	D	Df	INFLn	19	adv	_	_
 17	cum	cum	R	R-	INFLn	19	adv	_	_
 18	ymnis	hymnus	N	Nb	NUMBp|GENDm|CASEb	17	obl	_	_
-19	itur	eo	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	11	pred	_	_
+19	itur	eo#1	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	11	pred	_	_
 20	ad	ad	R	R-	INFLn	19	obl	_	_
 21	Anastase	Anastasis	N	Ne	NUMBs|GENDm|CASEb	20	obl	_	_
 
@@ -17123,7 +17123,7 @@
 20	de	de	R	R-	INFLn	23	adv	_	_
 21	pullo	pullus	N	Nb	NUMBs|GENDm|CASEb	20	obl	_	_
 22	primo	primus	M	Mo	NUMBs|GENDo|CASEb	21	atr	_	_
-23	ire	eo	V	V-	TENSp|MOODn|VOICa	18	comp	_	_
+23	ire	eo#1	V	V-	TENSp|MOODn|VOICa	18	comp	_	_
 24	ut	ut	G	G-	INFLn	23	adv	_	_
 25	euangelium	evangelium	N	Nb	NUMBs|GENDn|CASEa	26	obj	_	_
 26	legat	lego	V	V-	PERS3|NUMBs|TENSp|MOODs|VOICa	24	pred	_	_
@@ -17871,7 +17871,7 @@
 21	de	de	R	R-	INFLn	18	narg	_	_
 22	ecclesia	ecclesia	N	Nb	NUMBs|GENDf|CASEb	21	obl	_	_
 23	et	et	D	Df	INFLn	24	aux	_	_
-24	itur	eo	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	34	pred	_	_
+24	itur	eo#1	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICp	34	pred	_	_
 25	cum	cum	R	R-	INFLn	24	adv	_	_
 26	ymnis	hymnus	N	Nb	NUMBp|GENDm|CASEb	25	obl	_	_
 27	ad	ad	R	R-	INFLn	24	obl	_	_

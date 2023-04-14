@@ -2785,9 +2785,9 @@
 
 1	по	по	R	R-	INFLn	4	adv	_	_
 2	вѣрѣ	вѣра	N	Nb	NUMBs|GENDf|CASEd	1	obl	_	_
-3	ваю	вꙑ	P	Pp	PERS2|NUMBd|GENDq|CASEg	2	atr	_	_
+3	ваю	ва	P	Pp	PERS2|NUMBd|GENDq|CASEg	2	atr	_	_
 4	бѫди	бꙑти	V	V-	PERS3|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
-5	вама	вꙑ	P	Pp	PERS2|NUMBd|GENDq|CASEd	4	obl	_	_
+5	вама	ва	P	Pp	PERS2|NUMBd|GENDq|CASEd	4	obl	_	_
 
 1	ꙇ҅	и	C	C-	INFLn	2	aux	_	_
 2	отврѣсте	отврѣсти	V	V-	PERS3|NUMBd|TENSa|MOODi|VOICa	0	pred	_	_
@@ -4043,7 +4043,7 @@
 6	небоу	небо	N	Nb	NUMBs|GENDn|CASEd	7	atr	_	_
 7	и	и	C	C-	INFLn	5	atr	_	_
 8	земи	землꙗ	N	Nb	NUMBs|GENDf|CASEd	7	atr	_	_
-9	ѣко	ꙗко	G	G-	INFLn	1	comp	_	_
+9	ѣко	ꙗко	G	G-	INFLn	1	adv	_	_
 10	оутаилъ	оутаити	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	17	pred	_	_
 11	еси	бꙑти	V	V-	PERS2|NUMBs|TENSp|MOODi|VOICa	18	aux	_	_
 12	се	сь	P	Pd	NUMBs|GENDn|CASEa	10	obj	_	_
@@ -4120,7 +4120,7 @@
 13	есмъ	бꙑти	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	11	pred	_	_
 14	и	и	C	C-	INFLn	13	xobj	_	_
 15	съмѣренъ	съмѣрити	V	V-	NUMBs|TENSu|MOODp|VOICp|GENDm|CASEn|STREs	14	xobj	_	_
-16	с҃рдцмъ	срьдьце	N	Nb	NUMBs|GENDn|CASEi	15	arg	_	_
+16	с҃рдцмъ	срьдьце	N	Nb	NUMBs|GENDn|CASEi	15	adv	_	_
 17	ꙇ	и	C	C-	INFLn	0	pred	_	_
 18	обрѧщете	обрѣсти	V	V-	PERS2|NUMBp|TENSp|MOODi|VOICa	17	pred	_	_
 19	покои	покои	N	Nb	NUMBs|GENDm|CASEa	18	obj	_	_
@@ -4153,7 +4153,7 @@
 6	и	и	C	C-	INFLn	0	pred	_	_
 7	начѧсѧ	начѧти	V	V-	PERS3|NUMBp|TENSa|MOODi|VOICa	6	pred	_	_
 8	въстръгати	въстръгати	V	V-	TENSp|MOODn|VOICa	10	xobj	_	_
-9	класꙑ	класъ	N	Nb	NUMBp|GENDm|CASEa	8	obj	_	_
+9	класꙑ	класъ	N	Nb	NUMBp|GENDm|CASEa	10	obj	_	_
 10	и	и	C	C-	INFLn	7	xobj	_	_
 11	ѣсти	ꙗсти	V	V-	TENSp|MOODn|VOICa	10	xobj	_	_
 
@@ -4394,14 +4394,13 @@
 6	ѣвѣ	авѣ	D	Df	INFLn	8	xobj	_	_
 7	его	и	P	Pp	PERS3|NUMBs|GENDm|CASEg	8	obj	_	_
 8	сътворѧтъ	сътворити	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	4	pred	_	_
-
-1	да	да	G	G-	INFLn	0	adv(8)pred	_	_
-2	събѫдетъ	събꙑти	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	1	pred	_	_
-3	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	2	aux	_	_
-4	реченое	рещи	V	V-	NUMBs|TENSu|MOODp|VOICp|GENDn|CASEn|STREw	2	sub	_	_
-5	п҃ркомь	пророкъ	N	Nb	NUMBs|GENDm|CASEi	4	adv	_	_
-6	исаиемь	исаиꙗ	N	Ne	NUMBs|GENDm|CASEi	5	apos	_	_
-7	г҃лщемь	глаголати	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDm|CASEi|STREs	4	xadv	_	_
+9	да	да	G	G-	INFLn	2	adv	_	_
+10	събѫдетъ	събꙑти	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	9	pred	_	_
+11	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	10	aux	_	_
+12	реченое	рещи	V	V-	NUMBs|TENSu|MOODp|VOICp|GENDn|CASEn|STREw	10	sub	_	_
+13	п҃ркомь	пророкъ	N	Nb	NUMBs|GENDm|CASEi	12	ag	_	_
+14	исаиемь	исаиꙗ	N	Ne	NUMBs|GENDm|CASEi	13	apos	_	_
+15	г҃лщемь	глаголати	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDm|CASEi|STREs	12	xadv	_	_
 
 1	се	се	I	I-	INFLn	0	voc	_	_
 2	отрокъ	отрокъ	N	Nb	NUMBs|GENDm|CASEn	0	sub(13)pred	_	_
@@ -4409,7 +4408,7 @@
 4	егоже	иже	P	Pr	NUMBs|GENDm|CASEg	5	obj	_	_
 5	изволихъ	изволити	V	V-	PERS1|NUMBs|TENSa|MOODi|VOICa	2	apos	_	_
 6	вьзлюбленꙑ	възлюбити	V	V-	NUMBs|TENSu|MOODp|VOICp|GENDm|CASEn|STREw	2	apos	_	_
-7	мои	мои	P	Ps	PERS1|NUMBs|GENDm|CASEn	6	sub	_	_
+7	мои	мои	P	Ps	PERS1|NUMBs|GENDm|CASEn	6	atr	_	_
 8	на	на	R	R-	INFLn	10	obl	_	_
 9	ньже	иже	P	Pr	NUMBs|GENDm|CASEa	8	obl	_	_
 10	благоизволи	благоизволити	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	6	apos	_	_
@@ -45377,7 +45376,7 @@
 1	трѫси	трѫсъ	N	Nb	NUMBp|GENDm|CASEn	6	sub(11)pred	_	_
 2	же	же	D	Df	INFLn	6	aux(11)pred	_	_
 3	велици	великъ	A	A-	NUMBp|GENDm|CASEn|DEGRp|STREs	1	atr	_	_
-4	по	по	R	R-	INFLn	6	atr(11)pred	_	_
+4	по	по	R	R-	INFLn	6	adv(11)pred	_	_
 5	мѣста	мѣсто	N	Nb	NUMBp|GENDn|CASEa	4	obl	_	_
 6	и	и	C	C-	INFLn	0	pred	_	_
 7	глади	гладъ	N	Nb	NUMBp|GENDm|CASEn	8	sub	_	_

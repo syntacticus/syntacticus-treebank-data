@@ -234,7 +234,7 @@
 6	dicendi	dico	V	V-	MOODd|CASEg	1	atr	_	_
 7	sed	sed	C	C-	INFLn	0	pred	_	_
 8	hoc	hic	P	Pd	NUMBs|GENDn|CASEn	16	atr	_	_
-9	quoque	quo	D	Dq	INFLn	16	aux	_	_
+9	quoque	quoque	D	Df	INFLn	16	aux	_	_
 10	colendum	colo	V	V-	NUMBs|MOODg|GENDn|CASEn	11	xobj	_	_
 11	est	sum	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	7	pred	_	_
 12	aequabile	aequabilis	A	A-	NUMBs|GENDn|CASEn|DEGRp	13	atr	_	_
@@ -4030,8 +4030,8 @@
 21	in	in	R	R-	INFLn	20	obl	_	_
 22	suos	suus	P	Pt	PERS3|NUMBp|GENDm|CASEa	23	atr	_	_
 23	amicos	amicus	N	Nb	NUMBp|GENDm|CASEa	21	obl	_	_
-24	visum	video	V	V-	NUMBs|TENSr|MOODp|VOICp|GENDn|CASEa	18	comp	_	_
-25	iri	eo	V	V-	TENSp|MOODn|VOICp	24	aux	_	_
+24	visum	video	V	V-	MOODu|CASEa	18	comp	_	_
+25	iri	eo#2	V	V-	TENSp|MOODn|VOICp	24	aux	_	_
 26	si	si	G	G-	INFLn	24	adv	_	_
 27	locupletent	locupleto	V	V-	PERS3|NUMBp|TENSp|MOODs|VOICa	26	pred	_	_
 28	eos	is	P	Pp	PERS3|NUMBp|GENDm|CASEa	27	obj	_	_
@@ -6617,7 +6617,7 @@
 14	magnificentia	magnificentia	N	Nb	NUMBs|GENDf|CASEn	15	sub	_	_
 15	et	et	C	C-	INFLn	24	sub	_	_
 16	despicientia	despicientia	N	Nb	NUMBs|GENDf|CASEn	15	sub	_	_
-17	adhibenda	adhibeo	V	V-	NUMBs|MOODg|GENDf|CASEn	18	sub	_	_
+17	adhibenda	adhibeo	V	V-	NUMBs|MOODg|GENDf|CASEn	18	xobj	_	_
 18	est	sum	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 19	rerum	res	N	Nb	NUMBp|GENDf|CASEg	16	narg	_	_
 20	humanarum	humanus	A	A-	NUMBp|GENDf|CASEg|DEGRp	19	atr	_	_

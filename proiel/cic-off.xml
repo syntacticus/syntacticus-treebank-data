@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<proiel export-time="2023-04-12T21:08:46+02:00" schema-version="2.1">
+<proiel export-time="2023-04-20T04:05:07+02:00" schema-version="2.1">
   <annotation>
     <relations>
       <value tag="adnom" summary="adnominal" primary="true" secondary="true"/>
@@ -171,7 +171,7 @@
     <funder>Department of Philosophy, Classics, History of Arts and Ideas</funder>
     <distributor>Department of Philosophy, Classics, History of Arts and Ideas</distributor>
     <distributor-address>PO Box 1020 Blindern, N-0315 Oslo</distributor-address>
-    <date>12 April 2023</date>
+    <date>20 April 2023</date>
     <license>CC BY-NC-SA 4.0</license>
     <license-url>https://creativecommons.org/licenses/by-nc-sa/4.0/</license-url>
     <reference-system>book, section</reference-system>
@@ -489,7 +489,7 @@
         <token id="1196898" form="dicendi" citation-part="1.3" lemma="dico" part-of-speech="V-" morphology="---d--g--i" head-id="1196893" relation="atr" presentation-after=", "/>
         <token id="1196899" form="sed" citation-part="1.3" lemma="sed" part-of-speech="C-" morphology="---------n" relation="pred" presentation-after=" "/>
         <token id="1196900" form="hoc" citation-part="1.3" lemma="hic" part-of-speech="Pd" morphology="-s---nn--i" head-id="1196909" relation="atr" presentation-after=" "/>
-        <token id="1196901" form="quoque" citation-part="1.3" lemma="quo" part-of-speech="Dq" morphology="---------n" head-id="1196909" relation="aux" presentation-after=" "/>
+        <token id="1196901" form="quoque" citation-part="1.3" lemma="quoque" part-of-speech="Df" morphology="---------n" head-id="1196909" relation="aux" presentation-after=" "/>
         <token id="1196903" form="colendum" citation-part="1.3" lemma="colo" part-of-speech="V-" morphology="-s-g-nn--i" head-id="1196904" relation="xobj" presentation-after=" ">
           <slash target-id="1196909" relation="xsub"/>
         </token>
@@ -5427,8 +5427,8 @@
         <token id="1200670" form="in" citation-part="1.43" lemma="in" part-of-speech="R-" morphology="---------n" head-id="1200669" relation="obl" presentation-after=" "/>
         <token id="1200671" form="suos" citation-part="1.43" lemma="suus" part-of-speech="Pt" morphology="3p---ma--i" head-id="1200672" relation="atr" presentation-after=" "/>
         <token id="1200672" form="amicos" citation-part="1.43" lemma="amicus" part-of-speech="Nb" morphology="-p---ma--i" head-id="1200670" relation="obl" presentation-after=" "/>
-        <token id="1200673" form="visum" citation-part="1.43" lemma="video" part-of-speech="V-" morphology="-srppna--i" head-id="1200667" relation="comp" presentation-after=" "/>
-        <token id="1200674" form="iri" citation-part="1.43" lemma="eo" part-of-speech="V-" morphology="--pnp----i" head-id="1200673" relation="aux" presentation-after=", "/>
+        <token id="1200673" form="visum" citation-part="1.43" lemma="video" part-of-speech="V-" morphology="---u--a--i" head-id="1200667" relation="comp" presentation-after=" "/>
+        <token id="1200674" form="iri" citation-part="1.43" lemma="eo#2" part-of-speech="V-" morphology="--pnp----i" head-id="1200673" relation="aux" presentation-after=", "/>
         <token id="1200675" form="si" citation-part="1.43" lemma="si" part-of-speech="G-" morphology="---------n" head-id="1200673" relation="adv" presentation-after=" "/>
         <token id="1200676" form="locupletent" citation-part="1.43" lemma="locupleto" part-of-speech="V-" morphology="3ppsa----i" head-id="1200675" relation="pred" presentation-after=" "/>
         <token id="1200677" form="eos" citation-part="1.43" lemma="is" part-of-speech="Pp" morphology="3p---ma--i" head-id="1200676" relation="obj" presentation-after=" "/>
@@ -8830,7 +8830,9 @@
         <token id="1203237" form="magnificentia" citation-part="1.72" lemma="magnificentia" part-of-speech="Nb" morphology="-s---fn--i" head-id="1203238" relation="sub" presentation-after=" "/>
         <token id="1203238" form="et" citation-part="1.72" lemma="et" part-of-speech="C-" morphology="---------n" head-id="1203247" relation="sub" presentation-after=" "/>
         <token id="1203239" form="despicientia" citation-part="1.72" lemma="despicientia" part-of-speech="Nb" morphology="-s---fn--i" head-id="1203238" relation="sub" presentation-after=" "/>
-        <token id="1203240" form="adhibenda" citation-part="1.72" lemma="adhibeo" part-of-speech="V-" morphology="-s-g-fn--i" head-id="1203241" relation="sub" presentation-after=" "/>
+        <token id="1203240" form="adhibenda" citation-part="1.72" lemma="adhibeo" part-of-speech="V-" morphology="-s-g-fn--i" head-id="1203241" relation="xobj" presentation-after=" ">
+          <slash target-id="1203247" relation="xsub"/>
+        </token>
         <token id="1203241" form="est" citation-part="1.72" lemma="sum" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=" "/>
         <token id="1203242" form="rerum" citation-part="1.72" lemma="res" part-of-speech="Nb" morphology="-p---fg--i" head-id="1203239" relation="narg" presentation-after=" "/>
         <token id="1203243" form="humanarum" citation-part="1.72" lemma="humanus" part-of-speech="A-" morphology="-p---fgp-i" head-id="1203242" relation="atr" presentation-after=", "/>
