@@ -181,43 +181,43 @@
     <printed-text-title>Constantinus et Methodius Thessalonicenses: Fontes, recensuerunt et illustraverunt Franciscus Grives et Franciscus Tomsic = Radovi Staroslavenskog Instituta 4</printed-text-title>
     <printed-text-place>Zagreb</printed-text-place>
     <printed-text-date>1960</printed-text-date>
-    <div>
+    <div id="8833">
       <title>0</title>
-      <sentence id="216258" status="reviewed">
-        <token id="2319920" form="Пaметь" citation-part="0." lemma="памѧть" part-of-speech="Nb" morphology="-s---fn--i" head-id="2319921" relation="sub" presentation-after=" "/>
-        <token id="2319921" form="и" citation-part="0." lemma="и" part-of-speech="C-" morphology="---------n" head-id="2329860" relation="sub" presentation-after=" "/>
-        <token id="2319922" form="житїе" citation-part="0." lemma="житиѥ" part-of-speech="Nb" morphology="-s---nn--i" head-id="2319921" relation="sub" presentation-after=" "/>
-        <token id="2319923" form="блaженaго" citation-part="0." lemma="блаженъ" part-of-speech="A-" morphology="-s---mgpwi" head-id="2319924" relation="atr" presentation-after=" "/>
-        <token id="2319924" form="ѹчителꙗ" citation-part="0." lemma="оучитель" part-of-speech="Nb" morphology="-s---mg--i" head-id="2319922" relation="atr" presentation-after=" "/>
-        <token id="2319925" form="нaшего" citation-part="0." lemma="нашь" part-of-speech="Ps" morphology="1s---mg--i" head-id="2319924" relation="atr" presentation-after=" "/>
-        <token id="2319926" form="Костaнⸯтинa" citation-part="0." lemma="константинъ" part-of-speech="Ne" morphology="-s---mg--i" head-id="2319924" relation="apos" presentation-after=" "/>
-        <token id="2319927" form="философa" citation-part="0." lemma="философъ" part-of-speech="Nb" morphology="-s---mg--i" head-id="2319926" relation="apos" presentation-after=". "/>
-        <token id="2319928" form="пръвaго" citation-part="0." lemma="прьвъ" part-of-speech="Ma" morphology="-s---mg--i" head-id="2319929" relation="atr" presentation-after=" "/>
-        <token id="2319929" form="нaстaвⸯникa" citation-part="0." lemma="наставьникъ" part-of-speech="Nb" morphology="-s---mg--i" head-id="2319924" relation="atr" presentation-after=" "/>
-        <token id="2319930" form="словенⸯскꙋ" citation-part="0." lemma="словѣньскъ" part-of-speech="A-" morphology="-s---mdpsi" head-id="2319931" relation="atr" presentation-after=" "/>
-        <token id="2319931" form="ѥзꙑкꙋ" citation-part="0." lemma="ѩзꙑкъ" part-of-speech="Nb" morphology="-s---md--i" head-id="2319929" relation="narg" presentation-after=". "/>
-        <token id="2329860" empty-token-sort="V" relation="pred"/>
+      <sentence id="310065" status="reviewed">
+        <token id="3607360" form="Пaметь" citation-part="0." lemma="памѧть" part-of-speech="Nb" morphology="-s---fn--i" head-id="3607361" relation="sub" presentation-after=" "/>
+        <token id="3607361" form="и" citation-part="0." lemma="и" part-of-speech="C-" morphology="---------n" head-id="3607372" relation="sub" presentation-after=" "/>
+        <token id="3607362" form="житїе" citation-part="0." lemma="житиѥ" part-of-speech="Nb" morphology="-s---nn--i" head-id="3607361" relation="sub" presentation-after=" "/>
+        <token id="3607363" form="блaженaго" citation-part="0." lemma="блаженъ" part-of-speech="A-" morphology="-s---mgpwi" head-id="3607364" relation="atr" presentation-after=" "/>
+        <token id="3607364" form="ѹчителꙗ" citation-part="0." lemma="оучитель" part-of-speech="Nb" morphology="-s---mg--i" head-id="3607362" relation="atr" presentation-after=" "/>
+        <token id="3607365" form="нaшего" citation-part="0." lemma="нашь" part-of-speech="Ps" morphology="1s---mg--i" head-id="3607364" relation="atr" presentation-after=" "/>
+        <token id="3607366" form="Костaнⸯтинa" citation-part="0." lemma="константинъ" part-of-speech="Ne" morphology="-s---mg--i" head-id="3607364" relation="apos" presentation-after=" "/>
+        <token id="3607367" form="философa" citation-part="0." lemma="философъ" part-of-speech="Nb" morphology="-s---mg--i" head-id="3607366" relation="apos" presentation-after=". "/>
+        <token id="3607368" form="пръвaго" citation-part="0." lemma="прьвъ" part-of-speech="Ma" morphology="-s---mg--i" head-id="3607369" relation="atr" presentation-after=" "/>
+        <token id="3607369" form="нaстaвⸯникa" citation-part="0." lemma="наставьникъ" part-of-speech="Nb" morphology="-s---mg--i" head-id="3607364" relation="atr" presentation-after=" "/>
+        <token id="3607370" form="словенⸯскꙋ" citation-part="0." lemma="словѣньскъ" part-of-speech="A-" morphology="-s---mdpsi" head-id="3607371" relation="atr" presentation-after=" "/>
+        <token id="3607371" form="ѥзꙑкꙋ" citation-part="0." lemma="ѩзꙑкъ" part-of-speech="Nb" morphology="-s---md--i" head-id="3607369" relation="narg" presentation-after=". "/>
+        <token id="3607372" empty-token-sort="V" relation="pred"/>
       </sentence>
-      <sentence id="216260" status="reviewed">
-        <token id="2319932" form="блaгослови" citation-part="0." lemma="благословити" part-of-speech="V-" morphology="2spma----i" relation="pred" presentation-after=". "/>
+      <sentence id="310066" status="reviewed">
+        <token id="3607373" form="блaгослови" citation-part="0." lemma="благословити" part-of-speech="V-" morphology="2spma----i" relation="pred" presentation-after=". "/>
       </sentence>
     </div>
-    <div>
+    <div id="8834">
       <title>1</title>
     </div>
-    <div>
+    <div id="8843">
       <title>2</title>
     </div>
-    <div>
+    <div id="8844">
       <title>3</title>
     </div>
-    <div>
+    <div id="8847">
       <title>4</title>
     </div>
-    <div>
+    <div id="8848">
       <title>5</title>
     </div>
-    <div>
+    <div id="8850">
       <title>6</title>
     </div>
     <div>

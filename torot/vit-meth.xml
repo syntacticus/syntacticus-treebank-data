@@ -181,24 +181,24 @@
     <printed-text-title>Constantinus et Methodius Thessalonicenses: Fontes, recensuerunt et illustraverunt Franciscus Grives et Franciscus Tomsic = Radovi Staroslavenskog Instituta 4</printed-text-title>
     <printed-text-place>Zagreb</printed-text-place>
     <printed-text-date>1960</printed-text-date>
-    <div>
+    <div id="8852">
       <title>0</title>
     </div>
-    <div>
+    <div id="8857">
       <title>1</title>
     </div>
-    <div>
+    <div id="8858">
       <title>2</title>
     </div>
-    <div>
+    <div id="8859">
       <title>3</title>
     </div>
-    <div>
+    <div id="8862">
       <title>4</title>
     </div>
-    <div>
+    <div id="8857">
       <title>5</title>
-      <sentence id="218221" status="reviewed">
+      <sentence id="311235" status="reviewed">
         <token id="2331145" form="прилѹчи" citation-part="5.1" lemma="прилоучити" part-of-speech="V-" morphology="3saia----i" relation="pred" presentation-after=" "/>
         <token id="2331146" form="же" citation-part="5.1" lemma="же" part-of-speech="Df" morphology="---------n" head-id="2331145" relation="aux" presentation-after=" "/>
         <token id="2331147" form="сѧ" citation-part="5.1" lemma="себе" part-of-speech="Pk" morphology="3s---qa--i" head-id="2331145" relation="aux" presentation-after=" "/>
@@ -222,7 +222,7 @@
         <token id="2331163" form="тaко" citation-part="5.1" lemma="тако" part-of-speech="Df" morphology="---------n" head-id="2331162" relation="adv" presentation-after=". "/>
         <token id="2331164" form="ꙗко" citation-part="5.2" lemma="ꙗко" part-of-speech="G-" morphology="---------n" head-id="2331163" relation="apos" presentation-after=" "/>
       </sentence>
-      <sentence id="218593" status="reviewed">
+      <sentence id="311236" status="reviewed">
         <token id="2331165" form="божиѥю" citation-part="5.2" lemma="божии" part-of-speech="A-" morphology="-s---fipwi" head-id="2331166" relation="atr" presentation-after=" "/>
         <token id="2331166" form="милостию" citation-part="5.2" lemma="милость" part-of-speech="Nb" morphology="-s---fi--i" head-id="2331168" relation="adv" presentation-after=" "/>
         <token id="2331167" form="съдрaви" citation-part="5.2" lemma="съдравъ" part-of-speech="A-" morphology="-p---mnpsi" head-id="2331168" relation="xobj" presentation-after=" ">
@@ -251,7 +251,7 @@
         <token id="2331186" form="нꙑ" citation-part="5.2" lemma="мꙑ" part-of-speech="Pp" morphology="1p---qa--i" head-id="2331185" relation="obj" presentation-after=" "/>
         <token id="2331187" form="рaзличь" citation-part="5.2" lemma="различь" part-of-speech="A-" morphology="---------n" head-id="2331185" relation="adv" presentation-after=". "/>
       </sentence>
-      <sentence id="218225" status="reviewed">
+      <sentence id="311237" status="reviewed">
         <token id="2331188" form="a" citation-part="5.2" lemma="а" part-of-speech="C-" morphology="---------n" head-id="2333259" relation="aux" presentation-after=" "/>
         <token id="2331189" form="мꙑ" citation-part="5.2" lemma="мꙑ" part-of-speech="Pp" morphology="1p---mn--i" head-id="2333259" relation="sub" presentation-after=" "/>
         <token id="2331190" form="Словѣни" citation-part="5.2" lemma="словѣне" part-of-speech="Nb" morphology="-p---mn--i" head-id="2331189" relation="apos" presentation-after=" "/>
@@ -278,7 +278,7 @@
         </token>
         <token id="2333259" empty-token-sort="V" head-id="2331193" relation="pred"/>
       </sentence>
-      <sentence id="218227" status="reviewed">
+      <sentence id="311238" status="reviewed">
         <token id="2331205" form="то" citation-part="5.3" lemma="то" part-of-speech="Df" morphology="---------n" head-id="2331208" relation="aux" presentation-after=" "/>
         <token id="2331206" form="добрѣи" citation-part="5.3" lemma="добръ" part-of-speech="A-" morphology="-s---mvcti" head-id="2331207" relation="atr" presentation-after=" "/>
         <token id="2331207" form="влaдꙑко" citation-part="5.3" lemma="владꙑка" part-of-speech="Nb" morphology="-s---mv--i" relation="voc" presentation-after=". "/>
@@ -291,7 +291,7 @@
         <token id="2331214" form="вьсѧкѹ" citation-part="5.3" lemma="вьсꙗкъ" part-of-speech="A-" morphology="-s---fapsi" head-id="2331215" relation="atr" presentation-after=" "/>
         <token id="2331215" form="прaвьдѹ" citation-part="5.3" lemma="правьда" part-of-speech="Nb" morphology="-s---fa--i" head-id="2331213" relation="obj" presentation-after=". "/>
       </sentence>
-      <sentence id="218230" status="reviewed">
+      <sentence id="311239" status="reviewed">
         <token id="2331216" form="тъгдa" citation-part="5.4" lemma="тъгда" part-of-speech="Df" morphology="---------n" head-id="2331219" relation="adv" presentation-after=" "/>
         <token id="2331217" form="цѣсaрь" citation-part="5.4" lemma="цѣсарь" part-of-speech="Nb" morphology="-s---mn--i" head-id="2331219" relation="sub" presentation-after=" "/>
         <token id="2331218" form="Михaилъ" citation-part="5.4" lemma="михаилъ" part-of-speech="Ne" morphology="-s---mn--i" head-id="2331217" relation="apos" presentation-after=" "/>
@@ -300,14 +300,14 @@
         <token id="2331221" form="философѹ" citation-part="5.4" lemma="философъ" part-of-speech="Nb" morphology="-s---md--i" head-id="2331220" relation="obl" presentation-after=" "/>
         <token id="2331222" form="Костѧнтинѹ" citation-part="5.4" lemma="константинъ" part-of-speech="Ne" morphology="-s---md--i" head-id="2331221" relation="apos" presentation-after=". "/>
       </sentence>
-      <sentence id="218231" status="reviewed">
+      <sentence id="311240" status="reviewed">
         <token id="2331223" form="слꙑшиши" citation-part="5.5" lemma="слꙑшати" part-of-speech="V-" morphology="2spia----i" relation="pred" presentation-after=" "/>
         <token id="2331224" form="ли" citation-part="5.5" lemma="ли" part-of-speech="Du" morphology="---------n" head-id="2331223" relation="aux" presentation-after=". "/>
         <token id="2331225" form="философе" citation-part="5.5" lemma="философъ" part-of-speech="Nb" morphology="-s---mv--i" relation="voc" presentation-after=". "/>
         <token id="2331226" form="рѣчь" citation-part="5.5" lemma="рѣчь" part-of-speech="Nb" morphology="-s---fa--i" head-id="2331223" relation="obj" presentation-after=" "/>
         <token id="2331227" form="сию" citation-part="5.5" lemma="сь" part-of-speech="Pd" morphology="-s---fa--i" head-id="2331226" relation="atr" presentation-after=". "/>
       </sentence>
-      <sentence id="218234" status="reviewed">
+      <sentence id="311241" status="reviewed">
         <token id="2331228" form="инъ" citation-part="5.6" lemma="инъ" part-of-speech="Px" morphology="-s---mn--i" head-id="2331232" relation="sub" presentation-after=" "/>
         <token id="2331229" form="сего" citation-part="5.6" lemma="сь" part-of-speech="Pd" morphology="-s---ng--i" head-id="2331233" relation="obj" presentation-after=" "/>
         <token id="2331230" form="дa" citation-part="5.6" lemma="да" part-of-speech="Df" morphology="---------n" head-id="2331232" relation="aux" presentation-after=" "/>
@@ -319,7 +319,7 @@
         <token id="2331234" form="рaзвѣ" citation-part="5.6" lemma="развѣ" part-of-speech="R-" morphology="---------n" head-id="2331228" relation="atr" presentation-after=" "/>
         <token id="2331235" form="тебе" citation-part="5.6" lemma="тꙑ" part-of-speech="Pp" morphology="2s---mg--i" head-id="2331234" relation="obl" presentation-after=". "/>
       </sentence>
-      <sentence id="218235" status="reviewed">
+      <sentence id="311242" status="reviewed">
         <token id="2331236" form="тѣ" citation-part="5.7" lemma="тѣ" part-of-speech="Df" morphology="---------n" head-id="2333260" relation="aux" presentation-after=" "/>
         <token id="2331237" form="нa" citation-part="5.7" lemma="на" part-of-speech="R-" morphology="---------n" head-id="2333260" relation="adv" presentation-after=" "/>
         <token id="2331238" form="ти" citation-part="5.7" lemma="тꙑ" part-of-speech="Pp" morphology="2s---md--i" head-id="2331237" relation="obl" presentation-after=" "/>
@@ -327,7 +327,7 @@
         <token id="2331240" form="мнози" citation-part="5.7" lemma="мъногъ" part-of-speech="A-" morphology="-p---mnpsi" head-id="2331239" relation="atr" presentation-after=" "/>
         <token id="2333260" empty-token-sort="V" relation="pred"/>
       </sentence>
-      <sentence id="218594" status="reviewed">
+      <sentence id="311243" status="reviewed">
         <token id="2331241" form="и" citation-part="5.7" lemma="и" part-of-speech="C-" morphology="---------n" head-id="2331247" relation="aux" presentation-after=" "/>
         <token id="2331242" form="поимъ" citation-part="5.7" lemma="поѩти" part-of-speech="V-" morphology="-supamn-si" head-id="2331247" relation="xadv" presentation-after=" ">
           <slash target-id="2331247" relation="xsub"/>
@@ -339,7 +339,7 @@
         <token id="2331247" form="иди" citation-part="5.7" lemma="ити" part-of-speech="V-" morphology="2spma----i" relation="pred" presentation-after=" "/>
         <token id="2331248" form="же" citation-part="5.7" lemma="же" part-of-speech="Df" morphology="---------n" head-id="2331247" relation="aux" presentation-after=". "/>
       </sentence>
-      <sentence id="218236" status="reviewed">
+      <sentence id="311244" status="reviewed">
         <token id="2331249" form="вꙑ" citation-part="5.8" lemma="вꙑ" part-of-speech="Pp" morphology="2p---mn--i" head-id="2331251" relation="sub" presentation-after=" "/>
         <token id="2331250" form="бо" citation-part="5.8" lemma="бо" part-of-speech="Df" morphology="---------n" head-id="2331251" relation="aux" presentation-after=" "/>
         <token id="2331251" form="ѥстa" citation-part="5.8" lemma="бꙑти" part-of-speech="V-" morphology="2dpia----i" relation="pred" presentation-after=" "/>
@@ -347,7 +347,7 @@
           <slash target-id="2331249" relation="xsub"/>
         </token>
       </sentence>
-      <sentence id="218237" status="reviewed">
+      <sentence id="311245" status="reviewed">
         <token id="2331253" form="дa" citation-part="5.8" lemma="да" part-of-speech="C-" morphology="---------n" head-id="2331258" relation="aux" presentation-after=" "/>
         <token id="2331254" form="Селѹнѧне" citation-part="5.8" lemma="селоунꙗнинъ" part-of-speech="Nb" morphology="-p---mn--i" head-id="2331258" relation="sub" presentation-after=" "/>
         <token id="2331255" form="вьси" citation-part="5.8" lemma="вьсь" part-of-speech="Px" morphology="-p---mn--i" head-id="2331254" relation="atr" presentation-after=" "/>
@@ -355,7 +355,7 @@
         <token id="2331257" form="словѣньскꙑ" citation-part="5.8" lemma="словѣньскꙑ" part-of-speech="Df" morphology="---------n" head-id="2331258" relation="adv" presentation-after=" "/>
         <token id="2331258" form="бесѣдѹють" citation-part="5.8" lemma="бесѣдовати" part-of-speech="V-" morphology="3ppia----i" relation="pred" presentation-after=". "/>
       </sentence>
-      <sentence id="218238" status="reviewed">
+      <sentence id="311246" status="reviewed">
         <token id="2331259" form="тъгдa" citation-part="5.9" lemma="тъгда" part-of-speech="Df" morphology="---------n" head-id="2331261" relation="adv" presentation-after=" "/>
         <token id="2331260" form="не" citation-part="5.9" lemma="не" part-of-speech="Df" morphology="---------n" head-id="2331261" relation="aux" presentation-after=" "/>
         <token id="2331261" form="съмѧстa" citation-part="5.9" lemma="съмѧсти" part-of-speech="V-" morphology="3daia----i" relation="pred" presentation-after=" "/>
@@ -375,16 +375,16 @@
         <token id="2331273" form="ꙗкоже" citation-part="5.9" lemma="ꙗкоже" part-of-speech="Dq" morphology="---------n" head-id="2331274" relation="adv" presentation-after=" "/>
         <token id="2331274" form="рече" citation-part="5.9" lemma="рещи" part-of-speech="V-" morphology="3saia----i" head-id="2331261" relation="adv" presentation-after=". "/>
       </sentence>
-      <sentence id="218241" status="reviewed">
+      <sentence id="311247" status="reviewed">
         <token id="2331275" form="богa" citation-part="5.9" lemma="богъ" part-of-speech="Nb" morphology="-s---mg--i" head-id="2331276" relation="obl" presentation-after=" "/>
         <token id="2331276" form="боите" citation-part="5.9" lemma="боꙗти" part-of-speech="V-" morphology="2ppma----i" relation="pred" presentation-after=" "/>
         <token id="2331277" form="сѧ" citation-part="5.9" lemma="себе" part-of-speech="Pk" morphology="3s---qa--i" head-id="2331276" relation="aux" presentation-after=". "/>
       </sentence>
-      <sentence id="218242" status="reviewed">
+      <sentence id="311248" status="reviewed">
         <token id="2331278" form="цѣсaрѧ" citation-part="5.9" lemma="цѣсарь" part-of-speech="Nb" morphology="-s---mg--i" head-id="2331279" relation="obj" presentation-after=" "/>
         <token id="2331279" form="чьтѣте" citation-part="5.9" lemma="чьтити" part-of-speech="V-" morphology="2ppma----i" relation="pred" presentation-after=". "/>
       </sentence>
-      <sentence id="218243" status="reviewed">
+      <sentence id="311249" status="reviewed">
         <token id="2331280" form="нъ" citation-part="5.10" lemma="нъ" part-of-speech="C-" morphology="---------n" head-id="2331287" relation="aux" presentation-after=" "/>
         <token id="2331281" form="вели" citation-part="5.10" lemma="велии" part-of-speech="A-" morphology="-s---napsi" head-id="2331282" relation="adv" presentation-after=" "/>
         <token id="2331282" form="слꙑшaвъшa" citation-part="5.10" lemma="слꙑшати" part-of-speech="V-" morphology="-dupamn-si" head-id="2331287" relation="xadv" presentation-after=" ">
@@ -411,7 +411,7 @@
         <token id="2331297" form="си" citation-part="5.10" lemma="сь" part-of-speech="Pd" morphology="-p---mn--i" head-id="2333261" relation="sub" presentation-after=". "/>
         <token id="2333261" empty-token-sort="V" head-id="2331293" relation="apos"/>
       </sentence>
-      <sentence id="218246" status="reviewed">
+      <sentence id="311250" status="reviewed">
         <token id="2331298" form="дa" citation-part="5.11" lemma="да" part-of-speech="C-" morphology="---------n" head-id="2331300" relation="aux" presentation-after=" "/>
         <token id="2331299" form="тѹ" citation-part="5.11" lemma="тоу" part-of-speech="Df" morphology="---------n" head-id="2331300" relation="adv" presentation-after=" "/>
         <token id="2331300" form="ꙗви" citation-part="5.11" lemma="авити" part-of-speech="V-" morphology="3saia----i" relation="pred" presentation-after=" "/>
@@ -420,7 +420,7 @@
         <token id="2331303" form="словѣньскꙑ" citation-part="5.11" lemma="словѣньскъ" part-of-speech="A-" morphology="-p---fapsi" head-id="2331304" relation="atr" presentation-after=" "/>
         <token id="2331304" form="книгꙑ" citation-part="5.11" lemma="кънигꙑ" part-of-speech="Nb" morphology="-p---fa--i" head-id="2331300" relation="obj" presentation-after=". "/>
       </sentence>
-      <sentence id="218247" status="reviewed">
+      <sentence id="311251" status="reviewed">
         <token id="2331305" form="и" citation-part="5.11" lemma="и" part-of-speech="C-" morphology="---------n" head-id="2331314" relation="aux" presentation-after=" "/>
         <token id="2331306" form="aбие" citation-part="5.11" lemma="абиѥ" part-of-speech="Df" morphology="---------n" head-id="2331314" relation="adv" presentation-after=" "/>
         <token id="2331307" form="ѹстроивъ" citation-part="5.11" lemma="оустроити" part-of-speech="V-" morphology="-supamn-si" head-id="2331309" relation="xadv" presentation-after=" "/>
@@ -439,7 +439,7 @@
         </token>
         <token id="2331317" form="Меѳеодиꙗ" citation-part="5.11" lemma="меѳодии" part-of-speech="Ne" morphology="-s---mg--i" head-id="2331316" relation="obj" presentation-after=". "/>
       </sentence>
-      <sentence id="218249" status="reviewed">
+      <sentence id="311252" status="reviewed">
         <token id="2331318" form="нaчaтъ" citation-part="5.12" lemma="начѧти" part-of-speech="V-" morphology="3saia----i" relation="pred" presentation-after=" "/>
         <token id="2331319" form="же" citation-part="5.12" lemma="же" part-of-speech="Df" morphology="---------n" head-id="2331318" relation="aux" presentation-after=" "/>
         <token id="2331320" form="пaкꙑ" citation-part="5.12" lemma="пакꙑ" part-of-speech="Df" morphology="---------n" head-id="2331318" relation="adv" presentation-after=" "/>
@@ -458,7 +458,7 @@
         <token id="2331329" form="съ" citation-part="5.12" lemma="съ" part-of-speech="R-" morphology="---------n" head-id="2331328" relation="adv" presentation-after=" "/>
         <token id="2331330" form="нимь" citation-part="5.12" lemma="и" part-of-speech="Pp" morphology="3s---mi--i" head-id="2331329" relation="obl" presentation-after=". "/>
       </sentence>
-      <sentence id="218250" status="reviewed">
+      <sentence id="311253" status="reviewed">
         <token id="2331331" form="и" citation-part="5.13" lemma="и" part-of-speech="C-" morphology="---------n" head-id="2331335" relation="aux" presentation-after=" "/>
         <token id="2331332" form="трьмъ" citation-part="5.13" lemma="триѥ" part-of-speech="Ma" morphology="-p---nd--i" head-id="2331333" relation="atr" presentation-after=" "/>
         <token id="2331333" form="лѣтомъ" citation-part="5.13" lemma="лѣто" part-of-speech="Nb" morphology="-p---nd--i" head-id="2331334" relation="sub" presentation-after=" "/>
@@ -473,9 +473,9 @@
         </token>
       </sentence>
     </div>
-    <div>
+    <div id="8858">
       <title>6</title>
-      <sentence id="218252" status="reviewed">
+      <sentence id="311254" status="reviewed">
         <token id="2331341" form="ѹвѣдѣвъ" citation-part="6.1" lemma="оувѣдѣти" part-of-speech="V-" morphology="-supamn-si" head-id="2331347" relation="xadv" presentation-after=" ">
           <slash target-id="2331345" relation="xsub"/>
         </token>
@@ -498,7 +498,7 @@
         <token id="2331354" form="aнъгелa" citation-part="6.1" lemma="ангелъ" part-of-speech="Nb" morphology="-d---ma--i" head-id="2331353" relation="obj" presentation-after=" "/>
         <token id="2331355" form="божиꙗ" citation-part="6.1" lemma="божии" part-of-speech="A-" morphology="-d---mapsi" head-id="2331354" relation="atr" presentation-after=". "/>
       </sentence>
-      <sentence id="218254" status="reviewed">
+      <sentence id="311255" status="reviewed">
         <token id="2331356" form="свѧти" citation-part="6.1" lemma="свѧтити" part-of-speech="V-" morphology="3saia----i" relation="pred" presentation-after=" "/>
         <token id="2331357" form="ѹчениѥ" citation-part="6.1" lemma="оучениѥ" part-of-speech="Nb" morphology="-s---na--i" head-id="2331356" relation="obj" presentation-after=" "/>
         <token id="2331358" form="ѥго" citation-part="6.1" lemma="и" part-of-speech="Pp" morphology="3s---mg--i" head-id="2331357" relation="atr" presentation-after=". "/>
@@ -513,7 +513,7 @@
         <token id="2331365" form="Петрa" citation-part="6.1" lemma="петръ" part-of-speech="Ne" morphology="-s---mg--i" head-id="2331363" relation="atr" presentation-after=" "/>
         <token id="2331366" form="aпостолa" citation-part="6.1" lemma="апостолъ" part-of-speech="Nb" morphology="-s---mg--i" head-id="2331365" relation="apos" presentation-after=". "/>
       </sentence>
-      <sentence id="218256" status="reviewed">
+      <sentence id="311256" status="reviewed">
         <token id="2331367" form="свѧти" citation-part="6.2" lemma="свѧтити" part-of-speech="V-" morphology="3saia----i" relation="pred" presentation-after=" "/>
         <token id="2331368" form="же" citation-part="6.2" lemma="же" part-of-speech="Df" morphology="---------n" head-id="2331367" relation="aux" presentation-after=" "/>
         <token id="2331369" form="нa" citation-part="6.2" lemma="на" part-of-speech="R-" morphology="---------n" head-id="2331367" relation="adv" presentation-after=" "/>
@@ -521,7 +521,7 @@
         <token id="2331371" form="блaженaaго" citation-part="6.2" lemma="блаженъ" part-of-speech="A-" morphology="-s---mgpwi" head-id="2331372" relation="atr" presentation-after=" "/>
         <token id="2331372" form="Меѳедиꙗ" citation-part="6.2" lemma="меѳодии" part-of-speech="Ne" morphology="-s---mg--i" head-id="2331367" relation="obj" presentation-after=". "/>
       </sentence>
-      <sentence id="218257" status="reviewed">
+      <sentence id="311257" status="reviewed">
         <token id="2331373" form="бѧaхѹ" citation-part="6.3" lemma="бꙑти" part-of-speech="V-" morphology="3piia----i" relation="pred" presentation-after=" "/>
         <token id="2331374" form="же" citation-part="6.3" lemma="же" part-of-speech="Df" morphology="---------n" head-id="2331373" relation="aux" presentation-after=" "/>
         <token id="2331375" form="етерa" citation-part="6.3" lemma="етеръ" part-of-speech="Px" morphology="-s---fn--i" head-id="2331377" relation="atr" presentation-after=" "/>
@@ -536,7 +536,7 @@
         </token>
         <token id="2331383" form="ꙗко" citation-part="6.3" lemma="ꙗко" part-of-speech="G-" morphology="---------n" head-id="2331382" relation="comp" presentation-after=" "/>
       </sentence>
-      <sentence id="218595" status="reviewed">
+      <sentence id="311258" status="reviewed">
         <token id="2331384" form="не" citation-part="6.3" lemma="не" part-of-speech="Df" morphology="---------n" head-id="2331385" relation="aux" presentation-after=" "/>
         <token id="2331385" form="достоить" citation-part="6.3" lemma="достоꙗти" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=" "/>
         <token id="2331386" form="никоторомѹже" citation-part="6.3" lemma="никоторꙑиже" part-of-speech="Px" morphology="-s---md--i" head-id="2331387" relation="atr" presentation-after=" "/>
@@ -561,7 +561,7 @@
         <token id="2331403" form="господьни" citation-part="6.3" lemma="господьнь" part-of-speech="A-" morphology="-s---mlpsi" head-id="2331402" relation="atr" presentation-after=" "/>
         <token id="2331404" form="нaписa" citation-part="6.3" lemma="напьсати" part-of-speech="V-" morphology="3saia----i" head-id="2331399" relation="apos" presentation-after=". "/>
       </sentence>
-      <sentence id="218261" status="reviewed">
+      <sentence id="311259" status="reviewed">
         <token id="2331405" form="ѥже" citation-part="6.4" lemma="иже" part-of-speech="Pr" morphology="-s---na--i" head-id="2331410" relation="obj" presentation-after=" "/>
         <token id="2331406" form="aпостоликъ" citation-part="6.4" lemma="апостоликъ" part-of-speech="Nb" morphology="-s---mn--i" head-id="2331411" relation="sub" presentation-after=" "/>
         <token id="2331407" form="пилaтънꙑ" citation-part="6.4" lemma="пилатьнъ" part-of-speech="A-" morphology="-p---mapsi" head-id="2331408" relation="xobj" presentation-after=" "/>
@@ -572,7 +572,7 @@
         <token id="2331410" form="нaреклъ" citation-part="6.4" lemma="нарещи" part-of-speech="V-" morphology="-sspamn-si" head-id="2331411" relation="obj" presentation-after=" "/>
         <token id="2331411" form="проклѧтъ" citation-part="6.4" lemma="проклѧти" part-of-speech="V-" morphology="3saia----i" relation="pred" presentation-after=" "/>
       </sentence>
-      <sentence id="218596" status="reviewed">
+      <sentence id="311260" status="reviewed">
         <token id="2331412" form="и" citation-part="6.4" lemma="и" part-of-speech="C-" morphology="---------n" head-id="2331413" relation="aux" presentation-after=" "/>
         <token id="2331413" form="повелѣ" citation-part="6.4" lemma="повелѣти" part-of-speech="V-" morphology="3saia----i" head-id="2331421" relation="pred" presentation-after=" "/>
         <token id="2331414" form="ѥдиномѹ" citation-part="6.4" lemma="ѥдинъ" part-of-speech="Ma" morphology="-s---md--i" head-id="2331415" relation="atr" presentation-after=" "/>
@@ -596,9 +596,9 @@
         <token id="2331430" form="aногностa" citation-part="6.4" lemma="аногностъ" part-of-speech="Nb" morphology="-d---ma--i" head-id="2331428" relation="obj" presentation-after=". "/>
       </sentence>
     </div>
-    <div>
+    <div id="8859">
       <title>7</title>
-      <sentence id="218263" status="reviewed">
+      <sentence id="311261" status="reviewed">
         <token id="2331431" form="по" citation-part="7.1" lemma="по" part-of-speech="R-" morphology="---------n" head-id="2331439" relation="adv" presentation-after=" "/>
         <token id="2331432" form="дьньхъ" citation-part="7.1" lemma="дьнь" part-of-speech="Nb" morphology="-p---ml--i" head-id="2331431" relation="obl" presentation-after=" "/>
         <token id="2331433" form="же" citation-part="7.1" lemma="же" part-of-speech="Df" morphology="---------n" head-id="2331439" relation="aux" presentation-after=" "/>
@@ -615,7 +615,7 @@
         <token id="2331442" form="брaтѹ" citation-part="7.1" lemma="братръ" part-of-speech="Nb" morphology="-s---md--i" head-id="2331441" relation="apos" presentation-after=" "/>
         <token id="2331443" form="своѥмѹ" citation-part="7.1" lemma="свои" part-of-speech="Pt" morphology="3s---md--i" head-id="2331442" relation="atr" presentation-after=". "/>
       </sentence>
-      <sentence id="218264" status="reviewed">
+      <sentence id="311262" status="reviewed">
         <token id="2331444" form="се" citation-part="7.2" lemma="се" part-of-speech="I-" morphology="---------n" relation="voc" presentation-after=". "/>
         <token id="2331445" form="брaте" citation-part="7.2" lemma="братръ" part-of-speech="Nb" morphology="-s---mv--i" relation="voc" presentation-after=". "/>
         <token id="2331446" form="вѣ" citation-part="7.2" lemma="вѣ" part-of-speech="Pp" morphology="1d---mn--i" head-id="2331448" relation="sub" presentation-after=" "/>
@@ -629,7 +629,7 @@
           <slash target-id="2331446" relation="xsub"/>
         </token>
       </sentence>
-      <sentence id="218597" status="reviewed">
+      <sentence id="311263" status="reviewed">
         <token id="2331452" form="и" citation-part="7.2" lemma="и" part-of-speech="C-" morphology="---------n" head-id="2331456" relation="aux" presentation-after=" "/>
         <token id="2331453" form="aзъ" citation-part="7.2" lemma="азъ" part-of-speech="Pp" morphology="1s---mn--i" head-id="2331456" relation="sub" presentation-after=" "/>
         <token id="2331454" form="нa" citation-part="7.2" lemma="на" part-of-speech="R-" morphology="---------n" head-id="2331456" relation="adv" presentation-after=" "/>
@@ -641,14 +641,14 @@
           <slash target-id="2331453" relation="xsub"/>
         </token>
       </sentence>
-      <sentence id="218269" status="reviewed">
+      <sentence id="311264" status="reviewed">
         <token id="2331460" form="a" citation-part="7.3" lemma="а" part-of-speech="C-" morphology="---------n" head-id="2331462" relation="aux" presentation-after=" "/>
         <token id="2331461" form="тꙑ" citation-part="7.3" lemma="тꙑ" part-of-speech="Pp" morphology="2s---mn--i" head-id="2331462" relation="sub" presentation-after=" "/>
         <token id="2331462" form="любиши" citation-part="7.3" lemma="любити" part-of-speech="V-" morphology="2spia----i" relation="pred" presentation-after=" "/>
         <token id="2331463" form="горѹ" citation-part="7.3" lemma="гора" part-of-speech="Nb" morphology="-s---fa--i" head-id="2331462" relation="obj" presentation-after=" "/>
         <token id="2331464" form="вельми" citation-part="7.3" lemma="вельми" part-of-speech="Df" morphology="---------n" head-id="2331462" relation="adv" presentation-after=". "/>
       </sentence>
-      <sentence id="218270" status="reviewed">
+      <sentence id="311265" status="reviewed">
         <token id="2331465" form="то" citation-part="7.3" lemma="то" part-of-speech="Df" morphology="---------n" head-id="2331467" relation="aux" presentation-after=" "/>
         <token id="2331466" form="не" citation-part="7.3" lemma="не" part-of-speech="Df" morphology="---------n" head-id="2331467" relation="aux" presentation-after=" "/>
         <token id="2331467" form="мози" citation-part="7.3" lemma="мощи" part-of-speech="V-" morphology="2spma----i" relation="pred" presentation-after=" "/>
@@ -670,7 +670,7 @@
     <div>
       <title>10</title>
     </div>
-    <div>
+    <div id="8862">
       <title>11</title>
     </div>
     <div>
