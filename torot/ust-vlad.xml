@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<proiel export-time="2018-09-19T23:03:40+02:00" schema-version="2.1">
+<proiel export-time="2023-04-25T04:04:01+02:00" schema-version="2.1">
   <annotation>
     <relations>
       <value tag="adnom" summary="adnominal" primary="true" secondary="true"/>
@@ -480,7 +480,7 @@
         <token id="3397224" form="по" lemma="по" part-of-speech="R-" morphology="---------n" head-id="3397223" relation="adv" presentation-after=" "/>
         <token id="3397225" form="вселеньскыхъ" lemma="въселеньскыи" part-of-speech="A-" morphology="-p---mgpwi" head-id="3397228" relation="atr" presentation-after=" "/>
         <token id="3397226" form="ст҃хъ" lemma="святыи" part-of-speech="A-" morphology="-p---mgpwi" head-id="3397228" relation="atr" presentation-after=" "/>
-        <token id="3397227" form="семї" lemma="седмь" part-of-speech="Ma" morphology="-s---mg--i" head-id="3397228" relation="atr" presentation-after=" "/>
+        <token id="3397227" form="семї" lemma="седмь" part-of-speech="Ma" morphology="-s---fg--i" head-id="3397228" relation="atr" presentation-after=" "/>
         <token id="3397228" form="зборовъ" lemma="съборъ" part-of-speech="Nb" morphology="-p---mg--i" head-id="3397224" relation="obl" presentation-after=". "/>
         <token id="3397229" form="великыхъ" lemma="великыи" part-of-speech="A-" morphology="-p---mgpwi" head-id="3397230" relation="atr" presentation-after=" "/>
         <token id="3397230" form="ст҃ль" lemma="святитель" part-of-speech="Nb" morphology="-p---mg--i" head-id="3397228" relation="atr" presentation-after=". "/>

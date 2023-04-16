@@ -127,7 +127,7 @@
 
 1	а	а	C	C-	INFLn	3	aux	_	_
 2	ярополкъ	яропълкъ	N	Ne	NUMBs|GENDm|CASEn	3	sub	_	_
-3	вниде	въити	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	0	pred	_	_
+3	вниде	вънити	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	0	pred	_	_
 4	в	въ	R	R-	INFLn	3	obl	_	_
 5	киевъ	кыевъ	N	Ne	NUMBs|GENDm|CASEa	4	obl	_	_
 6	въ	въ	R	R-	INFLn	3	adv	_	_

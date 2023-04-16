@@ -525,9 +525,9 @@
 2	ночь	ночь	N	Nb	NUMBs|GENDf|CASEn	3	sub	_	_
 3	мркнетъ	мьркнути	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 
-1	Заря	заря	N	Nb	NUMBs|GENDf|CASEn	3	sub	_	_
-2	свѣтъ	свѣтъ	N	Nb	NUMBs|GENDm|CASEa	3	obj	_	_
-3	запала	запалати	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	0	pred	_	_
+1	Заря	заря	N	Nb	NUMBs|GENDf|CASEg	2	atr	_	_
+2	свѣтъ	свѣтъ	N	Nb	NUMBs|GENDm|CASEn	3	sub	_	_
+3	запала	запасти#2	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDf|CASEn|STREs	0	pred	_	_
 
 1	мъгла	мьгла	N	Nb	NUMBs|GENDf|CASEn	3	sub	_	_
 2	поля	поле	N	Nb	NUMBp|GENDn|CASEa	3	obj	_	_
@@ -732,7 +732,7 @@
 12	Игоревы	игоревъ	A	A-	NUMBp|GENDm|CASEa|DEGRp|STREs	11	atr	_	_
 
 1	Земля	земля	N	Nb	NUMBs|GENDf|CASEn	2	sub	_	_
-2	тутнетъ	тутнути	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+2	тутнетъ	тутнати	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 
 1	рѣкы	рѣка	N	Nb	NUMBp|GENDf|CASEn	3	sub	_	_
 2	мутно	мутьныи	A	A-	NUMBs|GENDn|CASEa|DEGRp|STREs	3	adv	_	_

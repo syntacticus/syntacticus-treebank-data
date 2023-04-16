@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<proiel export-time="2018-09-19T22:56:50+02:00" schema-version="2.1">
+<proiel export-time="2023-04-25T04:02:36+02:00" schema-version="2.1">
   <annotation>
     <relations>
       <value tag="adnom" summary="adnominal" primary="true" secondary="true"/>
@@ -342,7 +342,7 @@
         <token id="3407900" form="же" lemma="же" part-of-speech="Df" morphology="---------n" head-id="3407899" relation="aux" presentation-after=" "/>
         <token id="3407901" form="мънога" lemma="мъногыи" part-of-speech="A-" morphology="-p---napsi" head-id="3407902" relation="atr" presentation-after=" "/>
         <token id="3407902" form="лѣт" lemma="лѣто" part-of-speech="Nb" morphology="-p---na--i" head-id="3407899" relation="adv" presentation-after=". "/>
-        <token id="3407903" form="съдьржѧще" lemma="съдьржати" part-of-speech="V-" morphology="-pppamn-si" head-id="3407899" relation="xadv" presentation-after=" ">
+        <token id="3407903" form="съдрьжѧще" lemma="съдьржати" part-of-speech="V-" morphology="-pppamn-si" head-id="3407899" relation="xadv" presentation-after=" ">
           <slash target-id="3407899" relation="xsub"/>
         </token>
         <token id="3407904" form="пороучение" lemma="поручение" part-of-speech="Nb" morphology="-s---na--i" head-id="3407903" relation="obj" presentation-after=" "/>

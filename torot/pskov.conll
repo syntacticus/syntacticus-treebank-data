@@ -826,7 +826,7 @@
 
 1	а	а	C	C-	INFLn	0	aux(11)pred	_	_
 2	посадники	посадьникъ	N	Nb	NUMBp|GENDm|CASEn	3	sub	_	_
-3	и	и	D	Df	INFLn	0	sub(11)pred	_	_
+3	и	и	C	C-	INFLn	0	sub(11)pred	_	_
 4	бояре	бояринъ	N	Nb	NUMBp|GENDm|CASEn	3	sub	_	_
 5	и	и	C	C-	INFLn	3	aux	_	_
 6	лутчие	лучии	A	A-	NUMBp|GENDm|CASEn|DEGRc|STREw	7	atr	_	_

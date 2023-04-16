@@ -4,7 +4,7 @@
 
 1	покла(нѧни)ѥ	покланяние	N	Nb	NUMBs|GENDn|CASEn	0	sub(24)pred	_	_
 2	ѿ	отъ	R	R-	INFLn	5	atr	_	_
-3	посадн(i)ка	посадьникъ	N	Nb	NUMBs|GENDm|CASEg	2	obl	_	_
+3	посадн(і)ка	посадьникъ	N	Nb	NUMBs|GENDm|CASEg	2	obl	_	_
 4	михаила	михаилъ	N	Ne	NUMBs|GENDm|CASEg	3	apos	_	_
 5	и	и	C	C-	INFLn	1	atr	_	_
 6	ѿ	отъ	R	R-	INFLn	5	atr	_	_
@@ -93,7 +93,7 @@
 5	братъ	братъ	N	Nb	NUMBs|GENDm|CASEn	8	sub	_	_
 6	твои	твои	P	Ps	PERS2|NUMBs|GENDm|CASEn	5	atr	_	_
 7	алеξандръ	александръ	N	Ne	NUMBs|GENDm|CASEn	5	apos	_	_
-8	илi	или	C	C-	INFLn	3	sub	_	_
+8	илі	или	C	C-	INFLn	3	sub	_	_
 9	дмитрии	дьмитрии	N	Ne	NUMBs|GENDm|CASEn	8	sub	_	_
 10	съ	съ	R	R-	INFLn	8	atr	_	_
 11	новгородци	новъгородьць	N	Nb	NUMBp|GENDm|CASEi	10	obl	_	_
@@ -355,7 +355,7 @@
 9	цѣловати	цѣловати	V	V-	TENSp|MOODn|VOICa	0	pred	_	_
 10	бес	без	R	R-	INFLn	9	adv	_	_
 11	перевода	переводъ	N	Nb	NUMBs|GENDm|CASEg	10	obl	_	_
-12	прi	при	R	R-	INFLn	9	adv	_	_
+12	прі	при	R	R-	INFLn	9	adv	_	_
 13	нашихъ	нашь	P	Ps	PERS1|NUMBp|GENDm|CASEl	14	atr	_	_
 14	послѣхъ	посълъ	N	Nb	NUMBp|GENDm|CASEl	12	obl	_	_
 

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<proiel export-time="2018-03-23T16:46:01+01:00" schema-version="2.1">
+<proiel export-time="2023-04-25T04:00:36+02:00" schema-version="2.1">
   <annotation>
     <relations>
       <value tag="adnom" summary="adnominal" primary="true" secondary="true"/>
@@ -326,7 +326,7 @@
       <sentence id="276386" status="reviewed">
         <token id="3362391" form="а" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3362393" relation="aux" presentation-after=" "/>
         <token id="3362392" form="ярополкъ" lemma="яропълкъ" part-of-speech="Ne" morphology="-s---mn--i" head-id="3362393" relation="sub" presentation-after=" "/>
-        <token id="3362393" form="вниде" lemma="въити" part-of-speech="V-" morphology="3saia----i" relation="pred" presentation-after=" "/>
+        <token id="3362393" form="вниде" lemma="вънити" part-of-speech="V-" morphology="3saia----i" relation="pred" presentation-after=" "/>
         <token id="3362394" form="в" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3362393" relation="obl" presentation-after=" "/>
         <token id="3362395" form="киевъ" lemma="кыевъ" part-of-speech="Ne" morphology="-s---ma--i" head-id="3362394" relation="obl" presentation-after=". "/>
         <token id="3362396" form="въ" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3362393" relation="adv" presentation-after=" "/>

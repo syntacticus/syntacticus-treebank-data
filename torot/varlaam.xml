@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<proiel export-time="2018-09-19T23:04:00+02:00" schema-version="2.1">
+<proiel export-time="2023-04-16T20:22:11+02:00" schema-version="2.1">
   <annotation>
     <relations>
       <value tag="adnom" summary="adnominal" primary="true" secondary="true"/>
@@ -199,9 +199,9 @@
         <token id="3396725" form="за" lemma="за" part-of-speech="R-" morphology="---------n" head-id="3396722" relation="atr" presentation-after=" "/>
         <token id="3396726" form="волховомъ" lemma="вълховъ" part-of-speech="Ne" morphology="-s---mi--i" head-id="3396725" relation="obl" presentation-after=" "/>
         <token id="3396727" form="в҃" lemma="дъва" part-of-speech="Ma" morphology="---------n" head-id="3396744" relation="sub" presentation-before="." presentation-after=". "/>
-        <token id="3396728" form="на" lemma="на" part-of-speech="R-" morphology="---------n" head-id="3396727" relation="apos" presentation-after=" "/>
+        <token id="3396728" form="на" lemma="на" part-of-speech="R-" morphology="---------n" head-id="3396730" relation="atr" presentation-after=" "/>
         <token id="3396729" form="волхевьци" lemma="вълховьць" part-of-speech="Ne" morphology="-s---ml--i" head-id="3396728" relation="obl" presentation-after=" "/>
-        <token id="3396730" form="коле" lemma="колъ" part-of-speech="Nb" morphology="-s---ml--i" head-id="3396729" relation="apos" presentation-after=" "/>
+        <token id="3396730" form="коле" lemma="колъ" part-of-speech="Nb" morphology="-s---mn--i" head-id="3396727" relation="apos" presentation-after=" "/>
         <token id="3396731" form="г҃" lemma="трие" part-of-speech="Ma" morphology="---------n" head-id="3396744" relation="sub" presentation-before="." presentation-after=". "/>
         <token id="3396732" form="корь" lemma="корь" part-of-speech="Nb" morphology="-s---fn--i" head-id="3396731" relation="apos" presentation-after=" "/>
         <token id="3396733" form="д҃" lemma="четыре" part-of-speech="Ma" morphology="---------n" head-id="3396744" relation="sub" presentation-before="." presentation-after=". "/>

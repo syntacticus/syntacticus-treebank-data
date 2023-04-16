@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<proiel export-time="2019-05-01T18:29:31+02:00" schema-version="2.0">
+<proiel export-time="2023-04-25T04:03:15+02:00" schema-version="2.1">
   <annotation>
     <relations>
       <value tag="adnom" summary="adnominal" primary="true" secondary="true"/>
@@ -837,9 +837,9 @@
         <token id="3425543" form="мркнетъ" citation-part="33" lemma="мьркнути" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=". " foreign-ids="fragment=33,token=3"/>
       </sentence>
       <sentence id="282119" status="reviewed">
-        <token id="3425544" form="Заря" citation-part="34" lemma="заря" part-of-speech="Nb" morphology="-s---fn--i" head-id="3425546" relation="sub" presentation-after=" " foreign-ids="fragment=34,token=1"/>
-        <token id="3425545" form="свѣтъ" citation-part="34" lemma="свѣтъ" part-of-speech="Nb" morphology="-s---ma--i" head-id="3425546" relation="obj" presentation-after=" " foreign-ids="fragment=34,token=2"/>
-        <token id="3425546" form="запала" citation-part="34" lemma="запалати" part-of-speech="V-" morphology="3saia----i" relation="pred" presentation-after=", " foreign-ids="fragment=34,token=3"/>
+        <token id="3425544" form="Заря" citation-part="34" lemma="заря" part-of-speech="Nb" morphology="-s---fg--i" head-id="3425545" relation="atr" presentation-after=" " foreign-ids="fragment=34,token=1"/>
+        <token id="3425545" form="свѣтъ" citation-part="34" lemma="свѣтъ" part-of-speech="Nb" morphology="-s---mn--i" head-id="3425546" relation="sub" presentation-after=" " foreign-ids="fragment=34,token=2"/>
+        <token id="3425546" form="запала" citation-part="34" lemma="запасти#2" part-of-speech="V-" morphology="-sspafn-si" relation="pred" presentation-after=", " foreign-ids="fragment=34,token=3"/>
       </sentence>
       <sentence id="282120" status="reviewed">
         <token id="3425547" form="мъгла" citation-part="34" lemma="мьгла" part-of-speech="Nb" morphology="-s---fn--i" head-id="3425549" relation="sub" presentation-after=" " foreign-ids="fragment=34,token=4"/>
@@ -1085,7 +1085,7 @@
       </sentence>
       <sentence id="282144" status="reviewed">
         <token id="3425729" form="Земля" citation-part="49" lemma="земля" part-of-speech="Nb" morphology="-s---fn--i" head-id="3425730" relation="sub" presentation-after=" " foreign-ids="fragment=49,token=1"/>
-        <token id="3425730" form="тутнетъ" citation-part="49" lemma="тутнути" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=", " foreign-ids="fragment=49,token=2"/>
+        <token id="3425730" form="тутнетъ" citation-part="49" lemma="тутнати" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=", " foreign-ids="fragment=49,token=2"/>
       </sentence>
       <sentence id="282145" status="reviewed">
         <token id="3425731" form="рѣкы" citation-part="49" lemma="рѣка" part-of-speech="Nb" morphology="-p---fn--i" head-id="3425733" relation="sub" presentation-after=" " foreign-ids="fragment=49,token=3"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<proiel export-time="2019-05-01T15:10:33+02:00" schema-version="2.0">
+<proiel export-time="2023-04-25T03:58:35+02:00" schema-version="2.1">
   <annotation>
     <relations>
       <value tag="adnom" summary="adnominal" primary="true" secondary="true"/>
@@ -1205,7 +1205,7 @@
         <token id="3399127" form="немъ" citation-part="285r16" lemma="и" part-of-speech="Pp" morphology="3s---ml--i" head-id="3399126" relation="obl" information-status="old" presentation-after=" "/>
         <token id="3399128" form="кꙋмиръ" citation-part="285r16" lemma="кумиръ" part-of-speech="Nb" morphology="-s---ma--i" head-id="3399125" relation="obj" information-status="new" presentation-after=". "/>
         <token id="3399129" form="еже" citation-part="285r16" lemma="иже" part-of-speech="Pr" morphology="-s---na--i" head-id="3399131" relation="obj" presentation-after=" "/>
-        <token id="3399130" empty-token-sort="P" head-id="3399131" relation="sub" antecedent-id="0" information-status="old"/>
+        <token id="3399130" empty-token-sort="P" head-id="3399131" relation="sub" information-status="old"/>
         <token id="3399131" form="принесе" citation-part="285r16" lemma="принести" part-of-speech="V-" morphology="3saia----i" head-id="3399128" relation="atr" presentation-after=" "/>
         <token id="3399132" form="ѿ" citation-part="285r17" lemma="отъ" part-of-speech="R-" morphology="---------n" head-id="3399131" relation="obl" presentation-after=" "/>
         <token id="3399133" form="сл҃нчнаго" citation-part="285r17" lemma="сълньчьныи" part-of-speech="A-" morphology="-s---mgpwi" head-id="3399134" relation="atr" presentation-after=" "/>

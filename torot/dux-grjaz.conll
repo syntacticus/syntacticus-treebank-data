@@ -278,7 +278,7 @@
 1	А	а	C	C-	INFLn	6	aux	_	_
 2	члвка	человѣкъ	N	Nb	NUMBs|GENDm|CASEg	6	obj	_	_
 3	моего	мои	P	Ps	PERS1|NUMBs|GENDm|CASEg	2	atr	_	_
-4	томилка	томилкъ	N	Ne	NUMBs|GENDm|CASEg	2	apos	_	_
+4	томилка	томилъкъ	N	Ne	NUMBs|GENDm|CASEg	2	apos	_	_
 5	ѳедорова	федоровъ	N	Ne	NUMBs|GENDm|CASEg	4	apos	_	_
 6	отпꙋстити	отъпустити	V	V-	TENSp|MOODn|VOICa	0	pred	_	_
 7	на	на	R	R-	INFLn	6	obl	_	_
@@ -288,15 +288,15 @@
 11	моего	мои	P	Ps	PERS1|NUMBs|GENDm|CASEg	12	atr	_	_
 12	живота	животъ	N	Nb	NUMBs|GENDm|CASEg	10	obl	_	_
 
-1	А	а	C	C-	INFLn	9	aux	_	_
-2	что	чьто	P	Pr	NUMBs|GENDn|CASEn	9	sub(10)adv	_	_
-3	члвкъ	человѣкъ	N	Nb	NUMBs|GENDm|CASEn	9	xobj(10)adv	_	_
+1	А	а	C	C-	INFLn	0	aux(10)pred	_	_
+2	что	чьто	P	Pr	NUMBs|GENDn|CASEn	0	sub(10)pred	_	_
+3	члвкъ	человѣкъ	N	Nb	NUMBs|GENDm|CASEn	0	atr(10)pred	_	_
 4	мои	мои	P	Ps	PERS1|NUMBs|GENDm|CASEn	3	atr	_	_
 5	истомка	истомъка	N	Ne	NUMBs|GENDm|CASEn	3	apos	_	_
-6	сꙋворовъ	суворовъ	N	Ne	NUMBs|GENDm|CASEn	5	apos	_	_
+6	сꙋворовъ	суворовъ	A	A-	NUMBs|GENDm|CASEn|DEGRp|STREs	7	atr	_	_
 7	с҃нъ	сынъ	N	Nb	NUMBs|GENDm|CASEn	5	apos	_	_
-8	граборꙋков	граборуковъ	A	A-	NUMBs|GENDm|CASEn|DEGRp|STREs	7	atr	_	_
-9	бѣгает	бѣгати	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+8	граборꙋков	граборуковъ	N	Ne	NUMBs|GENDm|CASEn	5	atr	_	_
+9	бѣгает	бѣгати	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	3	atr	_	_
 
 1	и	и	C	C-	INFLn	0	aux(7)pred	_	_
 2	тот	тътъ	P	Pd	NUMBs|GENDm|CASEn	3	atr	_	_
@@ -306,7 +306,7 @@
 6	соломаниде	соломанида	N	Ne	NUMBs|GENDf|CASEd	4	apos	_	_
 
 1	А	а	C	C-	INFLn	6	aux(13)pred	_	_
-2	которые	которыи	P	Pr	NUMBp|GENDm|CASEn	5	atr	_	_
+2	которые	которыи	P	Px	NUMBp|GENDm|CASEn	5	atr	_	_
 3	мои	мои	P	Ps	PERS1|NUMBp|GENDm|CASEn	5	atr	_	_
 4	иные	иныи	P	Px	NUMBp|GENDm|CASEn	5	atr	_	_
 5	люди	людие	N	Nb	NUMBp|GENDm|CASEn	6	sub(13)pred	_	_

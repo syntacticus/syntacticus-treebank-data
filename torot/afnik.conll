@@ -1285,7 +1285,7 @@
 1	а	а	C	C-	INFLn	2	aux	_	_
 2	держить	дьржати	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 3	сказывають	съказывати	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	parpred	_	_
-4	седмь	седмь	M	Ma	NUMBs|GENDm|CASEa	2	obj	_	_
+4	седмь	седмь	M	Ma	NUMBs|GENDf|CASEa	2	obj	_	_
 5	темь	тьма	N	Nb	NUMBp|GENDf|CASEg	4	part	_	_
 6	ѿ	отъ	R	R-	INFLn	4	atr	_	_
 7	меликтѹчара	меликътучаръ	N	Ne	NUMBs|GENDm|CASEg	6	obl	_	_
@@ -5272,7 +5272,7 @@
 2	пѹти	путь	N	Nb	NUMBs|GENDm|CASEg	3	obj	_	_
 3	знаю	знати	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 
-1	иже	иже	D	Df	INFLn	3	adv	_	_
+1	иже	иже	D	Df	INFLn	3	aux	_	_
 2	камо	камо	D	Du	INFLn	3	obl	_	_
 3	поидѹ	поити#1	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 4	изъ	из	R	R-	INFLn	3	obl	_	_

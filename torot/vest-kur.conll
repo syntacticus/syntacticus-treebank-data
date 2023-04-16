@@ -289,7 +289,7 @@
 5	ѯ	шестьдесятъ	M	Ma	INFLn	7	atr(26)atr	_	_
 6	Д.м	четвьртыи	M	Mo	NUMBs|GENDm|CASEl	7	atr(26)atr	_	_
 7	году	годъ	N	Nb	NUMBs|GENDm|CASEl	3	obl	_	_
-8	июля	иулии	N	Nb	NUMBs|GENDm|CASEg	12	part	_	_
+8	июля	июль	N	Nb	NUMBs|GENDm|CASEg	12	part	_	_
 9	въ	въ	R	R-	INFLn	0	adv(25)pred	_	_
 10	К	дъвадесяти	M	Ma	INFLn	12	atr(27)atr	_	_
 11	Ѳ	девять	M	Ma	INFLn	12	atr(27)atr	_	_
@@ -366,7 +366,7 @@
 2	Варшавы	варшава	N	Ne	NUMBs|GENDf|CASEg	1	obl	_	_
 3	Г.г	третии	M	Mo	NUMBs|GENDn|CASEg	4	atr	_	_
 4	числа	число	N	Nb	NUMBs|GENDn|CASEg	0	adv(23)pred	_	_
-5	июля	иулии	N	Nb	NUMBs|GENDm|CASEg	4	part	_	_
+5	июля	июль	N	Nb	NUMBs|GENDm|CASEg	4	part	_	_
 6	какъ	како	D	Du	INFLn	16	adv	_	_
 7	его	и	P	Pp	PERS3|NUMBs|GENDm|CASEg	9	atr	_	_
 8	королевское	королевьскыи	A	A-	NUMBs|GENDn|CASEn|DEGRp|STREw	9	atr	_	_
@@ -419,7 +419,7 @@
 3	они	онъ	P	Pd	NUMBp|GENDm|CASEn	20	sub	_	_
 4	А.г	пьрвыи	M	Mo	NUMBs|GENDn|CASEg	5	atr	_	_
 5	числа	число	N	Nb	NUMBs|GENDn|CASEg	20	adv	_	_
-6	июля	иулии	N	Nb	NUMBs|GENDm|CASEg	5	part	_	_
+6	июля	июль	N	Nb	NUMBs|GENDm|CASEg	5	part	_	_
 7	гораздо	гораздо	D	Df	DEGRp	8	adv	_	_
 8	рано	рано	D	Df	DEGRp	20	adv	_	_
 9	во	въ	R	R-	INFLn	16	adv	_	_

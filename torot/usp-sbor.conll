@@ -3346,7 +3346,7 @@
 9	рабъ	рабъ	N	Nb	NUMBs|GENDm|CASEn	6	xobj(10)pred	_	_
 
 1	не	не	D	Df	INFLn	2	aux	_	_
-2	пожьнете	погънати	V	V-	PERS2|NUMBp|TENSp|MOODm|VOICa	0	pred	_	_
+2	пожьнете	пожати	V	V-	PERS2|NUMBp|TENSp|MOODm|VOICa	0	pred	_	_
 3	мене	азъ	P	Pp	PERS1|NUMBs|GENDm|CASEg	2	obj	_	_
 4	отъ	отъ	R	R-	INFLn	2	obl	_	_
 5	житиꙗ	житие	N	Nb	NUMBs|GENDn|CASEg	4	obl	_	_
@@ -11639,12 +11639,12 @@
 26	всѣмь	вьсь	P	Px	NUMBs|GENDn|CASEl	25	obl	_	_
 27	и	и	C	C-	INFLn	40	xadv	_	_
 28	братии	братия	N	Nb	NUMBs|GENDf|CASEd	29	sub	_	_
-29	мъножащи	мъножити	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDf|CASEd|STREs	27	adv(50)adv	_	_
+29	мъножащи	мъножити	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDf|CASEd|STREs	27	adv	_	_
 30	сꙗ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	29	aux	_	_
 31	цр҃кви	цьркы	N	Nb	NUMBs|GENDf|CASEd	34	sub	_	_
 32	же	же	D	Df	INFLn	34	aux	_	_
 33	малѣ	малыи	A	A-	NUMBs|GENDf|CASEd|DEGRp|STREs	34	xobj	_	_
-34	сѹщи	быти	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDf|CASEd|STREs	27	adv(50)adv	_	_
+34	сѹщи	быти	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDf|CASEd|STREs	27	adv	_	_
 35	на	на	R	R-	INFLn	33	adv	_	_
 36	съвъкѹплениѥ	съвъкупление	N	Nb	NUMBs|GENDn|CASEa	35	obl	_	_
 37	имъ	и	P	Pp	PERS3|NUMBp|GENDm|CASEd	36	narg	_	_
@@ -23452,9 +23452,9 @@
 46	приꙗтиѥ	приятие	N	Nb	NUMBs|GENDn|CASEa	45	obl	_	_
 47	братии	братия	N	Nb	NUMBs|GENDf|CASEd	46	narg	_	_
 
-1	въ	въ	R	R-	INFLn	10	adv	_	_
+1	въ	въ	R	R-	INFLn	6	adv	_	_
 2	начатъкъ	начатъкъ	N	Nb	NUMBs|GENDm|CASEa	1	obl	_	_
-3	же	же	D	Df	INFLn	10	aux	_	_
+3	же	же	D	Df	INFLn	6	aux	_	_
 4	таковааго	таковыи	A	A-	NUMBs|GENDn|CASEg|DEGRp|STREw	5	atr	_	_
 5	дѣла	дѣло	N	Nb	NUMBs|GENDn|CASEg	2	atr	_	_
 6	събьра	събьрати	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	10	pred	_	_
@@ -25531,7 +25531,7 @@
 3	вѣдѣти	вѣдѣти	V	V-	TENSp|MOODn|VOICa	0	pred	_	_
 4	ѥсть	быти	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	3	aux	_	_
 
-1	ꙗкоже	якоже	D	Dq	INFLn	7	aux	_	_
+1	ꙗкоже	якоже	D	Df	INFLn	7	aux	_	_
 2	и	и	D	Df	INFLn	3	aux	_	_
 3	донынѣ	донынѣ	D	Df	INFLn	7	adv	_	_
 4	мл҃твами	молитва	N	Nb	NUMBp|GENDf|CASEi	7	adv	_	_

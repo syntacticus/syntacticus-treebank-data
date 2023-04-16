@@ -2656,10 +2656,10 @@
 2	межю	межа	N	Nb	NUMBs|GENDf|CASEa	3	obj	_	_
 3	перетнеть	перетяти	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	5	pred	_	_
 4	бортьную	бортьныи	A	A-	NUMBs|GENDf|CASEa|DEGRp|STREw	2	atr	_	_
-5	iли	или	C	C-	INFLn	1	pred	_	_
-6	ролеiную	ролеиныи	A	A-	NUMBs|GENDf|CASEa|DEGRp|STREw	7	obj	_	_
+5	іли	или	C	C-	INFLn	1	pred	_	_
+6	ролеіную	ролеиныи	A	A-	NUMBs|GENDf|CASEa|DEGRp|STREw	7	obj	_	_
 7	разореть	разорити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	5	pred	_	_
-8	iли	или	C	C-	INFLn	5	aux	_	_
+8	іли	или	C	C-	INFLn	5	aux	_	_
 9	двѡрную	дворьныи	A	A-	NUMBs|GENDf|CASEa|DEGRp|STREw	12	atr	_	_
 10	тыномь	тынъ	N	Nb	NUMBs|GENDm|CASEi	11	obl	_	_
 11	перегородить	перегородити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	5	pred	_	_
@@ -3054,7 +3054,7 @@
 3	пакощами	пакость	N	Nb	NUMBp|GENDf|CASEi	5	adv	_	_
 4	кѡнь	конь	N	Nb	NUMBs|GENDm|CASEa	6	obj	_	_
 5	порѣжеть	порѣзати	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	sub(11)pred	_	_
-6	iли	или	C	C-	INFLn	5	obj	_	_
+6	іли	или	C	C-	INFLn	5	obj	_	_
 7	скотину	скотина	N	Nb	NUMBs|GENDf|CASEa	6	obj	_	_
 8	продажѣ	продажа	N	Nb	NUMBs|GENDf|CASEd	9	atr	_	_
 9	в҃ꙇ	дъванадесять	M	Ma	INFLn	0	obj(11)pred	_	_
@@ -3390,7 +3390,7 @@
 7	тѡи	тыи	P	Pd	NUMBs|GENDf|CASEd	10	sub	_	_
 8	задницѣ	задьница	N	Nb	NUMBs|GENDf|CASEg	10	obj	_	_
 9	не	не	D	Df	INFLn	10	aux	_	_
-10	iмати	имати	V	V-	TENSp|MOODn|VOICa	11	pred	_	_
+10	імати	имати	V	V-	TENSp|MOODn|VOICa	11	pred	_	_
 11	но	нъ	C	C-	INFLn	0	pred	_	_
 12	ѿдадѧть	отъдати	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	11	pred	_	_
 13	ю	и	P	Pp	PERS3|NUMBs|GENDf|CASEa	12	obj	_	_
@@ -3556,7 +3556,7 @@
 28	дати	дати	V	V-	TENSp|MOODn|VOICa	0	pred	_	_
 29	на	на	R	R-	INFLn	28	obl	_	_
 30	руцѣ	рука	N	Nb	NUMBd|GENDf|CASEa	29	obl	_	_
-31	i	и	C	C-	INFLn	34	aux	_	_
+31	і	и	C	C-	INFLn	34	aux	_	_
 32	с	съ	R	R-	INFLn	34	adv	_	_
 33	добыткомь	добытъкъ	N	Nb	NUMBs|GENDm|CASEi	32	obl	_	_
 34	и	и	C	C-	INFLn	38	adv	_	_
@@ -3587,7 +3587,7 @@
 2	истыи	истыи	A	A-	NUMBs|GENDm|CASEa|DEGRp|STREw	3	atr	_	_
 3	товаръ	товаръ	N	Nb	NUMBs|GENDm|CASEa	4	obj	_	_
 4	ворѡтить	воротити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
-5	iмъ	и	P	Pp	PERS3|NUMBp|GENDm|CASEd	4	obl	_	_
+5	імъ	и	P	Pp	PERS3|NUMBp|GENDm|CASEd	4	obl	_	_
 
 1	а	а	C	C-	INFLn	0	aux(11)pred	_	_
 2	прикупъ	прикупъ	N	Nb	NUMBs|GENDm|CASEa	0	obj(11)pred	_	_
@@ -3610,7 +3610,7 @@
 8	то	то	D	Df	INFLn	11	adv	_	_
 9	то	тыи	P	Pd	NUMBs|GENDn|CASEa	11	obj	_	_
 10	все	вьсь	P	Px	NUMBs|GENDn|CASEa	9	atr	_	_
-11	пѡiмати	поимати	V	V-	TENSp|MOODn|VOICa	0	pred	_	_
+11	пѡімати	поимати	V	V-	TENSp|MOODn|VOICa	0	pred	_	_
 12	лицемь	лице	N	Nb	NUMBs|GENDn|CASEi	11	adv	_	_
 
 1	что	чьто	P	Pr	NUMBs|GENDn|CASEa	4	obj	_	_
@@ -3629,7 +3629,7 @@
 2	же	же	D	Df	INFLn	12	aux	_	_
 3	и	и	D	Df	INFLn	4	aux	_	_
 4	ѡтчимъ	отьчимъ	N	Nb	NUMBs|GENDm|CASEn	5	sub	_	_
-5	приiметь	прияти	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	1	pred	_	_
+5	приіметь	прияти	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	1	pred	_	_
 6	дѣти	дѣтя	N	Nb	NUMBp|GENDn|CASEa	5	obj	_	_
 7	съ	съ	R	R-	INFLn	5	adv	_	_
 8	задницею	задьница	N	Nb	NUMBs|GENDf|CASEi	7	obl	_	_
@@ -4002,7 +4002,7 @@
 18	дасть	дати	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	21	pred	_	_
 19	ѥму	и	P	Pp	PERS3|NUMBs|GENDm|CASEd	18	obl	_	_
 20	хлѣба	хлѣбъ	N	Nb	NUMBs|GENDm|CASEg	18	obj	_	_
-21	iли	или	C	C-	INFLn	17	pred	_	_
+21	іли	или	C	C-	INFLn	17	pred	_	_
 22	ѹкажеть	указати	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	21	pred	_	_
 23	ѥму	и	P	Pp	PERS3|NUMBs|GENDm|CASEd	22	obl	_	_
 24	путь	путь	N	Nb	NUMBs|GENDm|CASEa	22	obj	_	_
@@ -4024,7 +4024,7 @@
 3	переиметь	переяти	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	6	pred	_	_
 4	чюжь	чужии	A	A-	NUMBs|GENDm|CASEa|DEGRp|STREs	5	atr	_	_
 5	холѡпъ	холопъ	N	Nb	NUMBs|GENDm|CASEa	3	obj	_	_
-6	i	и	C	C-	INFLn	1	pred	_	_
+6	і	и	C	C-	INFLn	1	pred	_	_
 7	дасть	дати	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	6	pred	_	_
 8	вѣсть	вѣсть	N	Nb	NUMBs|GENDf|CASEa	7	obj	_	_
 9	гсну	господинъ	N	Nb	NUMBs|GENDm|CASEd	7	obl	_	_
@@ -4092,7 +4092,7 @@
 28	шедше	ити	V	V-	NUMBp|TENSu|MOODp|VOICa|GENDm|CASEn|STREs	29	xadv	_	_
 29	ѹвѧзати	увязати	V	V-	TENSp|MOODn|VOICa	27	pred	_	_
 30	и	и	P	Pp	PERS3|NUMBs|GENDm|CASEa	29	obj	_	_
-31	i	и	C	C-	INFLn	27	aux	_	_
+31	і	и	C	C-	INFLn	27	aux	_	_
 32	дати	дати	V	V-	TENSp|MOODn|VOICa	27	pred	_	_
 33	ѥму	и	P	Pp	PERS3|NUMBs|GENDm|CASEd	32	obl	_	_
 34	вѧзебную	вязебьныи	A	A-	NUMBs|GENDf|CASEa|DEGRp|STREw	32	obj	_	_

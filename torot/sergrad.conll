@@ -2840,7 +2840,7 @@
 15	напитати	напитати	V	V-	TENSp|MOODn|VOICa	8	pred(17)pred	_	_
 16	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	15	aux	_	_
 
-1	иже	иже	D	Df	INFLn	9	adv	_	_
+1	иже	иже	D	Df	INFLn	9	aux	_	_
 2	ѿтинѹд	отъинудь	D	Df	INFLn	9	adv	_	_
 3	о	о	R	R-	INFLn	7	atr	_	_
 4	семъ	сии	P	Pd	NUMBs|GENDn|CASEl	3	obl	_	_
@@ -9819,7 +9819,7 @@
 11	агг҃льскаго	ангельскыи	A	A-	NUMBs|GENDm|CASEg|DEGRp|STREw	12	atr	_	_
 12	ѡбраза	образъ	N	Nb	NUMBs|GENDm|CASEg	10	obj	_	_
 13	донележе	донелѣже	G	G-	INFLn	10	adv	_	_
-14	извыче	извыкнути	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	13	pred	_	_
+14	извыче	извыкнути	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	13	pred	_	_
 15	всѧ	вьсь	P	Px	NUMBp|GENDn|CASEa	17	atr	_	_
 16	манастырьскаѧ	манастырьскыи	A	A-	NUMBp|GENDn|CASEa|DEGRp|STREw	17	atr	_	_
 17	дѣла	дѣло	N	Nb	NUMBp|GENDn|CASEa	18	obj	_	_
@@ -10429,7 +10429,7 @@
 3	бл҃женныи	блаженыи	A	A-	NUMBs|GENDm|CASEn|DEGRp|STREw	1	sub	_	_
 4	въ	въ	R	R-	INFLn	1	xobj	_	_
 5	цр҃кви	цьркы	N	Nb	NUMBs|GENDf|CASEl	4	obl	_	_
-6	седмь	седмь	M	Ma	NUMBs|GENDm|CASEa	1	adv	_	_
+6	седмь	седмь	M	Ma	NUMBs|GENDf|CASEa	1	adv	_	_
 7	дн҃ии	дьнь	N	Nb	NUMBp|GENDm|CASEg	6	part	_	_
 8	ничтож	ничьтоже	P	Px	NUMBs|GENDn|CASEa	9	obj	_	_
 9	в꙽кѹшаѧ	въкушати	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDm|CASEn|STREs	1	xadv	_	_
@@ -13498,7 +13498,7 @@
 15	на	на	R	R-	INFLn	13	obl	_	_
 16	нь	и	P	Pp	PERS3|NUMBs|GENDm|CASEa	15	obl	_	_
 17	хотѧ	хотѣти	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDm|CASEn|STREs	13	xadv	_	_
-18	ѡблегчити	облегчити	V	V-	TENSp|MOODn|VOICa	17	xobj	_	_
+18	ѡблегчити	обльгъчити	V	V-	TENSp|MOODn|VOICa	17	xobj	_	_
 19	трѹды	трудъ	N	Nb	NUMBp|GENDm|CASEa	18	obj	_	_
 20	его	и	P	Pp	PERS3|NUMBs|GENDm|CASEg	19	atr	_	_
 21	пѹстынныѧ	пустыньныи	A	A-	NUMBp|GENDm|CASEa|DEGRp|STREw	19	atr	_	_

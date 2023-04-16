@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<proiel export-time="2018-09-19T22:55:44+02:00" schema-version="2.1">
+<proiel export-time="2023-04-25T12:59:04+02:00" schema-version="2.1">
   <annotation>
     <relations>
       <value tag="adnom" summary="adnominal" primary="true" secondary="true"/>
@@ -261,190 +261,438 @@
           <slash target-id="3408368" relation="sub"/>
           <slash target-id="3408378" relation="obj"/>
         </token>
-        <token id="2338548" form="а" lemma="а" part-of-speech="C-" morphology="---------n" head-id="2338543" relation="aux" presentation-after=" "/>
-        <token id="2338549" form="къ" lemma="къ" part-of-speech="R-" morphology="---------n" head-id="2338553" relation="obl" presentation-after=" "/>
-        <token id="2338550" form="судьи" lemma="судия" part-of-speech="Nb" morphology="-s---md--i" head-id="2338549" relation="obl" presentation-after=" "/>
-        <token id="2338551" form="насъ" lemma="мы" part-of-speech="Pp" morphology="1p---mg--i" head-id="2338553" relation="obj" presentation-after=". "/>
-        <token id="2338552" form="не" lemma="не" part-of-speech="Df" morphology="---------n" head-id="2338553" relation="aux" presentation-after=" "/>
-        <token id="2338553" form="пустил" lemma="пустити" part-of-speech="V-" morphology="-sspamn-si" head-id="2338543" relation="pred" presentation-after=". ">
-          <slash target-id="2338534" relation="sub"/>
+        <token id="3408382" form="а" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3408377" relation="aux" presentation-after=" "/>
+        <token id="3408383" form="къ" lemma="къ" part-of-speech="R-" morphology="---------n" head-id="3408387" relation="obl" presentation-after=" "/>
+        <token id="3408384" form="судьи" lemma="судия" part-of-speech="Nb" morphology="-s---md--i" head-id="3408383" relation="obl" presentation-after=" "/>
+        <token id="3408385" form="насъ" lemma="мы" part-of-speech="Pp" morphology="1p---mg--i" head-id="3408387" relation="obj" presentation-after=". "/>
+        <token id="3408386" form="не" lemma="не" part-of-speech="Df" morphology="---------n" head-id="3408387" relation="aux" presentation-after=" "/>
+        <token id="3408387" form="пустил" lemma="пустити" part-of-speech="V-" morphology="-sspamn-si" head-id="3408377" relation="pred" presentation-after=". ">
+          <slash target-id="3408368" relation="sub"/>
         </token>
       </sentence>
-      <sentence id="219140" status="reviewed">
-        <token id="2338554" form="и" lemma="и" part-of-speech="C-" morphology="---------n" head-id="2338559" relation="aux" presentation-after=" "/>
-        <token id="2338555" form="ту" lemma="ту" part-of-speech="Df" morphology="---------n" head-id="2338559" relation="adv" presentation-after=" "/>
-        <token id="2338556" form="оу" lemma="у" part-of-speech="R-" morphology="---------n" head-id="2338561" relation="atr" presentation-after=" "/>
-        <token id="2338557" form="наше" lemma="нашь" part-of-speech="Ps" morphology="1s---fg--i" head-id="2338558" relation="atr" presentation-after=" "/>
-        <token id="2338558" form="дружин" lemma="дружина" part-of-speech="Nb" morphology="-s---fg--i" head-id="2338556" relation="obl" presentation-after=". "/>
-        <token id="2338559" form="оборвалѣ" lemma="объръвати" part-of-speech="V-" morphology="-sspamn-si" relation="pred" presentation-after=" "/>
-        <token id="2338560" form="с" lemma="съ" part-of-speech="R-" morphology="---------n" head-id="2338559" relation="obl" presentation-after=" "/>
-        <token id="2338561" form="ворота" lemma="воротъ" part-of-speech="Nb" morphology="-s---mg--i" head-id="2338560" relation="obl" presentation-after=". "/>
-        <token id="2338562" form="съ" lemma="съ" part-of-speech="Df" morphology="---------n" head-id="2338563" relation="aux" presentation-after=" "/>
-        <token id="2338563" form="шесть" lemma="шесть" part-of-speech="Ma" morphology="-s---fa--i" head-id="2338559" relation="obj" presentation-after=" "/>
-        <token id="2338564" form="рубл[е]въ" lemma="рубль" part-of-speech="Nb" morphology="-p---mg--i" head-id="2338563" relation="part" presentation-after=" "/>
+      <sentence id="280242" status="reviewed">
+        <token id="3408388" form="и" lemma="и" part-of-speech="C-" morphology="---------n" head-id="3408393" relation="aux" presentation-after=" "/>
+        <token id="3408389" form="ту" lemma="ту" part-of-speech="Df" morphology="---------n" head-id="3408393" relation="adv" presentation-after=" "/>
+        <token id="3408390" form="оу" lemma="у" part-of-speech="R-" morphology="---------n" head-id="3408395" relation="atr" presentation-after=" "/>
+        <token id="3408391" form="наше" lemma="нашь" part-of-speech="Ps" morphology="1s---fg--i" head-id="3408392" relation="atr" presentation-after=" "/>
+        <token id="3408392" form="дружин" lemma="дружина" part-of-speech="Nb" morphology="-s---fg--i" head-id="3408390" relation="obl" presentation-after=". "/>
+        <token id="3408393" form="оборвалѣ" lemma="объръвати" part-of-speech="V-" morphology="-sspamn-si" relation="pred" presentation-after=" "/>
+        <token id="3408394" form="с" lemma="съ" part-of-speech="R-" morphology="---------n" head-id="3408393" relation="obl" presentation-after=" "/>
+        <token id="3408395" form="ворота" lemma="воротъ" part-of-speech="Nb" morphology="-s---mg--i" head-id="3408394" relation="obl" presentation-after=". "/>
+        <token id="3408396" form="съ" lemma="съ" part-of-speech="Df" morphology="---------n" head-id="3408397" relation="aux" presentation-after=" "/>
+        <token id="3408397" form="шесть" lemma="шесть" part-of-speech="Ma" morphology="-s---fa--i" head-id="3408393" relation="obj" presentation-after=" "/>
+        <token id="3408398" form="рубл[е]въ" lemma="рубль" part-of-speech="Nb" morphology="-p---mg--i" head-id="3408397" relation="part" presentation-after=" "/>
       </sentence>
-      <sentence id="219195" status="reviewed">
-        <token id="2338565" form="да" lemma="да" part-of-speech="C-" morphology="---------n" head-id="2338566" relation="aux" presentation-after=" "/>
-        <token id="2338566" form="взѧли" lemma="възяти" part-of-speech="V-" morphology="-pspamn-si" relation="pred" presentation-after=" "/>
-        <token id="2338567" form="три" lemma="трие" part-of-speech="Ma" morphology="-p---ma--i" head-id="2338568" relation="atr" presentation-after=" "/>
-        <token id="2338568" form="киверѣ" lemma="киверъ" part-of-speech="Nb" morphology="-p---ma--i" head-id="2338569" relation="obj" presentation-after=". "/>
-        <token id="2338569" form="да" lemma="да" part-of-speech="C-" morphology="---------n" head-id="2338566" relation="obj" presentation-after=" "/>
-        <token id="2338570" form="три" lemma="трие" part-of-speech="Ma" morphology="-p---ma--i" head-id="2338571" relation="atr" presentation-after=" "/>
-        <token id="2338571" form="ножи" lemma="ножь" part-of-speech="Nb" morphology="-p---ma--i" head-id="2338569" relation="obj" presentation-after=". "/>
-        <token id="2338572" form="да" lemma="да" part-of-speech="C-" morphology="---------n" head-id="2338569" relation="aux" presentation-after=" "/>
-        <token id="2338573" form="рукичѣ" lemma="рукавица" part-of-speech="Nb" morphology="-p---fa--i" head-id="2338569" relation="obj" presentation-after=". "/>
+      <sentence id="280243" status="reviewed">
+        <token id="3408399" form="да" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3408400" relation="aux" presentation-after=" "/>
+        <token id="3408400" form="взѧли" lemma="възяти" part-of-speech="V-" morphology="-pspamn-si" relation="pred" presentation-after=" "/>
+        <token id="3408401" form="три" lemma="трие" part-of-speech="Ma" morphology="-p---ma--i" head-id="3408402" relation="atr" presentation-after=" "/>
+        <token id="3408402" form="киверѣ" lemma="киверъ" part-of-speech="Nb" morphology="-p---ma--i" head-id="3408403" relation="obj" presentation-after=". "/>
+        <token id="3408403" form="да" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3408400" relation="obj" presentation-after=" "/>
+        <token id="3408404" form="три" lemma="трие" part-of-speech="Ma" morphology="-p---ma--i" head-id="3408405" relation="atr" presentation-after=" "/>
+        <token id="3408405" form="ножи" lemma="ножь" part-of-speech="Nb" morphology="-p---ma--i" head-id="3408403" relation="obj" presentation-after=". "/>
+        <token id="3408406" form="да" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3408403" relation="aux" presentation-after=" "/>
+        <token id="3408407" form="рукичѣ" lemma="рукавица" part-of-speech="Nb" morphology="-p---fa--i" head-id="3408403" relation="obj" presentation-after=". "/>
       </sentence>
-      <sentence id="219145" status="reviewed">
-        <token id="2338574" form="да" lemma="да" part-of-speech="C-" morphology="---------n" head-id="2338578" relation="aux" presentation-after=" "/>
-        <token id="2338575" form="насъ" lemma="мы" part-of-speech="Pp" morphology="1p---mg--i" head-id="2338578" relation="obj" presentation-after=". "/>
-        <token id="2338576" form="въ" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="2338578" relation="obl" presentation-after=" "/>
-        <token id="2338577" form="клѣтъку" lemma="клѣтъка" part-of-speech="Nb" morphology="-s---fa--i" head-id="2338576" relation="obl" presentation-after=" "/>
-        <token id="2338578" form="всадѣлѣ" lemma="въсадити" part-of-speech="V-" morphology="-pspamn-si" relation="pred" presentation-after=" "/>
+      <sentence id="280244" status="reviewed">
+        <token id="3408408" form="да" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3408412" relation="aux" presentation-after=" "/>
+        <token id="3408409" form="насъ" lemma="мы" part-of-speech="Pp" morphology="1p---mg--i" head-id="3408412" relation="obj" presentation-after=". "/>
+        <token id="3408410" form="въ" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3408412" relation="obl" presentation-after=" "/>
+        <token id="3408411" form="клѣтъку" lemma="клѣтъка" part-of-speech="Nb" morphology="-s---fa--i" head-id="3408410" relation="obl" presentation-after=" "/>
+        <token id="3408412" form="всадѣлѣ" lemma="въсадити" part-of-speech="V-" morphology="-pspamn-si" relation="pred" presentation-after=" "/>
       </sentence>
-      <sentence id="219196" status="reviewed">
-        <token id="2338579" form="и" lemma="и" part-of-speech="C-" morphology="---------n" head-id="2338586" relation="aux" presentation-after=" "/>
-        <token id="2338580" form="по" lemma="по" part-of-speech="R-" morphology="---------n" head-id="2338586" relation="adv" presentation-after=" "/>
-        <token id="2338581" form="томъ" lemma="тыи" part-of-speech="Pd" morphology="-s---nl--i" head-id="2338580" relation="obl" presentation-after=" "/>
-        <token id="2338582" form="насъ" lemma="мы" part-of-speech="Pp" morphology="1p---mg--i" head-id="2338586" relation="obj" presentation-after=" "/>
-        <token id="2338583" form="изъ" lemma="из" part-of-speech="R-" morphology="---------n" head-id="2338586" relation="obl" presentation-after=" "/>
-        <token id="2338584" form="клѣткѣ" lemma="клѣтъка" part-of-speech="Nb" morphology="-s---fg--i" head-id="2338583" relation="obl" presentation-after=". "/>
-        <token id="2338585" form="купець" lemma="купьць" part-of-speech="Nb" morphology="-p---mg--i" head-id="2338582" relation="apos" presentation-after=". "/>
-        <token id="2338586" form="вꙑруцилѣ" lemma="выручити" part-of-speech="V-" morphology="-pspamn-si" relation="pred" presentation-after=". "/>
-        <token id="2338587" form="новгородьскѣи" lemma="новъгородьскыи" part-of-speech="A-" morphology="-p---mnpwi" head-id="2338586" relation="sub" presentation-after=". "/>
+      <sentence id="280245" status="reviewed">
+        <token id="3408413" form="и" lemma="и" part-of-speech="C-" morphology="---------n" head-id="3408420" relation="aux" presentation-after=" "/>
+        <token id="3408414" form="по" lemma="по" part-of-speech="R-" morphology="---------n" head-id="3408420" relation="adv" presentation-after=" "/>
+        <token id="3408415" form="томъ" lemma="тыи" part-of-speech="Pd" morphology="-s---nl--i" head-id="3408414" relation="obl" presentation-after=" "/>
+        <token id="3408416" form="насъ" lemma="мы" part-of-speech="Pp" morphology="1p---mg--i" head-id="3408420" relation="obj" presentation-after=" "/>
+        <token id="3408417" form="изъ" lemma="из" part-of-speech="R-" morphology="---------n" head-id="3408420" relation="obl" presentation-after=" "/>
+        <token id="3408418" form="клѣткѣ" lemma="клѣтъка" part-of-speech="Nb" morphology="-s---fg--i" head-id="3408417" relation="obl" presentation-after=". "/>
+        <token id="3408419" form="купець" lemma="купьць" part-of-speech="Nb" morphology="-p---mg--i" head-id="3408416" relation="apos" presentation-after=". "/>
+        <token id="3408420" form="вꙑруцилѣ" lemma="выручити" part-of-speech="V-" morphology="-pspamn-si" relation="pred" presentation-after=". "/>
+        <token id="3408421" form="новгородьскѣи" lemma="новъгородьскыи" part-of-speech="A-" morphology="-p---mnpwi" head-id="3408420" relation="sub" presentation-after=". "/>
       </sentence>
-      <sentence id="219147" status="reviewed">
-        <token id="2338588" form="и" lemma="и" part-of-speech="C-" morphology="---------n" head-id="2338589" relation="aux" presentation-after=" "/>
-        <token id="2338589" form="веглѣ" lemma="вести" part-of-speech="V-" morphology="-pspamn-si" relation="pred" presentation-after=" "/>
-        <token id="2338590" form="насъ" lemma="мы" part-of-speech="Pp" morphology="1p---mg--i" head-id="2338589" relation="obj" presentation-after=". "/>
-        <token id="2338591" form="на" lemma="на" part-of-speech="R-" morphology="---------n" head-id="2338589" relation="obl" presentation-after=" "/>
-        <token id="2338592" form="городок" lemma="городъкъ" part-of-speech="Nb" morphology="-s---ma--i" head-id="2338591" relation="obl" presentation-after=". "/>
-        <token id="2338593" form="къ" lemma="къ" part-of-speech="R-" morphology="---------n" head-id="2338589" relation="obl" presentation-after=" "/>
-        <token id="2338594" form="зумберю" lemma="зуберь" part-of-speech="Ne" morphology="-s---md--i" head-id="2338593" relation="obl" presentation-after=". "/>
-        <token id="2338595" form="хотѧчи" lemma="хотѣти" part-of-speech="V-" morphology="-pspamn-si" head-id="2338589" relation="xadv" presentation-after=" ">
-          <slash target-id="2338589" relation="xsub"/>
+      <sentence id="280246" status="reviewed">
+        <token id="3408422" form="и" lemma="и" part-of-speech="C-" morphology="---------n" head-id="3408423" relation="aux" presentation-after=" "/>
+        <token id="3408423" form="веглѣ" lemma="вести" part-of-speech="V-" morphology="-pspamn-si" relation="pred" presentation-after=" "/>
+        <token id="3408424" form="насъ" lemma="мы" part-of-speech="Pp" morphology="1p---mg--i" head-id="3408423" relation="obj" presentation-after=". "/>
+        <token id="3408425" form="на" lemma="на" part-of-speech="R-" morphology="---------n" head-id="3408423" relation="obl" presentation-after=" "/>
+        <token id="3408426" form="городок" lemma="городъкъ" part-of-speech="Nb" morphology="-s---ma--i" head-id="3408425" relation="obl" presentation-after=". "/>
+        <token id="3408427" form="къ" lemma="къ" part-of-speech="R-" morphology="---------n" head-id="3408423" relation="obl" presentation-after=" "/>
+        <token id="3408428" form="зумберю" lemma="зуберь" part-of-speech="Ne" morphology="-s---md--i" head-id="3408427" relation="obl" presentation-after=". "/>
+        <token id="3408429" form="хотѧчи" lemma="хотѣти" part-of-speech="V-" morphology="-pspamn-si" head-id="3408423" relation="xadv" presentation-after=" ">
+          <slash target-id="3408423" relation="xsub"/>
         </token>
-        <token id="2338596" form="исправѣ" lemma="исправа" part-of-speech="Nb" morphology="-s---fg--i" head-id="2338595" relation="obj" presentation-after=". "/>
-        <token id="2338597" form="по" lemma="по" part-of-speech="R-" morphology="---------n" head-id="2338595" relation="adv" presentation-after=" "/>
-        <token id="2338598" form="хрѣстном" lemma="хрьстьныи" part-of-speech="A-" morphology="-s---ndpwi" head-id="2338599" relation="narg" presentation-after=". "/>
-        <token id="2338599" form="челованью" lemma="цѣлование" part-of-speech="Nb" morphology="-s---nd--i" head-id="2338597" relation="obl" presentation-after=". "/>
+        <token id="3408430" form="исправѣ" lemma="исправа" part-of-speech="Nb" morphology="-s---fg--i" head-id="3408429" relation="obj" presentation-after=". "/>
+        <token id="3408431" form="по" lemma="по" part-of-speech="R-" morphology="---------n" head-id="3408429" relation="adv" presentation-after=" "/>
+        <token id="3408432" form="хрѣстном" lemma="хрьстьныи" part-of-speech="A-" morphology="-s---ndpwi" head-id="3408433" relation="narg" presentation-after=". "/>
+        <token id="3408433" form="челованью" lemma="цѣлование" part-of-speech="Nb" morphology="-s---nd--i" head-id="3408431" relation="obl" presentation-after=". "/>
       </sentence>
-      <sentence id="219152" status="reviewed">
-        <token id="2338600" form="и" lemma="и" part-of-speech="C-" morphology="---------n" head-id="2338605" relation="aux" presentation-after=" "/>
-        <token id="2338601" form="зуберь" lemma="зуберь" part-of-speech="Ne" morphology="-s---mn--i" head-id="2338605" relation="sub" presentation-after=" "/>
-        <token id="2338602" form="нашог" lemma="нашь" part-of-speech="Ps" morphology="1s---mg--i" head-id="2338603" relation="atr" presentation-after=". "/>
-        <token id="2338603" form="розбоиника" lemma="розбоиникъ" part-of-speech="Nb" morphology="-s---mg--i" head-id="2338605" relation="obj" presentation-after=". "/>
-        <token id="2338604" form="одного" lemma="одинъ" part-of-speech="Ma" morphology="-s---mg--i" head-id="2338603" relation="apos" presentation-after=" "/>
-        <token id="2338605" form="поставил" lemma="поставити" part-of-speech="V-" morphology="-sspamn-si" head-id="2338606" relation="pred" presentation-after=". "/>
-        <token id="2338606" form="а" lemma="а" part-of-speech="C-" morphology="---------n" relation="pred" presentation-after=" "/>
-        <token id="2338607" form="инꙑхъ" lemma="иныи" part-of-speech="Px" morphology="-p---mg--i" head-id="2338609" relation="obj" presentation-after=" "/>
-        <token id="2338608" form="не" lemma="не" part-of-speech="Df" morphology="---------n" head-id="2338609" relation="aux" presentation-after=" "/>
-        <token id="2338609" form="поставил" lemma="поставити" part-of-speech="V-" morphology="-sspamn-si" head-id="2338606" relation="pred" presentation-after=". ">
-          <slash target-id="2338601" relation="sub"/>
-        </token>
-      </sentence>
-      <sentence id="219155" status="reviewed">
-        <token id="2338610" form="да" lemma="да" part-of-speech="C-" morphology="---------n" head-id="2338617" relation="aux" presentation-after=" "/>
-        <token id="2338611" form="и" lemma="и" part-of-speech="Df" morphology="---------n" head-id="2338617" relation="aux" presentation-after=" "/>
-        <token id="2338612" form="с" lemma="съ" part-of-speech="R-" morphology="---------n" head-id="2338618" relation="obl" presentation-after=" "/>
-        <token id="2338613" form="тꙑм" lemma="тыи" part-of-speech="Pd" morphology="-s---mi--i" head-id="2338614" relation="atr" presentation-after=". "/>
-        <token id="2338614" form="розбоиником" lemma="розбоиникъ" part-of-speech="Nb" morphology="-s---mi--i" head-id="2338612" relation="obl" presentation-after=". "/>
-        <token id="2338615" form="намъ" lemma="мы" part-of-speech="Pp" morphology="1p---md--i" head-id="2338617" relation="obl" presentation-after=" "/>
-        <token id="2338616" form="не" lemma="не" part-of-speech="Df" morphology="---------n" head-id="2338617" relation="aux" presentation-after=" "/>
-        <token id="2338617" form="дасть" lemma="дати" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=". "/>
-        <token id="2338618" form="говорит" lemma="говорити" part-of-speech="V-" morphology="--pna----i" head-id="2338617" relation="xobj" presentation-after=". ">
-          <slash target-id="2338615" relation="xsub"/>
+      <sentence id="280247" status="reviewed">
+        <token id="3408434" form="и" lemma="и" part-of-speech="C-" morphology="---------n" head-id="3408439" relation="aux" presentation-after=" "/>
+        <token id="3408435" form="зуберь" lemma="зуберь" part-of-speech="Ne" morphology="-s---mn--i" head-id="3408439" relation="sub" presentation-after=" "/>
+        <token id="3408436" form="нашог" lemma="нашь" part-of-speech="Ps" morphology="1s---mg--i" head-id="3408437" relation="atr" presentation-after=". "/>
+        <token id="3408437" form="розбоиника" lemma="розбоиникъ" part-of-speech="Nb" morphology="-s---mg--i" head-id="3408439" relation="obj" presentation-after=". "/>
+        <token id="3408438" form="одного" lemma="одинъ" part-of-speech="Ma" morphology="-s---mg--i" head-id="3408437" relation="apos" presentation-after=" "/>
+        <token id="3408439" form="поставил" lemma="поставити" part-of-speech="V-" morphology="-sspamn-si" head-id="3408440" relation="pred" presentation-after=". "/>
+        <token id="3408440" form="а" lemma="а" part-of-speech="C-" morphology="---------n" relation="pred" presentation-after=" "/>
+        <token id="3408441" form="инꙑхъ" lemma="иныи" part-of-speech="Px" morphology="-p---mg--i" head-id="3408443" relation="obj" presentation-after=" "/>
+        <token id="3408442" form="не" lemma="не" part-of-speech="Df" morphology="---------n" head-id="3408443" relation="aux" presentation-after=" "/>
+        <token id="3408443" form="поставил" lemma="поставити" part-of-speech="V-" morphology="-sspamn-si" head-id="3408440" relation="pred" presentation-after=". ">
+          <slash target-id="3408435" relation="sub"/>
         </token>
       </sentence>
-      <sentence id="219157" status="reviewed">
-        <token id="2338619" form="а" lemma="а" part-of-speech="C-" morphology="---------n" head-id="2338622" relation="aux" presentation-after=" "/>
-        <token id="2338620" form="насъ" lemma="мы" part-of-speech="Pp" morphology="1p---mg--i" head-id="2338622" relation="obj" presentation-after=" "/>
-        <token id="2338621" form="не" lemma="не" part-of-speech="Df" morphology="---------n" head-id="2338622" relation="aux" presentation-after=" "/>
-        <token id="2338622" form="судиле" lemma="судити" part-of-speech="V-" morphology="-pspamn-si" relation="pred" presentation-after=". "/>
-        <token id="2338623" form="с" lemma="съ" part-of-speech="R-" morphology="---------n" head-id="2338622" relation="obl" presentation-after=" "/>
-        <token id="2338624" form="нимъ" lemma="и" part-of-speech="Pp" morphology="3s---mi--i" head-id="2338623" relation="obl" presentation-after=" "/>
-        <token id="2338625" form="по" lemma="по" part-of-speech="R-" morphology="---------n" head-id="2338622" relation="adv" presentation-after=" "/>
-        <token id="2338626" form="хрѣстному" lemma="хрьстьныи" part-of-speech="A-" morphology="-s---ndpwi" head-id="2338627" relation="narg" presentation-after=" "/>
-        <token id="2338627" form="целованью" lemma="цѣлование" part-of-speech="Nb" morphology="-s---nd--i" head-id="2338625" relation="obl" presentation-after=". "/>
-      </sentence>
-      <sentence id="219159" status="reviewed">
-        <token id="2338628" form="да" lemma="да" part-of-speech="C-" morphology="---------n" head-id="2338629" relation="aux" presentation-after=" "/>
-        <token id="2338629" form="велѣ" lemma="велѣти" part-of-speech="V-" morphology="-pspamn-si" relation="pred" presentation-after=" "/>
-        <token id="2338630" form="насъ" lemma="мы" part-of-speech="Pp" morphology="1p---mg--i" head-id="2338631" relation="obj" presentation-after=" "/>
-        <token id="2338631" form="съвѧзати" lemma="съвязати" part-of-speech="V-" morphology="--pna----i" head-id="2338632" relation="xobj" presentation-after=". "/>
-        <token id="2338632" form="да" lemma="да" part-of-speech="C-" morphology="---------n" head-id="2338629" relation="xobj" presentation-after=" ">
-          <slash target-id="2338629" relation="xsub"/>
-        </token>
-        <token id="2338633" form="вести" lemma="вести" part-of-speech="V-" morphology="--pna----i" head-id="2338632" relation="xobj" presentation-after=". "/>
-        <token id="2338634" form="на" lemma="на" part-of-speech="R-" morphology="---------n" head-id="2338633" relation="obl" presentation-after=" "/>
-        <token id="2338635" form="пол" lemma="поле" part-of-speech="Nb" morphology="-s---na--i" head-id="2338634" relation="obl" presentation-after=" "/>
-        <token id="2338636" form="сѣчи" lemma="сѣчи" part-of-speech="V-" morphology="--pna----i" head-id="2338633" relation="xadv" presentation-after=". ">
-          <slash target-id="2338633" relation="xsub"/>
+      <sentence id="280248" status="reviewed">
+        <token id="3408444" form="да" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3408451" relation="aux" presentation-after=" "/>
+        <token id="3408445" form="и" lemma="и" part-of-speech="Df" morphology="---------n" head-id="3408451" relation="aux" presentation-after=" "/>
+        <token id="3408446" form="с" lemma="съ" part-of-speech="R-" morphology="---------n" head-id="3408452" relation="obl" presentation-after=" "/>
+        <token id="3408447" form="тꙑм" lemma="тыи" part-of-speech="Pd" morphology="-s---mi--i" head-id="3408448" relation="atr" presentation-after=". "/>
+        <token id="3408448" form="розбоиником" lemma="розбоиникъ" part-of-speech="Nb" morphology="-s---mi--i" head-id="3408446" relation="obl" presentation-after=". "/>
+        <token id="3408449" form="намъ" lemma="мы" part-of-speech="Pp" morphology="1p---md--i" head-id="3408451" relation="obl" presentation-after=" "/>
+        <token id="3408450" form="не" lemma="не" part-of-speech="Df" morphology="---------n" head-id="3408451" relation="aux" presentation-after=" "/>
+        <token id="3408451" form="дасть" lemma="дати" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=". "/>
+        <token id="3408452" form="говорит" lemma="говорити" part-of-speech="V-" morphology="--pna----i" head-id="3408451" relation="xobj" presentation-after=". ">
+          <slash target-id="3408449" relation="xsub"/>
         </token>
       </sentence>
-      <sentence id="219162" status="reviewed">
-        <token id="2338637" form="да" lemma="да" part-of-speech="C-" morphology="---------n" head-id="2338638" relation="aux" presentation-after=" "/>
-        <token id="2338638" form="вꙑвеглѣ" lemma="вывести" part-of-speech="V-" morphology="-pspamn-si" relation="pred" presentation-after=" ">
-          <slash target-id="2338639" relation="obj"/>
-        </token>
-        <token id="2338639" form="насъ" lemma="мы" part-of-speech="Pp" morphology="1p---mg--i" head-id="2338640" relation="obj" presentation-after=" "/>
-        <token id="2338640" form="свѧзавъ" lemma="съвязати" part-of-speech="V-" morphology="-supamn-si" head-id="2338638" relation="xadv" presentation-after=". ">
-          <slash target-id="2338638" relation="xsub"/>
-        </token>
-        <token id="2338641" form="на" lemma="на" part-of-speech="R-" morphology="---------n" head-id="2338638" relation="obl" presentation-after=" "/>
-        <token id="2338642" form="поле" lemma="поле" part-of-speech="Nb" morphology="-s---na--i" head-id="2338641" relation="obl" presentation-after=". "/>
+      <sentence id="280249" status="reviewed">
+        <token id="3408453" form="а" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3408456" relation="aux" presentation-after=" "/>
+        <token id="3408454" form="насъ" lemma="мы" part-of-speech="Pp" morphology="1p---mg--i" head-id="3408456" relation="obj" presentation-after=" "/>
+        <token id="3408455" form="не" lemma="не" part-of-speech="Df" morphology="---------n" head-id="3408456" relation="aux" presentation-after=" "/>
+        <token id="3408456" form="судиле" lemma="судити" part-of-speech="V-" morphology="-pspamn-si" relation="pred" presentation-after=". "/>
+        <token id="3408457" form="с" lemma="съ" part-of-speech="R-" morphology="---------n" head-id="3408456" relation="obl" presentation-after=" "/>
+        <token id="3408458" form="нимъ" lemma="и" part-of-speech="Pp" morphology="3s---mi--i" head-id="3408457" relation="obl" presentation-after=" "/>
+        <token id="3408459" form="по" lemma="по" part-of-speech="R-" morphology="---------n" head-id="3408456" relation="adv" presentation-after=" "/>
+        <token id="3408460" form="хрѣстному" lemma="хрьстьныи" part-of-speech="A-" morphology="-s---ndpwi" head-id="3408461" relation="narg" presentation-after=" "/>
+        <token id="3408461" form="целованью" lemma="цѣлование" part-of-speech="Nb" morphology="-s---nd--i" head-id="3408459" relation="obl" presentation-after=". "/>
       </sentence>
-      <sentence id="219164" status="reviewed">
-        <token id="2338643" form="и" lemma="и" part-of-speech="C-" morphology="---------n" head-id="2338644" relation="aux" presentation-after=" "/>
-        <token id="2338644" form="посажалѣ" lemma="посажати" part-of-speech="V-" morphology="-pspamn-si" relation="pred" presentation-after=" "/>
-        <token id="2338645" form="сѣчи" lemma="сѣчи" part-of-speech="V-" morphology="--pna----i" head-id="2338644" relation="xadv" presentation-after=" ">
-          <slash target-id="2338644" relation="xsub"/>
+      <sentence id="280250" status="reviewed">
+        <token id="3408462" form="да" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3408463" relation="aux" presentation-after=" "/>
+        <token id="3408463" form="велѣ" lemma="велѣти" part-of-speech="V-" morphology="-pspamn-si" relation="pred" presentation-after=" "/>
+        <token id="3408464" form="насъ" lemma="мы" part-of-speech="Pp" morphology="1p---mg--i" head-id="3408465" relation="obj" presentation-after=" "/>
+        <token id="3408465" form="съвѧзати" lemma="съвязати" part-of-speech="V-" morphology="--pna----i" head-id="3408466" relation="xobj" presentation-after=". "/>
+        <token id="3408466" form="да" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3408463" relation="xobj" presentation-after=" ">
+          <slash target-id="3408463" relation="xsub"/>
+        </token>
+        <token id="3408467" form="вести" lemma="вести" part-of-speech="V-" morphology="--pna----i" head-id="3408466" relation="xobj" presentation-after=". "/>
+        <token id="3408468" form="на" lemma="на" part-of-speech="R-" morphology="---------n" head-id="3408467" relation="obl" presentation-after=" "/>
+        <token id="3408469" form="пол" lemma="поле" part-of-speech="Nb" morphology="-s---na--i" head-id="3408468" relation="obl" presentation-after=" "/>
+        <token id="3408470" form="сѣчи" lemma="сѣчи" part-of-speech="V-" morphology="--pna----i" head-id="3408467" relation="xadv" presentation-after=". ">
+          <slash target-id="3408467" relation="xsub"/>
         </token>
       </sentence>
-      <sentence id="219197" status="reviewed">
-        <token id="2338646" form="да" lemma="да" part-of-speech="C-" morphology="---------n" head-id="2338654" relation="aux" presentation-after=" "/>
-        <token id="2338647" form="оу" lemma="у" part-of-speech="R-" morphology="---------n" head-id="2338653" relation="atr" presentation-after=" "/>
-        <token id="2338648" form="нашего" lemma="нашь" part-of-speech="Ps" morphology="1s---mg--i" head-id="2338649" relation="atr" presentation-after=". "/>
-        <token id="2338649" form="друга" lemma="другъ" part-of-speech="Nb" morphology="-s---mg--i" head-id="2338647" relation="obl" presentation-after=". "/>
-        <token id="2338650" form="оу" lemma="у" part-of-speech="R-" morphology="---------n" head-id="2338647" relation="aux" presentation-after=" "/>
-        <token id="2338651" form="мосѣѧ" lemma="мосѣи" part-of-speech="Ne" morphology="-s---mg--i" head-id="2338649" relation="apos" presentation-after=". "/>
-        <token id="2338652" form="и" lemma="и" part-of-speech="Df" morphology="---------n" head-id="2338654" relation="aux" presentation-after=" "/>
-        <token id="2338653" form="бороду" lemma="борода" part-of-speech="Nb" morphology="-s---fa--i" head-id="2338654" relation="obj" presentation-after=" "/>
-        <token id="2338654" form="побрѣл" lemma="побрити" part-of-speech="V-" morphology="-pspamn-si" relation="pred" presentation-after=". "/>
-      </sentence>
-      <sentence id="219167" status="reviewed">
-        <token id="2338655" form="и" lemma="и" part-of-speech="C-" morphology="---------n" head-id="2338660" relation="aux" presentation-after=" "/>
-        <token id="2338656" form="с" lemma="съ" part-of-speech="R-" morphology="---------n" head-id="2338659" relation="obl" presentation-after=" "/>
-        <token id="2338657" form="полѧ" lemma="поле" part-of-speech="Nb" morphology="-s---ng--i" head-id="2338656" relation="obl" presentation-after=" "/>
-        <token id="2338658" form="нас" lemma="мы" part-of-speech="Pp" morphology="1p---mg--i" head-id="2338659" relation="obj" presentation-after=". "/>
-        <token id="2338659" form="сведши" lemma="съвести" part-of-speech="V-" morphology="-pupamn-si" head-id="2338660" relation="xadv" presentation-after=". ">
-          <slash target-id="2338660" relation="xsub"/>
+      <sentence id="280251" status="reviewed">
+        <token id="3408471" form="да" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3408472" relation="aux" presentation-after=" "/>
+        <token id="3408472" form="вꙑвеглѣ" lemma="вывести" part-of-speech="V-" morphology="-pspamn-si" relation="pred" presentation-after=" ">
+          <slash target-id="3408473" relation="obj"/>
         </token>
-        <token id="2338660" form="всадилѣ" lemma="въсадити" part-of-speech="V-" morphology="-pspamn-si" relation="pred" presentation-after=" "/>
-        <token id="2338661" form="насъ" lemma="мы" part-of-speech="Pp" morphology="1p---mg--i" head-id="2338660" relation="obj" presentation-after=". "/>
-        <token id="2338662" form="в" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="2338660" relation="obl" presentation-after=" "/>
-        <token id="2338663" form="костеръ" lemma="костеръ" part-of-speech="Nb" morphology="-s---ma--i" head-id="2338662" relation="obl" presentation-after=". "/>
+        <token id="3408473" form="насъ" lemma="мы" part-of-speech="Pp" morphology="1p---mg--i" head-id="3408474" relation="obj" presentation-after=" "/>
+        <token id="3408474" form="свѧзавъ" lemma="съвязати" part-of-speech="V-" morphology="-supamn-si" head-id="3408472" relation="xadv" presentation-after=". ">
+          <slash target-id="3408472" relation="xsub"/>
+        </token>
+        <token id="3408475" form="на" lemma="на" part-of-speech="R-" morphology="---------n" head-id="3408472" relation="obl" presentation-after=" "/>
+        <token id="3408476" form="поле" lemma="поле" part-of-speech="Nb" morphology="-s---na--i" head-id="3408475" relation="obl" presentation-after=". "/>
       </sentence>
-      <sentence id="219170" status="reviewed">
-        <token id="2338664" form="и" lemma="и" part-of-speech="C-" morphology="---------n" head-id="2338665" relation="aux" presentation-after=" "/>
-        <token id="2338665" form="сѣдѣл" lemma="сѣдѣти" part-of-speech="V-" morphology="-pspamn-si" relation="pred" presentation-after=" "/>
-        <token id="2338666" form="есмѧ" lemma="быти" part-of-speech="V-" morphology="1ppia----i" head-id="2338665" relation="aux" presentation-after=". "/>
-        <token id="2338667" form="в" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="2338665" relation="adv" presentation-after=" "/>
-        <token id="2338668" form="тои" lemma="тыи" part-of-speech="Pd" morphology="-s---fl--i" head-id="2338669" relation="atr" presentation-after=" "/>
-        <token id="2338669" form="мукѣ" lemma="мука#1" part-of-speech="Nb" morphology="-s---fl--i" head-id="2338667" relation="obl" presentation-after=" "/>
-        <token id="2338670" form="недѣл" lemma="недѣля" part-of-speech="Nb" morphology="-s---fa--i" head-id="2338665" relation="adv" presentation-after=". "/>
+      <sentence id="280252" status="reviewed">
+        <token id="3408477" form="и" lemma="и" part-of-speech="C-" morphology="---------n" head-id="3408478" relation="aux" presentation-after=" "/>
+        <token id="3408478" form="посажалѣ" lemma="посажати" part-of-speech="V-" morphology="-pspamn-si" relation="pred" presentation-after=" "/>
+        <token id="3408479" form="сѣчи" lemma="сѣчи" part-of-speech="V-" morphology="--pna----i" head-id="3408478" relation="xadv" presentation-after=" ">
+          <slash target-id="3408478" relation="xsub"/>
+        </token>
+      </sentence>
+      <sentence id="280253" status="reviewed">
+        <token id="3408480" form="да" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3408488" relation="aux" presentation-after=" "/>
+        <token id="3408481" form="оу" lemma="у" part-of-speech="R-" morphology="---------n" head-id="3408487" relation="atr" presentation-after=" "/>
+        <token id="3408482" form="нашего" lemma="нашь" part-of-speech="Ps" morphology="1s---mg--i" head-id="3408483" relation="atr" presentation-after=". "/>
+        <token id="3408483" form="друга" lemma="другъ" part-of-speech="Nb" morphology="-s---mg--i" head-id="3408481" relation="obl" presentation-after=". "/>
+        <token id="3408484" form="оу" lemma="у" part-of-speech="R-" morphology="---------n" head-id="3408481" relation="aux" presentation-after=" "/>
+        <token id="3408485" form="мосѣѧ" lemma="мосѣи" part-of-speech="Ne" morphology="-s---mg--i" head-id="3408483" relation="apos" presentation-after=". "/>
+        <token id="3408486" form="и" lemma="и" part-of-speech="Df" morphology="---------n" head-id="3408488" relation="aux" presentation-after=" "/>
+        <token id="3408487" form="бороду" lemma="борода" part-of-speech="Nb" morphology="-s---fa--i" head-id="3408488" relation="obj" presentation-after=" "/>
+        <token id="3408488" form="побрѣл" lemma="побрити" part-of-speech="V-" morphology="-pspamn-si" relation="pred" presentation-after=". "/>
+      </sentence>
+      <sentence id="280254" status="reviewed">
+        <token id="3408489" form="и" lemma="и" part-of-speech="C-" morphology="---------n" head-id="3408494" relation="aux" presentation-after=" "/>
+        <token id="3408490" form="с" lemma="съ" part-of-speech="R-" morphology="---------n" head-id="3408493" relation="obl" presentation-after=" "/>
+        <token id="3408491" form="полѧ" lemma="поле" part-of-speech="Nb" morphology="-s---ng--i" head-id="3408490" relation="obl" presentation-after=" "/>
+        <token id="3408492" form="нас" lemma="мы" part-of-speech="Pp" morphology="1p---mg--i" head-id="3408493" relation="obj" presentation-after=". "/>
+        <token id="3408493" form="сведши" lemma="съвести" part-of-speech="V-" morphology="-pupamn-si" head-id="3408494" relation="xadv" presentation-after=". ">
+          <slash target-id="3408494" relation="xsub"/>
+        </token>
+        <token id="3408494" form="всадилѣ" lemma="въсадити" part-of-speech="V-" morphology="-pspamn-si" relation="pred" presentation-after=" "/>
+        <token id="3408495" form="насъ" lemma="мы" part-of-speech="Pp" morphology="1p---mg--i" head-id="3408494" relation="obj" presentation-after=". "/>
+        <token id="3408496" form="в" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3408494" relation="obl" presentation-after=" "/>
+        <token id="3408497" form="костеръ" lemma="костеръ" part-of-speech="Nb" morphology="-s---ma--i" head-id="3408496" relation="obl" presentation-after=". "/>
+      </sentence>
+      <sentence id="280255" status="reviewed">
+        <token id="3408498" form="и" lemma="и" part-of-speech="C-" morphology="---------n" head-id="3408499" relation="aux" presentation-after=" "/>
+        <token id="3408499" form="сѣдѣл" lemma="сѣдѣти" part-of-speech="V-" morphology="-pspamn-si" relation="pred" presentation-after=" "/>
+        <token id="3408500" form="есмѧ" lemma="быти" part-of-speech="V-" morphology="1ppia----i" head-id="3408499" relation="aux" presentation-after=". "/>
+        <token id="3408501" form="в" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3408499" relation="adv" presentation-after=" "/>
+        <token id="3408502" form="тои" lemma="тыи" part-of-speech="Pd" morphology="-s---fl--i" head-id="3408503" relation="atr" presentation-after=" "/>
+        <token id="3408503" form="мукѣ" lemma="мука#1" part-of-speech="Nb" morphology="-s---fl--i" head-id="3408501" relation="obl" presentation-after=" "/>
+        <token id="3408504" form="недѣл" lemma="недѣля" part-of-speech="Nb" morphology="-s---fa--i" head-id="3408499" relation="adv" presentation-after=". "/>
+      </sentence>
+      <sentence id="280256" status="reviewed">
+        <token id="3408505" form="и" lemma="и" part-of-speech="C-" morphology="---------n" head-id="3408509" relation="aux" presentation-after=" "/>
+        <token id="3408506" form="зумберь" lemma="зуберь" part-of-speech="Ne" morphology="-s---mn--i" head-id="3408509" relation="sub" presentation-after=" "/>
+        <token id="3408507" form="на" lemma="на" part-of-speech="R-" morphology="---------n" head-id="3408509" relation="obl" presentation-after=" "/>
+        <token id="3408508" form="насъ" lemma="мы" part-of-speech="Pp" morphology="1p---mg--i" head-id="3408507" relation="obl" presentation-after=". "/>
+        <token id="3408509" form="взѧле" lemma="възяти" part-of-speech="V-" morphology="-sspamn-si" relation="pred" presentation-after=". "/>
+        <token id="3408510" form="с" lemma="съ" part-of-speech="R-" morphology="---------n" head-id="3408509" relation="adv" presentation-after=" "/>
+        <token id="3408511" form="левоньтѣиком" lemma="левонтѣико" part-of-speech="Ne" morphology="-s---mi--i" head-id="3408510" relation="obl" presentation-after=". "/>
+        <token id="3408512" form="тꙑсѧч" lemma="тысяча" part-of-speech="Ma" morphology="-s---fa--i" head-id="3408514" relation="obj" presentation-after=" "/>
+        <token id="3408513" form="бѣлък" lemma="бѣлъка" part-of-speech="Nb" morphology="-p---fg--i" head-id="3408512" relation="part" presentation-after=". "/>
+        <token id="3408514" form="а" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3408509" relation="obj" presentation-after=" "/>
+        <token id="3408515" form="тритчеть" lemma="тридесяте" part-of-speech="Ma" morphology="-s---fa--i" head-id="3408514" relation="obj" presentation-after=" "/>
+        <token id="3408516" form="бѣлъ" lemma="бѣла" part-of-speech="Nb" morphology="-p---fg--i" head-id="3408515" relation="part" presentation-after=" "/>
+        <token id="3408517" form="намета" lemma="наметъ" part-of-speech="Nb" morphology="-s---mg--i" head-id="3408515" relation="part" presentation-after=". "/>
+      </sentence>
+      <sentence id="280257" status="reviewed">
+        <token id="3408518" form="а" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3408524" relation="aux" presentation-after=" "/>
+        <token id="3408519" form="иване" lemma="иванъ" part-of-speech="Ne" morphology="-s---mn--i" head-id="3408524" relation="sub" presentation-after=" "/>
+        <token id="3408520" form="оу" lemma="у" part-of-speech="R-" morphology="---------n" head-id="3408524" relation="obl" presentation-after=" "/>
+        <token id="3408521" form="нас" lemma="мы" part-of-speech="Pp" morphology="1p---mg--i" head-id="3408520" relation="obl" presentation-after=". "/>
+        <token id="3408522" form="глазе" lemma="глазъ" part-of-speech="Ne" morphology="-s---mn--i" head-id="3408519" relation="apos" presentation-after=" "/>
+        <token id="3408523" form="тѣи" lemma="тыи" part-of-speech="Pd" morphology="-s---mn--i" head-id="3408519" relation="apos" presentation-after=" "/>
+        <token id="3408524" form="взѧле" lemma="възяти" part-of-speech="V-" morphology="-sspamn-si" relation="pred" presentation-after=". "/>
+        <token id="3408525" form="пѧтьдесѧт" lemma="пятьдесятъ" part-of-speech="Ma" morphology="-s---fa--i" head-id="3408524" relation="obj" presentation-after=". "/>
+        <token id="3408526" form="бѣлъ" lemma="бѣла" part-of-speech="Nb" morphology="-p---fg--i" head-id="3408525" relation="part" presentation-after=". "/>
+      </sentence>
+      <sentence id="280258" status="reviewed">
+        <token id="3408527" form="а" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3408541" relation="aux" presentation-after=" "/>
+        <token id="3408528" form="кто" lemma="къто" part-of-speech="Pr" morphology="-s---mn--i" head-id="3408533" relation="sub" presentation-after=" "/>
+        <token id="3408529" form="намъ" lemma="мы" part-of-speech="Pp" morphology="1p---md--i" head-id="3408533" relation="obl" presentation-after=". "/>
+        <token id="3408530" form="въ" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3408533" relation="adv" presentation-after=" "/>
+        <token id="3408531" form="костеръ" lemma="костеръ" part-of-speech="Nb" morphology="-s---ma--i" head-id="3408530" relation="obl" presentation-after=". "/>
+        <token id="3408532" form="воду" lemma="вода" part-of-speech="Nb" morphology="-s---fa--i" head-id="3408533" relation="obj" presentation-after=" "/>
+        <token id="3408533" form="давал" lemma="давати" part-of-speech="V-" morphology="-sspamn-si" head-id="3408541" relation="sub" presentation-after=". "/>
+        <token id="3408534" form="а" lemma="а" part-of-speech="C-" morphology="---------n" relation="pred" presentation-after=" "/>
+        <token id="3408535" form="тѣи" lemma="тыи" part-of-speech="Pd" morphology="-s---mn--i" head-id="3408538" relation="sub" presentation-after=" "/>
+        <token id="3408536" form="оу" lemma="у" part-of-speech="R-" morphology="---------n" head-id="3408538" relation="obl" presentation-after=" "/>
+        <token id="3408537" form="нас" lemma="мы" part-of-speech="Pp" morphology="1p---mg--i" head-id="3408536" relation="obl" presentation-after=". "/>
+        <token id="3408538" form="взѧлѣ" lemma="възяти" part-of-speech="V-" morphology="-sspamn-si" head-id="3408534" relation="pred" presentation-after=". "/>
+        <token id="3408539" form="ѕі" lemma="шестьнадесять" part-of-speech="Ma" morphology="---------n" head-id="3408538" relation="obj" presentation-after=". "/>
+        <token id="3408540" form="оврѣи" lemma="оврь" part-of-speech="Nb" morphology="-p---mg--i" head-id="3408539" relation="part" presentation-after=" "/>
+        <token id="3408541" empty-token-sort="V" head-id="3408534" relation="pred"/>
+      </sentence>
+      <sentence id="280259" status="reviewed">
+        <token id="3408542" form="а" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3408557" relation="aux" presentation-after=" "/>
+        <token id="3408543" form="как" lemma="како" part-of-speech="Dq" morphology="---------n" head-id="3408557" relation="adv" presentation-after=". "/>
+        <token id="3408544" form="сѣдѣ" lemma="сѣдѣти" part-of-speech="V-" morphology="-sppamn-si" head-id="3408557" relation="xadv" presentation-after=" ">
+          <slash target-id="3408557" relation="xsub"/>
+        </token>
+        <token id="3408545" form="в" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3408544" relation="obl" presentation-after=" "/>
+        <token id="3408546" form="кострѣ" lemma="костеръ" part-of-speech="Nb" morphology="-s---ml--i" head-id="3408545" relation="obl" presentation-after=". "/>
+        <token id="3408547" form="а" lemma="а" part-of-speech="C-" morphology="---------n" relation="pred" presentation-after=" "/>
+        <token id="3408548" form="в" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3408555" relation="adv" presentation-after=" "/>
+        <token id="3408549" form="то" lemma="тыи" part-of-speech="Pd" morphology="-s---na--i" head-id="3408550" relation="atr" presentation-after=" "/>
+        <token id="3408550" form="веремѧ" lemma="веремя" part-of-speech="Nb" morphology="-s---na--i" head-id="3408548" relation="obl" presentation-after=". "/>
+        <token id="3408551" form="оу" lemma="у" part-of-speech="R-" morphology="---------n" head-id="3408555" relation="adv" presentation-after=" "/>
+        <token id="3408552" form="насъ" lemma="мы" part-of-speech="Pp" morphology="1p---mg--i" head-id="3408551" relation="obl" presentation-after=". "/>
+        <token id="3408553" form="оубꙑтка" lemma="убытъкъ" part-of-speech="Nb" morphology="-s---mg--i" head-id="3408554" relation="part" presentation-after=". "/>
+        <token id="3408554" form="много" lemma="мъногыи" part-of-speech="A-" morphology="-s---nnpsi" head-id="3408555" relation="sub" presentation-after=" "/>
+        <token id="3408555" form="доспѣло" lemma="доспѣти" part-of-speech="V-" morphology="-sspann-si" head-id="3408547" relation="pred"/>
+        <token id="3408556" form="сь" lemma="себе" part-of-speech="Pk" morphology="3s---qa--i" head-id="3408555" relation="aux" presentation-after=". "/>
+        <token id="3408557" empty-token-sort="V" head-id="3408547" relation="pred"/>
+      </sentence>
+      <sentence id="280260" status="reviewed">
+        <token id="3408558" form="и" lemma="и" part-of-speech="C-" morphology="---------n" head-id="3408562" relation="aux" presentation-after=" "/>
+        <token id="3408559" form="кони" lemma="конь" part-of-speech="Nb" morphology="-p---mn--i" head-id="3408562" relation="sub" presentation-after=" "/>
+        <token id="3408560" form="оу" lemma="у" part-of-speech="R-" morphology="---------n" head-id="3408559" relation="atr" presentation-after=" "/>
+        <token id="3408561" form="нсъ" lemma="мы" part-of-speech="Pp" morphology="1p---mg--i" head-id="3408560" relation="obl" presentation-after=" "/>
+        <token id="3408562" form="попадал" lemma="попадати" part-of-speech="V-" morphology="-pspamn-si" relation="pred" presentation-after=". "/>
+        <token id="3408563" form="с" lemma="съ" part-of-speech="R-" morphology="---------n" head-id="3408562" relation="adv" presentation-after=" "/>
+        <token id="3408564" form="голода" lemma="голодъ" part-of-speech="Nb" morphology="-s---mg--i" head-id="3408563" relation="obl" presentation-after=". "/>
+        <token id="3408565" form="на" lemma="на" part-of-speech="R-" morphology="---------n" head-id="3408562" relation="adv" presentation-after=" "/>
+        <token id="3408566" form="пути" lemma="путь" part-of-speech="Nb" morphology="-s---ml--i" head-id="3408565" relation="obl" presentation-after=". "/>
+      </sentence>
+      <sentence id="280261" status="reviewed">
+        <token id="3408567" form="а" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3408583" relation="aux" presentation-after=" "/>
+        <token id="3408568" form="се" lemma="сии" part-of-speech="Pd" morphology="-s---nn--i" head-id="3408583" relation="sub" presentation-after=" "/>
+        <token id="3408569" form="имена" lemma="имя" part-of-speech="Nb" morphology="-p---nn--i" head-id="3408583" relation="xobj" presentation-after=". ">
+          <slash target-id="3408568" relation="xsub"/>
+        </token>
+        <token id="3408570" form="кого" lemma="къто" part-of-speech="Pr" morphology="-s---mg--i" head-id="3408572" relation="obj" presentation-after=" "/>
+        <token id="3408571" form="нѣмчѣ" lemma="нѣмьць" part-of-speech="Nb" morphology="-p---mn--i" head-id="3408572" relation="sub" presentation-after=" "/>
+        <token id="3408572" form="огабил" lemma="ограбити" part-of-speech="V-" morphology="-pspamn-si" head-id="3408573" relation="atr" presentation-after=" "/>
+        <token id="3408573" form="а" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3408569" relation="atr" presentation-after=" "/>
+        <token id="3408574" form="и" lemma="и" part-of-speech="Df" morphology="---------n" head-id="3408577" relation="aux" presentation-after=" "/>
+        <token id="3408575" form="в" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3408577" relation="obl" presentation-after=" "/>
+        <token id="3408576" form="костеръ" lemma="костеръ" part-of-speech="Nb" morphology="-s---ma--i" head-id="3408575" relation="obl" presentation-after=" "/>
+        <token id="3408577" form="сажал" lemma="сажати" part-of-speech="V-" morphology="-pspamn-si" head-id="3408573" relation="atr" presentation-after=". ">
+          <slash target-id="3408570" relation="obj"/>
+          <slash target-id="3408571" relation="sub"/>
+        </token>
+        <token id="3408578" form="еремѣѧ" lemma="еремѣя" part-of-speech="Ne" morphology="-s---mn--i" head-id="3408584" relation="apos" presentation-after=". "/>
+        <token id="3408579" form="моисѣи" lemma="моисеи" part-of-speech="Ne" morphology="-s---mn--i" head-id="3408584" relation="apos" presentation-after=". "/>
+        <token id="3408580" form="канане" lemma="кананъ" part-of-speech="Ne" morphology="-s---mn--i" head-id="3408584" relation="apos" presentation-after=". "/>
+        <token id="3408581" form="клименьт" lemma="климентъ" part-of-speech="Ne" morphology="-s---mn--i" head-id="3408584" relation="apos" presentation-after=". "/>
+        <token id="3408582" form="иване" lemma="иванъ" part-of-speech="Ne" morphology="-s---mn--i" head-id="3408584" relation="apos" presentation-after=" "/>
+        <token id="3408583" empty-token-sort="V" relation="pred"/>
+        <token id="3408584" empty-token-sort="C" head-id="3408568" relation="apos"/>
       </sentence>
     </div>
     <div id="8345">
       <title>2</title>
-    </div>
-    <div>
-      <title>3</title>
-    </div>
-    <div>
-      <title>4</title>
-    </div>
-    <div>
-      <title>5</title>
+      <sentence id="280262" status="reviewed">
+        <token id="3408585" form="ѿ" lemma="отъ" part-of-speech="R-" morphology="---------n" head-id="3408594" relation="obl" presentation-after=" "/>
+        <token id="3408586" form="посадьник" lemma="посадьникъ" part-of-speech="Nb" morphology="-s---mg--i" head-id="3408585" relation="obl" presentation-after=". "/>
+        <token id="3408587" form="фомѣ" lemma="фома" part-of-speech="Ne" morphology="-s---mg--i" head-id="3408586" relation="apos" presentation-after=" "/>
+        <token id="3408588" form="эсифович" lemma="есифовичь" part-of-speech="Ne" morphology="-s---mg--i" head-id="3408587" relation="apos" presentation-after=". "/>
+        <token id="3408589" form="ѿ" lemma="отъ" part-of-speech="R-" morphology="---------n" head-id="3408594" relation="obl" presentation-after=" "/>
+        <token id="3408590" form="тꙑсѧчког" lemma="тысячьскыи" part-of-speech="A-" morphology="-s---mgpwi" head-id="3408589" relation="obl" presentation-after=". "/>
+        <token id="3408591" form="кюрилѣ" lemma="кюрила" part-of-speech="Nb" morphology="-s---mg--i" head-id="3408590" relation="apos" presentation-after=" "/>
+        <token id="3408592" form="дмитреевич" lemma="дьмитрѣевичь" part-of-speech="Ne" morphology="-s---mg--i" head-id="3408591" relation="apos" presentation-after=". "/>
+        <token id="3408593" empty-token-sort="V" relation="pred"/>
+        <token id="3408594" empty-token-sort="C" head-id="3408593" relation="obl"/>
+      </sentence>
+      <sentence id="280263" status="reviewed">
+        <token id="3408595" form="се" lemma="се" part-of-speech="I-" morphology="---------n" relation="voc" presentation-after=" "/>
+        <token id="3408596" form="биша" lemma="бити" part-of-speech="V-" morphology="3paia----i" relation="pred" presentation-after=" "/>
+        <token id="3408597" form="челомъ" lemma="чело" part-of-speech="Nb" morphology="-s---ni--i" head-id="3408596" relation="obl" presentation-after=". "/>
+        <token id="3408598" form="порубнѣи" lemma="порубьныи" part-of-speech="A-" morphology="-p---mnpwi" head-id="3408599" relation="atr" presentation-after=". "/>
+        <token id="3408599" form="людѣ" lemma="людие" part-of-speech="Nb" morphology="-p---mn--i" head-id="3408596" relation="sub" presentation-after=". "/>
+        <token id="3408600" form="новугороду" lemma="новъгородъ" part-of-speech="Ne" morphology="-s---md--i" head-id="3408596" relation="obl" presentation-after=". "/>
+        <token id="3408601" form="что" lemma="чьто" part-of-speech="G-" morphology="---------n" head-id="3408596" relation="comp" presentation-after=" "/>
+        <token id="3408602" form="порубил" lemma="порубити" part-of-speech="V-" morphology="-sspamn-si" head-id="3408601" relation="pred" presentation-after=" "/>
+        <token id="3408603" form="ихъ" lemma="и" part-of-speech="Pp" morphology="3p---mg--i" head-id="3408602" relation="obj" presentation-after=" "/>
+        <token id="3408604" form="клавша" lemma="клавъша" part-of-speech="Ne" morphology="-s---mn--i" head-id="3408602" relation="sub" presentation-after=" "/>
+        <token id="3408605" form="зъ" lemma="съ" part-of-speech="R-" morphology="---------n" head-id="3408602" relation="adv" presentation-after=" "/>
+        <token id="3408606" form="братью" lemma="братия" part-of-speech="Nb" morphology="-s---fi--i" head-id="3408605" relation="obl" presentation-after=". "/>
+        <token id="3408607" form="коли" lemma="коли" part-of-speech="Dq" morphology="---------n" head-id="3408608" relation="adv" presentation-after=" "/>
+        <token id="3408608" form="сѣдѣлъ" lemma="сѣдѣти" part-of-speech="V-" morphology="-sspamn-si" head-id="3408612" relation="adv" presentation-after=". "/>
+        <token id="3408609" form="индрѣкъ" lemma="индрѣкъ" part-of-speech="Ne" morphology="-s---mn--i" head-id="3408608" relation="sub" presentation-after=". "/>
+        <token id="3408610" form="на" lemma="на" part-of-speech="R-" morphology="---------n" head-id="3408608" relation="obl" presentation-after=" "/>
+        <token id="3408611" form="ргодивѣ" lemma="ругодивъ" part-of-speech="Ne" morphology="-s---ml--i" head-id="3408610" relation="obl" presentation-after=". "/>
+        <token id="3408612" form="а" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3408596" relation="adv" presentation-after=" "/>
+        <token id="3408613" form="по" lemma="по" part-of-speech="R-" morphology="---------n" head-id="3408612" relation="adv" presentation-after=" "/>
+        <token id="3408614" form="повелѣнью" lemma="повелѣние" part-of-speech="Nb" morphology="-s---nd--i" head-id="3408613" relation="obl" presentation-after=". "/>
+        <token id="3408615" form="местерев" lemma="местеровъ" part-of-speech="A-" morphology="-s---mdpsi" head-id="3408616" relation="atr" presentation-after=". "/>
+        <token id="3408616" form="и" lemma="и" part-of-speech="C-" morphology="---------n" head-id="3408614" relation="atr" presentation-after=" "/>
+        <token id="3408617" form="индрѣков" lemma="индрѣковъ" part-of-speech="A-" morphology="-s---mdpsi" head-id="3408616" relation="atr" presentation-after=". "/>
+      </sentence>
+      <sentence id="280264" status="reviewed">
+        <token id="3408618" form="михаилу" lemma="михаила" part-of-speech="Ne" morphology="-s---ma--i" head-id="3408625" relation="obj" presentation-after=". "/>
+        <token id="3408619" form="илью" lemma="илия" part-of-speech="Ne" morphology="-s---ma--i" head-id="3408625" relation="obj" presentation-after=". "/>
+        <token id="3408620" form="терентѣѧ" lemma="терентии" part-of-speech="Ne" morphology="-s---mg--i" head-id="3408625" relation="obj" presentation-after=" "/>
+        <token id="3408621" form="федора" lemma="федоръ" part-of-speech="Ne" morphology="-s---mg--i" head-id="3408625" relation="obj" presentation-after=". "/>
+        <token id="3408622" form="омоса" lemma="омосъ" part-of-speech="Ne" morphology="-s---mg--i" head-id="3408625" relation="obj" presentation-after=". "/>
+        <token id="3408623" form="игната" lemma="игнатъ" part-of-speech="Ne" morphology="-s---mg--i" head-id="3408625" relation="obj" presentation-after=". "/>
+        <token id="3408624" empty-token-sort="V" relation="pred"/>
+        <token id="3408625" empty-token-sort="C" head-id="3408624" relation="obj"/>
+      </sentence>
+      <sentence id="280265" status="reviewed">
+        <token id="3408626" form="за" lemma="за" part-of-speech="R-" morphology="---------n" head-id="3408639" relation="obl" presentation-after=" "/>
+        <token id="3408627" form="павла" lemma="павьлъ" part-of-speech="Ne" morphology="-s---mg--i" head-id="3408626" relation="obl" presentation-after=". "/>
+        <token id="3408628" form="за" lemma="за" part-of-speech="R-" morphology="---------n" head-id="3408626" relation="aux" presentation-after=" "/>
+        <token id="3408629" form="кровчу" lemma="кровьца" part-of-speech="Ne" morphology="-s---ma--i" head-id="3408627" relation="apos" presentation-after=". "/>
+        <token id="3408630" form="въ" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3408633" relation="obl" presentation-after=" "/>
+        <token id="3408631" form="стѣ" lemma="съто" part-of-speech="Ma" morphology="-s---nl--i" head-id="3408630" relation="obl" presentation-after=". "/>
+        <token id="3408632" form="рубл[е]в" lemma="рубль" part-of-speech="Nb" morphology="-p---mg--i" head-id="3408631" relation="part" presentation-after=" "/>
+        <token id="3408633" form="и" lemma="и" part-of-speech="C-" morphology="---------n" head-id="3408639" relation="obl" presentation-after=" "/>
+        <token id="3408634" form="въ" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3408633" relation="obl" presentation-after=" "/>
+        <token id="3408635" form="л҃" lemma="тридесяте" part-of-speech="Ma" morphology="---------n" head-id="3408634" relation="obl" presentation-before="." presentation-after=". ">
+          <slash target-id="3408632" relation="part"/>
+        </token>
+        <token id="3408636" form="и" lemma="и" part-of-speech="C-" morphology="---------n" head-id="3408633" relation="aux" presentation-after=" "/>
+        <token id="3408637" form="въ" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3408633" relation="obl" presentation-after=" "/>
+        <token id="3408638" form="з҃" lemma="седмь" part-of-speech="Ma" morphology="---------n" head-id="3408637" relation="obl" presentation-before="." presentation-after=". ">
+          <slash target-id="3408632" relation="part"/>
+        </token>
+        <token id="3408639" empty-token-sort="V" relation="pred"/>
+      </sentence>
+      <sentence id="280266" status="reviewed">
+        <token id="3408640" form="за" lemma="за" part-of-speech="R-" morphology="---------n" head-id="3408649" relation="obl" presentation-after=" "/>
+        <token id="3408641" form="огофона" lemma="агафонъ" part-of-speech="Ne" morphology="-s---mg--i" head-id="3408640" relation="obl" presentation-after=". "/>
+        <token id="3408642" form="за" lemma="за" part-of-speech="R-" morphology="---------n" head-id="3408640" relation="aux" presentation-after=" "/>
+        <token id="3408643" form="симанова" lemma="симановъ" part-of-speech="Ne" morphology="-s---mg--i" head-id="3408641" relation="apos" presentation-after=". "/>
+        <token id="3408644" form="зъ" lemma="съ" part-of-speech="R-" morphology="---------n" head-id="3408641" relation="atr" presentation-after=" "/>
+        <token id="3408645" form="братомъ" lemma="братъ" part-of-speech="Nb" morphology="-s---mi--i" head-id="3408644" relation="obl" presentation-after=" "/>
+        <token id="3408646" form="его" lemma="и" part-of-speech="Pp" morphology="3s---mg--i" head-id="3408645" relation="atr" presentation-after=" "/>
+        <token id="3408647" form="съ" lemma="съ" part-of-speech="R-" morphology="---------n" head-id="3408644" relation="aux" presentation-after=" "/>
+        <token id="3408648" form="ѧковомъ" lemma="яковъ" part-of-speech="Ne" morphology="-s---mi--i" head-id="3408645" relation="apos" presentation-after=". "/>
+        <token id="3408649" empty-token-sort="V" relation="pred"/>
+      </sentence>
+      <sentence id="280267" status="reviewed">
+        <token id="3408650" form="за" lemma="за" part-of-speech="R-" morphology="---------n" head-id="3408654" relation="obl" presentation-after=" "/>
+        <token id="3408651" form="мосѣѧ" lemma="мосѣи" part-of-speech="Ne" morphology="-s---mg--i" head-id="3408650" relation="obl" presentation-after=". "/>
+        <token id="3408652" form="зъ" lemma="съ" part-of-speech="R-" morphology="---------n" head-id="3408651" relation="atr" presentation-after=" "/>
+        <token id="3408653" form="дѣтьм" lemma="дѣти" part-of-speech="Nb" morphology="-p---ni--i" head-id="3408652" relation="obl" presentation-after=". "/>
+        <token id="3408654" empty-token-sort="V" relation="pred"/>
+      </sentence>
+      <sentence id="280268" status="reviewed">
+        <token id="3408655" form="и" lemma="и" part-of-speech="C-" morphology="---------n" head-id="3408665" relation="aux" presentation-after=" "/>
+        <token id="3408656" form="за" lemma="за" part-of-speech="R-" morphology="---------n" head-id="3408665" relation="obl" presentation-after=" "/>
+        <token id="3408657" form="пага" lemma="пагъ" part-of-speech="Ne" morphology="-s---mg--i" head-id="3408656" relation="obl" presentation-after=". "/>
+        <token id="3408658" form="павлова" lemma="павьловъ" part-of-speech="Ne" morphology="-s---mg--i" head-id="3408657" relation="apos" presentation-after=". "/>
+        <token id="3408659" form="въ" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3408662" relation="obl" presentation-after=" "/>
+        <token id="3408660" form="стѣ" lemma="съто" part-of-speech="Ma" morphology="-s---nl--i" head-id="3408659" relation="obl" presentation-after=" "/>
+        <token id="3408661" form="рублев" lemma="рубль" part-of-speech="Nb" morphology="-p---mg--i" head-id="3408660" relation="part" presentation-after=". "/>
+        <token id="3408662" form="и" lemma="и" part-of-speech="C-" morphology="---------n" head-id="3408665" relation="obl" presentation-after=" "/>
+        <token id="3408663" form="въ" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3408662" relation="obl" presentation-after=" "/>
+        <token id="3408664" form="к҃" lemma="дъвадесяти" part-of-speech="Ma" morphology="---------n" head-id="3408663" relation="obl" presentation-before="." presentation-after=". ">
+          <slash target-id="3408661" relation="part"/>
+        </token>
+        <token id="3408665" empty-token-sort="V" relation="pred"/>
+      </sentence>
+      <sentence id="280269" status="reviewed">
+        <token id="3408666" form="и" lemma="и" part-of-speech="C-" morphology="---------n" head-id="3408676" relation="aux" presentation-after=" "/>
+        <token id="3408667" form="за" lemma="за" part-of-speech="R-" morphology="---------n" head-id="3408676" relation="obl" presentation-after=" "/>
+        <token id="3408668" form="смена" lemma="сьменъ" part-of-speech="Ne" morphology="-s---mg--i" head-id="3408667" relation="obl" presentation-after=". "/>
+        <token id="3408669" form="за" lemma="за" part-of-speech="R-" morphology="---------n" head-id="3408667" relation="aux" presentation-after=" "/>
+        <token id="3408670" form="коровин" lemma="коровинъ" part-of-speech="Ne" morphology="-s---mg--i" head-id="3408668" relation="apos" presentation-after=". "/>
+        <token id="3408671" form="з" lemma="съ" part-of-speech="R-" morphology="---------n" head-id="3408668" relation="atr" presentation-after=" "/>
+        <token id="3408672" form="дѣтьми" lemma="дѣтя" part-of-speech="Nb" morphology="-p---ni--i" head-id="3408671" relation="obl" presentation-after=" "/>
+        <token id="3408673" form="въ" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3408676" relation="obl" presentation-after=" "/>
+        <token id="3408674" form="л҃" lemma="тридесяте" part-of-speech="Ma" morphology="---------n" head-id="3408673" relation="obl" presentation-before="." presentation-after=". "/>
+        <token id="3408675" form="рублевъ" lemma="рубль" part-of-speech="Nb" morphology="-p---mg--i" head-id="3408674" relation="part" presentation-after=". "/>
+        <token id="3408676" empty-token-sort="V" relation="pred"/>
+      </sentence>
+      <sentence id="280270" status="reviewed">
+        <token id="3408677" form="за" lemma="за" part-of-speech="R-" morphology="---------n" head-id="3408682" relation="obl" presentation-after=" "/>
+        <token id="3408678" form="луку" lemma="лука" part-of-speech="Ne" morphology="-s---ma--i" head-id="3408677" relation="obl" presentation-after=" "/>
+        <token id="3408679" form="въ" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3408682" relation="obl" presentation-after=" "/>
+        <token id="3408680" form="треначать" lemma="тринадесять" part-of-speech="Ma" morphology="-s---fa--i" head-id="3408679" relation="obl" presentation-after=" "/>
+        <token id="3408681" form="рублев" lemma="рубль" part-of-speech="Nb" morphology="-p---mg--i" head-id="3408680" relation="part" presentation-after=". "/>
+        <token id="3408682" empty-token-sort="V" relation="pred"/>
+      </sentence>
+      <sentence id="280271" status="reviewed">
+        <token id="3408683" form="а" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3408688" relation="aux" presentation-after=" "/>
+        <token id="3408684" form="насъ" lemma="мы" part-of-speech="Pp" morphology="1p---mg--i" head-id="3408688" relation="obj" presentation-after=" "/>
+        <token id="3408685" form="в" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3408688" relation="obl" presentation-after=" "/>
+        <token id="3408686" form="томъ" lemma="тыи" part-of-speech="Pd" morphology="-s---nl--i" head-id="3408685" relation="obl" presentation-after=". "/>
+        <token id="3408687" form="ос҃пода" lemma="господь" part-of-speech="Nb" morphology="-p---mn--i" relation="voc" presentation-after=". "/>
+        <token id="3408688" form="порубили" lemma="порубити" part-of-speech="V-" morphology="-pspamn-si" relation="pred" presentation-after=" "/>
+        <token id="3408689" form="і" lemma="десять" part-of-speech="Ma" morphology="---------n" head-id="3408692" relation="apos" presentation-before="." presentation-after=". "/>
+        <token id="3408690" form="бочокъ" lemma="бъчька" part-of-speech="Nb" morphology="-p---fg--i" head-id="3408689" relation="part" presentation-after=". "/>
+        <token id="3408691" form="бѣлкꙑ" lemma="бѣлъка" part-of-speech="Nb" morphology="-s---fg--i" head-id="3408690" relation="part" presentation-after=". "/>
+        <token id="3408692" form="да" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3408686" relation="apos" presentation-after=" "/>
+        <token id="3408693" form="три" lemma="трие" part-of-speech="Ma" morphology="-p---ma--i" head-id="3408694" relation="atr" presentation-after=" "/>
+        <token id="3408694" form="круги" lemma="кругъ" part-of-speech="Nb" morphology="-p---ma--i" head-id="3408692" relation="apos" presentation-after=". "/>
+        <token id="3408695" form="воску" lemma="воскъ" part-of-speech="Nb" morphology="-s---mg--i" head-id="3408694" relation="part" presentation-after=". "/>
+      </sentence>
+      <sentence id="280272" status="reviewed">
+        <token id="3408696" form="а" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3408702" relation="aux" presentation-after=" "/>
+        <token id="3408697" form="нꙑнеча" lemma="нынѣча" part-of-speech="Df" morphology="---------n" head-id="3408702" relation="adv" presentation-after=" "/>
+        <token id="3408698" form="на" lemma="на" part-of-speech="R-" morphology="---------n" head-id="3408702" relation="adv" presentation-after=" "/>
+        <token id="3408699" form="съиздѣ" lemma="съѣздъ" part-of-speech="Nb" morphology="-s---ml--i" head-id="3408698" relation="obl" presentation-after=". "/>
+        <token id="3408700" form="тꙑхъ" lemma="тыи" part-of-speech="Pd" morphology="-p---mg--i" head-id="3408701" relation="atr" presentation-after=" "/>
+        <token id="3408701" form="людѣи" lemma="людие" part-of-speech="Nb" morphology="-p---mg--i" head-id="3408702" relation="obj" presentation-after=" "/>
+        <token id="3408702" form="ставѧ" lemma="ставити" part-of-speech="V-" morphology="3ppia----i" relation="pred" presentation-after=" "/>
+        <token id="3408703" form="кому" lemma="къто" part-of-speech="Pr" morphology="-s---md--i" head-id="3408704" relation="sub" presentation-after=" "/>
+        <token id="3408704" form="дать" lemma="дати" part-of-speech="V-" morphology="--pna----i" head-id="3408705" relation="atr" presentation-after=" "/>
+        <token id="3408705" form="и" lemma="и" part-of-speech="C-" morphology="---------n" head-id="3408701" relation="atr" presentation-after=" "/>
+        <token id="3408706" form="взѧть" lemma="възяти" part-of-speech="V-" morphology="--pna----i" head-id="3408705" relation="atr" presentation-after=". ">
+          <slash target-id="3408703" relation="sub"/>
+        </token>
+        <token id="3408707" form="да" lemma="да#1" part-of-speech="Df" morphology="---------n" head-id="3408710" relation="aux" presentation-after=" "/>
+        <token id="3408708" form="что бꙑ" lemma="чьтобы" part-of-speech="G-" morphology="---------n" head-id="3408702" relation="adv" presentation-after=". "/>
+        <token id="3408709" form="не" lemma="не" part-of-speech="Df" morphology="---------n" head-id="3408710" relation="aux" presentation-after=" "/>
+        <token id="3408710" form="гибли" lemma="гыбьнути" part-of-speech="V-" morphology="-pspamn-si" head-id="3408708" relation="pred" presentation-after=" "/>
+        <token id="3408711" form="правии" lemma="правыи" part-of-speech="A-" morphology="-p---mnpwi" head-id="3408712" relation="atr" presentation-after=" "/>
+        <token id="3408712" form="люди" lemma="людие" part-of-speech="Nb" morphology="-p---mn--i" head-id="3408710" relation="sub" presentation-after=". "/>
+      </sentence>
     </div>
   </source>
 </proiel>

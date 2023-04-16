@@ -282,7 +282,7 @@
 5	страхомъ	страхъ	N	Nb	NUMBs|GENDm|CASEi	4	obl	_	_
 6	на	на	R	R-	INFLn	1	adv	_	_
 7	ѡчищенїе	очищение	N	Nb	NUMBs|GENDn|CASEa	8	obl	_	_
-8	i	и	C	C-	INFLn	6	obl	_	_
+8	і	и	C	C-	INFLn	6	obl	_	_
 9	ѡсщ҃енїе	освящение	N	Nb	NUMBs|GENDn|CASEa	8	obl	_	_
 10	дш҃и	душа	N	Nb	NUMBs|GENDf|CASEd	12	narg	_	_
 11	же	же	D	Df	INFLn	1	aux	_	_
@@ -367,7 +367,7 @@
 1	ино	ино	D	Df	INFLn	5	aux	_	_
 2	лжицею	лъжица	N	Nb	NUMBs|GENDf|CASEi	5	adv	_	_
 3	ѿ	отъ	R	R-	INFLn	5	obl	_	_
-4	iереѧ	иереи	N	Nb	NUMBs|GENDm|CASEg	3	obl	_	_
+4	іереѧ	иереи	N	Nb	NUMBs|GENDm|CASEg	3	obl	_	_
 5	прїимати	приимати	V	V-	TENSp|MOODn|VOICa	0	pred(18)pred	_	_
 6	во	въ	R	R-	INFLn	5	obl	_	_
 7	оуста	уста	N	Nb	NUMBp|GENDn|CASEa	6	obl	_	_
@@ -384,7 +384,7 @@
 
 1	а	а	C	C-	INFLn	8	aux	_	_
 2	дора	дора	N	Nb	NUMBs|GENDf|CASEn	5	obj	_	_
-3	i	и	C	C-	INFLn	5	aux	_	_
+3	і	и	C	C-	INFLn	5	aux	_	_
 4	просфира	просфора	N	Nb	NUMBs|GENDf|CASEn	5	obj	_	_
 5	и	и	C	C-	INFLn	8	obj	_	_
 6	всѧкаѧ	вьсякыи	A	A-	NUMBp|GENDn|CASEa|DEGRp|STREw	7	atr	_	_
@@ -3446,7 +3446,7 @@
 
 1	а	а	C	C-	INFLn	13	aux	_	_
 2	по	по	R	R-	INFLn	8	adv	_	_
-3	сѹдбамъ	судъба	N	Nb	NUMBp|GENDf|CASEd	2	obl	_	_
+3	сѹдбамъ	судьба	N	Nb	NUMBp|GENDf|CASEd	2	obl	_	_
 4	бж҃їим	божии	A	A-	NUMBp|GENDf|CASEd|DEGRp|STREw	3	atr	_	_
 5	толко	только	D	Dq	INFLn	8	adv	_	_
 6	та	тыи	P	Pd	NUMBs|GENDf|CASEn	7	atr	_	_
@@ -8566,7 +8566,7 @@
 8	похвала	похвала	N	Nb	NUMBs|GENDf|CASEn	6	sub(10)pred	_	_
 
 1	а	а	C	C-	INFLn	7	aux	_	_
-2	николи.же	николиже	D	Df	INFLn	7	sub	_	_
+2	николи.же	николиже	D	Df	INFLn	7	adv	_	_
 3	бы	быти	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	7	aux	_	_
 4	слѹги	слуга	N	Nb	NUMBp|GENDm|CASEn	7	sub	_	_
 5	госѹдарыни	государыни	N	Nb	NUMBs|GENDf|CASEg	7	obj	_	_
@@ -10093,7 +10093,7 @@
 
 1	ѡ	о	R	R-	INFLn	3	adv	_	_
 2	чемъ	чьто	P	Pr	NUMBs|GENDn|CASEl	1	obl	_	_
-3	посланo	посълати	V	V-	NUMBs|TENSu|MOODp|VOICp|GENDn|CASEn|STREs	4	xobj(7)apos	_	_
+3	послано	посълати	V	V-	NUMBs|TENSu|MOODp|VOICp|GENDn|CASEn|STREs	4	xobj(7)apos	_	_
 4	то	тыи	P	Pd	NUMBs|GENDn|CASEa	6	obj	_	_
 5	и	и	D	Df	INFLn	6	aux	_	_
 6	паметѹи	памятовати	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
@@ -11597,7 +11597,7 @@
 7	пригодит	пригодити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 8	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	7	aux	_	_
 
-1	инo	ино	D	Df	INFLn	0	aux(14)pred	_	_
+1	ино	ино	D	Df	INFLn	0	aux(14)pred	_	_
 2	то	то	D	Df	INFLn	0	aux(14)pred	_	_
 3	оу	у	R	R-	INFLn	0	obl(14)pred	_	_
 4	добрых	добрыи	A	A-	NUMBp|GENDm|CASEg|DEGRp|STREw	5	atr	_	_
@@ -21629,7 +21629,7 @@
 1	тѣ	тыи	P	Pd	NUMBp|GENDn|CASEn	0	sub(8)pred	_	_
 2	бо	бо	D	Df	INFLn	0	aux(8)pred	_	_
 3	ходатаи	ходатаи	N	Nb	NUMBs|GENDm|CASEn	0	xobj(8)pred	_	_
-4	бг҃ѹ	богъ	N	Nb	NUMBs|GENDm|CASEd	3	atr	_	_
+4	бг҃ѹ	богъ	N	Nb	NUMBs|GENDm|CASEd	3	narg	_	_
 5	ѡ	о	R	R-	INFLn	3	atr	_	_
 6	гресѣхъ	грѣхъ	N	Nb	NUMBp|GENDm|CASEl	5	obl	_	_
 7	нашихъ	нашь	P	Ps	PERS1|NUMBp|GENDm|CASEl	6	atr	_	_
@@ -24252,7 +24252,7 @@
 4	православныи	православьныи	A	A-	NUMBs|GENDm|CASEn|DEGRp|STREw	3	atr	_	_
 5	цр҃ь	цѣсарь	N	Nb	NUMBs|GENDm|CASEn	7	sub	_	_
 6	гсдрь	государь	N	Nb	NUMBs|GENDm|CASEn	5	apos	_	_
-7	велeлъ	велѣти	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	0	pred	_	_
+7	велелъ	велѣти	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	0	pred	_	_
 8	послѹжити	послужити	V	V-	TENSp|MOODn|VOICa	7	xobj	_	_
 9	тебѣ	ты	P	Pp	PERS2|NUMBs|GENDm|CASEd	7	obl	_	_
 10	в	въ	R	R-	INFLn	8	obl	_	_

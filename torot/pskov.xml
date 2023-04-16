@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<proiel export-time="2018-09-19T22:57:41+02:00" schema-version="2.1">
+<proiel export-time="2023-04-25T04:02:55+02:00" schema-version="2.1">
   <annotation>
     <relations>
       <value tag="adnom" summary="adnominal" primary="true" secondary="true"/>
@@ -1140,7 +1140,7 @@
       <sentence id="281468" status="reviewed">
         <token id="3419000" form="а" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3419010" relation="aux" presentation-after=" "/>
         <token id="3419001" form="посадники" lemma="посадьникъ" part-of-speech="Nb" morphology="-p---mn--i" head-id="3419002" relation="sub" presentation-after=" "/>
-        <token id="3419002" form="и" lemma="и" part-of-speech="Df" morphology="---------n" head-id="3419010" relation="sub" presentation-after=" "/>
+        <token id="3419002" form="и" lemma="и" part-of-speech="C-" morphology="---------n" head-id="3419010" relation="sub" presentation-after=" "/>
         <token id="3419003" form="бояре" lemma="бояринъ" part-of-speech="Nb" morphology="-p---mn--i" head-id="3419002" relation="sub" presentation-after=" "/>
         <token id="3419004" form="и" lemma="и" part-of-speech="C-" morphology="---------n" head-id="3419002" relation="aux" presentation-after=" "/>
         <token id="3419005" form="лутчие" lemma="лучии" part-of-speech="A-" morphology="-p---mncwi" head-id="3419006" relation="atr" presentation-after=" "/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<proiel export-time="2018-09-19T22:58:37+02:00" schema-version="2.1">
+<proiel export-time="2023-04-25T04:02:57+02:00" schema-version="2.1">
   <annotation>
     <relations>
       <value tag="adnom" summary="adnominal" primary="true" secondary="true"/>
@@ -822,7 +822,7 @@
         <token id="3359113" form="и" citation-part="27.21" lemma="и" part-of-speech="C-" morphology="---------n" head-id="3359108" relation="xobj" presentation-after=" " foreign-ids="11b">
           <slash target-id="3359108" relation="xsub"/>
         </token>
-        <token id="3359114" form="хранити" citation-part="27.21" lemma="хранити" part-of-speech="V-" morphology="--pna----i" head-id="3359113" relation="aux" presentation-after=" " foreign-ids="11b"/>
+        <token id="3359114" form="хранити" citation-part="27.21" lemma="хранити" part-of-speech="V-" morphology="--pna----i" head-id="3359113" relation="xobj" presentation-after=" " foreign-ids="11b"/>
         <token id="3359115" form="сѧ" citation-part="27.21" lemma="себе" part-of-speech="Pk" morphology="3s---qa--i" head-id="3359114" relation="aux" presentation-after=" " foreign-ids="11b"/>
         <token id="3359116" form="ихъ" citation-part="27.22" lemma="и" part-of-speech="Pp" morphology="3p---mg--i" head-id="3359114" relation="obl" presentation-after=". " foreign-ids="11b"/>
       </sentence>
@@ -2489,10 +2489,10 @@
         <token id="3360356" form="а" citation-part="34.5" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3360363" relation="aux" presentation-after=" " foreign-ids="13c"/>
         <token id="3360357" form="ѡ" citation-part="34.5" lemma="о" part-of-speech="R-" morphology="---------n" head-id="3360363" relation="adv" presentation-after=" " foreign-ids="13c"/>
         <token id="3360358" form="головахъ" citation-part="34.5" lemma="голова" part-of-speech="Nb" morphology="-p---fl--i" head-id="3360357" relation="obl" presentation-after=" " foreign-ids="13c"/>
-        <token id="3360359" form="иже" citation-part="34.5" lemma="иже" part-of-speech="Pr" morphology="-p---mn--i" head-id="3360362" relation="atr" presentation-after=" " foreign-ids="13c"/>
+        <token id="3360359" form="иже" citation-part="34.5" lemma="иже" part-of-speech="Pr" morphology="-p---mn--i" head-id="3360361" relation="sub" presentation-after=" " foreign-ids="13c"/>
         <token id="3360360" form="сѧ" citation-part="34.5" lemma="себе" part-of-speech="Pk" morphology="3s---qa--i" head-id="3360361" relation="aux" presentation-after=" " foreign-ids="13c"/>
         <token id="3360361" form="ключють" citation-part="34.5" lemma="ключити" part-of-speech="V-" morphology="3ppia----i" head-id="3360358" relation="atr" presentation-after=" " foreign-ids="13c"/>
-        <token id="3360362" form="проказа" citation-part="34.5" lemma="проказа" part-of-speech="Nb" morphology="-s---fn--i" head-id="3360361" relation="sub" presentation-after=". " foreign-ids="13c"/>
+        <token id="3360362" form="проказа" citation-part="34.5" lemma="проказъ" part-of-speech="Nb" morphology="-s---mg--i" head-id="3360361" relation="obl" presentation-after=". " foreign-ids="13c"/>
         <token id="3360363" form="оурѧдим" citation-part="34.6" lemma="урядити" part-of-speech="V-" morphology="1ppia----i" relation="pred" presentation-after=" " foreign-ids="13c"/>
         <token id="3360364" form="сѧ" citation-part="34.6" lemma="себе" part-of-speech="Pk" morphology="3s---qa--i" head-id="3360363" relation="aux" presentation-after=" " foreign-ids="13c"/>
         <token id="3360365" form="сице" citation-part="34.6" lemma="сице" part-of-speech="Df" morphology="---------n" head-id="3360363" relation="adv" presentation-after=". " foreign-ids="13c"/>
@@ -3314,7 +3314,7 @@
         <token id="3361010" empty-token-sort="P" head-id="3361011" relation="sub" antecedent-id="3361006" information-status="non_spec_old"/>
         <token id="3361011" form="жалуют" citation-part="36.27" lemma="жаловати" part-of-speech="V-" morphology="3ppia----i" head-id="3361009" relation="adv" presentation-after=" " foreign-ids="14d"/>
         <token id="3361012" form="да" citation-part="36.27" lemma="да#1" part-of-speech="Df" morphology="---------n" head-id="3361014" relation="aux" presentation-after=" " foreign-ids="14d"/>
-        <token id="3361013" empty-token-sort="P" head-id="3361014" relation="sub" antecedent-id="0" information-status="non_spec_old"/>
+        <token id="3361013" empty-token-sort="P" head-id="3361014" relation="sub" information-status="non_spec_old"/>
         <token id="3361014" form="ищють" citation-part="36.27" lemma="искати" part-of-speech="V-" morphology="3ppia----i" head-id="3361016" relation="pred" presentation-after=". " foreign-ids="14d"/>
         <token id="3361015" empty-token-sort="P" head-id="3361014" relation="obj" antecedent-id="3361008" information-status="non_spec_old"/>
         <token id="3361016" form="и" citation-part="36.27" lemma="и" part-of-speech="C-" morphology="---------n" relation="pred" presentation-after=" " foreign-ids="14d"/>
@@ -3322,11 +3322,11 @@
           <slash target-id="3361021" relation="xsub"/>
         </token>
         <token id="3361018" form="да" citation-part="36.28" lemma="да#1" part-of-speech="Df" morphology="---------n" head-id="3361020" relation="aux" presentation-after=" " foreign-ids="14d"/>
-        <token id="3361019" empty-token-sort="P" head-id="3361020" relation="sub" antecedent-id="0" information-status="non_spec_old"/>
+        <token id="3361019" empty-token-sort="P" head-id="3361020" relation="sub" information-status="non_spec_old"/>
         <token id="3361020" form="имуть" citation-part="36.28" lemma="яти" part-of-speech="V-" morphology="3ppia----i" head-id="3361016" relation="pred" presentation-after=" " foreign-ids="14d">
           <slash target-id="3361006" relation="sub"/>
         </token>
-        <token id="3361021" form="е" citation-part="36.28" lemma="и" part-of-speech="Pp" morphology="3s---na--i" head-id="3361020" relation="obj" antecedent-id="0" information-status="non_spec_old" presentation-after=". " foreign-ids="14d"/>
+        <token id="3361021" form="е" citation-part="36.28" lemma="и" part-of-speech="Pp" morphology="3s---na--i" head-id="3361020" relation="obj" information-status="non_spec_old" presentation-after=". " foreign-ids="14d"/>
       </sentence>
       <sentence id="276274" status="reviewed">
         <token id="3361022" form="аще" citation-part="36.28" lemma="аще" part-of-speech="G-" morphology="---------n" head-id="3361032" relation="adv" presentation-after=" " foreign-ids="14d"/>

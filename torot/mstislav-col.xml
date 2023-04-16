@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<proiel export-time="2018-09-19T22:54:17+02:00" schema-version="2.1">
+<proiel export-time="2023-04-25T04:02:16+02:00" schema-version="2.1">
   <annotation>
     <relations>
       <value tag="adnom" summary="adnominal" primary="true" secondary="true"/>
@@ -269,7 +269,7 @@
         <token id="3408048" form="исправивъше" lemma="исправити" part-of-speech="V-" morphology="-pupamn-si" head-id="3408049" relation="xadv" presentation-after=" ">
           <slash target-id="3408036" relation="xsub"/>
         </token>
-        <token id="3408049" form="чьтѣте" lemma="чьтити" part-of-speech="V-" morphology="2ppma----i" head-id="3408051" relation="pred" presentation-after=" "/>
+        <token id="3408049" form="чьтѣте" lemma="чисти" part-of-speech="V-" morphology="2ppma----i" head-id="3408051" relation="pred" presentation-after=" "/>
         <token id="3408050" form="же" lemma="же" part-of-speech="Df" morphology="---------n" head-id="3408049" relation="aux" presentation-after=" "/>
         <token id="3408051" form="а" lemma="а" part-of-speech="C-" morphology="---------n" relation="pred" presentation-after=" "/>
         <token id="3408052" form="не" lemma="не" part-of-speech="Df" morphology="---------n" head-id="3408053" relation="aux" presentation-after=" "/>

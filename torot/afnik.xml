@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<proiel export-time="2019-05-01T11:43:07+02:00" schema-version="2.0">
+<proiel export-time="2023-04-25T12:53:26+02:00" schema-version="2.1">
   <annotation>
     <relations>
       <value tag="adnom" summary="adnominal" primary="true" secondary="true"/>
@@ -1775,7 +1775,7 @@
         <token id="3411988" form="а" citation-part="6" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3411989" relation="aux" presentation-after=" " foreign-ids="folio=372v"/>
         <token id="3411989" form="держить" citation-part="6" lemma="дьржати" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=" " foreign-ids="folio=372v"/>
         <token id="3411990" form="сказывають" citation-part="6" lemma="съказывати" part-of-speech="V-" morphology="3ppia----i" relation="parpred" presentation-after=" " foreign-ids="folio=372v"/>
-        <token id="3411991" form="седмь" citation-part="6" lemma="седмь" part-of-speech="Ma" morphology="-s---ma--i" head-id="3411989" relation="obj" presentation-after=" " foreign-ids="folio=372v"/>
+        <token id="3411991" form="седмь" citation-part="6" lemma="седмь" part-of-speech="Ma" morphology="-s---fa--i" head-id="3411989" relation="obj" presentation-after=" " foreign-ids="folio=372v"/>
         <token id="3411992" form="темь" citation-part="6" lemma="тьма" part-of-speech="Nb" morphology="-p---fg--i" head-id="3411991" relation="part" presentation-after=". " foreign-ids="folio=372v"/>
         <token id="3411993" form="ѿ" citation-part="6" lemma="отъ" part-of-speech="R-" morphology="---------n" head-id="3411991" relation="atr" presentation-after=" " foreign-ids="folio=372v"/>
         <token id="3411994" form="меликтѹчара" citation-part="6" lemma="меликътучаръ" part-of-speech="Ne" morphology="-s---mg--i" head-id="3411993" relation="obl" presentation-after=". " foreign-ids="folio=372v"/>
@@ -5694,9 +5694,6 @@
         <token id="3414817" empty-token-sort="V" relation="pred"/>
       </sentence>
     </div>
-    <div>
-      <title>17</title>
-    </div>
     <div id="8368">
       <title>18</title>
       <sentence id="281037" status="reviewed">
@@ -6884,7 +6881,7 @@
         <token id="3416273" form="знаю" citation-part="21" lemma="знати" part-of-speech="V-" morphology="1spia----i" relation="pred" presentation-after=" " foreign-ids="folio=386v"/>
       </sentence>
       <sentence id="281162" status="reviewed">
-        <token id="3416274" form="иже" citation-part="21" lemma="иже" part-of-speech="Df" morphology="---------n" head-id="3416276" relation="adv" presentation-after=" " foreign-ids="folio=386v"/>
+        <token id="3416274" form="иже" citation-part="21" lemma="иже" part-of-speech="Df" morphology="---------n" head-id="3416276" relation="aux" presentation-after=" " foreign-ids="folio=386v"/>
         <token id="3416275" form="камо" citation-part="21" lemma="камо" part-of-speech="Du" morphology="---------n" head-id="3416276" relation="obl" presentation-after=" " foreign-ids="folio=386v"/>
         <token id="3416276" form="поидѹ" citation-part="21" lemma="поити#1" part-of-speech="V-" morphology="1spia----i" relation="pred" presentation-after=". " foreign-ids="folio=386v"/>
         <token id="3416277" form="изъ" citation-part="21" lemma="из" part-of-speech="R-" morphology="---------n" head-id="3416276" relation="obl" presentation-after=" " foreign-ids="folio=386v"/>

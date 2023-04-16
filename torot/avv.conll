@@ -10,7 +10,7 @@
 2	ꙇ	и	C	C-	INFLn	0	pred	_	_
 3	направи	направити	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	2	pred	_	_
 4	сердце	сьрдьце	N	Nb	NUMBs|GENDn|CASEa	3	obj	_	_
-5	моe	мои	P	Ps	PERS1|NUMBs|GENDn|CASEa	4	atr	_	_
+5	мое	мои	P	Ps	PERS1|NUMBs|GENDn|CASEa	4	atr	_	_
 6	начати	начати	V	V-	TENSp|MOODn|VOICa	9	xobj	_	_
 7	с	съ	R	R-	INFLn	6	adv	_	_
 8	разумом	разумъ	N	Nb	NUMBs|GENDm|CASEi	7	obl	_	_
@@ -26,7 +26,7 @@
 18	недостоиныи	недостоиныи	A	A-	NUMBs|GENDm|CASEn|DEGRp|STREw	17	apos	_	_
 19	разумѣя	разумѣти	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDm|CASEn|STREs	15	xadv	_	_
 20	же	же	D	Df	INFLn	19	aux	_	_
-21	своe	свои	P	Pt	PERS3|NUMBs|GENDn|CASEa	22	atr	_	_
+21	свое	свои	P	Pt	PERS3|NUMBs|GENDn|CASEa	22	atr	_	_
 22	невѣжество	невѣжьство	N	Nb	NUMBs|GENDn|CASEa	19	obj	_	_
 
 1	припадая	припадати	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDm|CASEn|STREs	5	xadv	_	_
@@ -91,7 +91,7 @@
 10	языком	языкъ	N	Nb	NUMBs|GENDm|CASEi	11	adv	_	_
 11	возг҃лю	възглаголати	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	5	pred	_	_
 12	диѡнисия	дионисии	N	Ne	NUMBs|GENDm|CASEg	11	obj	_	_
-13	aреѡпагита	ареопагитъ	N	Ne	NUMBs|GENDm|CASEg	12	apos	_	_
+13	ареѡпагита	ареопагитъ	N	Ne	NUMBs|GENDm|CASEg	12	apos	_	_
 14	ѡ	о	R	R-	INFLn	11	obl	_	_
 15	бжственных	божьствьныи	A	A-	NUMBp|GENDn|CASEl|DEGRp|STREw	16	atr	_	_
 16	ꙇменех	имя	N	Nb	NUMBp|GENDn|CASEl	14	obl	_	_
@@ -1129,7 +1129,7 @@
 
 1	паки	пакы	D	Df	INFLn	4	adv	_	_
 2	на	на	R	R-	INFLn	4	obl	_	_
-3	первое	пьрвыи	M	Mo	NUMBs|GENDn|CASEa|DEGRp|STREw	2	obl	_	_
+3	первое	пьрвыи	M	Mo	NUMBs|GENDn|CASEa	2	obl	_	_
 4	возвратим	възвратити	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
 5	ся	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	4	aux	_	_
 
@@ -5239,7 +5239,7 @@
 3	у	у	R	R-	INFLn	7	adv	_	_
 4	павла	павьлъ	N	Ne	NUMBs|GENDm|CASEg	3	obl	_	_
 5	митрополита	митрополитъ	N	Nb	NUMBs|GENDm|CASEg	4	apos	_	_
-6	ризничим	ризничии	A	A-	NUMBs|GENDm|CASEi|DEGRp|STREw	7	xobj	_	_
+6	ризничим	ризьничии	A	A-	NUMBs|GENDm|CASEi|DEGRp|STREw	7	xobj	_	_
 7	был	быти	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	0	pred	_	_
 8	как	како	D	Dq	INFLn	9	adv	_	_
 9	стригъ	стричи	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	7	adv	_	_
@@ -11574,7 +11574,7 @@
 1	ꙇ	и	C	C-	INFLn	4	aux	_	_
 2	поцеловав	поцѣловати	V	V-	NUMBs|TENSu|MOODp|VOICa|GENDm|CASEn|STREs	4	xadv	_	_
 3	руку	рука	N	Nb	NUMBs|GENDf|CASEa	2	obj	_	_
-4	пожал	пожати	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	0	pred	_	_
+4	пожал	пожати#2	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	0	pred	_	_
 5	в	въ	R	R-	INFLn	4	adv	_	_
 6	руках	рука	N	Nb	NUMBp|GENDf|CASEl	5	obl	_	_
 7	своих	свои	P	Pt	PERS3|NUMBp|GENDf|CASEl	6	atr	_	_
@@ -11872,7 +11872,7 @@
 6	с	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	5	aux	_	_
 7	среди	срѣди	R	R-	INFLn	3	adv	_	_
 8	ѡзера	озеро	N	Nb	NUMBs|GENDn|CASEg	7	obl	_	_
-9	стало	стати	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDn|CASEn|STREs	5	aux	_	_
+9	стало	стати#2	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDn|CASEn|STREs	5	aux	_	_
 
 1	воды	вода	N	Nb	NUMBs|GENDf|CASEg	5	obj	_	_
 2	не	не	D	Df	INFLn	3	aux	_	_
@@ -12835,7 +12835,7 @@
 19	лошед	лошадь	N	Nb	NUMBs|GENDf|CASEa	17	obl	_	_
 
 1	приставъ	приставъ	N	Nb	NUMBs|GENDm|CASEn	0	sub(3)pred	_	_
-2	созади	cъзади	D	Df	INFLn	0	xobj(3)pred	_	_
+2	созади	съзади	D	Df	INFLn	0	xobj(3)pred	_	_
 
 1	побиваи	побивати	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	2	pred	_	_
 2	да	да	C	C-	INFLn	0	pred	_	_
@@ -15338,7 +15338,7 @@
 2	дѣлат	дѣлати	V	V-	TENSp|MOODn|VOICa	0	pred	_	_
 3	нѣ	нѣ	D	Df	INFLn	4	aux	_	_
 4	чева	чьто	P	Px	NUMBs|GENDn|CASEg	2	obj	_	_
-5	стало	стати	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDn|CASEn|STREs	2	aux	_	_
+5	стало	стати#2	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDn|CASEn|STREs	2	aux	_	_
 
 1	побранил	побранити	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	0	pred	_	_
 2	ихъ	и	P	Pp	PERS3|NUMBp|GENDm|CASEg	1	obj	_	_
@@ -18133,7 +18133,7 @@
 23	ꙇ	и	D	Df	INFLn	24	aux	_	_
 24	евѳимеи	евфимии	N	Ne	NUMBs|GENDm|CASEn	22	sub	_	_
 
-1	дружно	дружьнии	D	Df	NUMBs|GENDn|CASEa|DEGRp|STREs	4	adv	_	_
+1	дружно	дружьнии	A	A-	NUMBs|GENDn|CASEa|DEGRp|STREs	4	adv	_	_
 2	меж	межу	R	R-	INFLn	4	adv	_	_
 3	себя	себе	P	Pk	PERS3|NUMBs|GENDm|CASEg	2	obl	_	_
 4	живуще	жити	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDm|CASEn|STREs	0	pred	_	_
@@ -21392,7 +21392,7 @@
 5	попом	попъ	N	Nb	NUMBs|GENDm|CASEi	6	xobj	_	_
 6	былъ	быти	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	16	apos	_	_
 7	с	съ	R	R-	INFLn	13	adv	_	_
-8	первыхъ	пьрвыи	M	Mo	NUMBp|GENDn|CASEg|DEGRp|STREw	9	atr	_	_
+8	первыхъ	пьрвыи	M	Mo	NUMBp|GENDn|CASEg	9	atr	_	_
 9	временъ	врѣмя	N	Nb	NUMBp|GENDn|CASEg	7	obl	_	_
 10	егда	егда	D	Dq	INFLn	13	adv	_	_
 11	к	къ	R	R-	INFLn	14	obl	_	_

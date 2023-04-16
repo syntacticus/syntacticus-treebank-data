@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<proiel export-time="2018-09-19T23:04:16+02:00" schema-version="2.1">
+<proiel export-time="2023-04-16T20:22:15+02:00" schema-version="2.1">
   <annotation>
     <relations>
       <value tag="adnom" summary="adnominal" primary="true" secondary="true"/>
@@ -546,7 +546,7 @@
         <token id="3513736" form="ѯ" lemma="шестьдесятъ" part-of-speech="Ma" morphology="---------n" head-id="3513757" relation="atr"/>
         <token id="3513737" form="Д м" lemma="четвьртыи" part-of-speech="Mo" morphology="-s---ml--i" head-id="3513757" relation="atr" presentation-after=" "/>
         <token id="3513738" form="году" lemma="годъ" part-of-speech="Nb" morphology="-s---ml--i" head-id="3513734" relation="obl" presentation-after=" " foreign-ids="folio=214,orig=1"/>
-        <token id="3513739" form="июля" lemma="иулии" part-of-speech="Nb" morphology="-s---mg--i" head-id="3513743" relation="part" presentation-after=" " foreign-ids="folio=214,orig=1"/>
+        <token id="3513739" form="июля" lemma="июль" part-of-speech="Nb" morphology="-s---mg--i" head-id="3513743" relation="part" presentation-after=" " foreign-ids="folio=214,orig=1"/>
         <token id="3513740" form="въ" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3513756" relation="adv" presentation-after=" " foreign-ids="folio=214,orig=1"/>
         <token id="3513741" form="К" lemma="дъвадесяти" part-of-speech="Ma" morphology="---------n" head-id="3513758" relation="atr" foreign-ids="folio=214,orig=1"/>
         <token id="3513742" form="Ѳ" lemma="девять" part-of-speech="Ma" morphology="---------n" head-id="3513758" relation="atr" presentation-after=" "/>
@@ -644,7 +644,7 @@
         <token id="3513815" form="Варшавы" lemma="варшава" part-of-speech="Ne" morphology="-s---fg--i" head-id="3513814" relation="obl" presentation-after=" " foreign-ids="folio=214,orig=1"/>
         <token id="3513816" form="Г г" lemma="третии" part-of-speech="Mo" morphology="-s---ng--i" head-id="3513817" relation="atr" presentation-after=" " foreign-ids="folio=214,orig=1"/>
         <token id="3513817" form="числа" lemma="число" part-of-speech="Nb" morphology="-s---ng--i" head-id="3513836" relation="adv" presentation-after=" " foreign-ids="folio=214,orig=1"/>
-        <token id="3513818" form="июля" lemma="иулии" part-of-speech="Nb" morphology="-s---mg--i" head-id="3513817" relation="part" presentation-after=", " foreign-ids="folio=214,orig=1"/>
+        <token id="3513818" form="июля" lemma="июль" part-of-speech="Nb" morphology="-s---mg--i" head-id="3513817" relation="part" presentation-after=", " foreign-ids="folio=214,orig=1"/>
         <token id="3513819" form="какъ" lemma="како" part-of-speech="Du" morphology="---------n" head-id="3513829" relation="adv" presentation-after=" " foreign-ids="folio=214,orig=1"/>
         <token id="3513820" form="его" lemma="и" part-of-speech="Pp" morphology="3s---mg--i" head-id="3513822" relation="atr" presentation-after=" " foreign-ids="folio=214,orig=1"/>
         <token id="3513821" form="королевское" lemma="королевьскыи" part-of-speech="A-" morphology="-s---nnpwi" head-id="3513822" relation="atr" presentation-after=" " foreign-ids="folio=214,orig=1"/>
@@ -713,7 +713,7 @@
         <token id="3513868" form="они" lemma="онъ" part-of-speech="Pd" morphology="-p---mn--i" head-id="3513885" relation="sub" presentation-after=" " foreign-ids="folio=214,orig=1"/>
         <token id="3513869" form="А г" lemma="пьрвыи" part-of-speech="Mo" morphology="-s---ng--i" head-id="3513870" relation="atr" presentation-after=" " foreign-ids="folio=214,orig=1"/>
         <token id="3513870" form="числа" lemma="число" part-of-speech="Nb" morphology="-s---ng--i" head-id="3513885" relation="adv" presentation-after=" " foreign-ids="folio=214,orig=1"/>
-        <token id="3513871" form="июля" lemma="иулии" part-of-speech="Nb" morphology="-s---mg--i" head-id="3513870" relation="part" presentation-after=" " foreign-ids="folio=214,orig=1"/>
+        <token id="3513871" form="июля" lemma="июль" part-of-speech="Nb" morphology="-s---mg--i" head-id="3513870" relation="part" presentation-after=" " foreign-ids="folio=214,orig=1"/>
         <token id="3513872" form="гораздо" lemma="гораздо" part-of-speech="Df" morphology="-------p-i" head-id="3513873" relation="adv" presentation-after=" " foreign-ids="folio=214,orig=1"/>
         <token id="3513873" form="рано" lemma="рано" part-of-speech="Df" morphology="-------p-i" head-id="3513885" relation="adv" presentation-after=" " foreign-ids="folio=214,orig=1"/>
         <token id="3513874" form="во" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3513881" relation="adv" presentation-after=" " foreign-ids="folio=214,orig=1"/>

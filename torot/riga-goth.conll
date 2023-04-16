@@ -23,7 +23,7 @@
 13	вѣдомъ	вѣдомыи	A	A-	NUMBs|GENDn|CASEn|DEGRp|STREs	11	xobj	_	_
 14	или	или	C	C-	INFLn	13	obl	_	_
 15	кто	къто	P	Pr	NUMBs|GENDm|CASEn	18	sub	_	_
-16	посль	послѣ	D	Df	INFLn	18	adv	_	_
+16	посль	послѣ	R	R-	INFLn	18	adv	_	_
 17	живыи	жити	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDm|CASEn|STREw	18	xadv	_	_
 18	ѡстанѣть	остати	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	14	obl	_	_
 19	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	18	aux	_	_
@@ -234,7 +234,7 @@
 5	оубитъ	убити	V	V-	NUMBs|TENSu|MOODp|VOICp|GENDm|CASEn|STREs	2	xobj	_	_
 6	ꙇ҃	десять	M	Ma	INFLn	0	obj(11)pred	_	_
 7	гривенъ	гривьна	N	Nb	NUMBp|GENDf|CASEg	6	part	_	_
-8	серебра	серебро	N	Nb	NUMBs|GENDn|CASEg	7	part	_	_
+8	серебра	сьребро	N	Nb	NUMBs|GENDn|CASEg	7	part	_	_
 9	за	за	R	R-	INFLn	0	obl(11)pred	_	_
 10	голъвоу	голова	N	Nb	NUMBs|GENDf|CASEa	9	obl	_	_
 
@@ -244,7 +244,7 @@
 4	оубитъ	убити	V	V-	NUMBs|TENSu|MOODp|VOICp|GENDm|CASEn|STREs	2	xobj	_	_
 5	а҃	единъ	M	Ma	INFLn	6	atr	_	_
 6	гривна	гривьна	N	Nb	NUMBs|GENDf|CASEn	8	obj	_	_
-7	серьбра	серебро	N	Nb	NUMBs|GENDn|CASEg	6	part	_	_
+7	серьбра	сьребро	N	Nb	NUMBs|GENDn|CASEg	6	part	_	_
 8	заплатити	заплатити	V	V-	TENSp|MOODn|VOICa	0	pred	_	_
 
 1	оу	въ	R	R-	INFLn	5	adv	_	_
@@ -269,7 +269,7 @@
 8	по	по	R	R-	INFLn	14	obj	_	_
 9	пѧти	пять	M	Ma	NUMBs|GENDf|CASEd	8	obl	_	_
 10	гривьнъ	гривьна	N	Nb	NUMBp|GENDf|CASEg	9	part	_	_
-11	серьбра	серебро	N	Nb	NUMBs|GENDn|CASEg	10	part	_	_
+11	серьбра	сьребро	N	Nb	NUMBs|GENDn|CASEg	10	part	_	_
 12	ѿ	отъ	R	R-	INFLn	14	adv	_	_
 13	всѧкого	вьсякыи	A	A-	NUMBs|GENDm|CASEg|DEGRp|STREw	12	obl	_	_
 14	платити	платити	V	V-	TENSp|MOODn|VOICa	0	pred	_	_
@@ -277,17 +277,17 @@
 1	за	за	R	R-	INFLn	0	adv(5)pred	_	_
 2	ѡкъ	око	N	Nb	NUMBs|GENDn|CASEa	1	obl	_	_
 3	е҃	пять	M	Ma	INFLn	0	obj(5)pred	_	_
-4	серьбра	серебро	N	Nb	NUMBs|GENDn|CASEg	3	part	_	_
+4	серьбра	сьребро	N	Nb	NUMBs|GENDn|CASEg	3	part	_	_
 
 1	за	за	R	R-	INFLn	0	adv(5)pred	_	_
 2	роукоу	рука	N	Nb	NUMBs|GENDf|CASEa	1	obl	_	_
 3	е҃	пять	M	Ma	INFLn	0	obj(5)pred	_	_
-4	серьбра	серебро	N	Nb	NUMBs|GENDn|CASEg	3	part	_	_
+4	серьбра	сьребро	N	Nb	NUMBs|GENDn|CASEg	3	part	_	_
 
 1	за	за	R	R-	INFLn	0	adv(5)pred	_	_
 2	нъгоу	нога	N	Nb	NUMBs|GENDf|CASEa	1	obl	_	_
 3	е҃	пять	M	Ma	INFLn	0	obj(5)pred	_	_
-4	серьбра	серебро	N	Nb	NUMBs|GENDn|CASEg	3	part	_	_
+4	серьбра	сьребро	N	Nb	NUMBs|GENDn|CASEg	3	part	_	_
 
 1	и	и	C	C-	INFLn	0	aux(8)pred	_	_
 2	за	за	R	R-	INFLn	0	adv(8)pred	_	_
@@ -295,13 +295,13 @@
 4	соуставъ	суставъ	N	Nb	NUMBs|GENDm|CASEa	2	obl	_	_
 5	пѧть	пять	M	Ma	NUMBs|GENDf|CASEa	0	obj(8)pred	_	_
 6	гривьнъ	гривьна	N	Nb	NUMBp|GENDf|CASEg	5	part	_	_
-7	серебра	серебро	N	Nb	NUMBs|GENDn|CASEg	6	part	_	_
+7	серебра	сьребро	N	Nb	NUMBs|GENDn|CASEg	6	part	_	_
 
 1	За	за	R	R-	INFLn	0	obl(15)pred	_	_
 2	зоубъ	зубъ	N	Nb	NUMBs|GENDm|CASEa	1	obl	_	_
 3	г҃	трие	M	Ma	INFLn	0	obj(15)pred	_	_
 4	гривнъ	гривьна	N	Nb	NUMBp|GENDf|CASEg	3	part	_	_
-5	серебра	серебро	N	Nb	NUMBs|GENDn|CASEg	4	part	_	_
+5	серебра	сьребро	N	Nb	NUMBs|GENDn|CASEg	4	part	_	_
 6	и	и	C	C-	INFLn	8	aux	_	_
 7	смольньскь	смольньскъ	N	Ne	NUMBs|GENDm|CASEl	8	adv	_	_
 8	и	и	C	C-	INFLn	0	adv(15)pred	_	_
@@ -323,7 +323,7 @@
 9	кровавъ	кръвавыи	A	A-	NUMBs|GENDm|CASEn|DEGRp|STREs	8	xobj	_	_
 10	полоуторы	полътора	M	Ma	NUMBs|GENDf|CASEg	13	obj	_	_
 11	гривны	гривьна	N	Nb	NUMBs|GENDf|CASEg	10	part	_	_
-12	серебра	серебро	N	Nb	NUMBs|GENDn|CASEg	11	part	_	_
+12	серебра	сьребро	N	Nb	NUMBs|GENDn|CASEg	11	part	_	_
 13	платити	платити	V	V-	TENSp|MOODn|VOICa	0	pred	_	_
 14	ѥмоу	и	P	Pp	PERS3|NUMBs|GENDm|CASEd	13	sub	_	_
 
@@ -332,7 +332,7 @@
 3	оударите	ударити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	adv(7)pred	_	_
 4	г҃	трие	M	Ma	INFLn	5	atr	_	_
 5	четвѣрти	четвьрть	N	Nb	NUMBp|GENDf|CASEa	0	obj(7)pred	_	_
-6	серебра	серебро	N	Nb	NUMBs|GENDn|CASEg	5	part	_	_
+6	серебра	сьребро	N	Nb	NUMBs|GENDn|CASEg	5	part	_	_
 
 1	послоу	посълъ	N	Nb	NUMBs|GENDm|CASEd	2	obl	_	_
 2	и	и	C	C-	INFLn	5	obl	_	_
@@ -351,7 +351,7 @@
 3	оуранѧть	уранити	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	1	pred	_	_
 4	полоуторы	полътора	M	Ma	NUMBs|GENDf|CASEg	0	obj(11)pred	_	_
 5	гривны	гривьна	N	Nb	NUMBs|GENDf|CASEg	4	part	_	_
-6	серебра	серебро	N	Nb	NUMBs|GENDn|CASEg	5	part	_	_
+6	серебра	сьребро	N	Nb	NUMBs|GENDn|CASEg	5	part	_	_
 7	аже	аже	G	G-	INFLn	0	adv(11)pred	_	_
 8	боудѣте	быти	V	V-	PERS3|NUMBs|TENSf|MOODi|VOICa	7	pred	_	_
 9	без	без	R	R-	INFLn	8	xobj	_	_
@@ -651,7 +651,7 @@
 10	платити	платити	V	V-	TENSp|MOODn|VOICa	0	pred	_	_
 11	гривьнъ	гривьна	N	Nb	NUMBp|GENDf|CASEg	12	part	_	_
 12	ꙇ҃	десять	M	Ma	INFLn	10	obj	_	_
-13	серебра	серебро	N	Nb	NUMBs|GENDn|CASEg	11	part	_	_
+13	серебра	сьребро	N	Nb	NUMBs|GENDn|CASEg	11	part	_	_
 
 1	Тако	тако	D	Df	INFLn	2	adv	_	_
 2	оучинити	учинити	V	V-	TENSp|MOODn|VOICa	0	pred	_	_
@@ -684,7 +684,7 @@
 18	платити	платити	V	V-	TENSp|MOODn|VOICa	0	pred	_	_
 19	гривьнъ	гривьна	N	Nb	NUMBp|GENDf|CASEg	20	part	_	_
 20	е҃	пять	M	Ma	INFLn	18	obj	_	_
-21	серебра	серебро	N	Nb	NUMBs|GENDn|CASEg	19	part	_	_
+21	серебра	сьребро	N	Nb	NUMBs|GENDn|CASEg	19	part	_	_
 
 1	Тая	тыи	P	Pd	NUMBs|GENDf|CASEn	2	atr	_	_
 2	правда	правьда	N	Nb	NUMBs|GENDf|CASEn	3	obj	_	_
@@ -707,7 +707,7 @@
 8	взѧти	възяти	V	V-	TENSp|MOODn|VOICa	0	pred	_	_
 9	ѥи	и	P	Pp	PERS3|NUMBs|GENDf|CASEd	8	sub	_	_
 10	гривна	гривьна	N	Nb	NUMBs|GENDf|CASEn	8	obj	_	_
-11	серьбра	серебро	N	Nb	NUMBs|GENDn|CASEg	10	part	_	_
+11	серьбра	сьребро	N	Nb	NUMBs|GENDn|CASEg	10	part	_	_
 12	за	за	R	R-	INFLn	8	obl	_	_
 13	насилиѥ	насилие	N	Nb	NUMBs|GENDn|CASEa	12	obl	_	_
 
@@ -723,7 +723,7 @@
 10	дати	дати	V	V-	TENSp|MOODn|VOICa	0	pred	_	_
 11	ѥмоу	и	P	Pp	PERS3|NUMBs|GENDm|CASEd	10	sub	_	_
 12	гривна	гривьна	N	Nb	NUMBs|GENDf|CASEn	10	obj	_	_
-13	серебра	серебро	N	Nb	NUMBs|GENDn|CASEg	12	part	_	_
+13	серебра	сьребро	N	Nb	NUMBs|GENDn|CASEg	12	part	_	_
 
 1	Такова	таковыи	A	A-	NUMBs|GENDf|CASEn|DEGRp|STREs	2	atr	_	_
 2	правда	правьда	N	Nb	NUMBs|GENDf|CASEn	3	obj	_	_
@@ -751,7 +751,7 @@
 13	платити	платити	V	V-	TENSp|MOODn|VOICa	0	pred	_	_
 14	г҃	трие	M	Ma	INFLn	13	obj	_	_
 15	гривны	гривьна	N	Nb	NUMBs|GENDf|CASEg	14	part	_	_
-16	сербра	серебро	N	Nb	NUMBs|GENDn|CASEg	15	part	_	_
+16	сербра	сьребро	N	Nb	NUMBs|GENDn|CASEg	15	part	_	_
 
 1	Аже	аже	G	G-	INFLn	10	adv	_	_
 2	боудѣте	быти	V	V-	PERS2|NUMBp|TENSf|MOODi|VOICa	4	aux	_	_
@@ -882,7 +882,7 @@
 6	свободно	свободьно	D	Df	DEGRp	8	adv	_	_
 7	ѥмоу	и	P	Pp	PERS3|NUMBs|GENDm|CASEd	8	sub	_	_
 8	продава҃ти	продавати	V	V-	TENSp|MOODn|VOICa	9	pred	_	_
-9	a	а	C	C-	INFLn	0	pred	_	_
+9	а	а	C	C-	INFLn	0	pred	_	_
 10	противоу	противу	R	R-	INFLn	13	obl	_	_
 11	того	тыи	P	Pd	NUMBs|GENDn|CASEg	10	obl	_	_
 12	не	не	D	Df	INFLn	13	aux	_	_
@@ -934,7 +934,7 @@
 3	коупить	купити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	8	pred	_	_
 4	оу	у	R	R-	INFLn	3	obl	_	_
 5	латинеского	латиньскыи	A	A-	NUMBs|GENDm|CASEg|DEGRp|STREw	6	atr	_	_
-6	чл҃вкa	человѣкъ	N	Nb	NUMBs|GENDm|CASEg	4	obl	_	_
+6	чл҃вка	человѣкъ	N	Nb	NUMBs|GENDm|CASEg	4	obl	_	_
 7	товаръ	товаръ	N	Nb	NUMBs|GENDm|CASEa	3	obj	_	_
 8	а	а	C	C-	INFLn	1	pred	_	_
 9	възмьть	възяти	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	8	pred	_	_
@@ -1052,7 +1052,7 @@
 11	пакости	пакость	N	Nb	NUMBs|GENDf|CASEg	10	obl	_	_
 
 1	Тако	тако	D	Df	INFLn	2	adv	_	_
-2	дѣлаiти	дѣлати	V	V-	TENSp|MOODn|VOICa	0	pred	_	_
+2	дѣлаіти	дѣлати	V	V-	TENSp|MOODn|VOICa	0	pred	_	_
 3	роуси	русь	N	Ne	NUMBs|GENDf|CASEd	2	sub	_	_
 4	оу	въ	R	R-	INFLn	6	adv	_	_
 5	ризѣ	рига	N	Ne	NUMBs|GENDf|CASEl	4	obl	_	_
@@ -1250,13 +1250,13 @@
 2	латинскии	латиньскыи	A	A-	NUMBs|GENDm|CASEn|DEGRp|STREw	3	sub	_	_
 3	коупить	купити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	1	pred	_	_
 4	соуды	судъ#2	N	Nb	NUMBp|GENDm|CASEa	3	obj	_	_
-5	серебреныѥ	серебрьныи	A	A-	NUMBp|GENDm|CASEa|DEGRp|STREw	4	atr	_	_
+5	серебреныѥ	сьребрьныи	A	A-	NUMBp|GENDm|CASEa|DEGRp|STREw	4	atr	_	_
 6	дати	дати	V	V-	TENSp|MOODn|VOICa	0	pred	_	_
 7	ѥмоу	и	P	Pp	PERS3|NUMBs|GENDm|CASEd	6	sub	_	_
 8	вѣсцю	вѣсьць	N	Nb	NUMBs|GENDm|CASEd	6	obl	_	_
 9	ѿ	отъ	R	R-	INFLn	6	adv	_	_
 10	гривны	гривьна	N	Nb	NUMBs|GENDf|CASEg	9	obl	_	_
-11	серебра	серебро	N	Nb	NUMBs|GENDn|CASEg	10	part	_	_
+11	серебра	сьребро	N	Nb	NUMBs|GENDn|CASEg	10	part	_	_
 12	по	по	R	R-	INFLn	6	obj	_	_
 13	ногатѣ	ногата	N	Nb	NUMBs|GENDf|CASEd	12	obl	_	_
 14	смольнескои	смольньскыи	A	A-	NUMBs|GENDf|CASEd|DEGRp|STREw	13	atr	_	_
@@ -1271,7 +1271,7 @@
 2	латинескии	латиньскыи	A	A-	NUMBs|GENDm|CASEn|DEGRp|STREw	3	sub	_	_
 3	коупить	купити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	1	pred	_	_
 4	гривнѹ	гривьна	N	Nb	NUMBs|GENDf|CASEa	3	obj	_	_
-5	серебра	серебро	N	Nb	NUMBs|GENDn|CASEg	4	part	_	_
+5	серебра	сьребро	N	Nb	NUMBs|GENDn|CASEg	4	part	_	_
 6	дати	дати	V	V-	TENSp|MOODn|VOICa	0	pred	_	_
 7	ѥмоу	и	P	Pp	PERS3|NUMBs|GENDm|CASEd	6	sub	_	_
 8	вьсцю	вѣсьць	N	Nb	NUMBs|GENDm|CASEd	6	obl	_	_
@@ -1287,13 +1287,13 @@
 1	Аже	аже	G	G-	INFLn	6	adv	_	_
 2	латинескии	латиньскыи	A	A-	NUMBs|GENDm|CASEn|DEGRp|STREw	3	sub	_	_
 3	дасть	дати	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	1	pred	_	_
-4	серебро	серебро	N	Nb	NUMBs|GENDn|CASEa	3	obj	_	_
+4	серебро	сьребро	N	Nb	NUMBs|GENDn|CASEa	3	obj	_	_
 5	пожигати	пожигати	V	V-	TENSp|MOODn|VOICa	3	xadv	_	_
 6	дати	дати	V	V-	TENSp|MOODn|VOICa	0	pred	_	_
 7	ѥмоу	и	P	Pp	PERS3|NUMBs|GENDm|CASEd	6	sub	_	_
 8	ѿ	отъ	R	R-	INFLn	6	adv	_	_
 9	гривны	гривьна	N	Nb	NUMBs|GENDf|CASEg	8	obl	_	_
-10	серебра	серебро	N	Nb	NUMBs|GENDn|CASEg	9	part	_	_
+10	серебра	сьребро	N	Nb	NUMBs|GENDn|CASEg	9	part	_	_
 11	коуна	куна	N	Nb	NUMBs|GENDf|CASEn	6	obj	_	_
 12	смольнеская	смольньскыи	A	A-	NUMBs|GENDf|CASEn|DEGRp|STREw	11	atr	_	_
 
@@ -1356,7 +1356,7 @@
 5	ыноѥ	иныи	P	Px	NUMBs|GENDf|CASEg	6	atr	_	_
 6	земль	земля	N	Nb	NUMBs|GENDf|CASEg	4	obl	_	_
 7	тьхъ	тыи	P	Pd	NUMBp|GENDm|CASEg	9	obj	_	_
-8	посль	послѣ	D	Df	INFLn	9	adv	_	_
+8	посль	послѣ	R	R-	INFLn	9	adv	_	_
 9	вѣсти	вести	V	V-	TENSp|MOODn|VOICa	0	pred	_	_
 
 1	Тая	тыи	P	Pd	NUMBs|GENDf|CASEn	2	atr	_	_
@@ -1421,7 +1421,7 @@
 18	оу	въ	R	R-	INFLn	17	obl	_	_
 19	низъ	низъ	N	Nb	NUMBs|GENDm|CASEa	18	obl	_	_
 
-1	Oу	у	R	R-	INFLn	7	atr	_	_
+1	Оу	у	R	R-	INFLn	7	atr	_	_
 2	кого	къто	P	Pr	NUMBs|GENDm|CASEg	1	obl	_	_
 3	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	4	aux	_	_
 4	избиѥть	избити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	27	apos	_	_
@@ -1439,7 +1439,7 @@
 16	или	или	C	C-	INFLn	1	apos	_	_
 17	оу	у	R	R-	INFLn	16	apos	_	_
 18	латинеского	латиньскыи	A	A-	NUMBs|GENDm|CASEg|DEGRp|STREw	17	obl	_	_
-19	Oу	въ	R	R-	INFLn	4	adv	_	_
+19	Оу	въ	R	R-	INFLn	4	adv	_	_
 20	тѣхъ	тыи	P	Pd	NUMBp|GENDm|CASEg	21	atr	_	_
 21	вълъсти	волость	N	Nb	NUMBs|GENDf|CASEl	19	obl	_	_
 22	кто	къто	P	Pr	NUMBs|GENDm|CASEn	25	sub	_	_
