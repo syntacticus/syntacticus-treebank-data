@@ -5799,7 +5799,7 @@
 15	ðuhte	þyncan	V	V-	PERS3|NUMBs|TENSu|MOODx	12	pred	_	_
 16	þæt	þæt	G	G-	INFLn	15	comp	_	_
 17	hie	hi	P	Pp	PERS3|NUMBp|GENDn|CASEn	20	sub	_	_
-18	nytwyrðoste	nytweorð.	A	A-	NUMBp|GENDn|CASEn|DEGRs|STREs	19	xobj	_	_
+18	nytwyrðoste	nytweorð	A	A-	NUMBp|GENDn|CASEn|DEGRs|STREs	19	xobj	_	_
 19	beon	beon	V	V-	MOODn|INFLn	20	xobj	_	_
 20	meahten	magan	V	V-	PERS3|NUMBp|TENSu|MOODs	16	pred	_	_
 

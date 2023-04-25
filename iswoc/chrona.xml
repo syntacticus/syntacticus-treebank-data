@@ -7457,7 +7457,7 @@
         <token id="1276279" form="ðuhte" lemma="þyncan" part-of-speech="V-" morphology="3sux-----i" head-id="1276276" relation="pred" presentation-after=" "/>
         <token id="1276280" form="þæt" lemma="þæt" part-of-speech="G-" morphology="---------n" head-id="1276279" relation="comp" presentation-after=" "/>
         <token id="1276281" form="hie" lemma="hi" part-of-speech="Pp" morphology="3p---nn--i" head-id="1276284" relation="sub" antecedent-id="2018330" information-status="old" presentation-after=" "/>
-        <token id="1276282" form="nytwyrðoste" lemma="nytweorð " part-of-speech="A-" morphology="-p---nnssi" head-id="1276283" relation="xobj" presentation-after=" ">
+        <token id="1276282" form="nytwyrðoste" lemma="nytweorð" part-of-speech="A-" morphology="-p---nnssi" head-id="1276283" relation="xobj" presentation-after=" ">
           <slash target-id="1276283" relation="xsub"/>
         </token>
         <token id="1276283" form="beon" lemma="beon" part-of-speech="V-" morphology="---n-----n" head-id="1276284" relation="xobj" presentation-after=" ">
