@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<proiel export-time="2023-04-26T12:30:51+02:00" schema-version="2.1">
+  <annotation>
+    <relations>
+      <value tag="adnom" summary="adnominal" primary="true" secondary="true"/>
+      <value tag="adv" summary="adverbial" primary="true" secondary="true"/>
+      <value tag="ag" summary="agens" primary="true" secondary="true"/>
+      <value tag="apos" summary="apposition" primary="true" secondary="true"/>
+      <value tag="arg" summary="argument (object or oblique)" primary="true" secondary="true"/>
+      <value tag="atr" summary="attribute" primary="true" secondary="true"/>
+      <value tag="aux" summary="auxiliary" primary="true" secondary="true"/>
+      <value tag="comp" summary="complement" primary="true" secondary="true"/>
+      <value tag="expl" summary="expletive" primary="true" secondary="true"/>
+      <value tag="narg" summary="adnominal argument" primary="true" secondary="true"/>
+      <value tag="nonsub" summary="non-subject (object, oblique or adverbial)" primary="true" secondary="true"/>
+      <value tag="obj" summary="object" primary="true" secondary="true"/>
+      <value tag="obl" summary="oblique" primary="true" secondary="true"/>
+      <value tag="parpred" summary="parenthetical predication" primary="true" secondary="true"/>
+      <value tag="part" summary="partitive" primary="true" secondary="true"/>
+      <value tag="per" summary="peripheral (oblique or adverbial)" primary="true" secondary="true"/>
+      <value tag="pid" summary="Predicate identity" primary="false" secondary="true"/>
+      <value tag="pred" summary="predicate" primary="true" secondary="true"/>
+      <value tag="rel" summary="apposition or attribute" primary="true" secondary="true"/>
+      <value tag="sub" summary="subject" primary="true" secondary="true"/>
+      <value tag="voc" summary="vocative" primary="true" secondary="true"/>
+      <value tag="xadv" summary="open adverbial complement" primary="true" secondary="true"/>
+      <value tag="xobj" summary="open objective complement" primary="true" secondary="true"/>
+      <value tag="xsub" summary="external subject" primary="false" secondary="true"/>
+    </relations>
+    <parts-of-speech>
+      <value tag="A-" summary="adjective"/>
+      <value tag="Df" summary="adverb"/>
+      <value tag="S-" summary="article"/>
+      <value tag="Ma" summary="cardinal numeral"/>
+      <value tag="Nb" summary="common noun"/>
+      <value tag="C-" summary="conjunction"/>
+      <value tag="Pd" summary="demonstrative pronoun"/>
+      <value tag="F-" summary="foreign word"/>
+      <value tag="Px" summary="indefinite pronoun"/>
+      <value tag="N-" summary="infinitive marker"/>
+      <value tag="I-" summary="interjection"/>
+      <value tag="Du" summary="interrogative adverb"/>
+      <value tag="Pi" summary="interrogative pronoun"/>
+      <value tag="Mo" summary="ordinal numeral"/>
+      <value tag="Pp" summary="personal pronoun"/>
+      <value tag="Pk" summary="personal reflexive pronoun"/>
+      <value tag="Ps" summary="possessive pronoun"/>
+      <value tag="Pt" summary="possessive reflexive pronoun"/>
+      <value tag="R-" summary="preposition"/>
+      <value tag="Ne" summary="proper noun"/>
+      <value tag="Py" summary="quantifier"/>
+      <value tag="Pc" summary="reciprocal pronoun"/>
+      <value tag="Dq" summary="relative adverb"/>
+      <value tag="Pr" summary="relative pronoun"/>
+      <value tag="G-" summary="subjunction"/>
+      <value tag="V-" summary="verb"/>
+      <value tag="X-" summary="unassigned"/>
+    </parts-of-speech>
+    <morphology>
+      <field tag="person">
+        <value tag="1" summary="first person"/>
+        <value tag="2" summary="second person"/>
+        <value tag="3" summary="third person"/>
+        <value tag="x" summary="uncertain person"/>
+      </field>
+      <field tag="number">
+        <value tag="s" summary="singular"/>
+        <value tag="d" summary="dual"/>
+        <value tag="p" summary="plural"/>
+        <value tag="x" summary="uncertain number"/>
+      </field>
+      <field tag="tense">
+        <value tag="p" summary="present"/>
+        <value tag="i" summary="imperfect"/>
+        <value tag="r" summary="perfect"/>
+        <value tag="s" summary="resultative"/>
+        <value tag="a" summary="aorist"/>
+        <value tag="u" summary="past"/>
+        <value tag="l" summary="pluperfect"/>
+        <value tag="f" summary="future"/>
+        <value tag="t" summary="future perfect"/>
+        <value tag="x" summary="uncertain tense"/>
+      </field>
+      <field tag="mood">
+        <value tag="i" summary="indicative"/>
+        <value tag="s" summary="subjunctive"/>
+        <value tag="m" summary="imperative"/>
+        <value tag="o" summary="optative"/>
+        <value tag="n" summary="infinitive"/>
+        <value tag="p" summary="participle"/>
+        <value tag="d" summary="gerund"/>
+        <value tag="g" summary="gerundive"/>
+        <value tag="u" summary="supine"/>
+        <value tag="x" summary="uncertain mood"/>
+        <value tag="y" summary="finiteness unspecified"/>
+        <value tag="e" summary="indicative or subjunctive"/>
+        <value tag="f" summary="indicative or imperative"/>
+        <value tag="h" summary="subjunctive or imperative"/>
+        <value tag="t" summary="finite"/>
+      </field>
+      <field tag="voice">
+        <value tag="a" summary="active"/>
+        <value tag="m" summary="middle"/>
+        <value tag="p" summary="passive"/>
+        <value tag="e" summary="middle or passive"/>
+        <value tag="x" summary="unspecified"/>
+      </field>
+      <field tag="gender">
+        <value tag="m" summary="masculine"/>
+        <value tag="f" summary="feminine"/>
+        <value tag="n" summary="neuter"/>
+        <value tag="p" summary="masculine or feminine"/>
+        <value tag="o" summary="masculine or neuter"/>
+        <value tag="r" summary="feminine or neuter"/>
+        <value tag="q" summary="masculine, feminine or neuter"/>
+        <value tag="x" summary="uncertain gender"/>
+      </field>
+      <field tag="case">
+        <value tag="n" summary="nominative"/>
+        <value tag="a" summary="accusative"/>
+        <value tag="o" summary="oblique"/>
+        <value tag="g" summary="genitive"/>
+        <value tag="c" summary="genitive or dative"/>
+        <value tag="e" summary="accusative or dative"/>
+        <value tag="d" summary="dative"/>
+        <value tag="b" summary="ablative"/>
+        <value tag="i" summary="instrumental"/>
+        <value tag="l" summary="locative"/>
+        <value tag="v" summary="vocative"/>
+        <value tag="x" summary="uncertain case"/>
+        <value tag="z" summary="no case"/>
+      </field>
+      <field tag="degree">
+        <value tag="p" summary="positive"/>
+        <value tag="c" summary="comparative"/>
+        <value tag="s" summary="superlative"/>
+        <value tag="x" summary="uncertain degree"/>
+        <value tag="z" summary="no degree"/>
+      </field>
+      <field tag="strength">
+        <value tag="w" summary="weak"/>
+        <value tag="s" summary="strong"/>
+        <value tag="t" summary="weak or strong"/>
+      </field>
+      <field tag="inflection">
+        <value tag="n" summary="non-inflecting"/>
+        <value tag="i" summary="inflecting"/>
+      </field>
+    </morphology>
+    <information-statuses>
+      <value tag="new" summary="new"/>
+      <value tag="kind" summary="kind"/>
+      <value tag="acc_gen" summary="acc-gen"/>
+      <value tag="acc_sit" summary="acc-sit"/>
+      <value tag="acc_inf" summary="acc-inf"/>
+      <value tag="old" summary="old"/>
+      <value tag="old_inact" summary="old-inact"/>
+      <value tag="no_info_status" summary="annotatable (undecided)"/>
+      <value tag="info_unannotatable" summary="unannotatable"/>
+      <value tag="quant" summary="quantifier restriction"/>
+      <value tag="non_spec" summary="non-specific"/>
+      <value tag="non_spec_inf" summary="inferred from non-specific"/>
+      <value tag="non_spec_old" summary="non-specific old"/>
+    </information-statuses>
+  </annotation>
+  <source id="am243" language="non">
+    <title>Konungs skuggsjá (in AM 243 bα fol, Old Norw., ca. 1275)</title>
+    <citation-part>KS</citation-part>
+    <principal>Odd Einar Haugen</principal>
+    <funder>University of Bergen</funder>
+    <distributor>Medieval Nordic Text Archive</distributor>
+    <distributor-address>http://www.menota.org</distributor-address>
+    <date>26 April 2023</date>
+    <license>CC BY-SA 4.0</license>
+    <license-url>https://creativecommons.org/licenses/by-sa/4.0/</license-url>
+    <editorial-note>Morphological and syntactic annotation as developed by the Menotec project. See the guidelines in https://bells.uib.no/index.php/bells/issue/view/158</editorial-note>
+    <annotator>Eirikur Kristjansson (1379 sentences), Þorsteinn Vilhjálmsson (1168 sentences), and Fartein Øverland (512 sentences)</annotator>
+    <reviewer>Eirikur Kristjansson (2 sentences)</reviewer>
+    <electronic-text-editor>The Language Collections (Språksamlingane), University of Bergen</electronic-text-editor>
+    <electronic-text-title>AM 243 bα fol : Konungs skuggsjá : A digital edition</electronic-text-title>
+    <electronic-text-publisher>Medieval Nordic Text Archive</electronic-text-publisher>
+    <electronic-text-place>Bergen</electronic-text-place>
+    <electronic-text-date>2019-</electronic-text-date>
+    <electronic-text-original-url>http://clarino.uib.no/menota</electronic-text-original-url>
+    <electronic-text-license>CC-BY-SA 4.0</electronic-text-license>
+    <electronic-text-license-url>https://creativecommons.org/licenses/by-sa/4.0/</electronic-text-license-url>
+    <printed-text-editor>Ludvig Holm-Olsen</printed-text-editor>
+    <printed-text-title>Konungs skuggsiá</printed-text-title>
+    <printed-text-edition>1st ed.</printed-text-edition>
+    <printed-text-publisher>Kjeldeskriftfondet</printed-text-publisher>
+    <printed-text-place>Oslo</printed-text-place>
+    <printed-text-date>1945</printed-text-date>
+    <div id="6536">
+      <title>Rules of speech and conversation in the king’s hall</title>
+      <sentence id="229957" status="reviewed">
+        <token id="2734142" form="En" lemma="en" part-of-speech="C-" morphology="---------n" head-id="2734147" relation="aux" presentation-after=" " foreign-ids="w19979"/>
+        <token id="2734143" form="ænn" lemma="enn" part-of-speech="Df" morphology="-------p-i" head-id="2734144" relation="adv" presentation-after=" " foreign-ids="w19980"/>
+        <token id="2734144" form="hælldr" lemma="heldr" part-of-speech="Df" morphology="-------c-i" head-id="2734147" relation="adv" presentation-after=" " foreign-ids="w19981"/>
+        <token id="2734145" form="skalltu" lemma="skulu" part-of-speech="V-" morphology="2spia----i" head-id="2734147" relation="aux" presentation-after=" " foreign-ids="w19982"/>
+        <token id="2734146" form="þat" lemma="sá" part-of-speech="Pd" morphology="-s---na--i" head-id="2734147" relation="obj" presentation-after=" " foreign-ids="w19983"/>
+        <token id="2734147" form="ꝩaraz" lemma="vara" part-of-speech="V-" morphology="--pnm----i" relation="pred" presentation-after=" " foreign-ids="w19984"/>
+        <token id="2734148" form="sæm" lemma="sem" part-of-speech="G-" morphology="---------n" head-id="2734146" relation="apos" presentation-after=" " foreign-ids="w19985"/>
+        <token id="2734149" form="fol" lemma="fól" part-of-speech="Nb" morphology="-x---na-si" head-id="2734153" relation="obj" presentation-after=" " foreign-ids="w19986"/>
+        <token id="2734150" form="kann" lemma="kunna" part-of-speech="V-" morphology="3spia----i" head-id="2734153" relation="aux" presentation-after=" " foreign-ids="w19987"/>
+        <token id="2734151" form="stunndum" lemma="stund" part-of-speech="Nb" morphology="-p---fd-si" head-id="2734153" relation="adv" presentation-after=" " foreign-ids="w19988"/>
+        <token id="2734152" form="at" lemma="at" part-of-speech="G-" morphology="---------n" head-id="2734153" relation="aux" presentation-after=" " foreign-ids="w19989"/>
+        <token id="2734153" form="hænnda" lemma="henda" part-of-speech="V-" morphology="--pna----i" head-id="2734148" relation="pred" presentation-after=" " foreign-ids="w19990"/>
+        <token id="2734154" form="at" lemma="at" part-of-speech="G-" morphology="---------n" head-id="2734147" relation="adv" presentation-after=" " foreign-ids="w19991"/>
+        <token id="2734155" form="æigi" lemma="eigi" part-of-speech="Df" morphology="-------p-i" head-id="2734156" relation="aux" presentation-after=" " foreign-ids="w19992"/>
+        <token id="2734156" form="margfallder" lemma="margfalda" part-of-speech="V-" morphology="2spsa----i" head-id="2734164" relation="pred" presentation-after=" " foreign-ids="w19993"/>
+        <token id="2734157" form="þu" lemma="þú" part-of-speech="Pp" morphology="------n--i" head-id="2734156" relation="sub" presentation-after=" " foreign-ids="w19994"/>
+        <token id="2734158" form="þau" lemma="sá" part-of-speech="Pd" morphology="-p---na--i" head-id="2734159" relation="atr" presentation-after=" " foreign-ids="w19995"/>
+        <token id="2734159" form="atkꝩæðe" lemma="atkvǽði" part-of-speech="Nb" morphology="-p---na-si" head-id="2734156" relation="obj" presentation-after=" " foreign-ids="w19996"/>
+        <token id="2734160" form="er" lemma="er" part-of-speech="G-" morphology="---------n" head-id="2734159" relation="atr" presentation-after=" " foreign-ids="w19997"/>
+        <token id="2734161" form="til" lemma="til" part-of-speech="R-" morphology="---------n" head-id="2734163" relation="obl" presentation-after=" " foreign-ids="w19998"/>
+        <token id="2734162" form="þin" lemma="þú" part-of-speech="Pp" morphology="------g--i" head-id="2734161" relation="obl" presentation-after=" " foreign-ids="w19999"/>
+        <token id="2734163" form="horfa" lemma="horfa" part-of-speech="V-" morphology="3ppia----i" head-id="2734160" relation="pred" presentation-after=". " foreign-ids="w20000"/>
+        <token id="2734164" form="en" lemma="en" part-of-speech="C-" morphology="---------n" head-id="2734154" relation="pred" presentation-after=" " foreign-ids="w20001"/>
+        <token id="2734165" form="þu" lemma="þú" part-of-speech="Pp" morphology="------n--i" head-id="2734166" relation="sub" presentation-after=" " foreign-ids="w20002"/>
+        <token id="2734166" form="æinfallder" lemma="einfalda" part-of-speech="V-" morphology="2spsa----i" head-id="2734164" relation="pred" presentation-after=" " foreign-ids="w20003"/>
+        <token id="2734167" form="þau" lemma="sá" part-of-speech="Pd" morphology="-p---na--i" head-id="2734166" relation="obj" presentation-after=" " foreign-ids="w20004"/>
+        <token id="2734168" form="er" lemma="er" part-of-speech="G-" morphology="---------n" head-id="2734167" relation="atr" presentation-after=" " foreign-ids="w20005"/>
+        <token id="2734169" form="til" lemma="til" part-of-speech="R-" morphology="---------n" head-id="2734171" relation="obl" presentation-after=" " foreign-ids="w20006"/>
+        <token id="2734170" form="konongsens" lemma="konungr" part-of-speech="Nb" morphology="-s---mg-wi" head-id="2734169" relation="obl" presentation-after=" " foreign-ids="w20007"/>
+        <token id="2734171" form="horfa" lemma="horfa" part-of-speech="V-" morphology="3ppia----i" head-id="2734168" relation="pred" presentation-after=". " foreign-ids="w20008"/>
+      </sentence>
+    </div>
+    <div id="6543">
+      <title>Military engines</title>
+      <sentence id="230176" status="reviewed">
+        <token id="2743082" form="En" lemma="en" part-of-speech="C-" morphology="---------n" head-id="2743091" relation="aux" presentation-after=" " foreign-ids="w28902"/>
+        <token id="2743083" form="æf" lemma="ef" part-of-speech="G-" morphology="---------n" head-id="2743090" relation="apos" presentation-after=" " foreign-ids="w28903"/>
+        <token id="2743084" form="œrin" lemma="œrinn" part-of-speech="A-" morphology="-s---mxpsi" head-id="2743086" relation="atr" presentation-after=" " foreign-ids="w28904"/>
+        <token id="2743085" form="er" lemma="vera" part-of-speech="V-" morphology="3spia----i" head-id="2743083" relation="pred" presentation-after=" " foreign-ids="w28905"/>
+        <token id="2743086" form="iorð" lemma="iorð" part-of-speech="Nb" morphology="-s---fn-si" head-id="2743088" relation="sub" presentation-after=" " foreign-ids="w28906"/>
+        <token id="2743087" form="til" lemma="til" part-of-speech="R-" morphology="---------n" head-id="2743085" relation="obl" presentation-after=" " foreign-ids="w28907"/>
+        <token id="2743088" form="eða" lemma="eða" part-of-speech="C-" morphology="---------n" head-id="2743085" relation="sub" presentation-after=" " foreign-ids="w28908"/>
+        <token id="2743089" form="leir" lemma="leir" part-of-speech="Nb" morphology="-s---nn-si" head-id="2743088" relation="sub" presentation-after=" " foreign-ids="w28909"/>
+        <token id="2743090" form="þa" lemma="þá" part-of-speech="Df" morphology="-------p-i" head-id="2743091" relation="adv" presentation-after=" " foreign-ids="w28910"/>
+        <token id="2743091" form="er" lemma="vera" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=" " foreign-ids="w28911"/>
+        <token id="2743092" form="þat" lemma="sá" part-of-speech="Pd" morphology="-s---na--i" head-id="2743095" relation="obj" presentation-after=" " foreign-ids="w28912"/>
+        <token id="2743093" form="bazt" lemma="betri" part-of-speech="A-" morphology="-s---nnssi" head-id="2743091" relation="xobj" presentation-after=" " foreign-ids="w28913">
+          <slash target-id="2743095" relation="xsub"/>
+        </token>
+        <token id="2743094" form="at" lemma="at" part-of-speech="N-" morphology="---------n" head-id="2743095" relation="aux" presentation-after=" " foreign-ids="w28914"/>
+        <token id="2743095" form="haꝩa" lemma="hafa" part-of-speech="V-" morphology="--pna----i" head-id="2743091" relation="comp" presentation-after=". " foreign-ids="w28915"/>
+      </sentence>
+    </div>
+  </source>
+</proiel>
