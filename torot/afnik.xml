@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<proiel export-time="2023-04-25T12:53:26+02:00" schema-version="2.1">
+<proiel export-time="2023-04-26T14:10:41+02:00" schema-version="2.1">
   <annotation>
     <relations>
       <value tag="adnom" summary="adnominal" primary="true" secondary="true"/>
@@ -5694,14 +5694,757 @@
         <token id="3414817" empty-token-sort="V" relation="pred"/>
       </sentence>
     </div>
+    <div id="8367">
+      <title>17</title>
+      <sentence id="280977" status="annotated">
+        <token id="3414818" form="а" citation-part="17" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3414821" relation="aux" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414819" form="силѧн" citation-part="17" lemma="силянъ" part-of-speech="Ne" morphology="-s---mn--i" head-id="3414821" relation="sub" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414820" form="же" citation-part="17" lemma="же" part-of-speech="Df" morphology="---------n" head-id="3414821" relation="aux" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414821" form="есть" citation-part="17" lemma="быти" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414822" form="пристанище" citation-part="17" lemma="пристанище" part-of-speech="Nb" morphology="-s---nn--i" head-id="3414821" relation="xobj" presentation-after=" " foreign-ids="folio=381v">
+          <slash target-id="3414819" relation="xsub"/>
+        </token>
+        <token id="3414823" form="индѣискаго" citation-part="17" lemma="индѣискыи" part-of-speech="A-" morphology="-s---ngpwi" head-id="3414824" relation="atr" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414824" form="морѧ" citation-part="17" lemma="море" part-of-speech="Nb" morphology="-s---ng--i" head-id="3414822" relation="atr" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414825" form="немало" citation-part="17" lemma="немалыи" part-of-speech="A-" morphology="-s---nnpsi" head-id="3414822" relation="atr" presentation-after=". " foreign-ids="folio=381v"/>
+      </sentence>
+      <sentence id="280978" status="annotated">
+        <token id="3414826" form="а" citation-part="17" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3414835" relation="aux" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414827" form="в" citation-part="17" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3414835" relation="adv" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414828" form="немъ" citation-part="17" lemma="и" part-of-speech="Pp" morphology="3s---ml--i" head-id="3414827" relation="obl" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414829" form="баба" citation-part="17" lemma="баба" part-of-speech="Nb" morphology="-s---fn--i" head-id="3414835" relation="sub" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414830" form="адамъ" citation-part="17" lemma="адамъ" part-of-speech="Ne" morphology="-s---mn--i" head-id="3414829" relation="apos" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414831" form="на" citation-part="17" lemma="на" part-of-speech="R-" morphology="---------n" head-id="3414835" relation="adv" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414832" form="горѣ" citation-part="17" lemma="гора" part-of-speech="Nb" morphology="-s---fl--i" head-id="3414831" relation="obl" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414833" form="на" citation-part="17" lemma="на" part-of-speech="R-" morphology="---------n" head-id="3414831" relation="aux" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414834" form="высоцѣ" citation-part="17" lemma="высокыи" part-of-speech="A-" morphology="-s---flpsi" head-id="3414832" relation="atr" presentation-after=". " foreign-ids="folio=381v"/>
+        <token id="3414835" empty-token-sort="V" relation="pred"/>
+      </sentence>
+      <sentence id="280979" status="annotated">
+        <token id="3414836" form="да" citation-part="17" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3414839" relation="aux" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414837" form="ѡколо" citation-part="17" lemma="около" part-of-speech="R-" morphology="---------n" head-id="3414839" relation="adv" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414838" form="его" citation-part="17" lemma="и" part-of-speech="Pp" morphology="3s---mg--i" head-id="3414837" relation="obl" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414839" form="родит" citation-part="17" lemma="родити" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414840" form="сѧ" citation-part="17" lemma="себе" part-of-speech="Pk" morphology="3s---qa--i" head-id="3414839" relation="aux" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414841" form="каменье" citation-part="17" lemma="камение" part-of-speech="Nb" morphology="-s---nn--i" head-id="3414843" relation="sub" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414842" form="драгое" citation-part="17" lemma="драгыи" part-of-speech="A-" morphology="-s---nnpwi" head-id="3414841" relation="atr" presentation-after=". " foreign-ids="folio=381v"/>
+        <token id="3414843" form="да" citation-part="17" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3414839" relation="sub" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414844" form="червьци" citation-part="17" lemma="чьрвьць" part-of-speech="Nb" morphology="-p---mn--i" head-id="3414843" relation="sub" presentation-after=". " foreign-ids="folio=381v"/>
+        <token id="3414845" form="да" citation-part="17" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3414843" relation="aux" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414846" form="фатисы" citation-part="17" lemma="фатисы" part-of-speech="Nb" morphology="-p---pn--i" head-id="3414843" relation="sub" presentation-after=". " foreign-ids="folio=381v"/>
+        <token id="3414847" form="да" citation-part="17" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3414843" relation="aux" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414848" form="бабогѹры" citation-part="17" lemma="бабогури" part-of-speech="Nb" morphology="-p---pn--i" head-id="3414843" relation="sub" presentation-after=". " foreign-ids="folio=381v"/>
+        <token id="3414849" form="да" citation-part="17" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3414843" relation="aux" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414850" form="бинчаи" citation-part="17" lemma="бинчаи" part-of-speech="Nb" morphology="-s---mn--i" head-id="3414843" relation="sub" presentation-after=". " foreign-ids="folio=381v"/>
+        <token id="3414851" form="да" citation-part="17" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3414843" relation="aux" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414852" form="хрѹсталь" citation-part="17" lemma="хрусталь" part-of-speech="Nb" morphology="-s---mn--i" head-id="3414843" relation="sub" presentation-after=". " foreign-ids="folio=381v"/>
+        <token id="3414853" form="да" citation-part="17" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3414843" relation="aux" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414854" form="сѹм꙽бада" citation-part="17" lemma="сумбада" part-of-speech="Nb" morphology="-s---fn--i" head-id="3414843" relation="sub" presentation-after=". " foreign-ids="folio=381v"/>
+      </sentence>
+      <sentence id="280980" status="annotated">
+        <token id="3414855" form="да" citation-part="17" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3414857" relation="aux" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414856" form="слоны" citation-part="17" lemma="слонъ" part-of-speech="Nb" morphology="-p---mn--i" head-id="3414857" relation="sub" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414857" form="родѧт" citation-part="17" lemma="родити" part-of-speech="V-" morphology="3ppia----i" relation="pred" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414858" form="сѧ" citation-part="17" lemma="себе" part-of-speech="Pk" morphology="3s---qa--i" head-id="3414857" relation="aux" presentation-after=". " foreign-ids="folio=381v"/>
+      </sentence>
+      <sentence id="280981" status="annotated">
+        <token id="3414859" form="да" citation-part="17" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3414860" relation="aux" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414860" form="продають" citation-part="17" lemma="продаяти" part-of-speech="V-" morphology="3ppia----i" relation="pred" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414861" form="в" citation-part="17" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3414860" relation="adv" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414862" form="локоть" citation-part="17" lemma="локъть" part-of-speech="Nb" morphology="-s---ma--i" head-id="3414861" relation="obl" presentation-after=". " foreign-ids="folio=381v"/>
+      </sentence>
+      <sentence id="280982" status="annotated">
+        <token id="3414863" form="да" citation-part="17" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3414865" relation="aux" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414864" form="девѧкꙋши" citation-part="17" lemma="девякуши" part-of-speech="Nb" morphology="-p---pa--i" head-id="3414865" relation="obj" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414865" form="продають" citation-part="17" lemma="продаяти" part-of-speech="V-" morphology="3ppia----i" relation="pred" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414866" form="в" citation-part="17" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3414865" relation="adv" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414867" form="вѣсъ" citation-part="17" lemma="вѣсъ" part-of-speech="Nb" morphology="-s---ma--i" head-id="3414866" relation="obl" presentation-after=". " foreign-ids="folio=381v"/>
+      </sentence>
+      <sentence id="280983" status="annotated">
+        <token id="3414868" form="а" citation-part="17" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3414875" relation="aux" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414869" form="шабаитьское" citation-part="17" lemma="шабаитьскыи" part-of-speech="A-" morphology="-s---nnpwi" head-id="3414870" relation="atr" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414870" form="пристанище" citation-part="17" lemma="пристанище" part-of-speech="Nb" morphology="-s---nn--i" head-id="3414875" relation="sub" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414871" form="индѣискаго" citation-part="17" lemma="индѣискыи" part-of-speech="A-" morphology="-s---ngpwi" head-id="3414872" relation="atr" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414872" form="морѧ" citation-part="17" lemma="море" part-of-speech="Nb" morphology="-s---ng--i" head-id="3414870" relation="atr" presentation-after=". " foreign-ids="folio=381v"/>
+        <token id="3414873" form="велми" citation-part="17" lemma="вельми" part-of-speech="Df" morphology="---------n" head-id="3414874" relation="adv" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414874" form="велико" citation-part="17" lemma="великыи" part-of-speech="A-" morphology="-s---nnpsi" head-id="3414875" relation="xobj" presentation-after=". " foreign-ids="folio=381v">
+          <slash target-id="3414870" relation="xsub"/>
+        </token>
+        <token id="3414875" empty-token-sort="V" relation="pred"/>
+      </sentence>
+      <sentence id="280984" status="annotated">
+        <token id="3414876" form="а" citation-part="17" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3414878" relation="aux" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414877" form="хоросанцемъ" citation-part="17" lemma="хоросаньць" part-of-speech="Nb" morphology="-p---md--i" head-id="3414878" relation="obl" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414878" form="дають" citation-part="17" lemma="даяти" part-of-speech="V-" morphology="3ppia----i" relation="pred" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414879" form="алафꙋ" citation-part="17" lemma="алафа" part-of-speech="Nb" morphology="-s---fa--i" head-id="3414878" relation="obj" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414880" form="по" citation-part="17" lemma="по" part-of-speech="R-" morphology="---------n" head-id="3414878" relation="adv" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414881" form="тенкѣ" citation-part="17" lemma="тенька" part-of-speech="Nb" morphology="-s---fd--i" head-id="3414880" relation="obl" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414882" form="на" citation-part="17" lemma="на" part-of-speech="R-" morphology="---------n" head-id="3414880" relation="adv" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414883" form="дн҃ь" citation-part="17" lemma="дьнь" part-of-speech="Nb" morphology="-s---ma--i" head-id="3414882" relation="obl" presentation-after=". " foreign-ids="folio=381v"/>
+        <token id="3414884" form="и" citation-part="17" lemma="и" part-of-speech="C-" morphology="---------n" head-id="3414886" relation="aux" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414885" form="великомѹ" citation-part="17" lemma="великыи" part-of-speech="A-" morphology="-s---mdpwi" head-id="3414886" relation="apos" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414886" form="и" citation-part="17" lemma="и" part-of-speech="C-" morphology="---------n" head-id="3414877" relation="apos" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414887" form="маломѹ" citation-part="17" lemma="малыи" part-of-speech="A-" morphology="-s---mdpwi" head-id="3414886" relation="apos" presentation-after=". " foreign-ids="folio=381v"/>
+      </sentence>
+      <sentence id="280985" status="annotated">
+        <token id="3414888" form="а" citation-part="17" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3414892" relation="aux" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414889" form="кто" citation-part="17" lemma="къто" part-of-speech="Px" morphology="-s---qn--i" head-id="3414892" relation="sub" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414890" form="в" citation-part="17" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3414892" relation="adv" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414891" form="немъ" citation-part="17" lemma="и" part-of-speech="Pp" morphology="3s---ml--i" head-id="3414890" relation="obl" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414892" form="женит" citation-part="17" lemma="женити" part-of-speech="V-" morphology="3spia----i" head-id="3414895" relation="pred" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414893" form="сѧ" citation-part="17" lemma="себе" part-of-speech="Pk" morphology="3s---qa--i" head-id="3414892" relation="aux" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414894" form="хоросанець" citation-part="17" lemma="хоросаньць" part-of-speech="Nb" morphology="-s---mn--i" head-id="3414889" relation="apos" presentation-after=". " foreign-ids="folio=381v"/>
+        <token id="3414895" form="и" citation-part="17" lemma="и" part-of-speech="C-" morphology="---------n" relation="pred" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414896" form="кн҃ѧзь" citation-part="17" lemma="кънязь" part-of-speech="Nb" morphology="-s---mn--i" head-id="3414898" relation="sub" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414897" form="шабатьскои" citation-part="17" lemma="шабаитьскыи" part-of-speech="A-" morphology="-s---mnpwi" head-id="3414896" relation="atr" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414898" form="даеть" citation-part="17" lemma="даяти" part-of-speech="V-" morphology="3spia----i" head-id="3414895" relation="pred" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414899" form="по" citation-part="17" lemma="по" part-of-speech="R-" morphology="---------n" head-id="3414898" relation="obj" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414900" form="тысѧчи" citation-part="17" lemma="тысяча" part-of-speech="Ma" morphology="-s---fd--i" head-id="3414899" relation="obl" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414901" form="тенекъ" citation-part="17" lemma="тенька" part-of-speech="Nb" morphology="-p---fg--i" head-id="3414900" relation="part" presentation-after=". " foreign-ids="folio=381v"/>
+        <token id="3414902" form="на" citation-part="17" lemma="на" part-of-speech="R-" morphology="---------n" head-id="3414904" relation="adv" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414903" form="жертвѹ" citation-part="17" lemma="жьртва" part-of-speech="Nb" morphology="-s---fa--i" head-id="3414902" relation="obl" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414904" form="да" citation-part="17" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3414898" relation="adv" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414905" form="на" citation-part="17" lemma="на" part-of-speech="R-" morphology="---------n" head-id="3414904" relation="adv" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414906" form="ѡлафꙋ" citation-part="17" lemma="алафа" part-of-speech="Nb" morphology="-s---fa--i" head-id="3414905" relation="obl" presentation-after=". " foreign-ids="folio=381v"/>
+      </sentence>
+      <sentence id="280986" status="annotated">
+        <token id="3414907" form="да" citation-part="17" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3414908" relation="aux" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414908" form="ѣстъ" citation-part="17" lemma="ясти" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=" " foreign-ids="folio=381v"/>
+        <token id="3414909" form="на" citation-part="17" lemma="на" part-of-speech="R-" morphology="---------n" head-id="3414908" relation="adv" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414910" form="всѧкыи" citation-part="17" lemma="вьсякыи" part-of-speech="A-" morphology="-s---mapwi" head-id="3414911" relation="atr" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414911" form="мц҃ь" citation-part="17" lemma="мѣсяць" part-of-speech="Nb" morphology="-s---ma--i" head-id="3414909" relation="obl" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414912" form="по" citation-part="17" lemma="по" part-of-speech="R-" morphology="---------n" head-id="3414908" relation="adv" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414913" form="десѧти" citation-part="17" lemma="десять" part-of-speech="Ma" morphology="-s---fd--i" head-id="3414912" relation="obl" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414914" form="денек" citation-part="17" lemma="тенька" part-of-speech="Nb" morphology="-p---fg--i" head-id="3414913" relation="part" presentation-after=". " foreign-ids="folio=382r"/>
+      </sentence>
+      <sentence id="280987" status="annotated">
+        <token id="3414915" form="да" citation-part="17" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3414916" relation="aux" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414916" form="родит" citation-part="17" lemma="родити" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414917" form="сѧ" citation-part="17" lemma="себе" part-of-speech="Pk" morphology="3s---qa--i" head-id="3414916" relation="aux" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414918" form="в" citation-part="17" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3414916" relation="adv" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414919" form="шаботѣ" citation-part="17" lemma="шаибатъ" part-of-speech="Ne" morphology="-s---ml--i" head-id="3414918" relation="obl" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414920" form="шелкъ" citation-part="17" lemma="шелкъ" part-of-speech="Nb" morphology="-s---mn--i" head-id="3414921" relation="sub" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414921" form="да" citation-part="17" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3414916" relation="sub" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414922" form="сандал" citation-part="17" lemma="сандалъ" part-of-speech="Nb" morphology="-s---mn--i" head-id="3414921" relation="sub" presentation-after=". " foreign-ids="folio=382r"/>
+        <token id="3414923" form="да" citation-part="17" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3414921" relation="aux" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414924" form="жемчюгъ" citation-part="17" lemma="жемчугъ" part-of-speech="Nb" morphology="-s---mn--i" head-id="3414921" relation="sub" presentation-after=". " foreign-ids="folio=382r"/>
+      </sentence>
+      <sentence id="280988" status="annotated">
+        <token id="3414925" form="да" citation-part="17" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3414928" relation="aux" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414926" form="все" citation-part="17" lemma="вьсь" part-of-speech="Px" morphology="-s---nn--i" head-id="3414928" relation="sub" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414927" form="дешево" citation-part="17" lemma="дешевыи" part-of-speech="A-" morphology="-s---nnpsi" head-id="3414928" relation="xobj" presentation-after=". " foreign-ids="folio=382r">
+          <slash target-id="3414926" relation="xsub"/>
+        </token>
+        <token id="3414928" empty-token-sort="V" relation="pred"/>
+      </sentence>
+      <sentence id="280989" status="annotated">
+        <token id="3414929" form="а" citation-part="17" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3414933" relation="aux" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414930" form="в" citation-part="17" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3414933" relation="adv" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414931" form="пегѹ" citation-part="17" lemma="пегу" part-of-speech="Ne" morphology="---------n" head-id="3414930" relation="obl" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414932" form="же" citation-part="17" lemma="же" part-of-speech="Df" morphology="---------n" head-id="3414933" relation="aux" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414933" form="есть" citation-part="17" lemma="быти" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414934" form="пристанище" citation-part="17" lemma="пристанище" part-of-speech="Nb" morphology="-s---nn--i" head-id="3414933" relation="sub" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414935" form="немало" citation-part="17" lemma="немалыи" part-of-speech="A-" morphology="-s---nnpsi" head-id="3414934" relation="atr" presentation-after=". " foreign-ids="folio=382r"/>
+      </sentence>
+      <sentence id="280990" status="annotated">
+        <token id="3414936" form="да" citation-part="17" lemma="да#2" part-of-speech="Df" morphology="---------n" head-id="3414941" relation="aux" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414937" form="все" citation-part="17" lemma="вьсе" part-of-speech="Df" morphology="---------n" head-id="3414940" relation="aux" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414938" form="в" citation-part="17" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3414941" relation="obl" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414939" form="нем" citation-part="17" lemma="и" part-of-speech="Pp" morphology="3s---ml--i" head-id="3414938" relation="obl" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414940" form="дербыши" citation-part="17" lemma="дербышь" part-of-speech="Nb" morphology="-p---mn--i" head-id="3414941" relation="sub" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414941" form="живѹть" citation-part="17" lemma="жити" part-of-speech="V-" morphology="3ppia----i" relation="pred" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414942" form="индѣискыѧ" citation-part="17" lemma="индѣискыи" part-of-speech="A-" morphology="-p---mnpwi" head-id="3414940" relation="atr" presentation-after=". " foreign-ids="folio=382r"/>
+      </sentence>
+      <sentence id="280991" status="annotated">
+        <token id="3414943" form="да" citation-part="17" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3414944" relation="aux" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414944" form="родит" citation-part="17" lemma="родити" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414945" form="сѧ" citation-part="17" lemma="себе" part-of-speech="Pk" morphology="3s---qa--i" head-id="3414944" relation="aux" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414946" form="в" citation-part="17" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3414944" relation="adv" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414947" form="немъ" citation-part="17" lemma="и" part-of-speech="Pp" morphology="3s---ml--i" head-id="3414946" relation="obl" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414948" form="камение" citation-part="17" lemma="камение" part-of-speech="Nb" morphology="-s---nn--i" head-id="3414944" relation="sub" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414949" form="дорогое" citation-part="17" lemma="дорогыи" part-of-speech="A-" morphology="-s---nnpwi" head-id="3414948" relation="atr" presentation-after=". " foreign-ids="folio=382r"/>
+        <token id="3414950" form="маникъ" citation-part="17" lemma="маникъ" part-of-speech="Nb" morphology="-s---mn--i" head-id="3414951" relation="apos" presentation-after=". " foreign-ids="folio=382r"/>
+        <token id="3414951" form="да" citation-part="17" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3414948" relation="apos" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414952" form="ѧхꙋт" citation-part="17" lemma="яхонтъ" part-of-speech="Nb" morphology="-s---mn--i" head-id="3414951" relation="apos" presentation-after=". " foreign-ids="folio=382r"/>
+        <token id="3414953" form="да" citation-part="17" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3414951" relation="aux" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414954" form="кырпѹкъ" citation-part="17" lemma="кирпукъ" part-of-speech="Nb" morphology="-s---mn--i" head-id="3414951" relation="apos" presentation-after=". " foreign-ids="folio=382r"/>
+      </sentence>
+      <sentence id="280992" status="annotated">
+        <token id="3414955" form="а" citation-part="17" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3414956" relation="aux" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414956" form="продають" citation-part="17" lemma="продаяти" part-of-speech="V-" morphology="3ppia----i" relation="pred" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414957" form="же" citation-part="17" lemma="же" part-of-speech="Df" morphology="---------n" head-id="3414956" relation="aux" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414958" form="камение" citation-part="17" lemma="камение" part-of-speech="Nb" morphology="-s---na--i" head-id="3414956" relation="obj" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414959" form="дербыши" citation-part="17" lemma="дербышь" part-of-speech="Nb" morphology="-p---mn--i" head-id="3414956" relation="sub" presentation-after=". " foreign-ids="folio=382r"/>
+      </sentence>
+      <sentence id="280993" status="annotated">
+        <token id="3414960" form="а" citation-part="17" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3414969" relation="aux" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414961" form="чиньское" citation-part="17" lemma="чиньскыи" part-of-speech="A-" morphology="-s---nnpwi" head-id="3414963" relation="atr" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414962" form="же" citation-part="17" lemma="же" part-of-speech="Df" morphology="---------n" head-id="3414969" relation="aux" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414963" form="да" citation-part="17" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3414966" relation="atr" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414964" form="мачиньское" citation-part="17" lemma="мачиньскыи" part-of-speech="A-" morphology="-s---nnpwi" head-id="3414963" relation="atr" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414965" form="же" citation-part="17" lemma="же" part-of-speech="Df" morphology="---------n" head-id="3414969" relation="aux" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414966" form="пристанище" citation-part="17" lemma="пристанище" part-of-speech="Nb" morphology="-s---nn--i" head-id="3414969" relation="sub" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414967" form="велми" citation-part="17" lemma="вельми" part-of-speech="Df" morphology="---------n" head-id="3414968" relation="adv" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414968" form="велико" citation-part="17" lemma="великыи" part-of-speech="A-" morphology="-s---nnpsi" head-id="3414969" relation="xobj" presentation-after=". " foreign-ids="folio=382r">
+          <slash target-id="3414966" relation="xsub"/>
+        </token>
+        <token id="3414969" empty-token-sort="V" relation="pred"/>
+      </sentence>
+      <sentence id="280994" status="annotated">
+        <token id="3414970" form="да" citation-part="17" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3414971" relation="aux" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414971" form="дѣлають" citation-part="17" lemma="дѣлати" part-of-speech="V-" morphology="3ppia----i" relation="pred" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414972" form="в" citation-part="17" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3414971" relation="adv" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414973" form="нем" citation-part="17" lemma="и" part-of-speech="Pp" morphology="3s---ml--i" head-id="3414972" relation="obl" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414974" form="чини" citation-part="17" lemma="чини" part-of-speech="Nb" morphology="---------n" head-id="3414971" relation="obj" presentation-after=". " foreign-ids="folio=382r"/>
+      </sentence>
+      <sentence id="280995" status="annotated">
+        <token id="3414975" form="да" citation-part="17" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3414976" relation="aux" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414976" form="продають" citation-part="17" lemma="продаяти" part-of-speech="V-" morphology="3ppia----i" relation="pred" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414977" form="чини" citation-part="17" lemma="чини" part-of-speech="Nb" morphology="---------n" head-id="3414976" relation="obj" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414978" form="в" citation-part="17" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3414980" relation="adv" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414979" form="вѣсъ" citation-part="17" lemma="вѣсъ" part-of-speech="Nb" morphology="-s---ma--i" head-id="3414978" relation="obl" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414980" form="а" citation-part="17" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3414976" relation="adv" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414981" form="дешево" citation-part="17" lemma="дешевыи" part-of-speech="A-" morphology="-s---napsi" head-id="3414980" relation="adv" presentation-after=". " foreign-ids="folio=382r"/>
+      </sentence>
+      <sentence id="280996" status="annotated">
+        <token id="3414982" form="а" citation-part="17" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3414989" relation="aux" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414983" form="жены" citation-part="17" lemma="жена" part-of-speech="Nb" morphology="-p---fn--i" head-id="3414989" relation="sub" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414984" form="же" citation-part="17" lemma="же" part-of-speech="Df" morphology="---------n" head-id="3414989" relation="aux" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414985" form="их" citation-part="17" lemma="и" part-of-speech="Pp" morphology="3p---mg--i" head-id="3414983" relation="atr" presentation-after=". " foreign-ids="folio=382r"/>
+        <token id="3414986" form="с" citation-part="17" lemma="съ" part-of-speech="R-" morphology="---------n" head-id="3414989" relation="adv" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414987" form="мѹжи" citation-part="17" lemma="мужь" part-of-speech="Nb" morphology="-p---mi--i" head-id="3414986" relation="obl" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414988" form="своими" citation-part="17" lemma="свои" part-of-speech="Pt" morphology="3p---mi--i" head-id="3414987" relation="atr" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414989" form="спѧть" citation-part="17" lemma="съпати" part-of-speech="V-" morphology="3ppia----i" relation="pred" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414990" form="в꙽" citation-part="17" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3414989" relation="adv" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414991" form="дн҃ь" citation-part="17" lemma="дьнь" part-of-speech="Nb" morphology="-s---ma--i" head-id="3414990" relation="obl" presentation-after=". " foreign-ids="folio=382r"/>
+      </sentence>
+      <sentence id="280997" status="annotated">
+        <token id="3414992" form="а" citation-part="17" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3414996" relation="aux" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414993" form="ночи" citation-part="17" lemma="ночь" part-of-speech="Nb" morphology="-s---fg--i" head-id="3414996" relation="adv" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414994" form="жены" citation-part="17" lemma="жена" part-of-speech="Nb" morphology="-p---fn--i" head-id="3414996" relation="sub" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414995" form="их" citation-part="17" lemma="и" part-of-speech="Pp" morphology="3p---mg--i" head-id="3414994" relation="atr" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414996" form="ходѧть" citation-part="17" lemma="ходити" part-of-speech="V-" morphology="3ppia----i" relation="pred" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414997" form="к" citation-part="17" lemma="къ" part-of-speech="R-" morphology="---------n" head-id="3414996" relation="obl" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3414998" form="гарипомъ" citation-part="17" lemma="гарипъ" part-of-speech="Nb" morphology="-p---md--i" head-id="3414997" relation="obl" presentation-after=". " foreign-ids="folio=382r"/>
+      </sentence>
+      <sentence id="280998" status="annotated">
+        <token id="3414999" form="да" citation-part="17" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3415000" relation="aux" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415000" form="спѧть" citation-part="17" lemma="съпати" part-of-speech="V-" morphology="3ppia----i" relation="pred" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415001" form="с" citation-part="17" lemma="съ" part-of-speech="R-" morphology="---------n" head-id="3415000" relation="adv" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415002" form="гарипы" citation-part="17" lemma="гарипъ" part-of-speech="Nb" morphology="-p---mi--i" head-id="3415001" relation="obl" presentation-after=". " foreign-ids="folio=382r"/>
+      </sentence>
+      <sentence id="280999" status="annotated">
+        <token id="3415003" form="дают" citation-part="17" lemma="даяти" part-of-speech="V-" morphology="3ppia----i" relation="pred" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415004" form="имъ" citation-part="17" lemma="и" part-of-speech="Pp" morphology="3p---md--i" head-id="3415003" relation="obl" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415005" form="ѡлафꙋ" citation-part="17" lemma="алафа" part-of-speech="Nb" morphology="-s---fa--i" head-id="3415003" relation="obj" presentation-after=". " foreign-ids="folio=382r"/>
+      </sentence>
+      <sentence id="281000" status="annotated">
+        <token id="3415006" form="да" citation-part="17" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3415007" relation="aux" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415007" form="приносѧть" citation-part="17" lemma="приносити" part-of-speech="V-" morphology="3ppia----i" relation="pred" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415008" form="с꙽" citation-part="17" lemma="съ" part-of-speech="R-" morphology="---------n" head-id="3415007" relation="adv" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415009" form="собою" citation-part="17" lemma="себе" part-of-speech="Pk" morphology="3s---fi--i" head-id="3415008" relation="obl" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415010" form="ꙗствꙋ" citation-part="17" lemma="яства" part-of-speech="Nb" morphology="-s---fa--i" head-id="3415012" relation="obj" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415011" form="сахорнѹю" citation-part="17" lemma="сахарьныи" part-of-speech="A-" morphology="-s---fapwi" head-id="3415010" relation="atr" presentation-after=". " foreign-ids="folio=382r"/>
+        <token id="3415012" form="да" citation-part="17" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3415007" relation="obj" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415013" form="вино" citation-part="17" lemma="вино" part-of-speech="Nb" morphology="-s---na--i" head-id="3415012" relation="obj" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415014" form="сахарное" citation-part="17" lemma="сахарьныи" part-of-speech="A-" morphology="-s---napwi" head-id="3415013" relation="atr" presentation-after=". " foreign-ids="folio=382r"/>
+      </sentence>
+      <sentence id="281001" status="annotated">
+        <token id="3415015" form="да" citation-part="17" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3415017" relation="aux" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415016" form="кормѧть" citation-part="17" lemma="кърмити" part-of-speech="V-" morphology="3ppia----i" head-id="3415017" relation="pred" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415017" form="да" citation-part="17" lemma="да" part-of-speech="C-" morphology="---------n" relation="pred" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415018" form="поꙗтъ" citation-part="17" lemma="поити#2" part-of-speech="V-" morphology="3ppia----i" head-id="3415017" relation="pred" presentation-after=" " foreign-ids="folio=382r">
+          <slash target-id="3415019" relation="obj"/>
+          <slash target-id="3415020" relation="adv"/>
+        </token>
+        <token id="3415019" form="гостеи" citation-part="17" lemma="гость" part-of-speech="Nb" morphology="-p---mg--i" head-id="3415016" relation="obj" presentation-after=". " foreign-ids="folio=382r"/>
+        <token id="3415020" form="чтобы" citation-part="17" lemma="чьтобы" part-of-speech="G-" morphology="---------n" head-id="3415016" relation="adv" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415021" form="ее" citation-part="17" lemma="и" part-of-speech="Pp" morphology="3s---fg--i" head-id="3415022" relation="obj" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415022" form="любилъ" citation-part="17" lemma="любити" part-of-speech="V-" morphology="-sspamn-si" head-id="3415020" relation="pred" presentation-after=". " foreign-ids="folio=382r"/>
+      </sentence>
+      <sentence id="281002" status="annotated">
+        <token id="3415023" form="а" citation-part="17" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3415024" relation="aux" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415024" form="любѧть" citation-part="17" lemma="любити" part-of-speech="V-" morphology="3ppia----i" relation="pred" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415025" form="гостеи" citation-part="17" lemma="гость" part-of-speech="Nb" morphology="-p---mg--i" head-id="3415024" relation="obj" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415026" form="людеи" citation-part="17" lemma="людие" part-of-speech="Nb" morphology="-p---mg--i" head-id="3415025" relation="apos" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415027" form="бѣлых" citation-part="17" lemma="бѣлыи" part-of-speech="A-" morphology="-p---mgpwi" head-id="3415026" relation="atr" presentation-after=". " foreign-ids="folio=382r"/>
+        <token id="3415028" form="занже" citation-part="17" lemma="занеже" part-of-speech="G-" morphology="---------n" head-id="3415024" relation="adv" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415029" form="их" citation-part="17" lemma="и" part-of-speech="Pp" morphology="3p---mg--i" head-id="3415030" relation="atr" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415030" form="люди" citation-part="17" lemma="людие" part-of-speech="Nb" morphology="-p---mn--i" head-id="3415033" relation="sub" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415031" form="черны" citation-part="17" lemma="чьрныи" part-of-speech="A-" morphology="-p---mnpsi" head-id="3415033" relation="xobj" presentation-after=" " foreign-ids="folio=382r">
+          <slash target-id="3415030" relation="xsub"/>
+        </token>
+        <token id="3415032" form="велми" citation-part="17" lemma="вельми" part-of-speech="Df" morphology="---------n" head-id="3415031" relation="adv" presentation-after=". " foreign-ids="folio=382r"/>
+        <token id="3415033" empty-token-sort="V" head-id="3415028" relation="pred"/>
+      </sentence>
+      <sentence id="281003" status="annotated">
+        <token id="3415034" form="а" citation-part="17" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3415040" relation="aux" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415035" form="ѹ" citation-part="17" lemma="у" part-of-speech="R-" morphology="---------n" head-id="3415040" relation="adv" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415036" form="которые" citation-part="17" lemma="которыи" part-of-speech="Px" morphology="-s---fg--i" head-id="3415037" relation="atr" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415037" form="жены" citation-part="17" lemma="жена" part-of-speech="Nb" morphology="-s---fg--i" head-id="3415035" relation="obl" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415038" form="ѿ" citation-part="17" lemma="отъ" part-of-speech="R-" morphology="---------n" head-id="3415040" relation="adv" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415039" form="гостѧ" citation-part="17" lemma="гость" part-of-speech="Nb" morphology="-s---mg--i" head-id="3415038" relation="obl" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415040" form="зачнет" citation-part="17" lemma="зачати" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415041" form="сѧ" citation-part="17" lemma="себе" part-of-speech="Pk" morphology="3s---qa--i" head-id="3415040" relation="aux" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415042" form="дитѧ" citation-part="17" lemma="дѣтя" part-of-speech="Nb" morphology="-s---nn--i" head-id="3415040" relation="sub" presentation-after=". " foreign-ids="folio=382r"/>
+      </sentence>
+      <sentence id="281004" status="annotated">
+        <token id="3415043" form="и" citation-part="17" lemma="и" part-of-speech="C-" morphology="---------n" head-id="3415045" relation="aux" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415044" form="мѹжь" citation-part="17" lemma="мужь" part-of-speech="Nb" morphology="-s---mn--i" head-id="3415045" relation="sub" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415045" form="даеть" citation-part="17" lemma="даяти" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415046" form="алафꙋ" citation-part="17" lemma="алафа" part-of-speech="Nb" morphology="-s---fa--i" head-id="3415045" relation="obj" presentation-after=". " foreign-ids="folio=382r"/>
+      </sentence>
+      <sentence id="281005" status="annotated">
+        <token id="3415047" form="а" citation-part="17" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3415048" relation="aux" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415048" form="родит" citation-part="17" lemma="родити" part-of-speech="V-" morphology="3spia----i" head-id="3415051" relation="apos" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415049" form="сѧ" citation-part="17" lemma="себе" part-of-speech="Pk" morphology="3s---qa--i" head-id="3415048" relation="aux" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415050" form="бело" citation-part="17" lemma="бѣлыи" part-of-speech="A-" morphology="-s---nnpsi" head-id="3415048" relation="xadv" presentation-after=" " foreign-ids="folio=382r">
+          <slash target-id="3415048" relation="xsub"/>
+        </token>
+        <token id="3415051" form="ино" citation-part="17" lemma="ино" part-of-speech="Df" morphology="---------n" head-id="3415056" relation="adv" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415052" form="гостю" citation-part="17" lemma="гость" part-of-speech="Nb" morphology="-s---md--i" head-id="3415056" relation="sub" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415053" form="пошлины" citation-part="17" lemma="пошьлина" part-of-speech="Nb" morphology="-s---fg--i" head-id="3415055" relation="part" presentation-after=" " foreign-ids="folio=382r"/>
+        <token id="3415054" form="иі҃" citation-part="17" lemma="трисъта" part-of-speech="Ma" morphology="---------n" head-id="3415056" relation="obj" presentation-before="." presentation-after=". " foreign-ids="folio=382r"/>
+        <token id="3415055" form="тенекъ" citation-part="17" lemma="тенька" part-of-speech="Nb" morphology="-p---fg--i" head-id="3415054" relation="part" presentation-after=". " foreign-ids="folio=382r"/>
+        <token id="3415056" empty-token-sort="V" relation="pred"/>
+      </sentence>
+      <sentence id="281006" status="annotated">
+        <token id="3415057" form="а" citation-part="17" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3415063" relation="aux" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415058" form="черно" citation-part="17" lemma="чьрныи" part-of-speech="A-" morphology="-s---nnpsi" head-id="3415059" relation="xadv" presentation-after=" " foreign-ids="folio=382v">
+          <slash target-id="3415059" relation="xsub"/>
+        </token>
+        <token id="3415059" form="родит" citation-part="17" lemma="родити" part-of-speech="V-" morphology="3spia----i" head-id="3415061" relation="apos" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415060" form="сѧ" citation-part="17" lemma="себе" part-of-speech="Pk" morphology="3s---qa--i" head-id="3415059" relation="aux" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415061" form="ино" citation-part="17" lemma="ино" part-of-speech="Df" morphology="---------n" head-id="3415063" relation="adv" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415062" form="емѹ" citation-part="17" lemma="и" part-of-speech="Pp" morphology="3s---md--i" head-id="3415063" relation="obl" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415063" form="нѣтъ" citation-part="17" lemma="нѣту" part-of-speech="V-" morphology="---------n" relation="pred" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415064" form="ничево" citation-part="17" lemma="ничьто" part-of-speech="Px" morphology="-s---ng--i" head-id="3415063" relation="sub" presentation-after=". " foreign-ids="folio=382v"/>
+      </sentence>
+      <sentence id="281007" status="annotated">
+        <token id="3415065" form="что" citation-part="17" lemma="чьто" part-of-speech="Pr" morphology="-s---na--i" head-id="3415066" relation="obj" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415066" form="пил" citation-part="17" lemma="пити" part-of-speech="V-" morphology="-sspamn-si" head-id="3415067" relation="apos" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415067" form="да" citation-part="17" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3415069" relation="apos" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415068" form="ѣлъ" citation-part="17" lemma="ѣсти" part-of-speech="V-" morphology="-sspamn-si" head-id="3415067" relation="apos" presentation-after=" " foreign-ids="folio=382v">
+          <slash target-id="3415065" relation="obj"/>
+        </token>
+        <token id="3415069" form="то" citation-part="17" lemma="тыи" part-of-speech="Pd" morphology="-s---nn--i" head-id="3415072" relation="sub" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415070" form="емѹ" citation-part="17" lemma="и" part-of-speech="Pp" morphology="3s---md--i" head-id="3415072" relation="adv" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415071" form="халѧлъ" citation-part="17" lemma="халялъ" part-of-speech="Nb" morphology="-s---mn--i" head-id="3415072" relation="xobj" presentation-after=". " foreign-ids="folio=382v">
+          <slash target-id="3415069" relation="xsub"/>
+        </token>
+        <token id="3415072" empty-token-sort="V" relation="pred"/>
+      </sentence>
+    </div>
     <div id="8368">
       <title>18</title>
+      <sentence id="281008" status="annotated">
+        <token id="3415073" form="шаибатъ" citation-part="18" lemma="шаибатъ" part-of-speech="Ne" morphology="-s---mn--i" head-id="3415079" relation="sub" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415074" form="же" citation-part="18" lemma="же" part-of-speech="Df" morphology="---------n" head-id="3415079" relation="aux" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415075" form="ѿ" citation-part="18" lemma="отъ" part-of-speech="R-" morphology="---------n" head-id="3415079" relation="obl" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415076" form="бедерѧ" citation-part="18" lemma="бедерь" part-of-speech="Ne" morphology="-s---mg--i" head-id="3415075" relation="obl" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415077" form="г҃" citation-part="18" lemma="трие" part-of-speech="Ma" morphology="---------n" head-id="3415078" relation="atr" presentation-before="." presentation-after=". " foreign-ids="folio=382v"/>
+        <token id="3415078" form="мсци" citation-part="18" lemma="мѣсяць" part-of-speech="Nb" morphology="-p---ma--i" head-id="3415079" relation="adv" presentation-after=". " foreign-ids="folio=382v"/>
+        <token id="3415079" empty-token-sort="V" relation="pred"/>
+      </sentence>
+      <sentence id="281009" status="annotated">
+        <token id="3415080" form="а" citation-part="18" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3415088" relation="aux" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415081" form="ѿ" citation-part="18" lemma="отъ" part-of-speech="R-" morphology="---------n" head-id="3415088" relation="obl" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415082" form="дабылѧ" citation-part="18" lemma="дабыль" part-of-speech="Ne" morphology="-s---mg--i" head-id="3415081" relation="obl" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415083" form="до" citation-part="18" lemma="до" part-of-speech="R-" morphology="---------n" head-id="3415088" relation="obl" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415084" form="шаибата" citation-part="18" lemma="шаибатъ" part-of-speech="Ne" morphology="-s---mg--i" head-id="3415083" relation="obl" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415085" form="в҃" citation-part="18" lemma="дъва" part-of-speech="Ma" morphology="---------n" head-id="3415086" relation="atr" presentation-before="." presentation-after=". " foreign-ids="folio=382v"/>
+        <token id="3415086" form="мсца" citation-part="18" lemma="мѣсяць" part-of-speech="Nb" morphology="-d---ma--i" head-id="3415088" relation="adv" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415087" form="моремъ" citation-part="18" lemma="море" part-of-speech="Nb" morphology="-s---ni--i" head-id="3415088" relation="adv" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415088" form="итьти" citation-part="18" lemma="ити" part-of-speech="V-" morphology="--pna----i" relation="pred" presentation-after=". " foreign-ids="folio=382v"/>
+      </sentence>
+      <sentence id="281010" status="annotated">
+        <token id="3415089" form="мачимъ" citation-part="18" lemma="мачинъ" part-of-speech="Ne" morphology="-s---ma--i" head-id="3415090" relation="obl" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415090" form="да" citation-part="18" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3415097" relation="obl" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415091" form="чимъ" citation-part="18" lemma="чинь" part-of-speech="Ne" morphology="-s---ma--i" head-id="3415090" relation="obl" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415092" form="ѿ" citation-part="18" lemma="отъ" part-of-speech="R-" morphology="---------n" head-id="3415097" relation="obl" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415093" form="бедерѧ" citation-part="18" lemma="бедерь" part-of-speech="Ne" morphology="-s---mg--i" head-id="3415092" relation="obl" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415094" form="д҃" citation-part="18" lemma="четыре" part-of-speech="Ma" morphology="---------n" head-id="3415097" relation="adv" presentation-before="." presentation-after=". " foreign-ids="folio=382v"/>
+        <token id="3415095" form="мсца" citation-part="18" lemma="мѣсяць" part-of-speech="Nb" morphology="-s---mg--i" head-id="3415094" relation="part" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415096" form="моремъ" citation-part="18" lemma="море" part-of-speech="Nb" morphology="-s---ni--i" head-id="3415097" relation="adv" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415097" form="итьти" citation-part="18" lemma="ити" part-of-speech="V-" morphology="--pna----i" relation="pred" presentation-after=". " foreign-ids="folio=382v"/>
+      </sentence>
+      <sentence id="281011" status="annotated">
+        <token id="3415098" form="а" citation-part="18" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3415101" relation="aux" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415099" form="там꙽" citation-part="18" lemma="тамъ" part-of-speech="Df" morphology="---------n" head-id="3415101" relation="adv" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415100" form="же" citation-part="18" lemma="же" part-of-speech="Df" morphology="---------n" head-id="3415101" relation="aux" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415101" form="дѣлають" citation-part="18" lemma="дѣлати" part-of-speech="V-" morphology="3ppia----i" relation="pred" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415102" form="чими" citation-part="18" lemma="чини" part-of-speech="Nb" morphology="---------n" head-id="3415101" relation="obj" presentation-after=". " foreign-ids="folio=382v"/>
+      </sentence>
+      <sentence id="281012" status="annotated">
+        <token id="3415103" form="да" citation-part="18" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3415106" relation="aux" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415104" form="все" citation-part="18" lemma="вьсь" part-of-speech="Px" morphology="-s---nn--i" head-id="3415106" relation="sub" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415105" form="дешево" citation-part="18" lemma="дешевыи" part-of-speech="A-" morphology="-s---nnpsi" head-id="3415106" relation="xobj" presentation-after=". " foreign-ids="folio=382v">
+          <slash target-id="3415104" relation="xsub"/>
+        </token>
+        <token id="3415106" empty-token-sort="V" relation="pred"/>
+      </sentence>
+      <sentence id="281013" status="annotated">
+        <token id="3415107" form="а" citation-part="18" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3415113" relation="aux" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415108" form="до" citation-part="18" lemma="до" part-of-speech="R-" morphology="---------n" head-id="3415113" relation="obl" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415109" form="силѧна" citation-part="18" lemma="силянъ" part-of-speech="Ne" morphology="-s---mg--i" head-id="3415108" relation="obl" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415110" form="в҃" citation-part="18" lemma="дъва" part-of-speech="Ma" morphology="---------n" head-id="3415111" relation="atr" presentation-before="." presentation-after=". " foreign-ids="folio=382v"/>
+        <token id="3415111" form="мсца" citation-part="18" lemma="мѣсяць" part-of-speech="Nb" morphology="-d---ma--i" head-id="3415113" relation="adv" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415112" form="моремъ" citation-part="18" lemma="море" part-of-speech="Nb" morphology="-s---ni--i" head-id="3415113" relation="adv" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415113" form="итьти" citation-part="18" lemma="ити" part-of-speech="V-" morphology="--pna----i" relation="pred" presentation-after=". " foreign-ids="folio=382v"/>
+      </sentence>
+      <sentence id="281014" status="annotated">
+        <token id="3415114" form="в" citation-part="18" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3415117" relation="adv" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415115" form="шабаите" citation-part="18" lemma="шаибатъ" part-of-speech="Ne" morphology="-s---ml--i" head-id="3415114" relation="obl" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415116" form="же" citation-part="18" lemma="же" part-of-speech="Df" morphology="---------n" head-id="3415117" relation="aux" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415117" form="родит" citation-part="18" lemma="родити" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415118" form="сѧ" citation-part="18" lemma="себе" part-of-speech="Pk" morphology="3s---qa--i" head-id="3415117" relation="aux" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415119" form="шелкъ" citation-part="18" lemma="шелкъ" part-of-speech="Nb" morphology="-s---mn--i" head-id="3415120" relation="sub" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415120" form="да" citation-part="18" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3415117" relation="sub" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415121" form="инчи" citation-part="18" lemma="инчи" part-of-speech="Nb" morphology="---------n" head-id="3415120" relation="sub" presentation-after=". " foreign-ids="folio=382v"/>
+        <token id="3415122" form="да" citation-part="18" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3415120" relation="aux" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415123" form="жемчюгъ" citation-part="18" lemma="жемчугъ" part-of-speech="Nb" morphology="-s---mn--i" head-id="3415120" relation="sub" presentation-after=". " foreign-ids="folio=382v"/>
+        <token id="3415124" form="да" citation-part="18" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3415120" relation="aux" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415125" form="сандалъ" citation-part="18" lemma="сандалъ" part-of-speech="Nb" morphology="-s---mn--i" head-id="3415120" relation="sub" presentation-after=". " foreign-ids="folio=382v"/>
+      </sentence>
+      <sentence id="281015" status="annotated">
+        <token id="3415126" form="слоны" citation-part="18" lemma="слонъ" part-of-speech="Nb" morphology="-p---ma--i" head-id="3415127" relation="obj" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415127" form="продають" citation-part="18" lemma="продаяти" part-of-speech="V-" morphology="3ppia----i" relation="pred" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415128" form="в" citation-part="18" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3415127" relation="adv" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415129" form="локот" citation-part="18" lemma="локъть" part-of-speech="Nb" morphology="-s---ma--i" head-id="3415128" relation="obl" presentation-after=". " foreign-ids="folio=382v"/>
+      </sentence>
+      <sentence id="281016" status="annotated">
+        <token id="3415130" form="в" citation-part="18" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3415133" relation="adv" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415131" form="силѧне" citation-part="18" lemma="силянъ" part-of-speech="Ne" morphology="-s---ml--i" head-id="3415130" relation="obl" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415132" form="же" citation-part="18" lemma="же" part-of-speech="Df" morphology="---------n" head-id="3415133" relation="aux" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415133" form="родит" citation-part="18" lemma="родити" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415134" form="сѧ" citation-part="18" lemma="себе" part-of-speech="Pk" morphology="3s---qa--i" head-id="3415133" relation="aux" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415135" form="ам꙽моны" citation-part="18" lemma="аммонъ" part-of-speech="Nb" morphology="-p---mn--i" head-id="3415136" relation="sub" presentation-after=". " foreign-ids="folio=382v"/>
+        <token id="3415136" form="да" citation-part="18" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3415133" relation="sub" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415137" form="чрьвци" citation-part="18" lemma="чьрвьць" part-of-speech="Nb" morphology="-p---mn--i" head-id="3415136" relation="sub" presentation-after=". " foreign-ids="folio=382v"/>
+        <token id="3415138" form="да" citation-part="18" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3415136" relation="aux" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415139" form="фатисы" citation-part="18" lemma="фатисы" part-of-speech="Nb" morphology="-p---pn--i" head-id="3415136" relation="sub" presentation-after=". " foreign-ids="folio=382v"/>
+      </sentence>
+      <sentence id="281017" status="annotated">
+        <token id="3415140" form="в" citation-part="18" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3415143" relation="adv" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415141" form="лекоте" citation-part="18" lemma="келекотъ" part-of-speech="Ne" morphology="-s---ml--i" head-id="3415140" relation="obl" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415142" form="же" citation-part="18" lemma="же" part-of-speech="Df" morphology="---------n" head-id="3415143" relation="aux" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415143" form="родит" citation-part="18" lemma="родити" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415144" form="сѧ" citation-part="18" lemma="себе" part-of-speech="Pk" morphology="3s---qa--i" head-id="3415143" relation="aux" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415145" form="перець" citation-part="18" lemma="пьрьць" part-of-speech="Nb" morphology="-s---mn--i" head-id="3415146" relation="sub" presentation-after=". " foreign-ids="folio=382v"/>
+        <token id="3415146" form="да" citation-part="18" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3415143" relation="sub" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415147" form="мошкат" citation-part="18" lemma="мошкатъ" part-of-speech="Ne" morphology="-s---mn--i" head-id="3415146" relation="sub" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415148" form="да" citation-part="18" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3415146" relation="aux" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415149" form="гвоздникы" citation-part="18" lemma="гвоздьникы" part-of-speech="Nb" morphology="-p---mn--i" head-id="3415146" relation="sub" presentation-after=". " foreign-ids="folio=382v"/>
+        <token id="3415150" form="да" citation-part="18" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3415146" relation="aux" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415151" form="фѹфалъ" citation-part="18" lemma="фуфалъ" part-of-speech="Nb" morphology="-s---mn--i" head-id="3415146" relation="sub" presentation-after=". " foreign-ids="folio=382v"/>
+        <token id="3415152" form="да" citation-part="18" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3415146" relation="aux" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415153" form="цвѣт" citation-part="18" lemma="цвѣтъ" part-of-speech="Nb" morphology="-s---mn--i" head-id="3415146" relation="sub" presentation-after=". " foreign-ids="folio=382v"/>
+      </sentence>
+      <sentence id="281018" status="annotated">
+        <token id="3415154" form="в" citation-part="18" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3415157" relation="adv" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415155" form="кѹзрѧте" citation-part="18" lemma="кузратъ" part-of-speech="Ne" morphology="-s---ml--i" head-id="3415154" relation="obl" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415156" form="же" citation-part="18" lemma="же" part-of-speech="Df" morphology="---------n" head-id="3415157" relation="aux" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415157" form="родит" citation-part="18" lemma="родити" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415158" form="сѧ" citation-part="18" lemma="себе" part-of-speech="Pk" morphology="3s---qa--i" head-id="3415157" relation="aux" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415159" form="краска" citation-part="18" lemma="красъка" part-of-speech="Nb" morphology="-s---fn--i" head-id="3415160" relation="sub" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415160" form="да" citation-part="18" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3415157" relation="sub" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415161" form="люкъ" citation-part="18" lemma="люкъ" part-of-speech="Nb" morphology="-s---mn--i" head-id="3415160" relation="sub" presentation-after=" " foreign-ids="folio=382v"/>
+      </sentence>
+      <sentence id="281019" status="annotated">
+        <token id="3415162" form="да" citation-part="18" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3415165" relation="aux" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415163" form="в" citation-part="18" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3415165" relation="adv" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415164" form="кам꙽батѣ" citation-part="18" lemma="камбатъ" part-of-speech="Ne" morphology="-s---ml--i" head-id="3415163" relation="obl" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415165" form="родит" citation-part="18" lemma="родити" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415166" form="сѧ" citation-part="18" lemma="себе" part-of-speech="Pk" morphology="3s---qa--i" head-id="3415165" relation="aux" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415167" form="ахикъ" citation-part="18" lemma="ахикъ" part-of-speech="Nb" morphology="-s---mn--i" head-id="3415165" relation="sub" presentation-after=". " foreign-ids="folio=382v"/>
+      </sentence>
+      <sentence id="281020" status="annotated">
+        <token id="3415168" form="в" citation-part="18" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3415171" relation="adv" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415169" form="рачюре" citation-part="18" lemma="рачуръ" part-of-speech="Nb" morphology="-s---ml--i" head-id="3415168" relation="obl" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415170" form="же" citation-part="18" lemma="же" part-of-speech="Df" morphology="---------n" head-id="3415171" relation="aux" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415171" form="родит" citation-part="18" lemma="родити" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415172" form="сѧ" citation-part="18" lemma="себе" part-of-speech="Pk" morphology="3s---qa--i" head-id="3415171" relation="aux" presentation-after=". " foreign-ids="folio=382v"/>
+        <token id="3415173" form="алмазъ" citation-part="18" lemma="алмазъ" part-of-speech="Nb" morphology="-s---mn--i" head-id="3415176" relation="sub" presentation-after=". " foreign-ids="folio=382v"/>
+        <token id="3415174" form="бир꙽" citation-part="18" lemma="биръ" part-of-speech="F-" morphology="---------n" head-id="3415173" relation="apos" foreign-ids="folio=382v"/>
+        <token id="3415175" form="кона" citation-part="18" lemma="конъ" part-of-speech="Nb" morphology="-s---mg--i" head-id="3415174" relation="apos" presentation-after=". "/>
+        <token id="3415176" form="да" citation-part="18" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3415171" relation="sub" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415177" form="новъ" citation-part="18" lemma="новыи" part-of-speech="A-" morphology="-s---mapsi" head-id="3415179" relation="apos" presentation-after=". " foreign-ids="folio=382v"/>
+        <token id="3415178" form="кона" citation-part="18" lemma="конъ" part-of-speech="Nb" morphology="-s---mg--i" head-id="3415177" relation="apos" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415179" form="алмазъ" citation-part="18" lemma="алмазъ" part-of-speech="Nb" morphology="-s---mn--i" head-id="3415176" relation="sub" presentation-after=". " foreign-ids="folio=382v"/>
+      </sentence>
+      <sentence id="281021" status="annotated">
+        <token id="3415180" form="продають" citation-part="18" lemma="продаяти" part-of-speech="V-" morphology="3ppia----i" relation="pred" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415181" form="посыкꙋ" citation-part="18" lemma="почька" part-of-speech="Nb" morphology="-s---fa--i" head-id="3415180" relation="obj" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415182" form="по" citation-part="18" lemma="по" part-of-speech="R-" morphology="---------n" head-id="3415180" relation="adv" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415183" form="пѧти" citation-part="18" lemma="пять" part-of-speech="Ma" morphology="-s---fd--i" head-id="3415182" relation="obl" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415184" form="рѹблевъ" citation-part="18" lemma="рубль" part-of-speech="Nb" morphology="-p---mg--i" head-id="3415183" relation="part" presentation-after=". " foreign-ids="folio=382v"/>
+      </sentence>
+      <sentence id="281022" status="annotated">
+        <token id="3415185" form="а" citation-part="18" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3415190" relation="aux" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415186" form="доброго" citation-part="18" lemma="добрыи" part-of-speech="A-" morphology="-s---mgpwi" head-id="3415190" relation="obj" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415187" form="по" citation-part="18" lemma="по" part-of-speech="R-" morphology="---------n" head-id="3415190" relation="adv" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415188" form="десѧти" citation-part="18" lemma="десять" part-of-speech="Ma" morphology="-s---fd--i" head-id="3415187" relation="obl" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415189" form="рѹблевъ" citation-part="18" lemma="рубль" part-of-speech="Nb" morphology="-p---mg--i" head-id="3415188" relation="part" presentation-after=". " foreign-ids="folio=382v"/>
+        <token id="3415190" empty-token-sort="V" relation="pred"/>
+      </sentence>
+      <sentence id="281023" status="annotated">
+        <token id="3415191" form="новаго" citation-part="18" lemma="новыи" part-of-speech="A-" morphology="-s---mgpwi" head-id="3415194" relation="atr" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415192" form="же" citation-part="18" lemma="же" part-of-speech="Df" morphology="---------n" head-id="3415197" relation="aux" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415193" form="почка" citation-part="18" lemma="почька" part-of-speech="Nb" morphology="-s---fn--i" head-id="3415197" relation="sub" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415194" form="алмазꙋ" citation-part="18" lemma="алмазъ" part-of-speech="Nb" morphology="-s---mg--i" head-id="3415193" relation="atr" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415195" form="пѣнечь че" citation-part="18" lemma="пѣнечьче" part-of-speech="F-" morphology="---------n" relation="voc" foreign-ids="folio=382v"/>
+        <token id="3415196" form="кени" citation-part="18" lemma="кени" part-of-speech="F-" morphology="---------n" relation="voc" presentation-after=". "/>
+        <token id="3415197" empty-token-sort="V" relation="pred"/>
+      </sentence>
+      <sentence id="281024" status="annotated">
+        <token id="3415198" form="сїѧ" citation-part="18" lemma="сия" part-of-speech="F-" morphology="---------n" relation="voc" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415199" form="же" citation-part="18" lemma="же" part-of-speech="Df" morphology="---------n" head-id="3415203" relation="aux" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415200" form="чар" citation-part="18" lemma="чаръ" part-of-speech="F-" morphology="---------n" relation="voc" foreign-ids="folio=382v"/>
+        <token id="3415201" form="шеш꙽" citation-part="18" lemma="шешь" part-of-speech="F-" morphology="---------n" relation="voc"/>
+        <token id="3415202" form="кени" citation-part="18" lemma="кени" part-of-speech="F-" morphology="---------n" relation="voc" presentation-after=". "/>
+        <token id="3415203" empty-token-sort="V" relation="pred"/>
+      </sentence>
+      <sentence id="281025" status="annotated">
+        <token id="3415204" form="а" citation-part="18" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3415208" relation="aux" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415205" form="сипитъ" citation-part="18" lemma="сипитъ" part-of-speech="F-" morphology="---------n" relation="voc" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415206" form="екъ" citation-part="18" lemma="екъ" part-of-speech="F-" morphology="---------n" relation="voc" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415207" form="тенка" citation-part="18" lemma="тенька" part-of-speech="Nb" morphology="-s---fn--i" head-id="3415208" relation="sub" presentation-after=". " foreign-ids="folio=382v"/>
+        <token id="3415208" empty-token-sort="V" relation="pred"/>
+      </sentence>
+      <sentence id="281026" status="annotated">
+        <token id="3415209" form="алмазъ" citation-part="18" lemma="алмазъ" part-of-speech="Nb" morphology="-s---mn--i" head-id="3415211" relation="sub" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415210" form="же" citation-part="18" lemma="же" part-of-speech="Df" morphology="---------n" head-id="3415211" relation="aux" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415211" form="родит" citation-part="18" lemma="родити" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415212" form="сѧ" citation-part="18" lemma="себе" part-of-speech="Pk" morphology="3s---qa--i" head-id="3415211" relation="aux" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415213" form="в" citation-part="18" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3415211" relation="adv" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415214" form="горѣ" citation-part="18" lemma="гора" part-of-speech="Nb" morphology="-s---fl--i" head-id="3415213" relation="obl" presentation-after=" " foreign-ids="folio=382v"/>
+        <token id="3415215" form="каменои" citation-part="18" lemma="каменьныи" part-of-speech="A-" morphology="-s---flpwi" head-id="3415214" relation="atr" presentation-after=". " foreign-ids="folio=383r"/>
+      </sentence>
+      <sentence id="281027" status="annotated">
+        <token id="3415216" form="а" citation-part="18" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3415217" relation="aux" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415217" form="продають" citation-part="18" lemma="продаяти" part-of-speech="V-" morphology="3ppia----i" relation="pred" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415218" form="же" citation-part="18" lemma="же" part-of-speech="Df" morphology="---------n" head-id="3415217" relation="aux" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415219" form="тѹю" citation-part="18" lemma="тыи" part-of-speech="Pd" morphology="-s---fa--i" head-id="3415220" relation="atr" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415220" form="горꙋ" citation-part="18" lemma="гора" part-of-speech="Nb" morphology="-s---fa--i" head-id="3415217" relation="obj" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415221" form="каменѹю" citation-part="18" lemma="каменьныи" part-of-speech="A-" morphology="-s---fapwi" head-id="3415220" relation="atr" presentation-after=". " foreign-ids="folio=383r"/>
+      </sentence>
+      <sentence id="281028" status="annotated">
+        <token id="3415222" form="по" citation-part="18" lemma="по" part-of-speech="R-" morphology="---------n" head-id="3415229" relation="adv" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415223" form="двѣ" citation-part="18" lemma="дъва" part-of-speech="Ma" morphology="-d---fa--i" head-id="3415224" relation="atr" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415224" form="тысѧчи" citation-part="18" lemma="тысяча" part-of-speech="Ma" morphology="-d---fa--i" head-id="3415222" relation="obl" presentation-after=". " foreign-ids="folio=383r"/>
+        <token id="3415225" form="фѹнтовъ" citation-part="18" lemma="фунтъ" part-of-speech="Nb" morphology="-p---mg--i" head-id="3415224" relation="part" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415226" form="золотых" citation-part="18" lemma="золотыи" part-of-speech="A-" morphology="-p---mgpwi" head-id="3415225" relation="atr" presentation-after=". " foreign-ids="folio=383r"/>
+        <token id="3415227" form="новаго" citation-part="18" lemma="новыи" part-of-speech="A-" morphology="-s---mgpwi" head-id="3415228" relation="atr" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415228" form="алмазꙋ" citation-part="18" lemma="алмазъ" part-of-speech="Nb" morphology="-s---mg--i" head-id="3415229" relation="obj" presentation-after=". " foreign-ids="folio=383r"/>
+        <token id="3415229" empty-token-sort="V" relation="pred"/>
+      </sentence>
+      <sentence id="281029" status="annotated">
+        <token id="3415230" form="а" citation-part="18" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3415233" relation="aux" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415231" form="кона" citation-part="18" lemma="конъ" part-of-speech="Nb" morphology="-s---mg--i" head-id="3415232" relation="apos" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415232" form="алмазꙋ" citation-part="18" lemma="алмазъ" part-of-speech="Nb" morphology="-s---mg--i" head-id="3415233" relation="obj" presentation-after=". " foreign-ids="folio=383r"/>
+        <token id="3415233" form="продають" citation-part="18" lemma="продаяти" part-of-speech="V-" morphology="3ppia----i" relation="pred" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415234" form="в" citation-part="18" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3415233" relation="adv" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415235" form="локот" citation-part="18" lemma="локъть" part-of-speech="Nb" morphology="-s---ma--i" head-id="3415234" relation="obl" presentation-after=". " foreign-ids="folio=383r"/>
+        <token id="3415236" form="по" citation-part="18" lemma="по" part-of-speech="R-" morphology="---------n" head-id="3415233" relation="adv" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415237" form="і҃" citation-part="18" lemma="десять" part-of-speech="Ma" morphology="---------n" head-id="3415236" relation="obl" presentation-before="." presentation-after=". " foreign-ids="folio=383r"/>
+        <token id="3415238" form="тысѧчь" citation-part="18" lemma="тысяча" part-of-speech="Ma" morphology="-p---fg--i" head-id="3415237" relation="part" presentation-after=". " foreign-ids="folio=383r"/>
+        <token id="3415239" form="фѹнтовъ" citation-part="18" lemma="фунтъ" part-of-speech="Nb" morphology="-p---mg--i" head-id="3415238" relation="part" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415240" form="золотых" citation-part="18" lemma="золотыи" part-of-speech="A-" morphology="-p---mgpwi" head-id="3415239" relation="atr" presentation-after=". " foreign-ids="folio=383r"/>
+      </sentence>
+      <sentence id="281030" status="annotated">
+        <token id="3415241" form="а" citation-part="18" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3415246" relation="aux" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415242" form="землѧ" citation-part="18" lemma="земля" part-of-speech="Nb" morphology="-s---fn--i" head-id="3415246" relation="sub" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415243" form="же" citation-part="18" lemma="же" part-of-speech="Df" morphology="---------n" head-id="3415246" relation="aux" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415244" form="тоѧ" citation-part="18" lemma="тыи" part-of-speech="Pd" morphology="-s---fn--i" head-id="3415242" relation="atr" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415245" form="меликханова" citation-part="18" lemma="меликъхановъ" part-of-speech="A-" morphology="-s---fnpsi" head-id="3415246" relation="xobj" presentation-after=". " foreign-ids="folio=383r">
+          <slash target-id="3415242" relation="xsub"/>
+        </token>
+        <token id="3415246" empty-token-sort="V" relation="pred"/>
+      </sentence>
+      <sentence id="281031" status="annotated">
+        <token id="3415247" form="а" citation-part="18" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3415250" relation="aux" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415248" form="холопъ" citation-part="18" lemma="холопъ" part-of-speech="Nb" morphology="-s---mn--i" head-id="3415250" relation="sub" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415249" form="салтановъ" citation-part="18" lemma="салтановъ" part-of-speech="A-" morphology="-s---mnpsi" head-id="3415250" relation="xobj" presentation-after=". " foreign-ids="folio=383r">
+          <slash target-id="3415248" relation="xsub"/>
+        </token>
+        <token id="3415250" empty-token-sort="V" relation="pred"/>
+      </sentence>
+      <sentence id="281032" status="annotated">
+        <token id="3415251" form="а" citation-part="18" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3415256" relation="aux" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415252" form="ѿ" citation-part="18" lemma="отъ" part-of-speech="R-" morphology="---------n" head-id="3415256" relation="adv" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415253" form="бедерѧ" citation-part="18" lemma="бедерь" part-of-speech="Ne" morphology="-s---mg--i" head-id="3415252" relation="obl" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415254" form="л҃" citation-part="18" lemma="тридесяте" part-of-speech="Ma" morphology="---------n" head-id="3415256" relation="sub" presentation-before="." presentation-after=". " foreign-ids="folio=383r"/>
+        <token id="3415255" form="кововъ" citation-part="18" lemma="ковъ" part-of-speech="Nb" morphology="-p---mg--i" head-id="3415254" relation="part" presentation-after=". " foreign-ids="folio=383r"/>
+        <token id="3415256" empty-token-sort="V" relation="pred"/>
+      </sentence>
+      <sentence id="281034" status="annotated">
+        <token id="3415267" form="а" citation-part="18" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3415276" relation="aux" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415268" form="шабаите" citation-part="18" lemma="шабаитинъ" part-of-speech="Nb" morphology="-p---mn--i" head-id="3415276" relation="sub" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415269" form="не" citation-part="18" lemma="не" part-of-speech="Df" morphology="---------n" head-id="3415276" relation="aux" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415270" form="ни" citation-part="18" lemma="ни" part-of-speech="C-" morphology="---------n" head-id="3415272" relation="aux" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415271" form="жидове" citation-part="18" lemma="жидовинъ" part-of-speech="Nb" morphology="-p---mn--i" head-id="3415272" relation="xobj" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415272" form="ни" citation-part="18" lemma="ни" part-of-speech="C-" morphology="---------n" head-id="3415276" relation="xobj" presentation-after=" " foreign-ids="folio=383r">
+          <slash target-id="3415268" relation="xsub"/>
+        </token>
+        <token id="3415273" form="бесермена" citation-part="18" lemma="бесерменинъ" part-of-speech="Nb" morphology="-p---mn--i" head-id="3415272" relation="xobj" presentation-after=". " foreign-ids="folio=383r"/>
+        <token id="3415274" form="ни" citation-part="18" lemma="ни" part-of-speech="C-" morphology="---------n" head-id="3415272" relation="aux" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415275" form="хрстиане" citation-part="18" lemma="хрьстиянинъ" part-of-speech="Nb" morphology="-p---mn--i" head-id="3415272" relation="xobj" presentation-after=". " foreign-ids="folio=383r"/>
+        <token id="3415276" empty-token-sort="V" relation="pred"/>
+      </sentence>
+      <sentence id="281035" status="annotated">
+        <token id="3415277" form="инаа" citation-part="18" lemma="иныи" part-of-speech="Px" morphology="-s---fn--i" head-id="3415280" relation="xobj" presentation-after=" " foreign-ids="folio=383r">
+          <slash target-id="3415278" relation="xsub"/>
+        </token>
+        <token id="3415278" form="вѣра" citation-part="18" lemma="вѣра" part-of-speech="Nb" morphology="-s---fn--i" head-id="3415280" relation="sub" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415279" form="индѣискаа" citation-part="18" lemma="индѣискыи" part-of-speech="A-" morphology="-s---fnpwi" head-id="3415277" relation="apos" presentation-after=". " foreign-ids="folio=383r"/>
+        <token id="3415280" empty-token-sort="V" relation="pred"/>
+      </sentence>
+      <sentence id="281036" status="annotated">
+        <token id="3415281" form="ни" citation-part="18" lemma="ни" part-of-speech="C-" morphology="---------n" head-id="3415284" relation="aux" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415282" form="с" citation-part="18" lemma="съ" part-of-speech="R-" morphology="---------n" head-id="3415284" relation="adv" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415283" form="хѹды" citation-part="18" lemma="худинъ" part-of-speech="Nb" morphology="-p---mi--i" head-id="3415282" relation="obl" presentation-after=". " foreign-ids="folio=383r"/>
+        <token id="3415284" form="ни" citation-part="18" lemma="ни" part-of-speech="C-" morphology="---------n" head-id="3415289" relation="adv" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415285" form="зъ" citation-part="18" lemma="съ" part-of-speech="R-" morphology="---------n" head-id="3415284" relation="adv" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415286" form="бесермены" citation-part="18" lemma="бесерменинъ" part-of-speech="Nb" morphology="-p---mi--i" head-id="3415285" relation="obl" presentation-after=". " foreign-ids="folio=383r"/>
+        <token id="3415287" form="ни" citation-part="18" lemma="ни" part-of-speech="C-" morphology="---------n" head-id="3415289" relation="aux" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415288" form="пїють" citation-part="18" lemma="пити" part-of-speech="V-" morphology="3ppia----i" head-id="3415289" relation="pred" presentation-after=". " foreign-ids="folio=383r"/>
+        <token id="3415289" form="ни" citation-part="18" lemma="ни" part-of-speech="C-" morphology="---------n" relation="pred" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415290" form="ꙗдѧть" citation-part="18" lemma="ясти" part-of-speech="V-" morphology="3ppia----i" head-id="3415289" relation="pred" presentation-after=". " foreign-ids="folio=383r"/>
+      </sentence>
       <sentence id="281037" status="reviewed">
         <token id="3415291" form="а" citation-part="18" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3415295" relation="aux" presentation-after=" " foreign-ids="folio=383r"/>
         <token id="3415292" form="мѧса" citation-part="18" lemma="мясо" part-of-speech="Nb" morphology="-s---ng--i" head-id="3415295" relation="obj" presentation-after=" " foreign-ids="folio=383r"/>
         <token id="3415293" form="никакого" citation-part="18" lemma="никакыи" part-of-speech="Px" morphology="-s---ng--i" head-id="3415292" relation="atr" presentation-after=" " foreign-ids="folio=383r"/>
         <token id="3415294" form="не" citation-part="18" lemma="не" part-of-speech="Df" morphology="---------n" head-id="3415295" relation="aux" presentation-after=" " foreign-ids="folio=383r"/>
         <token id="3415295" form="ꙗдѧть" citation-part="18" lemma="ясти" part-of-speech="V-" morphology="3ppia----i" relation="pred" presentation-after=". " foreign-ids="folio=383r"/>
+      </sentence>
+      <sentence id="281038" status="annotated">
+        <token id="3415296" form="да" citation-part="18" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3415302" relation="aux" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415297" form="в" citation-part="18" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3415302" relation="adv" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415298" form="шабатѣ" citation-part="18" lemma="шаибатъ" part-of-speech="Ne" morphology="-s---ml--i" head-id="3415297" relation="obl" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415299" form="же" citation-part="18" lemma="же" part-of-speech="Df" morphology="---------n" head-id="3415302" relation="aux" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415300" form="все" citation-part="18" lemma="вьсь" part-of-speech="Px" morphology="-s---nn--i" head-id="3415302" relation="sub" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415301" form="дешево" citation-part="18" lemma="дешевыи" part-of-speech="A-" morphology="-s---nnpsi" head-id="3415302" relation="xobj" presentation-after=". " foreign-ids="folio=383r">
+          <slash target-id="3415300" relation="xsub"/>
+        </token>
+        <token id="3415302" empty-token-sort="V" relation="pred"/>
+      </sentence>
+      <sentence id="281039" status="annotated">
+        <token id="3415303" form="а" citation-part="18" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3415304" relation="aux" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415304" form="родит" citation-part="18" lemma="родити" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415305" form="сѧ" citation-part="18" lemma="себе" part-of-speech="Pk" morphology="3s---qa--i" head-id="3415304" relation="aux" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415306" form="шелкъ" citation-part="18" lemma="шелкъ" part-of-speech="Nb" morphology="-s---mn--i" head-id="3415307" relation="sub" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415307" form="да" citation-part="18" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3415304" relation="sub" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415308" form="сахаръ" citation-part="18" lemma="сахаръ" part-of-speech="Nb" morphology="-s---mn--i" head-id="3415307" relation="sub" presentation-after=". " foreign-ids="folio=383r"/>
+      </sentence>
+      <sentence id="281040" status="annotated">
+        <token id="3415309" form="велми" citation-part="18" lemma="вельми" part-of-speech="Df" morphology="---------n" head-id="3415310" relation="adv" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415310" form="дешево" citation-part="18" lemma="дешевыи" part-of-speech="A-" morphology="-s---nnpsi" head-id="3415311" relation="xobj" presentation-after=". " foreign-ids="folio=383r">
+          <slash target-id="3415311" relation="xsub"/>
+        </token>
+        <token id="3415311" empty-token-sort="V" relation="pred"/>
+      </sentence>
+      <sentence id="281041" status="annotated">
+        <token id="3415312" form="да" citation-part="18" lemma="да#2" part-of-speech="Df" morphology="---------n" head-id="3415320" relation="aux" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415313" form="по" citation-part="18" lemma="по" part-of-speech="R-" morphology="---------n" head-id="3415320" relation="adv" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415314" form="лесѹ" citation-part="18" lemma="лѣсъ" part-of-speech="Nb" morphology="-s---md--i" head-id="3415313" relation="obl" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415315" form="ѹ" citation-part="18" lemma="у" part-of-speech="R-" morphology="---------n" head-id="3415320" relation="adv" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415316" form="них" citation-part="18" lemma="и" part-of-speech="Pp" morphology="3p---mg--i" head-id="3415315" relation="obl" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415317" form="мамоны" citation-part="18" lemma="мамона" part-of-speech="Nb" morphology="-p---fn--i" head-id="3415318" relation="sub" presentation-after=". " foreign-ids="folio=383r"/>
+        <token id="3415318" form="да" citation-part="18" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3415320" relation="sub" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415319" form="ѡбезьꙗны" citation-part="18" lemma="обезияна" part-of-speech="Nb" morphology="-p---fn--i" head-id="3415318" relation="sub" presentation-after=". " foreign-ids="folio=383r"/>
+        <token id="3415320" empty-token-sort="V" relation="pred"/>
+      </sentence>
+      <sentence id="281042" status="annotated">
+        <token id="3415321" form="да" citation-part="18" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3415325" relation="aux" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415322" form="по" citation-part="18" lemma="по" part-of-speech="R-" morphology="---------n" head-id="3415325" relation="adv" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415323" form="дорогамъ" citation-part="18" lemma="дорога" part-of-speech="Nb" morphology="-p---fd--i" head-id="3415322" relation="obl" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415324" form="людеи" citation-part="18" lemma="людие" part-of-speech="Nb" morphology="-p---mg--i" head-id="3415325" relation="obj" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415325" form="дерѹт" citation-part="18" lemma="дьрати" part-of-speech="V-" morphology="3ppia----i" relation="pred" presentation-after=". " foreign-ids="folio=383r"/>
+      </sentence>
+      <sentence id="281043" status="annotated">
+        <token id="3415326" form="ино" citation-part="18" lemma="ино" part-of-speech="Df" morphology="---------n" head-id="3415333" relation="aux" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415327" form="ꙋ" citation-part="18" lemma="у" part-of-speech="R-" morphology="---------n" head-id="3415333" relation="adv" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415328" form="нихъ" citation-part="18" lemma="и" part-of-speech="Pp" morphology="3p---mg--i" head-id="3415327" relation="obl" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415329" form="ночи" citation-part="18" lemma="ночь" part-of-speech="Nb" morphology="-s---fl--i" head-id="3415334" relation="adv" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415330" form="по" citation-part="18" lemma="по" part-of-speech="R-" morphology="---------n" head-id="3415334" relation="adv" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415331" form="дорогамъ" citation-part="18" lemma="дорога" part-of-speech="Nb" morphology="-p---fd--i" head-id="3415330" relation="obl" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415332" form="не" citation-part="18" lemma="не" part-of-speech="Df" morphology="---------n" head-id="3415333" relation="aux" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415333" form="смѣють" citation-part="18" lemma="смѣяти" part-of-speech="V-" morphology="3ppia----i" relation="pred" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415334" form="ѣздити" citation-part="18" lemma="ѣздити" part-of-speech="V-" morphology="--pna----i" head-id="3415333" relation="xobj" presentation-after=". " foreign-ids="folio=383r">
+          <slash target-id="3415333" relation="xsub"/>
+        </token>
+        <token id="3415335" form="ѡбезъꙗнъ" citation-part="18" lemma="обезияна" part-of-speech="Nb" morphology="-p---fg--i" head-id="3415336" relation="obl" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415336" form="дѣлѧ" citation-part="18" lemma="дѣля" part-of-speech="R-" morphology="---------n" head-id="3415337" relation="adv" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415337" form="да" citation-part="18" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3415333" relation="adv" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415338" form="момонъ" citation-part="18" lemma="мамона" part-of-speech="Nb" morphology="-p---fg--i" head-id="3415339" relation="obl" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415339" form="дѣлѧ" citation-part="18" lemma="дѣля" part-of-speech="R-" morphology="---------n" head-id="3415337" relation="adv" presentation-after=". " foreign-ids="folio=383r"/>
+      </sentence>
+      <sentence id="281044" status="annotated">
+        <token id="3415340" form="а" citation-part="18" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3415347" relation="aux" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415341" form="ѿ" citation-part="18" lemma="отъ" part-of-speech="R-" morphology="---------n" head-id="3415347" relation="obl" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415342" form="шаибата" citation-part="18" lemma="шаибатъ" part-of-speech="Ne" morphology="-s---mg--i" head-id="3415341" relation="obl" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415343" form="же" citation-part="18" lemma="же" part-of-speech="Df" morphology="---------n" head-id="3415347" relation="aux" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415344" form="і҃" citation-part="18" lemma="десять" part-of-speech="Ma" morphology="---------n" head-id="3415347" relation="adv" presentation-before="." presentation-after=". " foreign-ids="folio=383r"/>
+        <token id="3415345" form="мсць" citation-part="18" lemma="мѣсяць" part-of-speech="Nb" morphology="-p---mg--i" head-id="3415344" relation="part" presentation-after=". " foreign-ids="folio=383r"/>
+        <token id="3415346" form="сѹхомъ" citation-part="18" lemma="сухо" part-of-speech="Nb" morphology="-s---ni--i" head-id="3415347" relation="adv" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415347" form="итьти" citation-part="18" lemma="ити" part-of-speech="V-" morphology="--pna----i" head-id="3415348" relation="pred" presentation-after=". " foreign-ids="folio=383r"/>
+        <token id="3415348" form="а" citation-part="18" lemma="а" part-of-speech="C-" morphology="---------n" relation="pred" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415349" form="моремъ" citation-part="18" lemma="море" part-of-speech="Nb" morphology="-s---ni--i" head-id="3415353" relation="adv" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415350" form="д҃" citation-part="18" lemma="четыре" part-of-speech="Ma" morphology="---------n" head-id="3415353" relation="adv" presentation-before="." presentation-after=". " foreign-ids="folio=383r"/>
+        <token id="3415351" form="мсца" citation-part="18" lemma="мѣсяць" part-of-speech="Nb" morphology="-s---mg--i" head-id="3415350" relation="part" presentation-after=". " foreign-ids="folio=383r"/>
+        <token id="3415352" form="аѹкиковъ" citation-part="18" lemma="аукиковъ" part-of-speech="F-" morphology="---------n" relation="voc" presentation-after=". " foreign-ids="folio=383r"/>
+        <token id="3415353" empty-token-sort="V" head-id="3415348" relation="pred">
+          <slash target-id="3415347" relation="pid"/>
+        </token>
+      </sentence>
+      <sentence id="281045" status="annotated">
+        <token id="3415354" form="а" citation-part="18" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3415357" relation="aux" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415355" form="ѡленеи" citation-part="18" lemma="олень" part-of-speech="Nb" morphology="-p---mg--i" head-id="3415358" relation="atr" presentation-after=". " foreign-ids="folio=383r"/>
+        <token id="3415356" form="ѡкормленых" citation-part="18" lemma="окърмити" part-of-speech="V-" morphology="-puppmg-wi" head-id="3415355" relation="atr" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415357" form="рѣжѹть" citation-part="18" lemma="рѣзати" part-of-speech="V-" morphology="3ppia----i" relation="pred" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415358" form="пꙋпы" citation-part="18" lemma="пупъ" part-of-speech="Nb" morphology="-p---ma--i" head-id="3415357" relation="obj" presentation-after=". " foreign-ids="folio=383r"/>
+      </sentence>
+      <sentence id="281046" status="annotated">
+        <token id="3415359" form="а" citation-part="18" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3415364" relation="aux" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415360" form="пѹпъ" citation-part="18" lemma="пупъ" part-of-speech="Nb" morphology="-s---ma--i" head-id="3415362" relation="apos" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415361" form="в" citation-part="18" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3415364" relation="adv" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415362" form="не" citation-part="18" lemma="и" part-of-speech="Pp" morphology="3s---ml--i" head-id="3415361" relation="obl" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415363" form="мъскѹсъ" citation-part="18" lemma="мускусъ" part-of-speech="Nb" morphology="-s---mn--i" head-id="3415364" relation="sub" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415364" form="родит" citation-part="18" lemma="родити" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415365" form="сѧ" citation-part="18" lemma="себе" part-of-speech="Pk" morphology="3s---qa--i" head-id="3415364" relation="aux" presentation-after=". " foreign-ids="folio=383r"/>
+      </sentence>
+      <sentence id="281047" status="annotated">
+        <token id="3415366" form="а" citation-part="18" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3415372" relation="aux" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415367" form="дикыи" citation-part="18" lemma="дикыи" part-of-speech="A-" morphology="-p---mnpwi" head-id="3415368" relation="atr" presentation-after=" " foreign-ids="folio=383r"/>
+        <token id="3415368" form="ѡленї" citation-part="18" lemma="олень" part-of-speech="Nb" morphology="-p---mn--i" head-id="3415372" relation="sub" presentation-after=" " foreign-ids="folio=383v"/>
+        <token id="3415369" form="пѹпькы" citation-part="18" lemma="пупъкъ" part-of-speech="Nb" morphology="-p---ma--i" head-id="3415372" relation="obj" presentation-after=" " foreign-ids="folio=383v"/>
+        <token id="3415370" form="ис" citation-part="18" lemma="из" part-of-speech="R-" morphology="---------n" head-id="3415372" relation="obl" presentation-after=" " foreign-ids="folio=383v"/>
+        <token id="3415371" form="собѧ" citation-part="18" lemma="себе" part-of-speech="Pk" morphology="3s---mg--i" head-id="3415370" relation="obl" presentation-after=" " foreign-ids="folio=383v"/>
+        <token id="3415372" form="ронѧть" citation-part="18" lemma="ронити" part-of-speech="V-" morphology="3ppia----i" relation="pred" presentation-after=" " foreign-ids="folio=383v"/>
+        <token id="3415373" form="по" citation-part="18" lemma="по" part-of-speech="R-" morphology="---------n" head-id="3415375" relation="adv" presentation-after=" " foreign-ids="folio=383v"/>
+        <token id="3415374" form="полю" citation-part="18" lemma="поле" part-of-speech="Nb" morphology="-s---nd--i" head-id="3415373" relation="obl" presentation-after=" " foreign-ids="folio=383v"/>
+        <token id="3415375" form="и" citation-part="18" lemma="и" part-of-speech="C-" morphology="---------n" head-id="3415372" relation="adv" presentation-after=" " foreign-ids="folio=383v"/>
+        <token id="3415376" form="по" citation-part="18" lemma="по" part-of-speech="R-" morphology="---------n" head-id="3415375" relation="adv" presentation-after=" " foreign-ids="folio=383v"/>
+        <token id="3415377" form="лесѹ" citation-part="18" lemma="лѣсъ" part-of-speech="Nb" morphology="-s---md--i" head-id="3415376" relation="obl" presentation-after=". " foreign-ids="folio=383v"/>
+      </sentence>
+      <sentence id="281048" status="annotated">
+        <token id="3415378" form="ино" citation-part="18" lemma="ино" part-of-speech="Df" morphology="---------n" head-id="3415382" relation="aux" presentation-after=" " foreign-ids="folio=383v"/>
+        <token id="3415379" form="ис" citation-part="18" lemma="из" part-of-speech="R-" morphology="---------n" head-id="3415382" relation="obl" presentation-after=" " foreign-ids="folio=383v"/>
+        <token id="3415380" form="тѣх" citation-part="18" lemma="тыи" part-of-speech="Pd" morphology="-p---mg--i" head-id="3415379" relation="obl" presentation-after=" " foreign-ids="folio=383v"/>
+        <token id="3415381" form="вонѧ" citation-part="18" lemma="воня" part-of-speech="Nb" morphology="-s---fn--i" head-id="3415382" relation="sub" presentation-after=" " foreign-ids="folio=383v"/>
+        <token id="3415382" form="выходить" citation-part="18" lemma="выходити" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=". " foreign-ids="folio=383v"/>
+      </sentence>
+      <sentence id="281049" status="annotated">
+        <token id="3415383" form="да" citation-part="18" lemma="да" part-of-speech="C-" morphology="---------n" head-id="3415389" relation="aux" presentation-after=" " foreign-ids="folio=383v"/>
+        <token id="3415384" form="ѣстъ" citation-part="18" lemma="ѣсти" part-of-speech="V-" morphology="3spia----i" relation="parpred" presentation-after=" " foreign-ids="folio=383v"/>
+        <token id="3415385" form="то" citation-part="18" lemma="то" part-of-speech="Df" morphology="---------n" head-id="3415389" relation="aux" presentation-after=" " foreign-ids="folio=383v"/>
+        <token id="3415386" form="тотъ" citation-part="18" lemma="тътъ" part-of-speech="Pd" morphology="-s---mn--i" head-id="3415389" relation="sub" presentation-after=" " foreign-ids="folio=383v"/>
+        <token id="3415387" form="не" citation-part="18" lemma="не" part-of-speech="Df" morphology="---------n" head-id="3415389" relation="aux" presentation-after=" " foreign-ids="folio=383v"/>
+        <token id="3415388" form="свѣжь" citation-part="18" lemma="свѣжии" part-of-speech="A-" morphology="-s---mnpsi" head-id="3415389" relation="xobj" presentation-after=" " foreign-ids="folio=383v">
+          <slash target-id="3415386" relation="xsub"/>
+        </token>
+        <token id="3415389" empty-token-sort="V" relation="pred"/>
       </sentence>
     </div>
     <div id="8369">

@@ -1,0 +1,256 @@
+1	﻿Гсдрь	государь	N	Nb	NUMBs|GENDm|CASEn	0	voc	_	_
+2	мѡи	мои	P	Ps	PERS1|NUMBs|GENDm|CASEn	1	atr	_	_
+3	кнѕь	кънязь	N	Nb	NUMBs|GENDm|CASEn	1	apos	_	_
+4	Борисъ	борисъ	N	Ne	NUMBs|GENDm|CASEn	3	apos	_	_
+5	Івановичь	ивановичь	N	Ne	NUMBs|GENDm|CASEn	4	apos	_	_
+6	желаю	желати	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+7	вам	вы	P	Pp	PERS2|NUMBp|GENDm|CASEd	6	obl	_	_
+8	ѕдравия	съдравие	N	Nb	NUMBs|GENDn|CASEg	6	obl	_	_
+9	купно	купьно	D	Df	INFLn	10	adv	_	_
+10	с	съ	R	R-	INFLn	7	atr	_	_
+11	сномъ	сынъ	N	Nb	NUMBs|GENDm|CASEi	10	obl	_	_
+12	вашим	вашь	P	Ps	PERS2|NUMBs|GENDm|CASEi	11	atr	_	_
+13	кнѕь	кънязь	N	Nb	NUMBs|GENDm|CASEn	11	apos	_	_
+14	Алеѯандром	александръ	N	Ne	NUMBs|GENDm|CASEi	13	apos	_	_
+15	Борисовичемъ	борисовичь	N	Ne	NUMBs|GENDm|CASEi	14	apos	_	_
+
+1	Поздравляю	поздравляти	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+2	вам	вы	P	Pp	PERS2|NUMBp|GENDm|CASEd	1	obl	_	_
+3	гсдрю	государь	N	Nb	NUMBs|GENDm|CASEd	2	apos	_	_
+4	моему	мои	P	Ps	PERS1|NUMBs|GENDm|CASEd	3	atr	_	_
+5	с	съ	R	R-	INFLn	1	obl	_	_
+6	наступающим	наступати	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDm|CASEi|STREw	10	atr	_	_
+7	с	съ	R	R-	INFLn	5	aux	_	_
+8	ннѣшнимъ	нынѣшьнии	A	A-	NUMBs|GENDm|CASEi|DEGRp|STREw	10	atr	_	_
+9	великимъ	великыи	A	A-	NUMBs|GENDm|CASEi|DEGRp|STREw	10	atr	_	_
+10	празником	праздьникъ	N	Nb	NUMBs|GENDm|CASEi	5	obl	_	_
+11	тридневнаго	тридьневьныи	A	A-	NUMBs|GENDn|CASEg|DEGRp|STREw	13	atr	_	_
+12	христова	христ(ос)овъ	A	A-	NUMBs|GENDn|CASEg|DEGRp|STREs	13	atr	_	_
+13	воскресения	въскрьсение	N	Nb	NUMBs|GENDn|CASEg	10	atr	_	_
+
+1	а	o	R	R-	INFLn	6	aux	_	_
+2	катором	которыи	P	Pr	NUMBs|GENDn|CASEl	8	atr	_	_
+3	ты	ты	P	Pp	PERS2|NUMBs|GENDm|CASEn	0	voc	_	_
+4	гсдрь	государь	N	Nb	NUMBs|GENDm|CASEn	3	apos	_	_
+5	мои	мои	P	Ps	PERS1|NUMBs|GENDm|CASEn	4	atr	_	_
+6	о	о	R	R-	INFLn	12	obl	_	_
+7	своемъ	свои	P	Pt	PERS3|NUMBs|GENDn|CASEl	8	atr	_	_
+8	дѣле	дѣло	N	Nb	NUMBs|GENDn|CASEl	6	obl	_	_
+9	ізвозил	извозити	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	13	pred	_	_
+10	ко	къ	R	R-	INFLn	12	obl	_	_
+11	мнѣ	азъ	P	Pp	PERS1|NUMBs|GENDm|CASEd	10	obl	_	_
+12	писать	пьсати	V	V-	TENSp|MOODn|VOICa	9	xobj	_	_
+13	і	и	C	C-	INFLn	0	pred	_	_
+14	с	съ	R	R-	INFLn	17	obl	_	_
+15	темъ	тыи	P	Pd	NUMBs|GENDm|CASEi	16	atr	_	_
+16	члвком	человѣкъ	N	Nb	NUMBs|GENDm|CASEi	14	obl	_	_
+17	видѣла	видѣти	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDf|CASEn|STREs	13	pred	_	_
+18	с	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	17	aux	_	_
+19	того.ж	тыиже	P	Pd	NUMBs|GENDn|CASEg	20	atr	_	_
+20	числа	число	N	Nb	NUMBs|GENDn|CASEg	17	adv	_	_
+21	в	въ	R	R-	INFLn	24	adv	_	_
+22	которое	которыи	P	Pr	NUMBs|GENDn|CASEa	23	atr	_	_
+23	число	число	N	Nb	NUMBs|GENDn|CASEa	21	obl	_	_
+24	получила	получити	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDf|CASEn|STREs	20	apos	_	_
+25	от	отъ	R	R-	INFLn	24	obl	_	_
+26	вас	вы	P	Pp	PERS2|NUMBp|GENDm|CASEg	25	obl	_	_
+27	писмѡ	письмо	N	Nb	NUMBs|GENDn|CASEa	24	obj	_	_
+
+1	и	и	C	C-	INFLn	8	aux	_	_
+2	к	къ	R	R-	INFLn	8	obl	_	_
+3	вашеи	вашь	P	Ps	PERS2|NUMBs|GENDf|CASEd	4	atr	_	_
+4	млсти	милость	N	Nb	NUMBs|GENDf|CASEd	2	obl	_	_
+5	в	въ	R	R-	INFLn	8	adv	_	_
+6	тех.жа	тыиже	P	Pd	NUMBp|GENDn|CASEl	7	atr	_	_
+7	числах	число	N	Nb	NUMBp|GENDn|CASEl	5	obl	_	_
+8	писала	пьсати	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDf|CASEn|STREs	0	pred	_	_
+
+1	и	и	C	C-	INFLn	8	aux	_	_
+2	послѣ	послѣ	R	R-	INFLn	8	adv	_	_
+3	того	тыи	P	Pd	NUMBs|GENDn|CASEg	2	obl	_	_
+4	съ	съ	R	R-	INFLn	8	obl	_	_
+5	кнгинею	кънягыни	N	Nb	NUMBs|GENDf|CASEi	4	obl	_	_
+6	Черкаскою	черкасьская	N	Ne	NUMBs|GENDf|CASEi	5	apos	_	_
+7	многажды	мъногашьды	D	Df	INFLn	8	adv	_	_
+8	видѣла	видѣти	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDf|CASEn|STREs	0	pred	_	_
+9	с	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	8	aux	_	_
+
+1	и	и	C	C-	INFLn	2	aux	_	_
+2	говорила	говорити	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDf|CASEn|STREs	0	pred	_	_
+3	я	я	P	Pp	PERS1|NUMBs|GENDf|CASEn	2	sub	_	_
+4	еи	и	P	Pp	PERS3|NUMBs|GENDf|CASEd	2	obl	_	_
+5	о	о	R	R-	INFLn	2	obl	_	_
+6	том.же	тыиже	P	Pd	NUMBs|GENDn|CASEl	8	atr	_	_
+7	вашемъ	вашь	P	Ps	PERS2|NUMBs|GENDn|CASEl	8	atr	_	_
+8	дѣле	дѣло	N	Nb	NUMBs|GENDn|CASEl	5	obl	_	_
+9	трожды	трошьды	D	Df	INFLn	2	adv	_	_
+
+1	и	и	C	C-	INFLn	4	aux	_	_
+2	она	онъ	P	Pd	NUMBs|GENDf|CASEn	4	sub	_	_
+3	мнѣ	азъ	P	Pp	PERS1|NUMBs|GENDm|CASEd	4	obl	_	_
+4	скаѕала	съказати	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDf|CASEn|STREs	0	pred	_	_
+5	то.ж	тыиже	P	Pd	NUMBs|GENDn|CASEa	4	obj	_	_
+6	что	чьто	P	Pr	NUMBs|GENDn|CASEa	5	obj(9)apos	_	_
+7	и	и	D	Df	INFLn	8	aux	_	_
+8	прежде	прѣжде	D	Df	INFLn	5	adv(9)apos	_	_
+
+1	и	и	C	C-	INFLn	0	aux(6)pred	_	_
+2	мошно	мощьныи	A	A-	NUMBs|GENDn|CASEn|DEGRp|STREs	0	xobj(6)pred	_	_
+3	ѕнат	знати	V	V-	TENSp|MOODn|VOICa	0	comp(6)pred	_	_
+4	что	чьто	G	G-	INFLn	3	comp	_	_
+5	отговорка	отъговорка	N	Nb	NUMBs|GENDf|CASEn	4	sub(7)pred	_	_
+
+1	и	и	C	C-	INFLn	6	aux	_	_
+2	она	онъ	P	Pd	NUMBs|GENDf|CASEn	3	sub	_	_
+3	и	и	C	C-	INFLn	6	sub	_	_
+4	кнѕь	кънязь	N	Nb	NUMBs|GENDm|CASEn	3	sub	_	_
+5	еѣ	и	P	Pp	PERS3|NUMBs|GENDf|CASEg	4	atr	_	_
+6	скаѕал	съказати	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	0	pred	_	_
+
+1	доч	дъчи	N	Nb	NUMBs|GENDf|CASEn	0	sub(6)pred	_	_
+2	наша	нашь	P	Ps	PERS1|NUMBs|GENDf|CASEn	1	atr	_	_
+3	еще	еще	D	Df	INFLn	0	adv(6)pred	_	_
+4	не	не	D	Df	INFLn	0	aux(6)pred	_	_
+5	невеста	невѣста	N	Nb	NUMBs|GENDf|CASEn	0	xobj(6)pred	_	_
+
+1	в	въ	R	R-	INFLn	4	obl	_	_
+2	возрастъ	възрастъ	N	Nb	NUMBs|GENDm|CASEa	1	obl	_	_
+3	не	не	D	Df	INFLn	4	aux	_	_
+4	пришла	приити	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDf|CASEn|STREs	0	pred	_	_
+
+1	когда	къгда	D	Dq	INFLn	4	adv	_	_
+2	въ	въ	R	R-	INFLn	4	obl	_	_
+3	возрастъ	възрастъ	N	Nb	NUMBs|GENDm|CASEa	2	obl	_	_
+4	придетъ	придати	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	5	adv	_	_
+5	отдадим	отъдати	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+6	еи	и	P	Pp	PERS3|NUMBs|GENDf|CASEd	8	atr	_	_
+7	на	на	R	R-	INFLn	5	adv	_	_
+8	волю	воля	N	Nb	NUMBs|GENDf|CASEa	7	obl	_	_
+
+1	хто	къто	P	Pr	NUMBs|GENDq|CASEn	3	sub	_	_
+2	еи	и	P	Pp	PERS3|NUMBs|GENDf|CASEd	3	adv	_	_
+3	будетъ	быти	V	V-	PERS3|NUMBs|TENSf|MOODi|VOICa	6	apos	_	_
+4	нъравенъ	нравьныи	A	A-	NUMBs|GENDm|CASEn|DEGRp|STREs	3	xobj	_	_
+5	ѕа	за	R	R-	INFLn	8	obl	_	_
+6	таво	тыи	P	Pd	NUMBs|GENDm|CASEg	5	obl	_	_
+7	і	и	D	Df	INFLn	8	aux	_	_
+8	отдадим	отъдати	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+
+1	а	а	C	C-	INFLn	7	aux	_	_
+2	послѣ	послѣ	R	R-	INFLn	7	adv	_	_
+3	я	я	P	Pp	PERS1|NUMBs|GENDf|CASEn	7	sub	_	_
+4	тово	тыи	P	Pd	NUMBs|GENDn|CASEg	2	obl	_	_
+5	с	съ	R	R-	INFLn	7	obl	_	_
+6	ними	и	P	Pp	PERS3|NUMBp|GENDm|CASEi	5	obl	_	_
+7	видала	видати	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDf|CASEn|STREs	0	pred	_	_
+8	с	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	7	aux	_	_
+
+1	а	а	C	C-	INFLn	10	aux	_	_
+2	что	чьто	G	G-	INFLn	10	comp(18)adv	_	_
+3	я	я	P	Pp	PERS1|NUMBs|GENDf|CASEn	8	sub	_	_
+4	к	къ	R	R-	INFLn	8	obl	_	_
+5	вашеи	вашь	P	Ps	PERS2|NUMBs|GENDf|CASEd	6	atr	_	_
+6	млсти	милость	N	Nb	NUMBs|GENDf|CASEd	4	obl	_	_
+7	не	не	D	Df	INFLn	8	aux	_	_
+8	писала	пьсати	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDf|CASEn|STREs	2	pred	_	_
+9	повтаряя	повъторяти	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDm|CASEn|STREs	8	xadv	_	_
+10	ожидала	ожидати	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDf|CASEn|STREs	0	pred	_	_
+11	от	отъ	R	R-	INFLn	10	obl	_	_
+12	вас	вы	P	Pp	PERS2|NUMBp|GENDm|CASEg	11	obl	_	_
+13	противъ	противъ	R	R-	INFLn	10	adv	_	_
+14	моего	мои	P	Ps	PERS1|NUMBs|GENDn|CASEg	15	atr	_	_
+15	писма	письмо	N	Nb	NUMBs|GENDn|CASEg	13	obl	_	_
+16	писма	письмо	N	Nb	NUMBs|GENDn|CASEg	10	obl	_	_
+17	вашего	вашь	P	Ps	PERS2|NUMBs|GENDn|CASEg	16	atr	_	_
+
+1	объявляю	объявляти	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+2	тебѣ	ты	P	Pp	PERS2|NUMBs|GENDm|CASEd	1	obl	_	_
+3	мои	мои	P	Ps	PERS1|NUMBs|GENDm|CASEn	4	atr	_	_
+4	гсдрь	государь	N	Nb	NUMBs|GENDm|CASEn	0	voc	_	_
+5	свою	свои	P	Pt	PERS3|NUMBs|GENDf|CASEa	6	atr	_	_
+6	печал	печаль	N	Nb	NUMBs|GENDf|CASEa	1	obj	_	_
+
+1	волею	воля	N	Nb	NUMBs|GENDf|CASEi	8	adv	_	_
+2	бжию	божии	A	A-	NUMBs|GENDf|CASEi|DEGRp|STREt	1	atr	_	_
+3	ѕятя	зять	N	Nb	NUMBs|GENDm|CASEg	8	sub	_	_
+4	нашего	нашь	P	Ps	PERS1|NUMBs|GENDm|CASEg	3	atr	_	_
+5	Алеѯандра	александръ	N	Ne	NUMBs|GENDm|CASEg	3	apos	_	_
+6	Петровича	петровичь	N	Ne	NUMBs|GENDm|CASEg	5	apos	_	_
+7	не	не	D	Df	INFLn	8	aux	_	_
+8	стало	стати	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDn|CASEn|STREs	0	pred	_	_
+9	ѳевраля	февраль	N	Nb	NUMBs|GENDm|CASEg	11	part	_	_
+10	19	девятьнадесять	M	Ma	INFLn	11	atr	_	_
+11	дня	дьнь	N	Nb	NUMBs|GENDm|CASEg	14	part	_	_
+12	въ	въ	R	R-	INFLn	8	adv	_	_
+13	6	шесть	M	Ma	INFLn	14	atr	_	_
+14	часу	часъ	N	Nb	NUMBs|GENDm|CASEl	12	obl	_	_
+15	по	по	R	R-	INFLn	8	adv	_	_
+16	полудни	полудьнь	N	Nb	NUMBs|GENDm|CASEl	15	obl	_	_
+
+1	а	а	C	C-	INFLn	4	aux	_	_
+2	болѣзнь	болѣзнь	N	Nb	NUMBs|GENDf|CASEn	4	sub	_	_
+3	ево	и	P	Pp	PERS3|NUMBs|GENDm|CASEg	2	atr	_	_
+4	была	быти	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDf|CASEn|STREs	0	pred	_	_
+5	жестокая	жестъкыи	A	A-	NUMBs|GENDf|CASEn|DEGRp|STREw	6	atr	_	_
+6	горячка	горячька	N	Nb	NUMBs|GENDf|CASEn	4	xobj	_	_
+
+1	въ	въ	R	R-	INFLn	4	adv	_	_
+2	8	8	M	Ma	INFLn	3	atr	_	_
+3	день	дьнь	N	Nb	NUMBs|GENDm|CASEa	1	obl	_	_
+4	скончал	съконьчати	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	0	pred	_	_
+5	ся	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	4	aux	_	_
+
+1	еще	еще	D	Df	INFLn	5	adv	_	_
+2	тебѣ	ты	P	Pp	PERS2|NUMBs|GENDm|CASEd	5	obl	_	_
+3	мои	мои	P	Ps	PERS1|NUMBs|GENDm|CASEn	4	atr	_	_
+4	гсдрь	государь	N	Nb	NUMBs|GENDm|CASEn	0	voc	_	_
+5	объявляю	объявляти	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+
+1	бгъ	богъ	N	Nb	NUMBs|GENDm|CASEn	5	sub	_	_
+2	мнѣ	азъ	P	Pp	PERS1|NUMBs|GENDf|CASEd	5	obl	_	_
+3	млсть	милость	N	Nb	NUMBs|GENDf|CASEa	5	obj	_	_
+4	свою	свои	P	Pt	PERS3|NUMBs|GENDf|CASEa	3	atr	_	_
+5	даровал	даровати	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	0	pred	_	_
+6	в	въ	R	R-	INFLn	5	adv	_	_
+7	печали	печаль	N	Nb	NUMBs|GENDf|CASEl	6	obl	_	_
+8	моеи	мои	P	Ps	PERS1|NUMBs|GENDf|CASEl	7	atr	_	_
+
+1	порадовал	порадовати	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	0	pred	_	_
+2	нас	мы	P	Pp	PERS1|NUMBp|GENDm|CASEg	1	obj	_	_
+
+1	объщаю	обьщии	A	A-	NUMBs|GENDf|CASEa|DEGRp|STREw	3	atr	_	_
+2	нашу	нашь	P	Ps	PERS1|NUMBs|GENDf|CASEa	3	atr	_	_
+3	внуку	вънука	N	Nb	NUMBs|GENDf|CASEa	6	obj	_	_
+4	Елену	елена	N	Ne	NUMBs|GENDf|CASEa	3	apos	_	_
+5	Алеѯандровну	александровьна	N	Ne	NUMBs|GENDf|CASEa	4	apos	_	_
+6	помолвили	помълвити	V	V-	NUMBp|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	0	pred	_	_
+7	за	за	R	R-	INFLn	6	obl	_	_
+8	Алеѯандру	александръ	N	Ne	NUMBs|GENDm|CASEd	7	obl	_	_
+9	Лвовича	львовичь	N	Ne	NUMBs|GENDm|CASEg	8	apos	_	_
+10	Нарышкина	нарышькинъ	N	Ne	NUMBs|GENDm|CASEg	9	apos	_	_
+
+1	Отдою	отъдати	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+2	тебѣ	ты	P	Pp	PERS2|NUMBs|GENDm|CASEd	1	obl	_	_
+3	моему	мои	P	Ps	PERS1|NUMBs|GENDm|CASEd	4	atr	_	_
+4	поклонъ	поклонъ	N	Nb	NUMBs|GENDm|CASEa	1	obj	_	_
+5	сноха	снъха	N	Nb	NUMBs|GENDf|CASEn	1	sub	_	_
+6	ваша	вашь	P	Ps	PERS2|NUMBs|GENDf|CASEn	5	atr	_	_
+7	кнгиня	кънягыни	N	Nb	NUMBs|GENDf|CASEn	5	apos	_	_
+8	Мавра	мавра	N	Ne	NUMBs|GENDf|CASEn	5	apos	_	_
+9	Куракина	куракина	N	Ne	NUMBs|GENDf|CASEn	8	apos	_	_
+
+1	Москва	москъва	N	Ne	NUMBs|GENDf|CASEn	0	sub(2)pred	_	_
+
+1	марта	мартъ	N	Nb	NUMBs|GENDm|CASEg	3	part	_	_
+2	26	26	M	Ma	INFLn	3	atr	_	_
+3	дня	дьнь	N	Nb	NUMBs|GENDm|CASEg	0	adv(6)pred	_	_
+4	725	725	M	Ma	INFLn	5	atr	_	_
+5	году	годъ	N	Nb	NUMBs|GENDm|CASEl	0	adv(6)pred	_	_
+
+1	Гсдрю	государь	N	Nb	NUMBs|GENDm|CASEd	0	obl(7)pred	_	_
+2	моему	мои	P	Ps	PERS1|NUMBs|GENDm|CASEd	1	atr	_	_
+3	кнѕю	кънязь	N	Nb	NUMBs|GENDm|CASEd	1	apos	_	_
+4	Борису	борисъ	N	Ne	NUMBs|GENDm|CASEd	3	apos	_	_
+5	Ивановичю	ивановичь	N	Ne	NUMBs|GENDm|CASEd	4	apos	_	_
+6	Куракину	куракинъ	N	Ne	NUMBs|GENDm|CASEd	5	apos	_	_
+

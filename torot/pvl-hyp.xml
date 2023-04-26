@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<proiel export-time="2023-04-25T04:02:57+02:00" schema-version="2.1">
+<proiel export-time="2023-04-26T14:18:36+02:00" schema-version="2.1">
   <annotation>
     <relations>
       <value tag="adnom" summary="adnominal" primary="true" secondary="true"/>
@@ -997,6 +997,26 @@
         <token id="3359244" form="бѧша" citation-part="28.15" lemma="быти" part-of-speech="V-" morphology="3piia----i" relation="pred" presentation-after=" " foreign-ids="11c"/>
         <token id="3359245" form="словѣни" citation-part="28.15" lemma="словѣнинъ" part-of-speech="Nb" morphology="-p---mn--i" head-id="3359244" relation="sub" presentation-after=" " foreign-ids="11c"/>
         <token id="3359246" form="пѣрвѣе" citation-part="28.16" lemma="пьрвѣе" part-of-speech="Df" morphology="---------n" head-id="3359244" relation="adv" presentation-after=". " foreign-ids="11c"/>
+      </sentence>
+      <sentence id="276152" status="annotated">
+        <token id="3359247" form="тѣмь" citation-part="28.16" lemma="тыи" part-of-speech="Pd" morphology="-s---ni--i" head-id="3359252" relation="adv" presentation-after=" " foreign-ids="11c"/>
+        <token id="3359248" form="же" citation-part="28.16" lemma="же" part-of-speech="Df" morphology="---------n" head-id="3359247" relation="aux" presentation-after=" "/>
+        <token id="3359249" form="словѣньску" citation-part="28.16" lemma="словѣньскыи" part-of-speech="A-" morphology="-s---mdpsi" head-id="3359250" relation="atr" presentation-after=" " foreign-ids="11c"/>
+        <token id="3359250" form="языку" citation-part="28.16" lemma="языкъ" part-of-speech="Nb" morphology="-s---md--i" head-id="3359251" relation="atr" presentation-after=" " foreign-ids="11c"/>
+        <token id="3359251" form="оучитель" citation-part="28.17" lemma="учитель" part-of-speech="Nb" morphology="-s---mn--i" head-id="3359252" relation="xobj" presentation-after=" " foreign-ids="11c">
+          <slash target-id="3359253" relation="xsub"/>
+        </token>
+        <token id="3359252" form="есть" citation-part="28.17" lemma="быти" part-of-speech="V-" morphology="3spia----i" relation="pred" presentation-after=" " foreign-ids="11c"/>
+        <token id="3359253" form="павелъ" citation-part="28.17" lemma="павьлъ" part-of-speech="Ne" morphology="-s---mn--i" head-id="3359252" relation="sub" presentation-after=". " foreign-ids="11c"/>
+        <token id="3359254" form="ѿ" citation-part="28.17" lemma="отъ" part-of-speech="R-" morphology="---------n" head-id="3359259" relation="xobj" presentation-after=" " foreign-ids="11c">
+          <slash target-id="3359258" relation="xsub"/>
+        </token>
+        <token id="3359255" form="него же" citation-part="28.17" lemma="иже" part-of-speech="Pr" morphology="-s---mg--i" head-id="3359256" relation="atr" presentation-after=" " foreign-ids="11c"/>
+        <token id="3359256" form="языка" citation-part="28.17" lemma="языкъ" part-of-speech="Nb" morphology="-s---mg--i" head-id="3359254" relation="obl" presentation-after=" " foreign-ids="11c"/>
+        <token id="3359257" form="и" citation-part="28.17" lemma="и" part-of-speech="Df" morphology="---------n" head-id="3359258" relation="aux" presentation-after=" " foreign-ids="11c"/>
+        <token id="3359258" form="мы" citation-part="28.17" lemma="мы" part-of-speech="Pp" morphology="1p---mn--i" head-id="3359259" relation="sub" presentation-after=" " foreign-ids="11c"/>
+        <token id="3359259" form="есме" citation-part="28.18" lemma="быти" part-of-speech="V-" morphology="1ppia----i" head-id="3359250" relation="apos" presentation-after=" " foreign-ids="11c"/>
+        <token id="3359260" form="русь" citation-part="28.18" lemma="русь" part-of-speech="Ne" morphology="-s---fn--i" head-id="3359258" relation="apos" presentation-after=". " foreign-ids="11c"/>
       </sentence>
       <sentence id="276153" status="reviewed">
         <token id="3359261" form="тѣм же" citation-part="28.18" lemma="тыиже" part-of-speech="Pd" morphology="-s---ni--i" head-id="3359266" relation="adv" presentation-after=" " foreign-ids="11c"/>

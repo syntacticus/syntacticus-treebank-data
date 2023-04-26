@@ -650,6 +650,21 @@
 4	словѣни	словѣнинъ	N	Nb	NUMBp|GENDm|CASEn	3	sub	_	_
 5	пѣрвѣе	пьрвѣе	D	Df	INFLn	3	adv	_	_
 
+1	тѣмь	тыи	P	Pd	NUMBs|GENDn|CASEi	6	adv	_	_
+2	же	же	D	Df	INFLn	1	aux	_	_
+3	словѣньску	словѣньскыи	A	A-	NUMBs|GENDm|CASEd|DEGRp|STREs	4	atr	_	_
+4	языку	языкъ	N	Nb	NUMBs|GENDm|CASEd	5	atr	_	_
+5	оучитель	учитель	N	Nb	NUMBs|GENDm|CASEn	6	xobj	_	_
+6	есть	быти	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+7	павелъ	павьлъ	N	Ne	NUMBs|GENDm|CASEn	6	sub	_	_
+8	ѿ	отъ	R	R-	INFLn	13	xobj	_	_
+9	него.же	иже	P	Pr	NUMBs|GENDm|CASEg	10	atr	_	_
+10	языка	языкъ	N	Nb	NUMBs|GENDm|CASEg	8	obl	_	_
+11	и	и	D	Df	INFLn	12	aux	_	_
+12	мы	мы	P	Pp	PERS1|NUMBp|GENDm|CASEn	13	sub	_	_
+13	есме	быти	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	4	apos	_	_
+14	русь	русь	N	Ne	NUMBs|GENDf|CASEn	12	apos	_	_
+
 1	тѣм.же	тыиже	P	Pd	NUMBs|GENDn|CASEi	6	adv	_	_
 2	и	и	D	Df	INFLn	3	aux	_	_
 3	намъ	мы	P	Pp	PERS1|NUMBp|GENDm|CASEd	5	atr	_	_

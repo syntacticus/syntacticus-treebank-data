@@ -3409,6 +3409,13 @@
 9	оучат	учити	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	4	pred	_	_
 10	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	9	aux	_	_
 
+1	а	а	C	C-	INFLn	6	aux	_	_
+2	приданое	придати	V	V-	NUMBs|TENSu|MOODp|VOICp|GENDn|CASEn|STREw	6	sub	_	_
+3	с	съ	R	R-	INFLn	6	adv	_	_
+4	ними	и	P	Pp	PERS3|NUMBp|GENDf|CASEi	3	obl	_	_
+5	вдрѹгъ	въдругъ	D	Df	INFLn	6	adv	_	_
+6	прибывает	прибывати	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+
 1	и	и	C	C-	INFLn	0	aux(9)pred	_	_
 2	какъ	како	D	Dq	INFLn	5	adv	_	_
 3	за	за	R	R-	INFLn	5	obl	_	_
@@ -21298,6 +21305,14 @@
 4	на	на	R	R-	INFLn	3	obl	_	_
 5	га҃	господь	N	Nb	NUMBs|GENDm|CASEg	4	obl	_	_
 
+1	никъто.же	никътоже	P	Px	NUMBs|GENDq|CASEn	7	sub	_	_
+2	надѣѧ	надѣяти	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDm|CASEn|STREs	7	xadv	_	_
+3	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	2	aux	_	_
+4	на	на	R	R-	INFLn	2	obl	_	_
+5	ха҃	христ(ос)ъ	N	Ne	NUMBs|GENDm|CASEg	4	obl	_	_
+6	не	не	D	Df	INFLn	7	aux	_	_
+7	погибнетъ	погыбнути	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+
 1	прибѣгай	прибѣгати	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
 2	всегды	вьсегды	D	Df	INFLn	1	adv	_	_
 3	с	съ	R	R-	INFLn	1	adv	_	_
@@ -22858,6 +22873,29 @@
 13	на	на	R	R-	INFLn	15	obl	_	_
 14	свободѹ	свобода	N	Nb	NUMBs|GENDf|CASEa	13	obl	_	_
 15	попѹщахъ	попущати	V	V-	PERS1|NUMBs|TENSa|MOODi|VOICa	5	pred	_	_
+
+1	и	и	C	C-	INFLn	7	aux(23)pred	_	_
+2	всѣ	вьсь	P	Px	NUMBp|GENDm|CASEn	4	atr	_	_
+3	тѣ	тыи	P	Pd	NUMBp|GENDm|CASEn	4	atr	_	_
+4	роботые	работа	N	Nb	NUMBp|GENDp|CASEn	7	sub(23)pred	_	_
+5	наши	нашь	P	Ps	PERS1|NUMBp|GENDp|CASEn	4	atr	_	_
+6	свободны	свободьныи	A	A-	NUMBp|GENDp|CASEn|DEGRp|STREs	7	xobj(23)pred	_	_
+7	и	и	C	C-	INFLn	0	pred	_	_
+8	добрыми	добрыи	A	A-	NUMBp|GENDm|CASEi|DEGRp|STREw	9	atr	_	_
+9	домами	домъ	N	Nb	NUMBp|GENDm|CASEi	10	adv	_	_
+10	живѹтъ	жити	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	7	pred	_	_
+11	яко	яко	D	Dq	INFLn	13	adv	_	_
+12	же	же	D	Df	INFLn	13	aux	_	_
+13	видиши	видѣти	V	V-	PERS2|NUMBs|TENSp|MOODi|VOICa	10	adv	_	_
+14	и	и	C	C-	INFLn	7	aux	_	_
+15	молѧт	молити	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	7	pred	_	_
+16	за	за	R	R-	INFLn	15	obl	_	_
+17	ны	мы	P	Pp	PERS1|NUMBp|GENDm|CASEa	16	obl	_	_
+18	бг҃а	богъ	N	Nb	NUMBs|GENDm|CASEg	15	obj	_	_
+19	и	и	C	C-	INFLn	7	aux	_	_
+20	доброхотают	доброхотѣти	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	7	pred	_	_
+21	намъ	мы	P	Pp	PERS1|NUMBp|GENDm|CASEd	20	obl	_	_
+22	всегда	вьсегда	D	Df	INFLn	20	adv	_	_
 
 1	а	а	C	C-	INFLn	7	aux	_	_
 2	кто	къто	P	Pr	NUMBs|GENDq|CASEn	3	sub	_	_

@@ -394,3 +394,839 @@
 3	еси	бꙑти	V	V-	PERS2|NUMBs|TENSp|MOODi|VOICa	1	aux	_	_
 4	г҃і	господь	N	Nb	NUMBs|GENDm|CASEv	0	voc	_	_
 
+1	да	да	D	Df	INFLn	2	adv	_	_
+2	исправі	исправити	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	4	pred	_	_
+3	нъи	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEa	2	obj	_	_
+4	ꙇ	и	C	C-	INFLn	0	pred	_	_
+5	очістꙇ	очистити	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	4	pred	_	_
+6	не	не	D	Df	INFLn	9	aux	_	_
+7	нашіхъ	нашь	P	Ps	PERS1|NUMBp|GENDn|CASEg	8	atr	_	_
+8	дѣлъ	дѣло	N	Nb	NUMBp|GENDn|CASEg	9	obl	_	_
+9	раді	ради	R	R-	INFLn	10	adv	_	_
+10	нъ	нъ	C	C-	INFLn	2	adv	_	_
+11	обѣта	обѣтъ	N	Nb	NUMBs|GENDm|CASEg	13	obl	_	_
+12	твоего	твои	P	Ps	PERS2|NUMBs|GENDm|CASEg	11	atr	_	_
+13	раді	ради	R	R-	INFLn	10	adv	_	_
+14	ꙇже	иже	P	Pr	NUMBs|GENDm|CASEa	16	obj	_	_
+15	есі	бꙑти	V	V-	PERS2|NUMBs|TENSp|MOODi|VOICa	16	aux	_	_
+16	обѣцѣлъ	обѣщати	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	11	apos	_	_
+17	намъ	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEd	16	obl	_	_
+18	да	да	G	G-	INFLn	2	adv	_	_
+19	възможемъ	възмощи	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	18	pred	_	_
+20	дѹшѣмі	доуша	N	Nb	NUMBp|GENDf|CASEi	21	adv	_	_
+21	ꙇ	и	C	C-	INFLn	26	adv	_	_
+22	тѣлесъи	тѣло	N	Nb	NUMBp|GENDn|CASEi	21	adv	_	_
+23	ꙇ	и	C	C-	INFLn	21	aux	_	_
+24	мъисльмі	мꙑсль	N	Nb	NUMBp|GENDf|CASEi	21	adv	_	_
+25	нашімꙇ	нашь	P	Ps	PERS1|NUMBp|GENDq|CASEi	21	atr	_	_
+26	пріѧти	приѩти	V	V-	TENSp|MOODn|VOICa	19	xobj	_	_
+27	заповѣді	заповѣдь	N	Nb	NUMBp|GENDf|CASEa	26	obj	_	_
+28	твоѧ	твои	P	Ps	PERS2|NUMBp|GENDf|CASEa	27	atr	_	_
+29	ѧже	иже	P	Pr	NUMBp|GENDf|CASEa	31	obj	_	_
+30	есі	бꙑти	V	V-	PERS2|NUMBs|TENSp|MOODi|VOICa	31	aux	_	_
+31	посълалъ	посълати	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	27	apos	_	_
+32	къ	къ	R	R-	INFLn	31	obl	_	_
+33	намъ	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEd	32	obl	_	_
+34	х҃мь	христ(ос)ъ	N	Ne	NUMBs|GENDm|CASEi	2	adv	_	_
+35	г҃мь	господь	N	Nb	NUMBs|GENDm|CASEi	34	apos	_	_
+36	нашімь	иже	P	Ps	PERS1|NUMBs|GENDm|CASEi	35	atr	_	_
+37	імьже	иже	P	Pr	NUMBs|GENDm|CASEi	34	adv(39)apos	_	_
+38	велічь:	величьство	N	Nb	NUMBs|GENDn|CASEn	34	sub(39)apos	_	_
+
+1	ПО	по	R	R-	INFLn	0	adv(3)pred	_	_
+2	ВЪСѪДѢ	въсѫдъ	N	Nb	NUMBs|GENDm|CASEl	1	obl	_	_
+
+1	Свѧтъі	свѧтъ	A	A-	NUMBs|GENDm|CASEn|DEGRp|STREw	3	atr	_	_
+2	твоі	твои	P	Ps	PERS2|NUMBs|GENDm|CASEn	3	atr	_	_
+3	въсѫдъ	въсѫдъ	N	Nb	NUMBs|GENDm|CASEn	11	sub	_	_
+4	г҃і	господь	N	Nb	NUMBs|GENDm|CASEv	0	voc	_	_
+5	ꙇже	иже	P	Pr	NUMBs|GENDm|CASEa	7	obj	_	_
+6	есмь	бꙑти	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	7	aux	_	_
+7	възѧлі	възѧти	V	V-	NUMBp|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	3	apos	_	_
+8	молꙇмъ	молити	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+9	тѧ	тꙑ	P	Pp	PERS2|NUMBs|GENDm|CASEa	8	obj	_	_
+10	да	да	G	G-	INFLn	8	comp	_	_
+11	очіститъ	очистити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	16	pred	_	_
+12	нъи	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEa	11	obj	_	_
+13	отъ	отъ	R	R-	INFLn	11	obl	_	_
+14	грѣхъ	грѣхъ	N	Nb	NUMBp|GENDm|CASEg	13	obl	_	_
+15	нашіхъ	нашь	P	Ps	PERS1|NUMBp|GENDm|CASEg	14	atr	_	_
+16	ꙇ	и	C	C-	INFLn	10	pred	_	_
+17	къ	къ	R	R-	INFLn	20	obl	_	_
+18	небесьсцѣі	небесьскъ	A	A-	NUMBs|GENDf|CASEd|DEGRp|STREw	19	atr	_	_
+19	любъві	любꙑ	N	Nb	NUMBs|GENDf|CASEd	17	obl	_	_
+20	при]ведетъ	привести	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	16	pred	_	_
+21	нъи	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEa	20	obj	_	_
+22	г҃мь	господь	N	Nb	NUMBs|GENDm|CASEi	8	adv	_	_
+23	наш	нашь	P	Ps	PERS1|NUMBs|GENDm|CASEi	22	atr	_	_
+
+1	МЬШѢ	мьша	N	Nb	NUMBs|GENDf|CASEn	0	sub(5)pred	_	_
+2	В	триѥ	M	Ma	INFLn	1	atr	_	_
+3	О	о	R	R-	INFLn	1	atr	_	_
+4	ТОМЗЕ	тъжде	P	Pd	NUMBs|GENDn|CASEl	3	obl	_	_
+
+1	Просімъ	просити	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+2	тѧ	тꙑ	P	Pp	PERS2|NUMBs|GENDm|CASEa	1	obj	_	_
+3	вьсемогъі	вьсемогꙑ	A	A-	NUMBs|GENDm|CASEn|DEGRp|STREs	4	atr	_	_
+4	б҃же	богъ	N	Nb	NUMBs|GENDm|CASEv	0	voc	_	_
+
+1	да	да	D	Df	INFLn	13	adv	_	_
+2	ѣкоже	ꙗкоже	D	Dq	INFLn	3	adv	_	_
+3	есмъ	бꙑти	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	13	adv	_	_
+4	скръбьні	скръбьнъ	A	A-	NUMBp|GENDm|CASEn|DEGRp|STREs	3	xobj	_	_
+5	грѣхъи	грѣхъ	N	Nb	NUMBp|GENDm|CASEi	4	obl	_	_
+6	нашімꙇ	нашь	P	Ps	PERS1|NUMBp|GENDm|CASEi	5	atr	_	_
+7	мілостьѭ	милость	N	Nb	NUMBs|GENDf|CASEi	13	adv	_	_
+8	твоеѭ	твои	P	Ps	PERS2|NUMBs|GENDf|CASEi	7	atr	_	_
+9	отъ	отъ	R	R-	INFLn	13	obl	_	_
+10	вьсѣхъ	вьсь	P	Px	NUMBp|GENDm|CASEg	11	atr	_	_
+11	зълиі	зъль	N	Nb	NUMBp|GENDm|CASEg	9	obl	_	_
+12	нашіхъ	нашь	P	Ps	PERS1|NUMBp|GENDm|CASEg	11	atr	_	_
+13	очісті	очистити	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+14	нъи	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEa	13	obj	_	_
+15	г҃мь	господь	N	Nb	NUMBs|GENDm|CASEi	13	adv	_	_
+
+1	НАДЪ	надъ	R	R-	INFLn	0	adv(3)pred	_	_
+2	ОПЛАТЪМЬ	оплатъ	N	Nb	NUMBs|GENDm|CASEi	1	obl	_	_
+
+1	Пріꙇмі	приѩти	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+2	г҃і	господь	N	Nb	NUMBs|GENDm|CASEv	0	voc	_	_
+3	просімъ	просити	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	0	parpred	_	_
+4	тѧ	тꙑ	P	Pp	PERS2|NUMBs|GENDm|CASEa	3	obj	_	_
+5	приносъ	приносъ	N	Nb	NUMBs|GENDm|CASEa	1	obj	_	_
+6	сь	сь	P	Pd	NUMBs|GENDm|CASEa	5	atr	_	_
+7	прінесенъі	принести	V	V-	NUMBs|TENSu|MOODp|VOICp|GENDm|CASEa|STREw	5	atr	_	_
+8	тебѣ	тꙑ	P	Pp	PERS2|NUMBs|GENDm|CASEd	7	obl	_	_
+9	избавлениѣ	избавлѥниѥ	N	Nb	NUMBs|GENDn|CASEg	10	obl	_	_
+10	раді	ради	R	R-	INFLn	1	adv	_	_
+11	чловѣчьска	чловѣчьскъ	A	A-	NUMBs|GENDn|CASEg|DEGRp|STREs	9	narg	_	_
+
+1	ꙇ	и	C	C-	INFLn	4	aux	_	_
+2	съдравіе	съдравиѥ	N	Nb	NUMBs|GENDn|CASEa	4	obj	_	_
+3	намъ	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEd	4	obl	_	_
+4	дазь	дати	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+
+1	ꙇ	и	C	C-	INFLn	6	aux	_	_
+2	дѹшѧ	доуша	N	Nb	NUMBp|GENDf|CASEa	4	obj	_	_
+3	нашѧ	нашь	P	Ps	PERS1|NUMBp|GENDf|CASEa	2	atr	_	_
+4	ꙇ	и	C	C-	INFLn	6	obj	_	_
+5	тѣлеса	тѣло	N	Nb	NUMBp|GENDn|CASEa	4	obj	_	_
+6	очисті	очистити	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+
+1	а	а	C	C-	INFLn	4	aux	_	_
+2	молітвѫ	молитва	N	Nb	NUMBs|GENDf|CASEa	4	obj	_	_
+3	нашѫ	нашь	P	Ps	PERS1|NUMBs|GENDf|CASEa	2	atr	_	_
+4	приꙇмі:	приѩти	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+5	г҃мь	господь	N	Nb	NUMBs|GENDm|CASEi	4	adv	_	_
+
+1	ПРѢФ	прѣфациꙗ	N	Nb	NUMBs|GENDf|CASEn	0	sub(2)pred	_	_
+
+1	ДО	достоинъ	A	A-	INFLn	0	xobj(2)pred	_	_
+
+1	вѣчьнъі	вѣчьнъ	A	A-	NUMBs|GENDm|CASEn|DEGRp|STREw	2	atr	_	_
+2	б҃же	богъ	N	Nb	NUMBs|GENDm|CASEv	0	voc	_	_
+3	Тъи	тꙑ	P	Pp	PERS2|NUMBs|GENDm|CASEn	4	sub	_	_
+4	есі	бꙑти	V	V-	PERS2|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+5	животъ	животъ	N	Nb	NUMBs|GENDm|CASEn	4	xobj	_	_
+6	нашь	нашь	P	Ps	PERS1|NUMBs|GENDm|CASEn	5	atr	_	_
+7	г҃і	господь	N	Nb	NUMBs|GENDm|CASEv	0	voc	_	_
+
+1	отъ	отъ	R	R-	INFLn	6	obl	_	_
+2	небъитіѣ	небꙑтиѥ	N	Nb	NUMBs|GENDn|CASEg	1	obl	_	_
+3	бо	бо	D	Df	INFLn	6	aux	_	_
+4	въ	въ	R	R-	INFLn	6	obl	_	_
+5	бъит[ие	бꙑтиѥ	N	Nb	NUMBs|GENDn|CASEa	4	obl	_	_
+6	сътворілъ	сътворити	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	0	pred	_	_
+7	нъи	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEa	6	obj	_	_
+8	есі	бꙑти	V	V-	PERS2|NUMBs|TENSp|MOODi|VOICa	6	aux	_	_
+
+1	ꙇ	и	C	C-	INFLn	3	aux	_	_
+2	от[ъ]падъшѧ	отъпасти	V	V-	NUMBp|TENSu|MOODp|VOICa|GENDm|CASEa|STREs	3	obj	_	_
+3	въскрѣсі	въскрѣсити	V	V-	PERS2|NUMBs|TENSa|MOODi|VOICa	0	pred	_	_
+4	пакъи	пакꙑ	D	Df	INFLn	3	adv	_	_
+
+1	да	да	C	C-	INFLn	4	aux	_	_
+2	намъ	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEd	4	obl	_	_
+3	не	не	D	Df	INFLn	4	aux	_	_
+4	достоітъ	достоꙗти	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+5	тебѣ	тꙑ	P	Pp	PERS2|NUMBs|GENDm|CASEd	6	obl	_	_
+6	съгрѣшаті	съгрѣшати	V	V-	TENSp|MOODn|VOICa	4	xobj	_	_
+
+1	твоѣ	твои	P	Ps	PERS2|NUMBp|GENDn|CASEn	3	xobj	_	_
+2	же	же	D	Df	INFLn	3	aux	_	_
+3	сѫ-.тъ	бꙑти	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+4	вьсѣ	вьсь	P	Px	NUMBp|GENDn|CASEn	6	atr	_	_
+5	небесьскаѣ	небесьскъ	A	A-	NUMBp|GENDn|CASEn|DEGRp|STREw	6	sub	_	_
+6	ꙇ	и	C	C-	INFLn	3	sub	_	_
+7	земльскаѣ	земьскъ	A	A-	NUMBp|GENDn|CASEn|DEGRp|STREw	6	sub	_	_
+8	г҃і	господь	N	Nb	NUMBs|GENDm|CASEv	0	voc	_	_
+
+1	да	да	D	Df	INFLn	7	adv	_	_
+2	тъи	тꙑ	P	Pp	PERS2|NUMBs|GENDm|CASEn	7	sub	_	_
+3	самъ	самъ	P	Pd	NUMBs|GENDm|CASEn	2	atr	_	_
+4	отъ	отъ	R	R-	INFLn	7	obl	_	_
+5	грѣхъ	грѣхъ	N	Nb	NUMBp|GENDm|CASEg	4	obl	_	_
+6	нашіхъ	нашь	P	Ps	PERS1|NUMBp|GENDm|CASEg	5	atr	_	_
+7	и[збави	избавити	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+8	нъи	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEa	7	obj	_	_
+9	х҃мь	христ(ос)ъ	N	Ne	NUMBs|GENDm|CASEi	7	adv	_	_
+10	г҃мь	господь	N	Nb	NUMBs|GENDm|CASEi	9	apos	_	_
+
+1	ПО	по	R	R-	INFLn	0	adv(3)pred	_	_
+2	ВЪСѪДѢ	въсѫдъ	N	Nb	NUMBs|GENDm|CASEl	1	obl	_	_
+
+1	Дазь	дати	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+2	намъ	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEd	1	obl	_	_
+3	вьсемогъі	вьсемогꙑ	A	A-	NUMBs|GENDm|CASEn|DEGRp|STREw	4	atr	_	_
+4	б҃же	богъ	N	Nb	NUMBs|GENDm|CASEv	0	voc	_	_
+
+1	да	да	D	Df	INFLn	15	adv	_	_
+2	ѣкоже	ꙗкоже	D	Dq	INFLn	7	adv	_	_
+3	нъи	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEa	7	obj	_	_
+4	есі	бꙑти	V	V-	PERS2|NUMBs|TENSp|MOODi|VOICa	7	aux	_	_
+5	небесьскъиѧ	небесьскъ	A	A-	NUMBs|GENDf|CASEg|DEGRp|STREw	6	atr	_	_
+6	піцѧ	пища	N	Nb	NUMBs|GENDf|CASEg	7	obl	_	_
+7	насъитілъ	насꙑтити	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	8	apos	_	_
+8	такозе	такожде	D	Df	INFLn	15	adv	_	_
+9	же	же	D	Df	INFLn	8	aux	_	_
+10	ꙇ	и	D	Df	INFLn	11	aux	_	_
+11	животъ	животъ	N	Nb	NUMBs|GENDm|CASEa	15	obj	_	_
+12	нашь	нашь	P	Ps	PERS1|NUMBs|GENDm|CASEa	11	atr	_	_
+13	сілоѭ	сила	N	Nb	NUMBs|GENDf|CASEi	15	adv	_	_
+14	твоеѭ	твои	P	Ps	PERS2|NUMBs|GENDf|CASEi	13	atr	_	_
+15	ѹтврьді	оутврьдити	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+16	г҃мь	господь	N	Nb	NUMBs|GENDm|CASEi	15	adv	_	_
+
+1	МЬШѢ	мьша	N	Nb	NUMBs|GENDf|CASEn	0	sub(5)pred	_	_
+2	Г	четꙑрe	M	Ma	INFLn	1	atr	_	_
+3	О	о	R	R-	INFLn	1	atr	_	_
+4	ТОМЗЕ	тъжде	P	Pd	NUMBs|GENDn|CASEl	3	obl	_	_
+
+1	Ц]ѣсарьствѣ	цѣсарьство	N	Nb	NUMBs|GENDn|CASEl	6	obl	_	_
+2	нашемь	нашь	P	Ps	PERS1|NUMBs|GENDn|CASEl	1	atr	_	_
+3	г҃і	господь	N	Nb	NUMBs|GENDm|CASEv	0	voc	_	_
+4	мілостьѭ	милость	N	Nb	NUMBs|GENDf|CASEi	6	adv	_	_
+5	твоеѭ	твои	P	Ps	PERS2|NUMBs|GENDf|CASEi	4	atr	_	_
+6	прізьрі	призьрѣти	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+
+1	ꙇ	и	C	C-	INFLn	3	aux	_	_
+2	не	не	D	Df	INFLn	3	aux	_	_
+3	отъдазь	отъдати	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+4	нашего	нашь	P	Ps	PERS1|NUMBs|GENDn|CASEg	3	obj	_	_
+5	тѹзꙇмъ	щоуждь	A	A-	NUMBp|GENDm|CASEd|DEGRp|STREw	3	obl	_	_
+
+1	ꙇ	и	C	C-	INFLn	3	aux	_	_
+2	не	не	D	Df	INFLn	3	aux	_	_
+3	обраті	обратити	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+4	насъ	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEg	3	obj	_	_
+5	въ	въ	R	R-	INFLn	3	obl	_	_
+6	плѣнъ	плѣнъ	N	Nb	NUMBs|GENDm|CASEa	5	obl	_	_
+7	народомъ	народъ	N	Nb	NUMBp|GENDm|CASEd	5	apos	_	_
+8	поганьскъимъ	поганьскъ	A	A-	NUMBp|GENDm|CASEd|DEGRp|STREw	7	atr	_	_
+9	х҃а	христ(ос)ъ	N	Ne	NUMBs|GENDm|CASEg	10	obl	_	_
+10	раді	ради	R	R-	INFLn	3	adv	_	_
+11	г҃і	господь	N	Nb	NUMBs|GENDm|CASEg	9	apos	_	_
+12	нашего	нашь	P	Ps	PERS1|NUMBs|GENDm|CASEg	11	atr	_	_
+13	іже	иже	P	Pr	NUMBs|GENDm|CASEn	14	sub	_	_
+14	цѣсарітъ	цѣсарити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	9	apos	_	_
+15	съ	съ	R	R-	INFLn	17	adv	_	_
+16	отьцемь	отьць	N	Nb	NUMBs|GENDm|CASEi	15	obl	_	_
+17	ꙇ	и	C	C-	INFLn	14	adv	_	_
+18	съ	съ	R	R-	INFLn	17	adv	_	_
+19	свѧтъимь	свѧтъ	A	A-	NUMBs|GENDm|CASEi|DEGRp|STREw	18	obl	_	_
+
+1	НАДЪ	надъ	R	R-	INFLn	0	adv(3)pred	_	_
+2	ОПЛАТЪМЬ	оплатъ	N	Nb	NUMBs|GENDm|CASEi	1	obl	_	_
+
+1	Т]воѣ	твои	P	Ps	PERS2|NUMBs|GENDf|CASEn	3	atr	_	_
+2	циркънаѣ	циркънъ	A	A-	NUMBs|GENDf|CASEn|DEGRp|STREw	3	atr	_	_
+3	тврьдь	тврьдь	N	Nb	NUMBs|GENDf|CASEn	4	sub	_	_
+4	зашчіті	защитити	V	V-	PERS3|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+5	нъи	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEa	4	obj	_	_
+6	г҃і	господь	N	Nb	NUMBs|GENDm|CASEv	0	voc	_	_
+7	ѭже	иже	P	Pr	NUMBs|GENDf|CASEa	11	obj	_	_
+8	есі	бꙑти	V	V-	PERS2|NUMBs|TENSp|MOODi|VOICa	11	aux	_	_
+9	образъмь	образъ	N	Nb	NUMBs|GENDm|CASEi	11	adv	_	_
+10	своімь	свои	P	Pt	PERS3|NUMBs|GENDm|CASEi	9	atr	_	_
+11	ѹподобілъ	оуподобити	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	3	apos	_	_
+12	ѭже	иже	P	Pr	NUMBs|GENDf|CASEa	14	obj	_	_
+13	нъи	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEn	14	sub	_	_
+14	чьстімъ	чьстити	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	3	apos	_	_
+15	на	на	R	R-	INFLn	14	adv	_	_
+16	бальство	бальство	N	Nb	NUMBs|GENDn|CASEa	15	obl	_	_
+17	наше	нашь	P	Ps	PERS1|NUMBs|GENDn|CASEa	16	narg	_	_
+
+1	тог]о	тъ	P	Pd	NUMBs|GENDn|CASEg	2	obl	_	_
+2	раді	ради	R	R-	INFLn	7	adv	_	_
+3	есі	бꙑти	V	V-	PERS2|NUMBs|TENSp|MOODi|VOICa	7	aux	_	_
+4	намъ	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEd	7	obl	_	_
+5	вѣчьн]ое	вѣчьнъ	A	A-	NUMBs|GENDn|CASEa|DEGRp|STREw	6	atr	_	_
+6	обѣцѣние	обѣщаниѥ	N	Nb	NUMBs|GENDn|CASEa	7	obj	_	_
+7	принеслъ	принести	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	0	pred	_	_
+8	г҃]мь	господь	N	Nb	NUMBs|GENDm|CASEi	7	adv	_	_
+9	нашімь:	нашь	P	Ps	PERS1|NUMBs|GENDm|CASEi	8	atr	_	_
+
+1	ПРѢФ[АЦИѢ	прѣфациꙗ	N	Nb	NUMBs|GENDf|CASEn	0	sub(2)pred	_	_
+
+1	Д	достоинъ	A	A-	INFLn	0	xobj(2)pred	_	_
+
+1	Да	да	C	C-	INFLn	12	aux	_	_
+2	ѣкъиже	ꙗкъже	P	Pr	NUMBp|GENDf|CASEn	3	xobj	_	_
+3	сѫтъ	бꙑти	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	8	apos	_	_
+4	твоѧ	твои	P	Ps	PERS2|NUMBp|GENDf|CASEn	6	atr	_	_
+5	сі	себе	P	Pk	PERS3|NUMBs|GENDm|CASEd	6	atr	_	_
+6	слѹжьбъи	слоужьба	N	Nb	NUMBp|GENDf|CASEn	3	sub	_	_
+7	въжлюбленъиѧ	възлюбити	V	V-	NUMBp|TENSu|MOODp|VOICp|GENDf|CASEn|STREw	6	atr	_	_
+8	такъиже	такъжде	P	Pd	NUMBp|GENDf|CASEa	12	obj	_	_
+9	мъисльмі	мꙑсль	N	Nb	NUMBp|GENDf|CASEi	12	adv	_	_
+10	своімі	свои	P	Pt	PERS3|NUMBp|GENDf|CASEi	9	atr	_	_
+11	нъи	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEn	12	sub	_	_
+12	творімъ	творити	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+
+1	а	а	C	C-	INFLn	7	aux	_	_
+2	тъи	тꙑ	P	Pp	PERS2|NUMBs|GENDm|CASEn	7	sub	_	_
+3	самъ	самъ	P	Pd	NUMBs|GENDm|CASEn	2	atr	_	_
+4	г҃і	господь	N	Nb	NUMBs|GENDm|CASEv	0	voc	_	_
+5	присно	присно	D	Df	DEGRp	7	adv	_	_
+6	нъи	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEa	7	obj	_	_
+7	пріемлі	приимати	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+8	да	да	G	G-	INFLn	7	adv	_	_
+9	възможемъ	възмощи	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	8	pred	_	_
+10	правьдьнаѣ	правьдьнъ	A	A-	NUMBp|GENDn|CASEa|DEGRp|STREw	12	obj	_	_
+11	твоѣ	твои	P	Ps	PERS2|NUMBp|GENDn|CASEa	10	atr	_	_
+12	наслѣдоваті	наслѣдовати	V	V-	TENSp|MOODn|VOICa	13	xobj	_	_
+13	ꙇ	и	C	C-	INFLn	9	xobj	_	_
+14	отъ	отъ	R	R-	INFLn	17	obl	_	_
+15	непріѣзнінъ	неприꙗзнинъ	A	A-	NUMBp|GENDn|CASEg|DEGRp|STREs	16	atr	_	_
+16	дѣлъ	дѣло	N	Nb	NUMBp|GENDn|CASEg	14	obl	_	_
+17	очіститі	очистити	V	V-	TENSp|MOODn|VOICa	13	xobj	_	_
+18	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	17	aux	_	_
+19	х҃мь	христ(ос)ъ	N	Ne	NUMBs|GENDm|CASEi	7	adv	_	_
+20	г҃мь	господь	N	Nb	NUMBs|GENDm|CASEi	19	apos	_	_
+21	нашмь	нашь	P	Ps	PERS1|NUMBs|GENDm|CASEi	20	atr	_	_
+22	імьже	иже	P	Pr	NUMBs|GENDm|CASEi	19	adv(24)apos	_	_
+23	велічьство:	величьство	N	Nb	NUMBs|GENDn|CASEn	19	sub(24)apos	_	_
+
+1	ПО	по	R	R-	INFLn	0	adv(3)pred	_	_
+2	ВЪСѪДѢ	въсѫдъ	N	Nb	NUMBs|GENDm|CASEl	1	obl	_	_
+
+1	Твоѣ	твои	P	Ps	PERS2|NUMBp|GENDn|CASEn	2	atr	_	_
+2	свѧтаѣ	свѧтъ	A	A-	NUMBp|GENDn|CASEn|DEGRp|STREw	15	sub	_	_
+3	вьсемогъі	вьсемогꙑ	A	A-	NUMBs|GENDm|CASEn|DEGRp|STREw	4	atr	_	_
+4	б҃же	богъ	N	Nb	NUMBs|GENDm|CASEv	0	voc	_	_
+5	ѣже	иже	P	Pr	NUMBp|GENDn|CASEa	8	obj	_	_
+6	се	се	I	I-	INFLn	0	voc	_	_
+7	нъи	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEn	8	sub	_	_
+8	пріемлемъ	приимати	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	2	apos	_	_
+9	на	на	R	R-	INFLn	11	xobj	_	_
+10	раздрѣшение	раздрѣшениѥ	N	Nb	NUMBs|GENDn|CASEa	9	obl	_	_
+11	ꙇ	и	C	C-	INFLn	15	xobj	_	_
+12	на	на	R	R-	INFLn	11	xobj	_	_
+13	очишчение	очищениѥ	N	Nb	NUMBs|GENDn|CASEa	12	obl	_	_
+14	намъ	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEd	10	narg	_	_
+15	бѫдѫ	бꙑти	V	V-	PERS3|NUMBp|TENSp|MOODm|VOICa	0	pred	_	_
+
+1	а	а	C	C-	INFLn	7	aux	_	_
+2	тъи	тꙑ	P	Pp	PERS2|NUMBs|GENDm|CASEn	7	sub	_	_
+3	самъ	самъ	P	Pd	NUMBs|GENDm|CASEn	2	atr	_	_
+4	помоцьѭ	помощь	N	Nb	NUMBs|GENDf|CASEi	7	adv	_	_
+5	твоеѭ	твои	P	Ps	PERS2|NUMBs|GENDf|CASEi	4	atr	_	_
+6	вѣчьноѭ	вѣчьнъ	A	A-	NUMBs|GENDf|CASEi|DEGRp|STREw	4	atr	_	_
+7	зашчіті	защитити	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+8	нъи	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEa	7	obj	_	_
+9	г҃мь	господь	N	Nb	NUMBs|GENDm|CASEi	7	adv	_	_
+
+1	МЬШѢ	мьша	N	Nb	NUMBs|GENDf|CASEn	0	sub(5)pred	_	_
+2	Д҃	пѧть	M	Ma	INFLn	1	atr	_	_
+3	О	о	R	R-	INFLn	1	atr	_	_
+4	ТОМЬЗЕ:	тъжде	P	Pd	NUMBs|GENDn|CASEl	3	obl	_	_
+
+1	Просімъ	просити	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+2	тѧ	тꙑ	P	Pp	PERS2|NUMBs|GENDm|CASEa	1	obj	_	_
+3	г҃і	господь	N	Nb	NUMBs|GENDm|CASEv	0	voc	_	_
+
+1	въздвігні	въздвигнѫти	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+2	срьдьца	срьдьце	N	Nb	NUMBp|GENDn|CASEa	1	obj	_	_
+3	нашѣ	нашь	P	Ps	PERS1|NUMBp|GENDn|CASEa	2	atr	_	_
+4	къ	къ	R	R-	INFLn	1	obl	_	_
+5	тебѣ	тꙑ	P	Pp	PERS2|NUMBs|GENDm|CASEd	4	obl	_	_
+6	отъ	отъ	R	R-	INFLn	1	obl	_	_
+7	земльскъихъ	земьскъ	A	A-	NUMBp|GENDf|CASEg|DEGRp|STREw	8	atr	_	_
+8	похот[ии	похоть	N	Nb	NUMBp|GENDf|CASEg	6	obl	_	_
+9	да	да	G	G-	INFLn	1	adv	_	_
+10	възможемъ	възмощи	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	9	pred	_	_
+11	хотѣті	хотѣти	V	V-	TENSp|MOODn|VOICa	10	xobj	_	_
+12	не]бесьскъимъ	небесьскъ	A	A-	NUMBp|GENDn|CASEd|DEGRp|STREw	11	obl	_	_
+13	твоімъ	твои	P	Ps	PERS2|NUMBp|GENDn|CASEd	12	atr	_	_
+
+1	НАДЪ	надъ	R	R-	INFLn	0	adv(3)pred	_	_
+2	ОПЛАТ]ЪМЬ	оплатъ	N	Nb	NUMBs|GENDm|CASEi	1	obl	_	_
+
+1	къиже	кꙑиже	P	Pr	NUMBp|GENDm|CASEa	3	obj	_	_
+2	даръи	даръ	N	Nb	NUMBp|GENDm|CASEn	6	sub	_	_
+3	ꙇмамъ	имѣти	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	2	apos	_	_
+4	прѣдъ	прѣдъ	R	R-	INFLn	6	xobj	_	_
+5	тобоѭ	тꙑ	P	Pp	PERS2|NUMBs|GENDm|CASEi	4	obl	_	_
+6	сѫтъ	бꙑти	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+
+1	ꙇ	и	C	C-	INFLn	2	aux	_	_
+2	просімъ	просити	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+3	тѧ	тꙑ	P	Pp	PERS2|NUMBs|GENDm|CASEa	2	obj	_	_
+
+1	пріꙇмі	приѩти	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+2	ѧ	и	P	Pp	PERS3|NUMBp|GENDm|CASEa	1	obj	_	_
+3	да	да	G	G-	INFLn	1	adv	_	_
+4	і	и	D	Df	INFLn	5	aux	_	_
+5	нъи	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEn	6	sub	_	_
+6	възможемъ	възмощи	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	3	pred	_	_
+7	въ	въ	R	R-	INFLn	6	xobj(12)xobj	_	_
+8	въжлюблениі	възлюблѥниѥ	N	Nb	NUMBs|GENDn|CASEl	7	obl	_	_
+9	твоемь	твои	P	Ps	PERS2|NUMBs|GENDn|CASEl	8	atr	_	_
+10	г҃мь	господь	N	Nb	NUMBs|GENDm|CASEi	1	adv	_	_
+11	нашімь	нашь	P	Ps	PERS1|NUMBs|GENDm|CASEi	10	atr	_	_
+
+1	ПРѢФАЦИѢ	прѣфациꙗ	N	Nb	NUMBs|GENDf|CASEn	0	sub(2)pred	_	_
+
+1	ДО	достоинъ	A	A-	INFLn	0	xobj(2)pred	_	_
+
+1	вѣчьнъі	вѣчьнъ	A	A-	NUMBs|GENDm|CASEn|DEGRp|STREw	2	atr	_	_
+2	б҃же	богъ	N	Nb	NUMBs|GENDm|CASEv	0	voc	_	_
+3	Зълоба	зълоба	N	Nb	NUMBs|GENDf|CASEn	6	sub	_	_
+4	нашѣ	нашь	P	Ps	PERS1|NUMBs|GENDf|CASEn	3	atr	_	_
+5	не	не	D	Df	INFLn	6	aux	_	_
+6	върѣсні	върѣснити	V	V-	PERS3|NUMBs|TENSp|MOODm|VOICa	10	pred	_	_
+7	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	6	aux	_	_
+8	въ	въ	R	R-	INFLn	6	obl	_	_
+9	насъ	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEl	8	obl	_	_
+10	нъ	нъ	C	C-	INFLn	0	pred	_	_
+11	издрѣшение	издрѣшениѥ	N	Nb	NUMBs|GENDn|CASEn	15	sub	_	_
+12	вѣчьное	вѣчьнъ	A	A-	NUMBs|GENDn|CASEn|DEGRp|STREw	11	atr	_	_
+13	прісно	присно	D	Df	DEGRp	15	adv	_	_
+14	намъ	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEd	11	narg	_	_
+15	бѫді	бꙑти	V	V-	PERS3|NUMBs|TENSp|MOODm|VOICa	10	pred	_	_
+16	г҃і	господь	N	Nb	NUMBs|GENDm|CASEg	18	obl	_	_
+17	нашего	нашь	P	Ps	PERS1|NUMBs|GENDm|CASEg	16	atr	_	_
+18	раді	ради	R	R-	INFLn	15	adv	_	_
+
+1	тъ	тъ	P	Pd	NUMBs|GENDm|CASEn	7	sub	_	_
+2	бо	бо	D	Df	INFLn	7	aux	_	_
+3	нъи	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEa	7	obj	_	_
+4	самъ	самъ	P	Pd	NUMBs|GENDm|CASEn	1	atr	_	_
+5	отъ	отъ	R	R-	INFLn	7	obl	_	_
+6	тьмьнъихъ	тьмьнъ	A	A-	NUMBp|GENDq|CASEg|DEGRp|STREw	5	obl	_	_
+7	отъведе	отъвести	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	8	pred	_	_
+8	ꙇ	и	C	C-	INFLn	0	pred	_	_
+9	очісті	очистити	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	8	pred	_	_
+10	ꙇ	и	C	C-	INFLn	8	aux	_	_
+11	заклепе	закленѫти	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	8	pred	_	_
+12	ꙇ	и	C	C-	INFLn	8	aux	_	_
+13	достоіно	достоино	D	Df	DEGRp	14	adv	_	_
+14	избаві	избавити	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	8	pred	_	_
+15	х҃мь	христ(ос)ъ	N	Ne	NUMBs|GENDm|CASEi	7	adv	_	_
+16	г҃мь	господь	N	Nb	NUMBs|GENDm|CASEi	15	apos	_	_
+17	нашимь	нашь	P	Ps	PERS1|NUMBs|GENDm|CASEi	16	atr	_	_
+
+1	ПО	по	R	R-	INFLn	0	adv(3)pred	_	_
+2	ВЪСѪДѢ	въсѫдъ	N	Nb	NUMBs|GENDm|CASEl	1	obl	_	_
+
+1	Въсѫдьнаѣ	въсѫдьнъ	A	A-	NUMBs|GENDf|CASEn|DEGRp|STREw	2	atr	_	_
+2	молітва	молитва	N	Nb	NUMBs|GENDf|CASEn	0	sub(4)pred	_	_
+3	нашѣ	нашь	P	Ps	PERS1|NUMBs|GENDf|CASEn	2	atr	_	_
+
+1	ѹтврьді	оутврьдити	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+2	нъи	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEa	1	obj	_	_
+3	г҃і	господь	N	Nb	NUMBs|GENDm|CASEv	0	voc	_	_
+4	вѣчьнъимі	вѣчьнъ	A	A-	NUMBp|GENDq|CASEi|DEGRp|STREw	1	obl	_	_
+5	твоімі	твои	P	Ps	PERS2|NUMBp|GENDq|CASEi	4	atr	_	_
+
+1	ꙇ	и	C	C-	INFLn	2	aux	_	_
+2	подазь	подати	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+3	намъ	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEd	2	obl	_	_
+4	съпасение	съпасениѥ	N	Nb	NUMBs|GENDn|CASEa	2	obj	_	_
+5	твое	твои	P	Ps	PERS2|NUMBs|GENDn|CASEa	4	atr	_	_
+6	г҃мь	господь	N	Nb	NUMBs|GENDm|CASEi	2	adv	_	_
+7	нашімь:	нашь	P	Ps	PERS1|NUMBs|GENDm|CASEi	6	atr	_	_
+
+1	МЬШѢ	мьша	N	Nb	NUMBs|GENDf|CASEn	0	sub(5)pred	_	_
+2	Е҃	шесть	M	Ma	INFLn	1	atr	_	_
+3	О	о	R	R-	INFLn	1	atr	_	_
+4	ТОМЗЕ	тъжде	P	Pd	NUMBs|GENDn|CASEl	3	obl	_	_
+
+1	Т]ъи	тꙑ	P	Pp	PERS2|NUMBs|GENDm|CASEn	3	sub	_	_
+2	г҃і	господь	N	Nb	NUMBs|GENDm|CASEv	0	voc	_	_
+3	отьмі	отѧти	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+4	нъи	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEa	3	obj	_	_
+5	отъ	отъ	R	R-	INFLn	3	obl	_	_
+6	лѫкавьства	лѫкавьство	N	Nb	NUMBs|GENDn|CASEg	5	obl	_	_
+7	нашего	нашь	P	Ps	PERS1|NUMBs|GENDn|CASEg	6	atr	_	_
+
+1	ꙇ	и	C	C-	INFLn	4	aux	_	_
+2	твоеѭ	твои	P	Ps	PERS2|NUMBs|GENDf|CASEi	3	atr	_	_
+3	мілостиѭ	милость	N	Nb	NUMBs|GENDf|CASEi	4	adv	_	_
+4	обрати	обратити	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+5	нъи	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEa	4	obj	_	_
+6	на	на	R	R-	INFLn	4	obl	_	_
+7	правьдѫ	правьда	N	Nb	NUMBs|GENDf|CASEa	6	obl	_	_
+8	твоѭ	твои	P	Ps	PERS2|NUMBs|GENDf|CASEa	7	atr	_	_
+9	г҃мь	господь	N	Nb	NUMBs|GENDm|CASEi	4	adv	_	_
+10	нашімь	нашь	P	Ps	PERS1|NUMBs|GENDm|CASEi	9	atr	_	_
+
+1	НАДЪ	надъ	R	R-	INFLn	0	adv(3)pred	_	_
+2	ОПЛАТЪМЬ	оплатъ	N	Nb	NUMBs|GENDm|CASEi	1	obl	_	_
+
+1	Прінесенъі	принести	V	V-	NUMBs|TENSu|MOODp|VOICp|GENDm|CASEn|STREw	5	atr	_	_
+2	тебѣ	тꙑ	P	Pp	PERS2|NUMBs|GENDm|CASEd	1	obl	_	_
+3	г҃і	господь	N	Nb	NUMBs|GENDm|CASEv	0	voc	_	_
+4	сьі	съ	P	Pd	NUMBs|GENDm|CASEn	5	atr	_	_
+5	даръ	даръ	N	Nb	NUMBs|GENDm|CASEn	21	sub(31)pred	_	_
+6	ꙇже	иже	P	Pr	NUMBs|GENDm|CASEa	9	obj	_	_
+7	тъи	тꙑ	P	Pp	PERS2|NUMBs|GENDm|CASEn	9	sub	_	_
+8	есі	бꙑти	V	V-	PERS2|NUMBs|TENSp|MOODi|VOICa	9	aux	_	_
+9	далъ	дати	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	10	apos	_	_
+10	ꙇ	и	C	C-	INFLn	5	apos	_	_
+11	сътворꙇлъ	сътворити	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	10	apos	_	_
+12	цꙇръкъве	црькꙑ	N	Nb	NUMBs|GENDf|CASEg	13	obl	_	_
+13	раді	ради	R	R-	INFLn	15	adv	_	_
+14	твоеѧ	твои	P	Ps	PERS2|NUMBs|GENDf|CASEg	12	atr	_	_
+15	ꙇ	и	C	C-	INFLn	9	adv	_	_
+16	жівота	животъ	N	Nb	NUMBs|GENDm|CASEg	17	obl	_	_
+17	ꙇ	и	C	C-	INFLn	20	obl	_	_
+18	прѣставлениѣ	прѣставлѥниѥ	N	Nb	NUMBs|GENDn|CASEg	17	obl	_	_
+19	нашего	нашь	P	Ps	PERS1|NUMBs|GENDo|CASEg	17	atr	_	_
+20	раді	ради	R	R-	INFLn	15	adv	_	_
+21	ꙇ	и	C	C-	INFLn	0	pred	_	_
+22	съвѣстѹемъ	съвѣстовати	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	21	pred	_	_
+23	нъи	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEn	22	sub	_	_
+24	ѣко	ꙗко	G	G-	INFLn	22	comp	_	_
+25	бальство	бальство	N	Nb	NUMBs|GENDn|CASEn	26	xobj	_	_
+26	естъ	бꙑти	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	24	pred	_	_
+27	то	тъ	P	Pd	NUMBs|GENDn|CASEn	26	sub	_	_
+28	живота	животъ	N	Nb	NUMBs|GENDm|CASEg	25	atr	_	_
+29	вѣчьнаго	вѣчьнъ	A	A-	NUMBs|GENDm|CASEg|DEGRp|STREw	28	atr	_	_
+30	г҃мь	господь	N	Nb	NUMBs|GENDm|CASEi	22	adv	_	_
+
+1	ПРѢФАЦИѢ	прѣфациꙗ	N	Nb	NUMBs|GENDf|CASEn	0	sub(2)pred	_	_
+
+1	ДО	достоинъ	A	A-	INFLn	0	xobj(2)pred	_	_
+
+1	вѣчьнъі	вѣчьнъ	A	A-	NUMBs|GENDm|CASEn|DEGRp|STREw	2	atr	_	_
+2	б҃же	богъ	N	Nb	NUMBs|GENDm|CASEv	0	voc	_	_
+3	Молімъ	молити	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+4	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	3	aux	_	_
+5	и҃сѹ	исоусъ	N	Ne	NUMBs|GENDm|CASEd	3	obl	_	_
+6	х҃ѹ	христ(ос)ъ	N	Ne	NUMBs|GENDm|CASEd	5	apos	_	_
+7	съинѹ	сꙑнъ#1	N	Nb	NUMBs|GENDm|CASEd	5	apos	_	_
+8	твоемѹ	твои	P	Ps	PERS2|NUMBs|GENDm|CASEd	7	atr	_	_
+9	г҃і	господь	N	Nb	NUMBs|GENDm|CASEd	5	apos	_	_
+10	нашемѹ	нашь	P	Ps	PERS1|NUMBs|GENDm|CASEd	9	atr	_	_
+11	да	да	G	G-	INFLn	3	comp	_	_
+12	мілостьѭ	милость	N	Nb	NUMBs|GENDf|CASEi	14	adv	_	_
+13	своеѭ	свои	P	Pt	PERS3|NUMBs|GENDf|CASEi	12	atr	_	_
+14	зашчітітъ	защитити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	16	pred	_	_
+15	нъи	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEa	14	obj	_	_
+16	ꙇ	и	C	C-	INFLn	11	pred	_	_
+17	съпасетъ	съпасти#1	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	16	pred	_	_
+18	беж	без	R	R-	INFLn	23	adv	_	_
+19	негоже	иже	P	Pr	NUMBs|GENDm|CASEg	21	atr	_	_
+20	бо	бо	D	Df	INFLn	23	aux	_	_
+21	мілості	милость	N	Nb	NUMBs|GENDf|CASEg	18	obl	_	_
+22	не	не	D	Df	INFLn	23	aux	_	_
+23	възможемъ	възмощи	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	5	apos	_	_
+24	ничьсоже	ничьтоже	P	Px	NUMBs|GENDn|CASEg	25	obj	_	_
+25	сътворітꙇ	сътворити	V	V-	TENSp|MOODn|VOICa	23	xobj	_	_
+
+1	тѣмьже	тѣмьже	D	Df	INFLn	8	adv	_	_
+2	самого	самъ	P	Pd	NUMBs|GENDm|CASEg	3	atr	_	_
+3	его	и	P	Pp	PERS3|NUMBs|GENDm|CASEg	4	obl	_	_
+4	раді	ради	R	R-	INFLn	8	adv	_	_
+5	даръи	даръ	N	Nb	NUMBp|GENDm|CASEa	6	obj	_	_
+6	ꙇ	и	C	C-	INFLn	8	obj	_	_
+7	мілость	милость	N	Nb	NUMBs|GENDf|CASEa	6	obj	_	_
+8	пріемлемъ	приимати	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	9	pred	_	_
+9	ꙇ	и	C	C-	INFLn	0	pred	_	_
+10	въ	въ	R	R-	INFLn	12	adv	_	_
+11	любъві	любꙑ	N	Nb	NUMBs|GENDf|CASEl	10	obl	_	_
+12	живемъ	жити	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	9	pred	_	_
+13	х҃мь	христ(ос)ъ	N	Ne	NUMBs|GENDm|CASEi	12	adv	_	_
+14	г҃мь	господь	N	Nb	NUMBs|GENDm|CASEi	13	apos	_	_
+15	нашімь	нашь	P	Ps	PERS1|NUMBs|GENDm|CASEi	14	atr	_	_
+
+1	ПО	по	R	R-	INFLn	0	adv(3)pred	_	_
+2	ВЪСѪДѢ	въсѫдъ	N	Nb	NUMBs|GENDm|CASEl	1	obl	_	_
+
+1	Въсѫда	въсѫдъ	N	Nb	NUMBs|GENDm|CASEg	4	obl	_	_
+2	твоего	твои	P	Ps	PERS2|NUMBs|GENDm|CASEg	1	atr	_	_
+3	г҃і	господь	N	Nb	NUMBs|GENDm|CASEv	0	voc	_	_
+4	насъицені	насꙑтити	V	V-	NUMBp|TENSu|MOODp|VOICp|GENDm|CASEn|STREs	5	xadv	_	_
+5	просімъ	просити	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+6	тѧ	тꙑ	P	Pp	PERS2|NUMBs|GENDm|CASEa	5	obj	_	_
+
+1	отъ	отъ	R	R-	INFLn	6	obl	_	_
+2	вьсѣхъ	вьсь	P	Px	NUMBp|GENDq|CASEg	3	atr	_	_
+3	противѧцꙇхъ	противити	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDq|CASEg|STREw	1	obl	_	_
+4	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	3	aux	_	_
+5	намъ	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEd	3	obl	_	_
+6	съпасі	съпасти#1	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+7	нъи	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEa	6	obj	_	_
+8	г҃мь	господь	N	Nb	NUMBs|GENDm|CASEi	6	adv	_	_
+9	наші	нашь	P	Ps	PERS1|NUMBs|GENDm|CASEi	8	atr	_	_
+
+1	МЬШѢ	мьша	N	Nb	NUMBs|GENDf|CASEn	0	sub(4)pred	_	_
+2	О	о	R	R-	INFLn	1	atr	_	_
+3	МѪЧЕНꙆЦѢХЪ	мѫченикъ	N	Nb	NUMBp|GENDm|CASEl	2	obl	_	_
+
+1	Мѫченꙇкъ	мѫченикъ	N	Nb	NUMBp|GENDm|CASEg	4	atr	_	_
+2	твоіхъ	твои	P	Ps	PERS2|NUMBp|GENDm|CASEg	1	atr	_	_
+3	г҃і	господь	N	Nb	NUMBs|GENDm|CASEv	0	voc	_	_
+4	чьсті	чьсть	N	Nb	NUMBp|GENDf|CASEa	5	obj	_	_
+5	чьстѧце	чьстити	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDm|CASEn|STREs	6	xadv	_	_
+6	молімъ	молити	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+7	тѧ	тꙑ	P	Pp	PERS2|NUMBs|GENDm|CASEa	6	obj	_	_
+8	просѧце	просити	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDm|CASEn|STREs	6	xadv	_	_
+
+1	да	да	D	Df	INFLn	15	adv	_	_
+2	ѣкоже	ꙗкоже	D	Dq	INFLn	8	adv	_	_
+3	ѧ	и	P	Pp	PERS3|NUMBp|GENDm|CASEa	8	obj	_	_
+4	есі	бꙑти	V	V-	PERS2|NUMBs|TENSp|MOODi|VOICa	8	aux	_	_
+5	славоѭ	слава	N	Nb	NUMBs|GENDf|CASEi	8	adv	_	_
+6	твоеѭ	твои	P	Ps	PERS2|NUMBs|GENDf|CASEi	5	atr	_	_
+7	небесьскооѭ	небесьскъ	A	A-	NUMBs|GENDf|CASEi|DEGRp|STREw	5	atr	_	_
+8	ѹтврьділъ	оутврьдити	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	9	apos	_	_
+9	такозе	такоже	D	Df	INFLn	15	adv	_	_
+10	же	же	D	Df	INFLn	9	aux	_	_
+11	ꙇ	и	D	Df	INFLn	12	aux	_	_
+12	нъи	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEa	15	obj	_	_
+13	мілостіѭ	милость	N	Nb	NUMBs|GENDf|CASEi	15	adv	_	_
+14	твоеѭ	твои	P	Ps	PERS2|NUMBs|GENDf|CASEi	13	atr	_	_
+15	прꙇмі	приѩти	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+16	г҃мь	господь	N	Nb	NUMBs|GENDm|CASEi	15	adv	_	_
+
+1	НАДЪ	надъ	R	R-	INFLn	0	adv(3)pred	_	_
+2	ОПЛАТМЬ	оплатъ	N	Nb	NUMBs|GENDm|CASEi	1	obl	_	_
+
+1	Пріносъ	приносъ	N	Nb	NUMBs|GENDm|CASEa	8	obj	_	_
+2	г҃і	господь	N	Nb	NUMBs|GENDm|CASEv	0	voc	_	_
+3	прінесенъі	принести	V	V-	NUMBs|TENSu|MOODp|VOICp|GENDm|CASEa|STREw	1	atr	_	_
+4	тебѣ	тꙑ	P	Pp	PERS2|NUMBs|GENDm|CASEd	3	obl	_	_
+5	мѫченікъ	мѫченикъ	N	Nb	NUMBp|GENDm|CASEg	7	obl	_	_
+6	свѧтъихъ	свѧтъ	A	A-	NUMBp|GENDm|CASEg|DEGRp|STREw	5	atr	_	_
+7	раді	ради	R	R-	INFLn	8	adv	_	_
+8	примі	приѩти	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+
+1	ꙇ	и	C	C-	INFLn	7	aux	_	_
+2	молітвамі	молитва	N	Nb	NUMBp|GENDf|CASEi	4	adv	_	_
+3	ꙇхъ	и	P	Pp	PERS3|NUMBp|GENDm|CASEg	2	atr	_	_
+4	ꙇ	и	C	C-	INFLn	7	adv	_	_
+5	заповѣдьмі	заповѣдь	N	Nb	NUMBp|GENDf|CASEi	4	adv	_	_
+6	твоꙇмі	твои	P	Ps	PERS2|NUMBp|GENDf|CASEi	5	atr	_	_
+7	пріспѣі	приспѣти	V	V-	PERS3|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+8	намъ	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEd	7	obl	_	_
+9	помоць	помощь	N	Nb	NUMBs|GENDf|CASEn	7	sub	_	_
+10	твоѣ	твои	P	Ps	PERS2|NUMBs|GENDf|CASEn	9	atr	_	_
+11	г҃мь	господь	N	Nb	NUMBs|GENDm|CASEi	7	adv	_	_
+
+1	ПО	по	R	R-	INFLn	0	adv(3)pred	_	_
+2	ВЪСѪДѢ	въсѫдъ	N	Nb	NUMBs|GENDm|CASEl	1	obl	_	_
+
+1	Очисті	очистити	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+2	нъи	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEa	1	obj	_	_
+3	г҃і	господь	N	Nb	NUMBs|GENDm|CASEv	0	voc	_	_
+4	просімъ	просити	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	0	parpred	_	_
+5	тѧ	тꙑ	P	Pp	PERS2|NUMBs|GENDm|CASEa	4	obj	_	_
+6	небесьскъихъ	небесьскъ	A	A-	NUMBp|GENDf|CASEg|DEGRp|STREw	9	atr	_	_
+7	твоіхъ	твои	P	Ps	PERS2|NUMBp|GENDf|CASEg	9	atr	_	_
+8	раді	ради	R	R-	INFLn	1	adv	_	_
+9	заповѣдьі	заповѣдь	N	Nb	NUMBp|GENDf|CASEg	8	obl	_	_
+
+1	ꙇ	и	C	C-	INFLn	2	aux	_	_
+2	ѹтврьді	оутврьдити	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+3	нъи	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEa	2	obj	_	_
+4	да	да	G	G-	INFLn	2	adv	_	_
+5	славимъ	славити	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	4	pred	_	_
+6	тѧ	тꙑ	P	Pp	PERS2|NUMBs|GENDm|CASEa	5	obj	_	_
+7	прѣдъ	прѣдъ	R	R-	INFLn	5	adv	_	_
+8	свѧтъимі	свѧтъ	A	A-	NUMBp|GENDm|CASEi|DEGRp|STREw	7	obl	_	_
+9	твоімꙇ	твои	P	Ps	PERS2|NUMBp|GENDm|CASEi	8	atr	_	_
+10	молітвамі	молитва	N	Nb	NUMBp|GENDf|CASEi	5	adv	_	_
+11	нашімі	нашь	P	Ps	PERS1|NUMBp|GENDf|CASEi	10	atr	_	_
+12	г҃мь	господь	N	Nb	NUMBs|GENDm|CASEi	2	adv	_	_
+13	нашімь	нашь	P	Ps	PERS1|NUMBs|GENDm|CASEi	12	atr	_	_
+
+1	МЬШѢ	мьша	N	Nb	NUMBs|GENDf|CASEn	0	sub(6)pred	_	_
+2	О	о	R	R-	INFLn	1	atr	_	_
+3	ВЬСХЪ	вьсь	P	Px	NUMBp|GENDf|CASEl	5	atr	_	_
+4	НЕБЕССКЪИ]ХЪ	небесьскъ	A	A-	NUMBp|GENDf|CASEl|DEGRp|STREw	5	atr	_	_
+5	СꙆЛАХЪ	сила	N	Nb	NUMBp|GENDf|CASEl	2	obl	_	_
+
+1	Помлімъ	помолити	V	V-	PERS1|NUMBp|TENSp|MOODm|VOICa	0	pred	_	_
+2	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	1	aux	_	_
+
+1	Бъ	богъ	N	Nb	NUMBs|GENDm|CASEn	39	apos	_	_
+2	іже	иже	P	Pr	NUMBs|GENDm|CASEn	36	sub	_	_
+3	нъи	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEa	35	apos	_	_
+4	молꙇтвъи	молитва	N	Nb	NUMBs|GENDf|CASEg	5	obl	_	_
+5	раді	ради	R	R-	INFLn	11	adv	_	_
+6	блаженъиѧ	блаженъ	A	A-	NUMBs|GENDf|CASEg|DEGRp|STREw	7	atr	_	_
+7	б҃цѧ	богородица	N	Nb	NUMBs|GENDf|CASEg	8	atr	_	_
+8	ꙇ	и	C	C-	INFLn	4	atr	_	_
+9	пріснодѣвъи	приснодѣва	N	Nb	NUMBs|GENDf|CASEg	8	atr	_	_
+10	маріѧ	мариꙗ	N	Ne	NUMBs|GENDf|CASEg	9	apos	_	_
+11	ꙇ	и	C	C-	INFLn	36	adv	_	_
+12	блаженъихъ	блаженъ	A	A-	NUMBp|GENDm|CASEg|DEGRp|STREw	14	atr	_	_
+13	раді	ради	R	R-	INFLn	11	adv	_	_
+14	анꙉелъ	ангелъ	N	Nb	NUMBp|GENDm|CASEg	16	obl	_	_
+15	твоіхъ	твои	P	Ps	PERS2|NUMBp|GENDm|CASEg	14	atr	_	_
+16	ꙇ	и	C	C-	INFLn	13	obl	_	_
+17	вьсѣхъ	вьсь	P	Px	NUMBp|GENDf|CASEl	19	atr	_	_
+18	небесьскъихъ	небесьскъ	A	A-	NUMBp|GENDf|CASEl|DEGRp|STREw	19	atr	_	_
+19	сілахъ	сила	N	Nb	NUMBp|GENDf|CASEl	16	obl	_	_
+20	ꙇ	и	C	C-	INFLn	16	aux	_	_
+21	апостолъ	апостолъ	N	Nb	NUMBp|GENDm|CASEg	16	obl	_	_
+22	ꙇ	и	C	C-	INFLn	16	aux	_	_
+23	мѫченꙇкъ	мѫченикъ	N	Nb	NUMBp|GENDm|CASEg	16	obl	_	_
+24	ꙇ	и	C	C-	INFLn	16	aux	_	_
+25	прѣподобьнъихъ	прѣподобьнъ	A	A-	NUMBp|GENDm|CASEg|DEGRp|STREw	16	obl	_	_
+26	ꙇ	и	C	C-	INFLn	16	aux	_	_
+27	чістъихъ	чистъ	A	A-	NUMBp|GENDf|CASEg|DEGRp|STREw	28	atr	_	_
+28	дѣвъ	дѣва	N	Nb	NUMBp|GENDf|CASEg	16	obl	_	_
+29	ꙇ	и	C	C-	INFLn	11	aux	_	_
+30	въсѣхъ	вьсь	P	Px	NUMBp|GENDp|CASEg	31	atr	_	_
+31	свѧтъихъ	свѧтъ	A	A-	NUMBp|GENDp|CASEg|DEGRp|STREw	33	atr	_	_
+32	твоꙇхъ	твои	P	Ps	PERS2|NUMBp|GENDp|CASEg	31	atr	_	_
+33	молꙇтвамі	молитва	N	Nb	NUMBp|GENDf|CASEi	11	adv	_	_
+34	прісно	присно	D	Df	DEGRp	36	adv	_	_
+35	нъи	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEa	36	obj	_	_
+36	възвеселілъ	възвеселити	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	1	apos	_	_
+37	есі	бꙑти	V	V-	PERS2|NUMBs|TENSp|MOODi|VOICa	36	aux	_	_
+38	просімъ	просити	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+39	тѧ	тꙑ	P	Pp	PERS2|NUMBs|GENDm|CASEa	38	obj	_	_
+40	г҃і	господь	N	Nb	NUMBs|GENDm|CASEv	0	voc	_	_
+
+1	да	да	D	Df	INFLn	13	adv	_	_
+2	ѣкоже	ꙗкоже	D	Dq	INFLn	4	adv	_	_
+3	нъи	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEn	4	sub	_	_
+4	чьстімъ	чьстити	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	13	adv	_	_
+5	чьсті	чьсть	N	Nb	NUMBp|GENDf|CASEa	4	obj	_	_
+6	сі	сь	P	Pd	NUMBp|GENDf|CASEa	5	atr	_	_
+7	ꙇхъ	и	P	Pp	PERS3|NUMBp|GENDm|CASEg	5	apos	_	_
+8	на	на	R	R-	INFLn	4	adv	_	_
+9	вьсѧ	вьсь	P	Px	NUMBp|GENDm|CASEa	10	atr	_	_
+10	дьні	дьнь	N	Nb	NUMBp|GENDm|CASEa	8	obl	_	_
+11	милостьѭ	милость	N	Nb	NUMBs|GENDf|CASEi	13	adv	_	_
+12	твоеѭ	твои	P	Ps	PERS2|NUMBs|GENDf|CASEi	11	atr	_	_
+13	дазь	дати	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+14	намъ	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEd	13	obl	_	_
+15	присно	присно	D	Df	DEGRp	16	adv	_	_
+16	наслѣдоваті	наслѣдовати	V	V-	TENSp|MOODn|VOICa	13	xobj	_	_
+17	небесьскъиѧ	небесьскъ	A	A-	NUMBp|GENDf|CASEa|DEGRp|STREw	19	atr	_	_
+18	твоѧ	твои	P	Ps	PERS2|NUMBp|GENDf|CASEa	19	atr	_	_
+19	силъи	сила	N	Nb	NUMBp|GENDf|CASEa	16	obj	_	_
+20	г҃мь	господь	N	Nb	NUMBs|GENDm|CASEi	13	adv	_	_
+21	нашмь	нашь	P	Ps	PERS1|NUMBs|GENDm|CASEi	20	atr	_	_
+
+1	НАД	надъ	R	R-	INFLn	0	adv(3)pred	_	_
+2	ОПЛАТМЬ	оплатъ	N	Nb	NUMBs|GENDm|CASEi	1	obl	_	_
+
+1	Даръ	даръ	N	Nb	NUMBs|GENDm|CASEn	19	sub	_	_
+2	сь	сь	P	Pd	NUMBs|GENDm|CASEn	1	atr	_	_
+3	принесенъи	принести	V	V-	NUMBs|TENSu|MOODp|VOICp|GENDm|CASEn|STREw	1	atr	_	_
+4	тебѣ	тꙑ	P	Pp	PERS2|NUMBs|GENDm|CASEd	3	obl	_	_
+5	г҃і	господь	N	Nb	NUMBs|GENDm|CASEv	0	voc	_	_
+6	вьсѣхъ	вьсь	P	Px	NUMBp|GENDf|CASEg	9	atr	_	_
+7	свѧтъихъ	свѧтъ	A	A-	NUMBp|GENDf|CASEg|DEGRp|STREw	9	atr	_	_
+8	небесьскъихъ	небесьскъ	A	A-	NUMBp|GENDf|CASEg|DEGRp|STREw	9	atr	_	_
+9	сꙇлъ	сила	N	Nb	NUMBp|GENDf|CASEg	10	obl	_	_
+10	раді	ради	R	R-	INFLn	11	adv	_	_
+11	ꙇ	и	C	C-	INFLn	19	adv	_	_
+12	вьсѣхъ	вьсь	P	Px	NUMBp|GENDp|CASEg	13	atr	_	_
+13	свѧтъихъ	свѧтъ	A	A-	NUMBp|GENDp|CASEg|DEGRp|STREw	15	obl	_	_
+14	твоіхъ	твои	P	Ps	PERS2|NUMBp|GENDp|CASEg	13	atr	_	_
+15	рад[и	ради	R	R-	INFLn	11	adv	_	_
+16	ꙇ	и	C	C-	INFLn	11	aux	_	_
+17	правьдьнъихъ	правьдьнъ	A	A-	NUMBp|GENDp|CASEg|DEGRp|STREw	18	obl	_	_
+18	раді	ради	R	R-	INFLn	11	adv	_	_
+19	бѫді	бꙑти	V	V-	PERS3|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+20	тебѣ	тꙑ	P	Pp	PERS2|NUMBs|GENDm|CASEd	22	narg	_	_
+21	въ	въ	R	R-	INFLn	19	xobj	_	_
+22	хвалѫ	хвала	N	Nb	NUMBs|GENDf|CASEa	21	obl	_	_
+
+1	а	а	C	C-	INFLn	6	aux	_	_
+2	намъ	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEd	6	obl	_	_
+3	молітвамі	молитва	N	Nb	NUMBp|GENDf|CASEi	6	adv	_	_
+4	ꙇхъ	и	P	Pp	PERS3|NUMBp|GENDm|CASEg	3	atr	_	_
+5	достоіное	достоинъ	A	A-	NUMBs|GENDn|CASEa|DEGRp|STREw	6	obj	_	_
+6	отъплаті	отъплатити	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+7	г҃мь	господь	N	Nb	NUMBs|GENDm|CASEi	6	adv	_	_
+8	нашімь	нашь	P	Ps	PERS1|NUMBs|GENDm|CASEi	7	atr	_	_
+
+1	ПО	по	R	R-	INFLn	0	adv(3)pred	_	_
+2	ВЪСѪДѢ	въсѫдъ	N	Nb	NUMBs|GENDm|CASEl	1	obl	_	_
+
+1	Просімъ	просити	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+2	тѧ	тꙑ	P	Pp	PERS2|NUMBs|GENDm|CASEa	1	obj	_	_
+3	г҃і	господь	N	Nb	NUMBs|GENDm|CASEv	0	voc	_	_
+
+1	дазь	дати	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+2	намъ	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEd	1	obl	_	_
+3	молітвамі	молитва	N	Nb	NUMBp|GENDf|CASEi	11	adv	_	_
+4	вьсѣхъ	вьсь	P	Px	NUMBp|GENDf|CASEl	6	atr	_	_
+5	небесьскъихъ	небесьскъ	A	A-	NUMBp|GENDf|CASEl|DEGRp|STREw	6	atr	_	_
+6	силахъ	сила	N	Nb	NUMBp|GENDf|CASEl	7	atr	_	_
+7	ꙇ	и	C	C-	INFLn	3	atr	_	_
+8	вьсѣхъ	вьсь	P	Px	NUMBp|GENDp|CASEg	9	atr	_	_
+9	свѧтъихъ	свѧтъ	A	A-	NUMBp|GENDp|CASEg|DEGRp|STREw	7	atr	_	_
+10	твоіхъ	твои	P	Ps	PERS2|NUMBp|GENDp|CASEg	9	atr	_	_
+11	ꙇ	и	C	C-	INFLn	1	adv	_	_
+12	дѣлъ	дѣло	N	Nb	NUMBp|GENDn|CASEg	14	obl	_	_
+13	ꙇхъ	и	P	Pp	PERS3|NUMBp|GENDp|CASEg	12	atr	_	_
+14	раді	ради	R	R-	INFLn	11	adv	_	_
+15	правьдьнъихъ	правьдьнъ	A	A-	NUMBp|GENDn|CASEg|DEGRp|STREw	12	atr	_	_
+
+1	въсѫдъмь	въсѫдъ	N	Nb	NUMBs|GENDm|CASEi	4	adv	_	_
+2	сꙇмь	сь	P	Pd	NUMBs|GENDm|CASEi	1	atr	_	_
+3	възѧтъимь	възѧти	V	V-	NUMBs|TENSu|MOODp|VOICp|GENDm|CASEi|STREw	1	atr	_	_
+4	очісті	очистити	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+5	срьдьцѣ	срьдьце	N	Nb	NUMBp|GENDn|CASEa	4	obj	_	_
+6	нашѣ	нашь	P	Ps	PERS1|NUMBp|GENDn|CASEa	5	atr	_	_
+7	отъ	отъ	R	R-	INFLn	4	obl	_	_
+8	грѣхъ	грѣхъ	N	Nb	NUMBp|GENDm|CASEg	7	obl	_	_
+9	нашіхъ	нашь	P	Ps	PERS1|NUMBp|GENDm|CASEg	8	atr	_	_
+10	г҃мь	господь	N	Nb	NUMBs|GENDm|CASEi	4	adv	_	_
+11	на	нашь	P	Ps	PERS1|NUMBs|GENDm|CASEi	10	atr	_	_
+
+1	МОЛИТВА	молитва	N	Nb	NUMBs|GENDf|CASEn	0	sub(3)pred	_	_
+2	Б	дъва	M	Ma	INFLn	1	atr	_	_
+
+1	Сътворі	сътворити	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+2	нъи	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEa	1	obj	_	_
+3	г҃і	господь	N	Nb	NUMBs|GENDm|CASEv	0	voc	_	_
+4	б҃же	богъ	N	Nb	NUMBs|GENDm|CASEv	3	apos	_	_
+5	причѧстьнъи	причѧстьнъ	A	A-	NUMBp|GENDp|CASEa|DEGRp|STREw	11	xobj	_	_
+6	свѧтѣі	свѧтъ	A	A-	NUMBs|GENDf|CASEd|DEGRp|STREw	7	atr	_	_
+7	б҃ці	богородица	N	Nb	NUMBs|GENDf|CASEd	8	obl	_	_
+8	ꙇ	и	C	C-	INFLn	5	obl	_	_
+9	приснодѣвѣ	приснодѣва	N	Nb	NUMBs|GENDf|CASEd	8	obl	_	_
+10	мариі	мариꙗ	N	Ne	NUMBs|GENDf|CASEd	9	apos	_	_
+11	ꙇ	и	C	C-	INFLn	1	xobj	_	_
+12	достоінъи	достоинъ	A	A-	NUMBp|GENDp|CASEa|DEGRp|STREs	11	xobj	_	_
+13	свѧтъихъ	свѧтъ	A	A-	NUMBp|GENDm|CASEg|DEGRp|STREw	14	atr	_	_
+14	анꙉелъ	ангелъ	N	Nb	NUMBp|GENDm|CASEg	15	obl	_	_
+15	ꙇ	и	C	C-	INFLn	21	obl	_	_
+16	б]лаженъихъ	блаженъ	A	A-	NUMBp|GENDm|CASEg|DEGRp|STREw	17	atr	_	_
+17	апостолъ	апостолъ	N	Nb	NUMBp|GENDm|CASEg	15	obl	_	_
+18	мѫ[че]нꙇкъ	мѫченикъ	N	Nb	NUMBp|GENDm|CASEg	19	obl	_	_
+19	ꙇ	и	C	C-	INFLn	21	obl	_	_
+20	прѣподобьнъихъ	прѣподобьнъ	A	A-	NUMBp|GENDm|CASEg|DEGRp|STREw	19	obl	_	_
+21	и	и	C	C-	INFLn	12	obl	_	_
+22	чістъихъ	чистъ	A	A-	NUMBp|GENDf|CASEg|DEGRp|STREw	23	atr	_	_
+23	дѣвъ	дѣва	N	Nb	NUMBp|GENDf|CASEg	21	obl	_	_
+24	ꙇ	и	C	C-	INFLn	21	aux	_	_
+25	вьс[ѣх]ъ	вьсь	P	Px	NUMBp|GENDp|CASEg	26	atr	_	_
+26	свѧтъихъ	свѧтъ	A	A-	NUMBp|GENDp|CASEg|DEGRp|STREw	21	obl	_	_
+27	твоіхъ	твои	P	Ps	PERS2|NUMBp|GENDp|CASEg	26	atr	_	_
+
+1	мо[ли]твамі	молитва	N	Nb	NUMBp|GENDf|CASEi	3	adv	_	_
+2	ꙇхъ	и	P	Pp	PERS3|NUMBp|GENDp|CASEg	1	atr	_	_
+3	зашчіті	защитити	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+4	нъи	мꙑ	P	Pp	PERS1|NUMBp|GENDp|CASEa	3	obj	_	_
+

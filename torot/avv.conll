@@ -570,6 +570,16 @@
 5	в	въ	R	R-	INFLn	4	xobj	_	_
 6	нѣдоумѣнїи	недоумѣние	N	Nb	NUMBs|GENDn|CASEl	5	obl	_	_
 
+1	тои.ж	тыиже	P	Pd	NUMBs|GENDm|CASEn	2	atr	_	_
+2	диѡнисїи	дионисии	N	Ne	NUMBs|GENDm|CASEn	3	sub	_	_
+3	пишет	пьсати	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+4	ѡ	о	R	R-	INFLn	3	obl	_	_
+5	солнечнем	сълньчьныи	A	A-	NUMBs|GENDn|CASEl|DEGRp|STREw	6	atr	_	_
+6	знаменїи	знамение	N	Nb	NUMBs|GENDn|CASEl	4	obl	_	_
+7	когда	къгда	D	Dq	INFLn	8	adv	_	_
+8	затмит	затьмити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	6	apos	_	_
+9	ся	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	8	aux	_	_
+
 1	естъ	быти	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 2	на	на	R	R-	INFLn	1	adv	_	_
 3	н҃бси	небо	N	Nb	NUMBs|GENDn|CASEl	2	obl	_	_
@@ -6339,6 +6349,18 @@
 5	лежачева	лежати	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDm|CASEg|STREw	6	obj	_	_
 6	зашибъ	зашибити	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	0	pred	_	_
 
+1	ꙇ	и	C	C-	INFLn	11	aux	_	_
+2	разболокши	разболочи	V	V-	NUMBs|TENSu|MOODp|VOICa|GENDm|CASEn|STREs	11	xadv	_	_
+3	по	по	R	R-	INFLn	11	obl	_	_
+4	той.же	тыиже	P	Pd	NUMBs|GENDf|CASEd	5	atr	_	_
+5	спинѣ	спина	N	Nb	NUMBs|GENDf|CASEd	3	obl	_	_
+6	семъдесят	седмьдесятъ	M	Ma	NUMBs|GENDf|CASEa	11	obj(12)obj	_	_
+7	два	дъва	M	Ma	NUMBd|GENDm|CASEa	11	obj(12)obj	_	_
+8	удара	ударъ	N	Nb	NUMBs|GENDm|CASEg	11	part(12)obj	_	_
+9	кнутом	кнутъ	N	Nb	NUMBs|GENDm|CASEi	11	adv	_	_
+10	палач	палачь	N	Nb	NUMBs|GENDm|CASEn	11	sub	_	_
+11	бъет	бити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+
 1	а	а	C	C-	INFLn	3	aux	_	_
 2	я	я	P	Pp	PERS1|NUMBs|GENDm|CASEn	3	sub	_	_
 3	говорю	говорити	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
@@ -11046,6 +11068,14 @@
 5	том	тыи	P	Pd	NUMBs|GENDn|CASEl	6	atr	_	_
 6	мѣсте	мѣсто	N	Nb	NUMBs|GENDn|CASEl	4	obl	_	_
 
+1	или	или	C	C-	INFLn	4	aux	_	_
+2	со	съ	R	R-	INFLn	4	xobj	_	_
+3	сто	съто	M	Ma	NUMBs|GENDn|CASEa	2	obl	_	_
+4	ꙇли	или	C	C-	INFLn	0	xobj(8)pred	_	_
+5	с	съ	R	R-	INFLn	4	xobj	_	_
+6	восмъдесятъ	осмьдесятъ	M	Ma	NUMBs|GENDf|CASEa	5	obl	_	_
+7	верстъ	вьрста	N	Nb	NUMBp|GENDf|CASEg	3	part	_	_
+
 1	чем	чем	D	Dq	INFLn	4	adv	_	_
 2	к	къ	R	R-	INFLn	4	obl	_	_
 3	берегу	берегъ	N	Nb	NUMBs|GENDm|CASEd	2	obl	_	_
@@ -14631,6 +14661,12 @@
 5	бодро	бъдрыи	A	A-	NUMBs|GENDn|CASEa|DEGRp|STREs	7	adv	_	_
 6	ѕѣло	зѣло	D	Df	INFLn	5	adv	_	_
 7	ходитъ	ходити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+
+1	хочет	хотѣти	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+2	ся	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	1	aux	_	_
+3	ему	и	P	Pp	PERS3|NUMBs|GENDm|CASEd	1	obl	_	_
+4	нас	мы	P	Pp	PERS1|NUMBp|GENDm|CASEg	1	sub	_	_
+5	гораздо	гораздо	D	Df	INFLn	1	adv	_	_
 
 1	да	да#2	D	Df	INFLn	4	aux(8)pred	_	_
 2	силен	сильныи	A	A-	NUMBs|GENDm|CASEn|DEGRp|STREs	4	xobj(8)pred	_	_

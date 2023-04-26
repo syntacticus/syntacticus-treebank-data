@@ -5070,6 +5070,24 @@
 11	землѣ	земля	N	Nb	NUMBs|GENDf|CASEg	9	atr	_	_
 12	нашеꙗ	нашь	P	Ps	PERS1|NUMBs|GENDf|CASEg	11	atr	_	_
 
+1	тѣмь	тыи	P	Pd	NUMBs|GENDn|CASEi	4	adv	_	_
+2	же	же	D	Df	INFLn	1	aux	_	_
+3	и	и	C	C-	INFLn	8	aux	_	_
+4	борета	брати	V	V-	PERS2|NUMBd|TENSp|MOODi|VOICa	8	pred	_	_
+5	по	по	R	R-	INFLn	4	obl	_	_
+6	своѥмь	свои	P	Pt	PERS3|NUMBs|GENDn|CASEl	7	atr	_	_
+7	отьчьствѣ	отьчьство	N	Nb	NUMBs|GENDn|CASEl	5	obl	_	_
+8	и	и	C	C-	INFLn	0	pred	_	_
+9	пособита	пособити	V	V-	PERS2|NUMBd|TENSp|MOODi|VOICa	8	pred	_	_
+10	ꙗкоже	якоже	D	Dq	INFLn	4	adv(18)adv	_	_
+11	и	и	D	Df	INFLn	13	aux	_	_
+12	великии	великыи	A	A-	NUMBs|GENDm|CASEn|DEGRp|STREw	13	atr	_	_
+13	димитрии	дьмитрии	N	Ne	NUMBs|GENDm|CASEn	4	sub(18)adv	_	_
+14	по	по	R	R-	INFLn	4	obl(18)adv	_	_
+15	своѥмь	свои	P	Pt	PERS3|NUMBs|GENDn|CASEl	16	atr	_	_
+16	отьчьствѣ	отьчьство	N	Nb	NUMBs|GENDn|CASEl	14	obl	_	_
+17	рекъ	рещи	V	V-	NUMBs|TENSu|MOODp|VOICa|GENDm|CASEn|STREs	4	xadv(18)adv	_	_
+
 1	аще	аще	G	G-	INFLn	17	adv	_	_
 2	ѹбо	убо	D	Df	INFLn	17	aux	_	_
 3	и	и	D	Df	INFLn	4	aux	_	_
@@ -14906,6 +14924,30 @@
 24	манастырꙗ	манастырь	N	Nb	NUMBs|GENDm|CASEg	23	obl	_	_
 25	ѥго	и	P	Pp	PERS3|NUMBs|GENDm|CASEg	24	atr	_	_
 
+1	и	и	C	C-	INFLn	6	aux(24)pred	_	_
+2	ꙗко	яко	D	Dq	INFLn	3	adv	_	_
+3	бысть	быти	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	6	adv(24)pred	_	_
+4	идыи	ити	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDm|CASEn|STREw	3	xobj	_	_
+5	пѹтьмь	путь	N	Nb	NUMBs|GENDm|CASEi	4	adv	_	_
+6	и	и	C	C-	INFLn	0	pred	_	_
+7	возꙗи	возити	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDm|CASEn|STREw	22	sub	_	_
+8	ѥго	и	P	Pp	PERS3|NUMBs|GENDm|CASEg	7	obj	_	_
+9	видѣвы	видѣти	V	V-	NUMBs|TENSu|MOODp|VOICa|GENDm|CASEn|STREw	15	xadv	_	_
+10	и	и	P	Pp	PERS3|NUMBs|GENDm|CASEa	9	obj	_	_
+11	въ	въ	R	R-	INFLn	14	xobj	_	_
+12	такои	такыи	A	A-	NUMBs|GENDf|CASEl|DEGRp|STREw	13	atr	_	_
+13	одежи	одежа	N	Nb	NUMBs|GENDf|CASEl	11	obl	_	_
+14	сѹщааго	быти	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDm|CASEg|STREw	9	xobj	_	_
+15	и	и	C	C-	INFLn	22	xadv	_	_
+16	мьнѣвъ	мьнѣти	V	V-	NUMBs|TENSu|MOODp|VOICa|GENDm|CASEn|STREs	15	xadv	_	_
+17	ꙗко	яко	G	G-	INFLn	16	comp	_	_
+18	ѥдинъ	единъ	M	Ma	NUMBs|GENDm|CASEn	21	xobj	_	_
+19	ѿ	отъ	R	R-	INFLn	18	part	_	_
+20	ѹбогыхъ	убогыи	A	A-	NUMBp|GENDm|CASEg|DEGRp|STREw	19	obl	_	_
+21	ѥсть	быти	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	17	pred	_	_
+22	гл҃а	глаголати	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	6	pred	_	_
+23	ѥмѹ	и	P	Pp	PERS3|NUMBs|GENDm|CASEd	22	obl	_	_
+
 1	чьрноризьче	чьрноризьць	N	Nb	NUMBs|GENDm|CASEv	0	voc	_	_
 2	се	се	I	I-	INFLn	0	voc	_	_
 3	бо	бо	D	Df	INFLn	9	aux	_	_
@@ -21410,6 +21452,17 @@
 15	истиньна	истиньныи	A	A-	NUMBp|GENDn|CASEn|DEGRp|STREs	16	xobj	_	_
 16	сѹть	быти	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	7	obj	_	_
 
+1	тѣмь	тыи	P	Pd	NUMBs|GENDn|CASEi	3	adv	_	_
+2	же	же	D	Df	INFLn	1	aux	_	_
+3	ѥсть	быти	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+4	лѣпо	лѣпыи	A	A-	NUMBs|GENDn|CASEn|DEGRp|STREs	3	xobj	_	_
+5	намъ	мы	P	Pp	PERS1|NUMBp|GENDm|CASEd	3	adv	_	_
+6	съ	съ	R	R-	INFLn	9	adv	_	_
+7	бж҃ьствьныимь	божьствьныи	A	A-	NUMBs|GENDm|CASEi|DEGRp|STREw	8	atr	_	_
+8	иꙗковъмь	ияковъ	N	Ne	NUMBs|GENDm|CASEi	6	obl	_	_
+9	рещи	рещи	V	V-	TENSp|MOODn|VOICa	3	comp	_	_
+10	ꙗко	яко	G	G-	INFLn	9	comp	_	_
+
 1	ѥсть	быти	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 2	г҃ь	господь	N	Nb	NUMBs|GENDm|CASEn	1	sub	_	_
 3	на	на	R	R-	INFLn	1	xobj	_	_
@@ -21563,6 +21616,34 @@
 7	въ	въ	R	R-	INFLn	3	adv	_	_
 8	манастыри	манастырь	N	Nb	NUMBs|GENDm|CASEl	7	obl	_	_
 9	томь	тыи	P	Pd	NUMBs|GENDm|CASEl	8	atr	_	_
+
+1	тѣмь	тыи	P	Pd	NUMBs|GENDn|CASEi	11	adv	_	_
+2	же	же	D	Df	INFLn	1	aux	_	_
+3	тако	тако	D	Df	INFLn	11	adv	_	_
+4	того	тыи	P	Pd	NUMBs|GENDm|CASEg	5	atr	_	_
+5	молитвами	молитва	N	Nb	NUMBp|GENDf|CASEi	11	adv	_	_
+6	бл҃гыи	благыи	A	A-	NUMBs|GENDm|CASEn|DEGRp|STREw	7	atr	_	_
+7	б҃ъ	богъ	N	Nb	NUMBs|GENDm|CASEn	11	sub	_	_
+8	ино	иныи	P	Px	NUMBs|GENDn|CASEa	10	atr	_	_
+9	пакы	пакы	D	Df	INFLn	11	adv	_	_
+10	чюдо	чудо	N	Nb	NUMBs|GENDn|CASEa	11	obj	_	_
+11	показа	показати	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	0	pred	_	_
+12	о	о	R	R-	INFLn	11	adv	_	_
+13	стѣмь	святыи	A	A-	NUMBs|GENDn|CASEl|DEGRp|STREw	15	atr	_	_
+14	томь	тыи	P	Pd	NUMBs|GENDn|CASEl	15	atr	_	_
+15	мѣстѣ	мѣсто	N	Nb	NUMBs|GENDn|CASEl	12	obl	_	_
+16	человѣкомъ	человѣкъ	N	Nb	NUMBp|GENDm|CASEd	11	obl	_	_
+17	близь	близъ	R	R-	INFLn	19	adv	_	_
+18	тѹ	ту	D	Df	INFLn	17	apos	_	_
+19	помылꙗющемъ	помышляти	V	V-	NUMBp|TENSp|MOODp|VOICa|GENDm|CASEd|STREs	16	atr	_	_
+20	иже	иже	P	Pr	NUMBp|GENDm|CASEn	24	sub	_	_
+21	ꙗкоже	якоже	D	Df	INFLn	24	adv	_	_
+22	и	и	D	Df	INFLn	23	aux	_	_
+23	послѣже	послѣже	D	Df	INFLn	21	adv	_	_
+24	съповѣдаша	съповѣдати	V	V-	PERS3|NUMBp|TENSa|MOODi|VOICa	16	apos	_	_
+25	вьсеи	вьсь	P	Px	NUMBs|GENDf|CASEd	26	atr	_	_
+26	братии	братия	N	Nb	NUMBs|GENDf|CASEd	24	obl	_	_
+27	бывъшеѥ	быти	V	V-	NUMBs|TENSu|MOODp|VOICa|GENDn|CASEa|STREw	24	obj	_	_
 
 1	въ	въ	R	R-	INFLn	5	adv	_	_
 2	ѥдинѹ	единъ	M	Ma	NUMBs|GENDf|CASEa	4	atr	_	_
@@ -22617,6 +22698,15 @@
 7	ѿ	отъ	R	R-	INFLn	6	obl	_	_
 8	свѣта	свѣтъ	N	Nb	NUMBs|GENDm|CASEg	7	obl	_	_
 9	сего	сии	P	Pd	NUMBs|GENDm|CASEg	8	atr	_	_
+
+1	тѣмь	тыи	P	Pd	NUMBs|GENDn|CASEi	4	adv	_	_
+2	же	же	D	Df	INFLn	1	aux	_	_
+3	готовъ	готовыи	A	A-	NUMBs|GENDm|CASEn|DEGRp|STREs	4	xobj	_	_
+4	ѥсмь	быти	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+5	и	и	D	Df	INFLn	7	aux	_	_
+6	ли	ли	D	Df	INFLn	4	aux	_	_
+7	на	на	R	R-	INFLn	3	obl	_	_
+8	съмьрьть	съмьрть	N	Nb	NUMBs|GENDf|CASEa	7	obl	_	_
 
 1	и	и	C	C-	INFLn	3	aux	_	_
 2	ѿтолѣ	отътолѣ	D	Df	INFLn	3	adv	_	_

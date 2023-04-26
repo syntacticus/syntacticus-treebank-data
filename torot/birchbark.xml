@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<proiel export-time="2023-04-25T12:54:02+02:00" schema-version="2.1">
+<proiel export-time="2023-04-26T14:11:26+02:00" schema-version="2.1">
   <annotation>
     <relations>
       <value tag="adnom" summary="adnominal" primary="true" secondary="true"/>
@@ -2167,6 +2167,23 @@
         <token id="3177121" form="пити" citation-part="St. R. 10" lemma="пити" part-of-speech="V-" morphology="--pna----i" relation="pred" presentation-after=" "/>
         <token id="3177122" form="в" citation-part="St. R. 10" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3177116" relation="apos" presentation-after=" "/>
         <token id="3177123" form="городищѧньх" citation-part="St. R. 10" lemma="городищане" part-of-speech="Nb" morphology="-p---ml--i" head-id="3177122" relation="obl" presentation-after=" "/>
+      </sentence>
+      <sentence id="255185" status="annotated">
+        <token id="3177124" form="а" citation-part="St. R. 10" lemma="а" part-of-speech="C-" morphology="---------n" head-id="3177126" relation="aux" presentation-after=" "/>
+        <token id="3177125" form="рушань" citation-part="St. R. 10" lemma="рушане" part-of-speech="Nb" morphology="-p---mn--i" head-id="3177126" relation="sub" presentation-after=" "/>
+        <token id="3177126" form="скорбꙋ" citation-part="St. R. 10" lemma="*щерети" part-of-speech="V-" morphology="3ppia----i" relation="pred" presentation-after=" "/>
+        <token id="3177127" form="про" citation-part="St. R. 10" lemma="про" part-of-speech="R-" morphology="---------n" head-id="3177126" relation="obl" presentation-after=" "/>
+        <token id="3177128" form="городищѧне" citation-part="St. R. 10" lemma="городищане" part-of-speech="Nb" morphology="-p---ma--i" head-id="3177127" relation="obl" presentation-after=" "/>
+      </sentence>
+      <sentence id="255186" status="annotated">
+        <token id="3177129" form="аже" citation-part="St. R. 10" lemma="аже" part-of-speech="G-" morphology="---------n" head-id="3177131" relation="adv" presentation-after=" "/>
+        <token id="3177130" form="хоцьши" citation-part="St. R. 10" lemma="хотѣти" part-of-speech="V-" morphology="2spia----i" head-id="3177129" relation="pred" presentation-after=" "/>
+        <token id="3177131" form="ополош" citation-part="St. R. 10" lemma="ополошити" part-of-speech="V-" morphology="2spma----i" relation="pred" presentation-after=" "/>
+        <token id="3177132" form="дворѧно" citation-part="St. R. 10" lemma="дворянинъ" part-of-speech="Nb" morphology="-p---mg--i" head-id="3177131" relation="obj" presentation-after=" "/>
+        <token id="3177133" form="а" citation-part="St. R. 10" lemma="а" part-of-speech="G-" morphology="---------n" head-id="3177131" relation="adv"/>
+        <token id="3177134" form="бꙑша" citation-part="St. R. 10" lemma="быти" part-of-speech="V-" morphology="3paia----i" head-id="3177136" relation="aux" presentation-after=" "/>
+        <token id="3177135" form="нь" citation-part="St. R. 10" lemma="не" part-of-speech="Df" morphology="---------n" head-id="3177136" relation="aux" presentation-after=" "/>
+        <token id="3177136" form="пакостил" citation-part="St. R. 10" lemma="пакостити" part-of-speech="V-" morphology="-pspamn-si" head-id="3177133" relation="pred" presentation-after=" "/>
       </sentence>
     </div>
     <div id="7314">

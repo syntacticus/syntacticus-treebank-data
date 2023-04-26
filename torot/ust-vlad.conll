@@ -278,6 +278,27 @@
 15	собѣ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEd	16	adv	_	_
 16	наслѣдѹють	наслѣдовати	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	13	pred	_	_
 
+1	а	а	C	C-	INFLn	4	aux	_	_
+2	своимъ	свои	P	Pt	PERS3|NUMBp|GENDm|CASEd	3	atr	_	_
+3	тиѹномъ	тиунъ	N	Nb	NUMBp|GENDm|CASEd	4	obl	_	_
+4	приказываю	приказывати	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+5	сѹда	судъ#1	N	Nb	NUMBs|GENDm|CASEg	8	obj	_	_
+6	церковнаго	цьркъвьныи	A	A-	NUMBs|GENDm|CASEg|DEGRp|STREw	5	atr	_	_
+7	не	не	D	Df	INFLn	8	aux	_	_
+8	ѡбидѣти	обидѣти	V	V-	TENSp|MOODn|VOICa	9	xobj	_	_
+9	и	и	C	C-	INFLn	4	xobj	_	_
+10	съ	съ	R	R-	INFLn	12	obl	_	_
+11	сѹда	судъ#1	N	Nb	NUMBs|GENDm|CASEg	10	obl	_	_
+12	давати	давати	V	V-	TENSp|MOODn|VOICa	16	xobj	_	_
+13	ѳ҃	девять	M	Ma	INFLn	12	obj	_	_
+14	частии	часть	N	Nb	NUMBp|GENDf|CASEg	13	part	_	_
+15	кнѧзю	кънязь	N	Nb	NUMBs|GENDm|CASEd	12	obl	_	_
+16	а	а	C	C-	INFLn	9	xobj	_	_
+17	і҃	десять	M	Ma	INFLn	18	atr	_	_
+18	ꙗ.ст҃ѣ	часть	N	Nb	NUMBs|GENDf|CASEa	16	obj(21)xobj	_	_
+19	и	и	D	Df	INFLn	20	aux	_	_
+20	црк҃ви	цьркы	N	Nb	NUMBs|GENDf|CASEd	16	obl(21)xobj	_	_
+
 1	а	а	C	C-	INFLn	6	aux	_	_
 2	кто	къто	P	Px	NUMBs|GENDq|CASEn	3	sub	_	_
 3	поѡбидїть	пообидѣти	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	6	adv	_	_
@@ -362,6 +383,18 @@
 9	и	и	D	Df	INFLn	10	aux	_	_
 10	неизреченнѹю	неизреченьныи	A	A-	NUMBs|GENDf|CASEa|DEGRp|STREw	8	atr	_	_
 
+1	а	а	C	C-	INFLn	0	aux(12)pred	_	_
+2	створшимъ	сътворити	V	V-	NUMBp|TENSu|MOODp|VOICa|GENDm|CASEd|STREw	0	obl(12)pred	_	_
+3	злаꙗ	зълыи	A	A-	NUMBp|GENDn|CASEa|DEGRp|STREw	2	obj	_	_
+4	въ	въ	R	R-	INFLn	0	adv(12)pred	_	_
+5	въскрѣшеньѥ	въскрѣшение	N	Nb	NUMBs|GENDn|CASEa	4	obl	_	_
+6	сѹда	судъ#1	N	Nb	NUMBs|GENDm|CASEg	0	obj(12)pred	_	_
+7	имже	иже	P	Pr	NUMBs|GENDm|CASEi	8	adv	_	_
+8	реч	рещи	V	V-	TENSp|MOODn|VOICa	0	parpred	_	_
+9	неизмѡлимъ	неизмолимыи	A	A-	NUMBs|GENDm|CASEa|DEGRp|STREs	11	xobj	_	_
+10	сѹдъ	судъ#1	N	Nb	NUMBs|GENDm|CASEa	11	obj	_	_
+11	ѡбрѣсти	обрѣсти	V	V-	TENSp|MOODn|VOICa	6	apos	_	_
+
 1	еже	еже	G	G-	INFLn	0	adv(18)pred	_	_
 2	искѡни	искони	D	Df	INFLn	3	adv	_	_
 3	ѹставлено	уставити	V	V-	NUMBs|TENSu|MOODp|VOICp|GENDn|CASEn|STREs	5	xobj	_	_
@@ -412,6 +445,37 @@
 13	ѡ	о	R	R-	INFLn	11	adv	_	_
 14	дш҃ахъ	душа	N	Nb	NUMBp|GENDf|CASEl	13	obl	_	_
 15	члвчскахъ	человѣчьскыи	A	A-	NUMBp|GENDf|CASEl|DEGRp|STREs	14	atr	_	_
+
+1	а	а	C	C-	INFLn	0	aux(31)pred	_	_
+2	се	сии	P	Pd	NUMBs|GENDn|CASEn	0	sub(31)pred	_	_
+3	црк҃вныѣ	цьркъвьныи	A	A-	NUMBp|GENDm|CASEn|DEGRp|STREw	4	atr	_	_
+4	люди	людие	N	Nb	NUMBp|GENDm|CASEn	0	xobj(31)pred	_	_
+5	игѹменъ	игуменъ	N	Nb	NUMBs|GENDm|CASEn	11	apos	_	_
+6	попъ	попъ	N	Nb	NUMBs|GENDm|CASEn	11	apos	_	_
+7	дьꙗкѡнъ	дияконъ	N	Nb	NUMBs|GENDm|CASEn	11	apos	_	_
+8	дѣти	дѣтя	N	Nb	NUMBp|GENDn|CASEn	11	apos	_	_
+9	ихъ	и	P	Pp	PERS3|NUMBp|GENDm|CASEg	8	atr	_	_
+10	попадиꙗ	попадия	N	Nb	NUMBs|GENDf|CASEn	11	apos	_	_
+11	и	и	C	C-	INFLn	2	apos	_	_
+12	кто	къто	P	Px	NUMBs|GENDq|CASEn	11	sub(32)apos	_	_
+13	въ	въ	R	R-	INFLn	11	xobj(32)apos	_	_
+14	клиросѣ	клиросъ	N	Nb	NUMBs|GENDm|CASEl	13	obl	_	_
+15	игѹменьꙗ	игумения	N	Nb	NUMBs|GENDf|CASEn	11	apos	_	_
+16	чернець	чьрньць	N	Nb	NUMBs|GENDm|CASEn	11	apos	_	_
+17	черница	чьрница	N	Nb	NUMBs|GENDf|CASEn	11	apos	_	_
+18	проскѹрница	проскурьница	N	Nb	NUMBs|GENDf|CASEn	11	apos	_	_
+19	паломникъ	паломьникъ	N	Nb	NUMBs|GENDm|CASEn	11	apos	_	_
+20	лѣчець	лѣчьць	N	Nb	NUMBs|GENDm|CASEn	11	apos	_	_
+21	прощеникъ	прощеникъ	N	Nb	NUMBs|GENDm|CASEn	11	apos	_	_
+22	зад҃шьны.и	задушьныи	A	A-	NUMBs|GENDm|CASEn|DEGRp|STREw	23	atr	_	_
+23	члв҃къ	человѣкъ	N	Nb	NUMBs|GENDm|CASEn	11	apos	_	_
+24	стороникъ	стороньникъ	N	Nb	NUMBs|GENDm|CASEn	11	apos	_	_
+25	слѣпець	слѣпьць	N	Nb	NUMBs|GENDm|CASEn	11	apos	_	_
+26	хромець	хромьць	N	Nb	NUMBs|GENDm|CASEn	11	apos	_	_
+27	манастыреве	манастырь	N	Nb	NUMBp|GENDm|CASEn	11	apos	_	_
+28	болнїцѣ	больница	N	Nb	NUMBp|GENDf|CASEn	11	apos	_	_
+29	гостинъници	гостиньница	N	Nb	NUMBp|GENDf|CASEn	11	apos	_	_
+30	странънориимницѣ	страньноприимьница	N	Nb	NUMBp|GENDf|CASEn	11	apos	_	_
 
 1	то	тыи	P	Pd	NUMBs|GENDn|CASEn	0	sub(5)pred	_	_
 2	люди	людие	N	Nb	NUMBp|GENDm|CASEn	0	xobj(5)pred	_	_

@@ -289,3 +289,116 @@
 14	шитью	шитья	N	Nb	NUMBs|GENDf|CASEa	13	obl	_	_
 15	нит	нить	N	Nb	NUMBs|GENDf|CASEa	14	narg	_	_
 
+1	да	да	C	C-	INFLn	15	aux(19)pred	_	_
+2	кресть	крьстъ	N	Nb	NUMBs|GENDm|CASEa	15	obj(19)pred	_	_
+3	гсдрь	государь	N	Nb	NUMBs|GENDm|CASEn	0	voc	_	_
+4	батюшка	батюшька	N	Nb	NUMBs|GENDm|CASEn	3	apos	_	_
+5	што	чьто	P	Pr	NUMBs|GENDn|CASEa	7	obj	_	_
+6	ты	ты	P	Pp	PERS2|NUMBs|GENDm|CASEn	7	sub	_	_
+7	взял	възяти	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	2	atr	_	_
+8	бабꙋшкин	бабушькинъ	A	A-	NUMBs|GENDm|CASEa|DEGRp|STREs	2	atr	_	_
+9	хоть	хоть	G	G-	INFLn	15	adv(19)pred	_	_
+10	онъ	онъ	P	Pd	NUMBs|GENDm|CASEn	9	sub(20)pred	_	_
+11	и	и	D	Df	INFLn	9	aux(20)pred	_	_
+12	не	не	D	Df	INFLn	9	aux(20)pred	_	_
+13	облажен	обложити	V	V-	NUMBs|TENSu|MOODp|VOICp|GENDm|CASEn|STREs	9	xobj(20)pred	_	_
+14	серебром	сьребро	N	Nb	NUMBs|GENDn|CASEi	13	obl	_	_
+15	и	и	C	C-	INFLn	0	pred	_	_
+16	ты	ты	P	Pp	PERS2|NUMBs|GENDm|CASEn	18	sub	_	_
+17	ево	и	P	Pp	PERS3|NUMBs|GENDm|CASEg	18	obj	_	_
+18	сошли	съсълати	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	15	pred	_	_
+
+1	да	да	C	C-	INFLn	5	aux	_	_
+2	млсти	милость	N	Nb	NUMBs|GENDf|CASEg	5	obl	_	_
+3	гсдрь	государь	N	Nb	NUMBs|GENDm|CASEn	0	voc	_	_
+4	батюшъка	батюшька	N	Nb	NUMBs|GENDm|CASEn	3	apos	_	_
+5	прошꙋ	просити	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+
+1	пожалꙋи	пожаловати	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+
+1	свези	съвезти	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+2	белилец	бѣлильць	N	Nb	NUMBs|GENDm|CASEa	1	obj	_	_
+
+1	да	да	C	C-	INFLn	2	aux	_	_
+2	завез	завезти	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	0	pred	_	_
+3	к	къ	R	R-	INFLn	2	obl	_	_
+4	тебѣ	ты	P	Pp	PERS2|NUMBs|GENDm|CASEd	3	obl	_	_
+5	гсдрь	государь	N	Nb	NUMBs|GENDm|CASEn	2	sub	_	_
+6	Ульян	ульянъ	N	Ne	NUMBs|GENDm|CASEn	5	apos	_	_
+7	котлик	котьликъ	N	Nb	NUMBs|GENDm|CASEa	2	obj	_	_
+8	пꙋтнои	путьныи	A	A-	NUMBs|GENDm|CASEa|DEGRp|STREw	7	atr	_	_
+9	батки	батька	N	Nb	NUMBs|GENDm|CASEg	7	atr	_	_
+10	Івана	иванъ	N	Ne	NUMBs|GENDm|CASEg	9	apos	_	_
+11	Иліча	иличь	N	Ne	NUMBs|GENDm|CASEg	10	apos	_	_
+
+1	и	и	C	C-	INFLn	4	aux	_	_
+2	батка	батька	N	Nb	NUMBs|GENDm|CASEn	4	sub	_	_
+3	ныне	нынѣ	D	Df	INFLn	4	adv	_	_
+4	сетꙋет	сѣтовати	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+5	про	про	R	R-	INFLn	4	obl	_	_
+6	котлик	котьликъ	N	Nb	NUMBs|GENDm|CASEa	5	obl	_	_
+
+1	и	и	C	C-	INFLn	5	aux	_	_
+2	ты	ты	P	Pp	PERS2|NUMBs|GENDm|CASEn	5	sub	_	_
+3	ево	и	P	Pp	PERS3|NUMBs|GENDm|CASEg	5	obj	_	_
+4	гсдрь	государь	N	Nb	NUMBs|GENDm|CASEn	0	voc	_	_
+5	сошли	съсълати	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+
+1	да	да	C	C-	INFLn	2	aux	_	_
+2	прикажи	приказати	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+3	гсдрь	государь	N	Nb	NUMBs|GENDm|CASEn	0	voc	_	_
+4	батюка	батюшька	N	Nb	NUMBs|GENDm|CASEn	3	apos	_	_
+5	писат	пьсати	V	V-	TENSp|MOODn|VOICa	2	xobj	_	_
+6	к	къ	R	R-	INFLn	5	obl	_	_
+7	людем	людие	N	Nb	NUMBp|GENDm|CASEd	6	obl	_	_
+8	штобы	чьтобы	G	G-	INFLn	5	adv	_	_
+9	они	онъ	P	Pd	NUMBp|GENDm|CASEn	10	sub	_	_
+10	слꙋшели	слушати	V	V-	NUMBp|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	12	pred	_	_
+11	с	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	10	aux	_	_
+12	и	и	C	C-	INFLn	8	pred	_	_
+13	лошедеи	лошадь	N	Nb	NUMBp|GENDf|CASEg	16	obj	_	_
+14	бы	быти	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	16	aux	_	_
+15	берегли	беречи	V	V-	NUMBp|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	16	pred	_	_
+16	и	и	C	C-	INFLn	12	pred	_	_
+17	кормили	кърмити	V	V-	NUMBp|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	16	pred	_	_
+
+1	да	да	C	C-	INFLn	2	aux	_	_
+2	сошли	съсълати	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+3	гсдрь	государь	N	Nb	NUMBs|GENDm|CASEn	0	voc	_	_
+4	батюшка	батюшька	N	Nb	NUMBs|GENDm|CASEn	3	apos	_	_
+5	бабꙋшъке	бабушька	N	Nb	NUMBs|GENDf|CASEd	2	obl	_	_
+6	башмачки	башмачъкъ	N	Nb	NUMBp|GENDm|CASEa	2	obj	_	_
+
+1	да	да	C	C-	INFLn	2	aux	_	_
+2	кꙋпи	купити	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+3	мнѣ	азъ	P	Pp	PERS1|NUMBs|GENDm|CASEd	2	obl	_	_
+4	гсдрь	государь	N	Nb	NUMBs|GENDm|CASEn	0	voc	_	_
+5	батюшка	батюшька	N	Nb	NUMBs|GENDm|CASEn	4	apos	_	_
+6	канители	канитель	N	Nb	NUMBs|GENDf|CASEg	10	obj	_	_
+7	серебренои	сьребрьныи	A	A-	NUMBs|GENDf|CASEg|DEGRp|STREw	8	atr	_	_
+8	и	и	C	C-	INFLn	6	atr	_	_
+9	золотои	золотыи	A	A-	NUMBs|GENDf|CASEg|DEGRp|STREw	8	atr	_	_
+10	и	и	C	C-	INFLn	2	obj	_	_
+11	блесточек	блисточькъ	N	Nb	NUMBp|GENDm|CASEg	10	obj(14)obj	_	_
+12	серебреных	сьребрьныи	A	A-	NUMBp|GENDm|CASEg|DEGRp|STREw	11	atr	_	_
+13	золотничек	золотьничькъ	N	Nb	NUMBp|GENDm|CASEg	10	obj(14)obj	_	_
+
+1	а	а	C	C-	INFLn	8	aux	_	_
+2	за	за	R	R-	INFLn	8	adv	_	_
+3	сем	сии	P	Pd	NUMBs|GENDn|CASEi	2	obl	_	_
+4	у	у	R	R-	INFLn	8	obl	_	_
+5	тебя	ты	P	Pp	PERS2|NUMBs|GENDm|CASEg	4	obl	_	_
+6	гсдря	государь	N	Nb	NUMBs|GENDm|CASEg	5	apos	_	_
+7	блгословения	благословение	N	Nb	NUMBs|GENDn|CASEg	8	obj	_	_
+8	прошꙋ	просити	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+
+1	и	и	C	C-	INFLn	3	aux	_	_
+2	челом	чело	N	Nb	NUMBs|GENDn|CASEi	3	obl	_	_
+3	бью	бити	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+4	до	до	R	R-	INFLn	3	adv	_	_
+5	лица	лице	N	Nb	NUMBs|GENDn|CASEg	4	obl	_	_
+6	земнаго	земьныи	A	A-	NUMBs|GENDn|CASEg|DEGRp|STREw	5	atr	_	_
+7	и	и	D	Df	INFLn	8	aux	_	_
+8	с	съ	R	R-	INFLn	3	adv	_	_
+9	матꙋшкою	матушька	N	Nb	NUMBs|GENDf|CASEi	8	obl	_	_
+

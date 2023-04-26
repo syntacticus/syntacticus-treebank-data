@@ -1584,6 +1584,18 @@
 2	боранъ	боранъ	N	Nb	NUMBs|GENDm|CASEa	1	obl	_	_
 3	ногата	ногата	N	Nb	NUMBs|GENDf|CASEn	0	sub(4)pred	_	_
 
+1	а	а	C	C-	INFLn	0	aux(12)pred	_	_
+2	за	за	R	R-	INFLn	0	obl(12)pred	_	_
+3	жеребець	жеребьць	N	Nb	NUMBs|GENDm|CASEa	2	obl	_	_
+4	аже	аже	G	G-	INFLn	0	adv(12)pred	_	_
+5	не	не	D	Df	INFLn	4	aux(13)pred	_	_
+6	всѣ	вьсь	P	Px	NUMBp|GENDm|CASEa	4	sub(13)pred	_	_
+7	данѡ	дати	V	V-	NUMBs|TENSu|MOODp|VOICp|GENDn|CASEn|STREs	4	xobj(13)pred	_	_
+8	на	на	R	R-	INFLn	7	adv	_	_
+9	нь	и	P	Pp	PERS3|NUMBs|GENDm|CASEa	8	obl	_	_
+10	гр҃и	гривьна	N	Nb	INFLn	0	sub(12)pred	_	_
+11	кунъ	куна	N	Nb	NUMBp|GENDf|CASEg	10	part	_	_
+
 1	за	за	R	R-	INFLn	0	obl(5)pred	_	_
 2	жеребѧ	жеребя	N	Nb	NUMBs|GENDn|CASEa	1	obl	_	_
 3	ѕ҃	шесть	M	Ma	INFLn	0	sub(5)pred	_	_
@@ -2680,6 +2692,16 @@
 9	гр҃и	гривьна	N	Nb	INFLn	8	part	_	_
 10	продажѣ	продажа	N	Nb	NUMBs|GENDf|CASEd	8	atr	_	_
 
+1	а	а	C	C-	INFLn	0	aux(4)pred	_	_
+2	се	се	I	I-	INFLn	0	voc	_	_
+3	наклади	накладъ	N	Nb	NUMBp|GENDm|CASEn	0	sub(4)pred	_	_
+
+1	а	а	C	C-	INFLn	0	aux(6)pred	_	_
+2	се	се	I	I-	INFLn	0	voc	_	_
+3	наклады	накладъ	N	Nb	NUMBp|GENDm|CASEn	0	sub(6)pred	_	_
+4	в҃ꙇ	дъванадесять	M	Ma	INFLn	3	atr	_	_
+5	гр҃и	гривьна	N	Nb	INFLn	4	part	_	_
+
 1	отроку	отрокъ	N	Nb	NUMBs|GENDm|CASEd	0	sub(7)pred	_	_
 2	в҃	дъва	M	Ma	INFLn	3	atr	_	_
 3	гр҃и	гривьна	N	Nb	INFLn	4	obj	_	_
@@ -2729,6 +2751,11 @@
 2	мѣхъ	мѣхъ	N	Nb	NUMBs|GENDm|CASEa	1	obl	_	_
 3	двѣ	дъва	M	Ma	NUMBd|GENDf|CASEa	0	obj(5)pred	_	_
 4	ногатѣ	ногата	N	Nb	NUMBd|GENDf|CASEa	3	part	_	_
+
+1	а	а	C	C-	INFLn	0	aux(5)pred	_	_
+2	се	се	I	I-	INFLn	0	voc	_	_
+3	о	о	R	R-	INFLn	0	adv(5)pred	_	_
+4	борти	борть	N	Nb	NUMBs|GENDf|CASEl	3	obl	_	_
 
 1	аже	аже	G	G-	INFLn	4	apos	_	_
 2	борть	борть	N	Nb	NUMBs|GENDf|CASEa	3	obj	_	_
@@ -3311,6 +3338,27 @@
 11	не	не	D	Df	INFLn	12	aux	_	_
 12	идеть	ити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 
+1	но	нъ	C	C-	INFLn	6	aux(9)pred	_	_
+2	оже	оже	G	G-	INFLn	6	adv(9)pred	_	_
+3	не	не	D	Df	INFLn	4	aux	_	_
+4	будеть	быти	V	V-	PERS3|NUMBs|TENSf|MOODi|VOICa	2	pred	_	_
+5	снв҃ъ	сынъ	N	Nb	NUMBp|GENDm|CASEg	4	sub	_	_
+6	а	а	C	C-	INFLn	0	pred	_	_
+7	дчери	дъчи	N	Nb	NUMBp|GENDf|CASEn	8	sub	_	_
+8	возмуть	възяти	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	6	pred	_	_
+
+1	аже	аже	G	G-	INFLn	11	adv	_	_
+2	кто	къто	P	Px	NUMBs|GENDq|CASEn	4	sub	_	_
+3	ѹмираꙗ	умирати	V	V-	NUMBs|TENSp|MOODp|VOICa|GENDm|CASEn|STREs	4	xadv	_	_
+4	раздѣлить	раздѣлити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	1	pred	_	_
+5	дѡмъ	домъ	N	Nb	NUMBs|GENDm|CASEa	4	obj	_	_
+6	свои	свои	P	Pt	PERS3|NUMBs|GENDm|CASEa	5	atr	_	_
+7	дѣтемъ	дѣтя	N	Nb	NUMBp|GENDn|CASEd	4	obl	_	_
+8	на	на	R	R-	INFLn	11	obl	_	_
+9	тѡм	тыи	P	Pd	NUMBs|GENDn|CASEl	8	obl	_	_
+10	же	же	D	Df	INFLn	11	aux	_	_
+11	стоꙗти	стояти	V	V-	TENSp|MOODn|VOICa	0	pred	_	_
+
 1	паки	пакы	D	Df	INFLn	0	adv(9)pred	_	_
 2	ли	ли	D	Df	INFLn	0	aux(9)pred	_	_
 3	безъ	без	R	R-	INFLn	5	adv	_	_
@@ -3471,6 +3519,15 @@
 3	мѡстнику	мостьникъ	N	Nb	NUMBs|GENDm|CASEd	4	atr	_	_
 4	ѹроци	урокъ	N	Nb	NUMBp|GENDm|CASEn	0	sub(5)pred	_	_
 
+1	помостивше	помостити	V	V-	NUMBp|TENSu|MOODp|VOICa|GENDm|CASEn|STREs	3	xadv	_	_
+2	мостъ	мостъ	N	Nb	NUMBs|GENDm|CASEa	1	obj	_	_
+3	взѧти	възяти	V	V-	TENSp|MOODn|VOICa	0	pred	_	_
+4	ѿ	отъ	R	R-	INFLn	3	adv	_	_
+5	і҃	десять	M	Ma	INFLn	4	obl	_	_
+6	локотъ	локъть	N	Nb	NUMBp|GENDm|CASEg	5	part	_	_
+7	по	по	R	R-	INFLn	3	obj	_	_
+8	ногатѣ	ногата	N	Nb	NUMBs|GENDf|CASEd	7	obl	_	_
+
 1	аже	аже	G	G-	INFLn	9	apos	_	_
 2	починить	починити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	1	pred	_	_
 3	моста	мостъ	N	Nb	NUMBs|GENDm|CASEg	2	obj	_	_
@@ -3507,6 +3564,11 @@
 2	ѣсть	ясти	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
 3	что	чьто	P	Pr	NUMBs|GENDn|CASEa	4	obj	_	_
 4	можеть	мощи	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	2	obj	_	_
+
+1	а	а	C	C-	INFLn	0	aux(5)pred	_	_
+2	се	се	I	I-	INFLn	0	voc	_	_
+3	о	о	R	R-	INFLn	0	adv(5)pred	_	_
+4	задницѣ	задьница	N	Nb	NUMBs|GENDf|CASEl	3	obl	_	_
 
 1	аже	аже	G	G-	INFLn	7	apos	_	_
 2	будть	быти	V	V-	PERS3|NUMBp|TENSf|MOODi|VOICa	1	pred	_	_
@@ -3647,6 +3709,52 @@
 6	всѧкъ	вьсякыи	A	A-	NUMBs|GENDm|CASEn|DEGRp|STREs	2	atr	_	_
 7	меншему	мьнии	A	A-	NUMBs|GENDm|CASEd|DEGRc|STREw	8	atr	_	_
 8	снв҃и	сынъ	N	Nb	NUMBs|GENDm|CASEd	0	obl(9)pred	_	_
+
+1	о	о	R	R-	INFLn	0	adv(6)pred	_	_
+2	женѣ	жена	N	Nb	NUMBs|GENDf|CASEl	1	obl	_	_
+3	аже	аже	G	G-	INFLn	0	adv(6)pred	_	_
+4	ворчетъ	върещи	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	3	pred	_	_
+5	сѣдѣти	сѣдѣти	V	V-	TENSp|MOODn|VOICa	4	xobj	_	_
+
+1	аже	аже	G	G-	INFLn	14	apos	_	_
+2	жена	жена	N	Nb	NUMBs|GENDf|CASEn	3	sub	_	_
+3	ворчеть	върещи	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	7	pred	_	_
+4	сѣдѣти	сѣдѣти	V	V-	TENSp|MOODn|VOICa	3	xobj	_	_
+5	по	по	R	R-	INFLn	4	adv	_	_
+6	мужи	мужь	N	Nb	NUMBs|GENDm|CASEl	5	obl	_	_
+7	а	а	C	C-	INFLn	1	pred	_	_
+8	ростерѧѥть	ростеряти	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	7	pred	_	_
+9	добытокъ	добытъкъ	N	Nb	NUMBs|GENDm|CASEa	8	obj	_	_
+10	и	и	C	C-	INFLn	7	aux	_	_
+11	пѡидеть	поити#1	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	7	pred	_	_
+12	за	за	R	R-	INFLn	11	obl	_	_
+13	мужь	мужь	N	Nb	NUMBs|GENDm|CASEa	12	obl	_	_
+14	то	то	D	Df	INFLn	15	adv	_	_
+15	платити	платити	V	V-	TENSp|MOODn|VOICa	0	pred	_	_
+16	ѥи	и	P	Pp	PERS3|NUMBs|GENDf|CASEd	15	sub	_	_
+17	все	вьсь	P	Px	NUMBs|GENDn|CASEa	15	obj	_	_
+18	дѣтемъ	дѣтя	N	Nb	NUMBp|GENDn|CASEd	15	obl	_	_
+
+1	не	не	D	Df	INFLn	2	aux	_	_
+2	хотѣти	хотѣти	V	V-	TENSp|MOODn|VOICa	4	xobj	_	_
+3	ли	ли	D	Df	INFLn	18	aux	_	_
+4	начнуть	начати	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	10	apos	_	_
+5	дѣти	дѣтя	N	Nb	NUMBp|GENDn|CASEn	4	sub	_	_
+6	ѥи	и	P	Pp	PERS3|NUMBs|GENDf|CASEd	5	atr	_	_
+7	ни	ни	D	Df	INFLn	8	aux	_	_
+8	на	на	R	R-	INFLn	2	adv	_	_
+9	дворѣ	дворъ	N	Nb	NUMBs|GENDm|CASEl	8	obl	_	_
+10	а	а	C	C-	INFLn	17	apos	_	_
+11	она	онъ	P	Pd	NUMBs|GENDf|CASEn	12	sub	_	_
+12	начнеть	начати	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	10	apos	_	_
+13	всѧко	вьсяко	D	Df	INFLn	14	adv	_	_
+14	хотѣти	хотѣти	V	V-	TENSp|MOODn|VOICa	15	xobj	_	_
+15	и	и	C	C-	INFLn	12	xobj	_	_
+16	сѣдѣти	сѣдѣти	V	V-	TENSp|MOODn|VOICa	15	xobj	_	_
+17	то	то	D	Df	INFLn	18	adv	_	_
+18	творити	творити	V	V-	TENSp|MOODn|VOICa	0	pred	_	_
+19	всѧко	вьсяко	D	Df	INFLn	18	adv	_	_
+20	вѡлю	воля	N	Nb	NUMBs|GENDf|CASEa	18	obj	_	_
 
 1	а	а	C	C-	INFLn	4	aux	_	_
 2	дѣтемъ	дѣтя	N	Nb	NUMBp|GENDn|CASEd	4	obl	_	_
@@ -3794,6 +3902,16 @@
 13	ю	и	P	Pp	PERS3|NUMBs|GENDf|CASEa	14	obj	_	_
 14	кормить	кърмити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	9	atr	_	_
 
+1	а	а	C	C-	INFLn	0	aux(5)pred	_	_
+2	се	се	I	I-	INFLn	0	voc	_	_
+3	ѹрѡци	урокъ	N	Nb	NUMBp|GENDm|CASEn	0	sub(5)pred	_	_
+4	судебнии	судьбьныи	A	A-	NUMBp|GENDm|CASEn|DEGRp|STREw	3	atr	_	_
+
+1	а	а	C	C-	INFLn	0	aux(5)pred	_	_
+2	се	се	I	I-	INFLn	0	voc	_	_
+3	ѹрѡци	урокъ	N	Nb	NUMBp|GENDm|CASEn	0	sub(5)pred	_	_
+4	судебнии	судьбьныи	A	A-	NUMBp|GENDm|CASEn|DEGRp|STREw	3	atr	_	_
+
 1	ѿ	отъ	R	R-	INFLn	0	adv(5)pred	_	_
 2	виры	вира	N	Nb	NUMBs|GENDf|CASEg	1	obl	_	_
 3	ѳ҃	девять	M	Ma	INFLn	0	obj(5)pred	_	_
@@ -3852,6 +3970,11 @@
 1	ѹрѡци	урокъ	N	Nb	NUMBp|GENDm|CASEn	0	sub(3)pred	_	_
 2	рѡтнии	ротьныи	A	A-	NUMBp|GENDm|CASEn|DEGRp|STREw	1	atr	_	_
 
+1	а	а	C	C-	INFLn	0	aux(5)pred	_	_
+2	се	се	I	I-	INFLn	0	voc	_	_
+3	ѹрѡци	урокъ	N	Nb	NUMBp|GENDm|CASEn	0	sub(5)pred	_	_
+4	рѡтнии	ротьныи	A	A-	NUMBp|GENDm|CASEn|DEGRp|STREw	3	atr	_	_
+
 1	ѿ	отъ	R	R-	INFLn	0	adv(5)pred	_	_
 2	головы	голова	N	Nb	NUMBs|GENDf|CASEg	1	obl	_	_
 3	л҃	тридесяте	M	Ma	INFLn	0	obj(5)pred	_	_
@@ -3882,6 +4005,10 @@
 
 1	о	о	R	R-	INFLn	0	adv(3)pred	_	_
 2	холѡпьствѣ	холопьство	N	Nb	NUMBs|GENDn|CASEl	1	obl	_	_
+
+1	холѡпьство	холопьство	N	Nb	NUMBs|GENDn|CASEn	0	sub(4)pred	_	_
+2	обелноѥ	обьльныи	A	A-	NUMBs|GENDn|CASEn|DEGRp|STREw	1	atr	_	_
+3	троѥ	трои	M	Ma	NUMBs|GENDn|CASEn	0	xobj(4)pred	_	_
 
 1	оже	оже	G	G-	INFLn	0	adv(17)pred	_	_
 2	кто	къто	P	Px	NUMBs|GENDq|CASEn	10	sub	_	_

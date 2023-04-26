@@ -1,0 +1,260 @@
+1	Гсдрю	государь	N	Nb	NUMBs|GENDm|CASEd	4	obl	_	_
+2	Ѳедору	федоръ	N	Ne	NUMBs|GENDm|CASEd	1	apos	_	_
+3	Маѯимовичю	максимовичь	A	A-	NUMBs|GENDm|CASEd|DEGRp|STREs	2	apos	_	_
+4	бьет	бити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	6	pred	_	_
+5	челом	чело	N	Nb	NUMBs|GENDn|CASEi	4	obl	_	_
+6	и	и	C	C-	INFLn	0	pred	_	_
+7	плачет	плакати	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	6	pred	_	_
+8	ца	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	7	aux	_	_
+9	бѣноі	бѣдьныи	A	A-	NUMBs|GENDm|CASEn|DEGRp|STREw	10	atr	_	_
+10	и	и	C	C-	INFLn	12	atr	_	_
+11	бѣспомочноі	беспомочьныи	A	A-	NUMBs|GENDm|CASEn|DEGRp|STREw	10	atr	_	_
+12	сирота	сирота	N	Nb	NUMBs|GENDm|CASEn	7	sub	_	_
+13	твоі	твои	P	Ps	PERS2|NUMBs|GENDm|CASEn	10	atr	_	_
+14	дрвни	деревьня	N	Nb	NUMBs|GENDf|CASEg	12	atr	_	_
+15	Пол	полъ	N	Ne	INFLn	14	apos	_	_
+16	Еска	еска	N	Ne	NUMBs|GENDm|CASEn	12	apos	_	_
+17	Клементьев	климентьевъ	N	Ne	NUMBs|GENDm|CASEn	16	apos	_	_
+
+1	смилуі	съмиловати	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+2	ся	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	1	aux	_	_
+3	гсдрь	государь	N	Nb	NUMBs|GENDm|CASEn	0	voc	_	_
+4	Ѳедор	федоръ	N	Ne	NUMBs|GENDm|CASEn	3	apos	_	_
+5	Маѯимович	максимовичь	N	Ne	NUMBs|GENDm|CASEn	4	apos	_	_
+6	над	надъ	R	R-	INFLn	1	obl	_	_
+7	бѣспомочным	беспомочьныи	A	A-	NUMBs|GENDm|CASEi|DEGRp|STREw	6	obl	_	_
+
+1	помилуі	помиловати	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+2	бѣдного	бѣдьныи	A	A-	NUMBs|GENDm|CASEg|DEGRp|STREw	3	atr	_	_
+3	сироту	сирота	N	Nb	NUMBs|GENDm|CASEa	1	obj	_	_
+
+1	писал	пьсати	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	0	pred	_	_
+2	ты	ты	P	Pp	PERS2|NUMBs|GENDm|CASEn	1	sub	_	_
+3	гсдрь	государь	N	Nb	NUMBs|GENDm|CASEn	2	apos	_	_
+4	ко	къ	R	R-	INFLn	1	obl	_	_
+5	мнѣ	азъ	P	Pp	PERS1|NUMBs|GENDm|CASEd	4	obl	_	_
+6	сироте	сирота	N	Nb	NUMBs|GENDm|CASEd	5	apos	_	_
+
+1	велел	велѣти	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	6	pred	_	_
+2	вина	вино	N	Nb	NUMBs|GENDn|CASEg	4	part	_	_
+3	десет	десять	M	Ma	NUMBs|GENDf|CASEa	5	obj	_	_
+4	ведрь	ведро	N	Nb	NUMBp|GENDn|CASEg	3	part	_	_
+5	купит	купити	V	V-	TENSp|MOODn|VOICa	1	xobj	_	_
+6	и	и	C	C-	INFLn	0	pred	_	_
+7	к	къ	R	R-	INFLn	12	obl	_	_
+8	себѣ	себе	P	Pk	PERS3|NUMBs|GENDm|CASEd	7	obl	_	_
+9	в	въ	R	R-	INFLn	7	apos	_	_
+10	полки	пълкъ	N	Nb	NUMBp|GENDm|CASEa	9	obl	_	_
+11	велел	велѣти	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	6	pred	_	_
+12	привести	привести	V	V-	TENSp|MOODn|VOICa	13	xobj	_	_
+13	і	и	C	C-	INFLn	11	xobj	_	_
+14	всякоі	вьсякыи	A	A-	NUMBs|GENDm|CASEa|DEGRp|STREw	16	atr	_	_
+15	столовоі	столовыи	A	A-	NUMBs|GENDm|CASEa|DEGRp|STREw	16	atr	_	_
+16	запас	запасъ	N	Nb	NUMBs|GENDm|CASEa	17	obj	_	_
+17	заплатит	заплатити	V	V-	TENSp|MOODn|VOICa	13	xobj	_	_
+
+1	и	и	C	C-	INFLn	8	aux	_	_
+2	я	я	P	Pp	PERS1|NUMBs|GENDm|CASEn	8	sub	_	_
+3	гсдрь	государь	N	Nb	NUMBs|GENDm|CASEn	0	voc	_	_
+4	твоі	твои	P	Ps	PERS2|NUMBs|GENDm|CASEa	7	atr	_	_
+5	боярскоі	боярьскыи	A	A-	NUMBs|GENDm|CASEa|DEGRp|STREw	7	atr	_	_
+6	столовоі	столовыи	A	A-	NUMBs|GENDm|CASEa|DEGRp|STREw	7	atr	_	_
+7	запас	запасъ	N	Nb	NUMBs|GENDm|CASEa	8	obj	_	_
+8	отвес	отъвезти	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	0	pred	_	_
+9	в	въ	R	R-	INFLn	8	obl	_	_
+10	Лабаново	лабаново	N	Ne	NUMBs|GENDn|CASEa	9	obl	_	_
+11	за	за	R	R-	INFLn	13	adv	_	_
+12	неделю	недѣля	N	Nb	NUMBs|GENDf|CASEa	11	obl	_	_
+13	до	до	R	R-	INFLn	8	adv	_	_
+14	Ражества	рожьство	N	Nb	NUMBs|GENDn|CASEg	13	obl	_	_
+15	Хрства	христ(ос)овъ	A	A-	NUMBs|GENDn|CASEg|DEGRp|STREs	14	atr	_	_
+
+1	а	а	C	C-	INFLn	10	aux	_	_
+2	в	въ	R	R-	INFLn	10	adv	_	_
+3	вине	вина	N	Nb	NUMBs|GENDf|CASEl	2	obl	_	_
+4	гсдрь	государь	N	Nb	NUMBs|GENDm|CASEn	0	voc	_	_
+5	милсти	милость	N	Nb	NUMBs|GENDf|CASEg	10	obl	_	_
+6	у	у	R	R-	INFLn	10	obl	_	_
+7	тебя	ты	P	Pp	PERS2|NUMBs|GENDm|CASEg	6	obl	_	_
+8	гсдря	государь	N	Nb	NUMBs|GENDm|CASEg	7	apos	_	_
+9	своего	свои	P	Pt	PERS3|NUMBs|GENDm|CASEg	8	atr	_	_
+10	прошу	просити	V	V-	PERS1|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+
+1	купит	купити	V	V-	TENSp|MOODn|VOICa	6	pred	_	_
+2	гсдрь	государь	N	Nb	NUMBs|GENDm|CASEn	0	voc	_	_
+3	не	не	D	Df	INFLn	4	aux	_	_
+4	на	на	R	R-	INFLn	1	adv	_	_
+5	што	чьто	P	Px	NUMBs|GENDn|CASEa	4	obl	_	_
+6	а	а	C	C-	INFLn	0	pred	_	_
+7	высидет	высѣдѣти	V	V-	TENSp|MOODn|VOICa	6	pred	_	_
+8	не	не	D	Df	INFLn	9	aux	_	_
+9	в	въ	R	R-	INFLn	7	adv	_	_
+10	чем	чьто	P	Px	NUMBs|GENDn|CASEl	9	obl	_	_
+
+1	изволением	изволение	N	Nb	NUMBs|GENDn|CASEi	8	adv	_	_
+2	бжьим	божии	A	A-	NUMBs|GENDn|CASEi|DEGRp|STREw	1	atr	_	_
+3	за	за	R	R-	INFLn	8	adv	_	_
+4	грех	грѣхъ	N	Nb	NUMBs|GENDm|CASEa	3	obl	_	_
+5	наш	нашь	P	Ps	PERS1|NUMBs|GENDm|CASEa	4	atr	_	_
+6	хлѣб	хлѣбъ	N	Nb	NUMBs|GENDm|CASEn	8	sub	_	_
+7	не	не	D	Df	INFLn	8	aux	_	_
+8	родил	родити	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	0	pred	_	_
+9	са	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	8	aux	_	_
+10	ни	ни	C	C-	INFLn	12	aux	_	_
+11	оржаноі	ръжаныи	A	A-	NUMBs|GENDm|CASEn|DEGRp|STREw	12	atr	_	_
+12	ни	ни	C	C-	INFLn	6	atr	_	_
+13	яровоі	яровыи	A	A-	NUMBs|GENDm|CASEn|DEGRp|STREw	12	atr	_	_
+
+1	и	и	C	C-	INFLn	4	aux	_	_
+2	самим	самъ	P	Pd	NUMBp|GENDm|CASEd	4	sub	_	_
+3	гсдрь	государь	N	Nb	NUMBs|GENDm|CASEn	0	voc	_	_
+4	пит	пити	V	V-	TENSp|MOODn|VOICa	0	pred	_	_
+5	есть	быти	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	4	aux	_	_
+6	не	не	D	Df	INFLn	7	aux	_	_
+7	чево	чьто	P	Px	NUMBs|GENDn|CASEg	4	obj	_	_
+
+1	помираем	помирати	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+2	голодною	голодьныи	A	A-	NUMBs|GENDf|CASEi|DEGRp|STREt	3	atr	_	_
+3	смертию	съмьрть	N	Nb	NUMBs|GENDf|CASEi	1	adv	_	_
+
+1	маяли	маяти	V	V-	NUMBp|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	0	pred	_	_
+2	с	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	1	aux	_	_
+3	по	по	R	R-	INFLn	1	adv	_	_
+4	се	сии	P	Pd	NUMBs|GENDn|CASEa	5	atr	_	_
+5	число	число	N	Nb	NUMBs|GENDn|CASEa	3	obl	_	_
+6	лебѣдою	лебеда	N	Nb	NUMBs|GENDf|CASEi	1	obl	_	_
+
+1	а	а	C	C-	INFLn	9	aux	_	_
+2	ннеча	нынѣча	D	Df	INFLn	9	adv	_	_
+3	с	съ	R	R-	INFLn	9	adv	_	_
+4	какова	каковыи	P	Pi	NUMBs|GENDn|CASEg	5	atr	_	_
+5	числа	число	N	Nb	NUMBs|GENDn|CASEg	3	obl	_	_
+6	и	и	D	Df	INFLn	7	aux	_	_
+7	лебѣды	лебеда	N	Nb	NUMBs|GENDf|CASEg	9	sub	_	_
+8	не	не	D	Df	INFLn	9	aux	_	_
+9	стало	стати	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDn|CASEn|STREs	0	pred	_	_
+
+1	и	и	C	C-	INFLn	7	aux	_	_
+2	мы	мы	P	Pp	PERS1|NUMBp|GENDm|CASEn	7	sub	_	_
+3	гсдрь	государь	N	Nb	NUMBs|GENDm|CASEn	0	voc	_	_
+4	тепер	теперь	D	Df	INFLn	7	adv	_	_
+5	сироты	сирота	N	Nb	NUMBp|GENDm|CASEn	2	apos	_	_
+6	ваши	вашь	P	Ps	PERS2|NUMBp|GENDm|CASEn	5	atr	_	_
+7	погибаем	погыбати	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	10	pred	_	_
+8	в	въ	R	R-	INFLn	7	adv	_	_
+9	конец	коньць	N	Nb	NUMBs|GENDm|CASEa	8	obl	_	_
+10	и	и	C	C-	INFLn	0	pred	_	_
+11	помираем	помирати	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	10	pred	_	_
+12	голодною	голодьныи	A	A-	NUMBs|GENDf|CASEi|DEGRp|STREt	13	atr	_	_
+13	смертью	съмьрть	N	Nb	NUMBs|GENDf|CASEi	11	adv	_	_
+
+1	смилуі	съмиловати	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+2	ся	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	1	aux	_	_
+3	гсдрь	государь	N	Nb	NUMBs|GENDm|CASEn	0	voc	_	_
+4	Ѳедор	федоръ	N	Ne	NUMBs|GENDm|CASEn	3	apos	_	_
+5	Маѯимович	максимовичь	N	Ne	NUMBs|GENDm|CASEn	4	apos	_	_
+6	над	надъ	R	R-	INFLn	1	obl	_	_
+7	бѣдным	бѣдьныи	A	A-	NUMBp|GENDm|CASEd|DEGRp|STREw	6	obl	_	_
+
+1	пожалуі	пожаловати	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+2	меня	азъ	P	Pp	PERS1|NUMBs|GENDm|CASEg	1	obj	_	_
+3	сироту	сирота	N	Nb	NUMBs|GENDm|CASEa	2	apos	_	_
+4	своего	свои	P	Pt	PERS3|NUMBs|GENDm|CASEg	3	atr	_	_
+5	в	въ	R	R-	INFLn	1	adv	_	_
+6	вине	вина	N	Nb	NUMBs|GENDf|CASEl	5	obl	_	_
+
+1	купит	купити	V	V-	TENSp|MOODn|VOICa	6	pred	_	_
+2	гсдрь	государь	N	Nb	NUMBs|GENDm|CASEn	0	voc	_	_
+3	не	не	D	Df	INFLn	4	aux	_	_
+4	на	на	R	R-	INFLn	1	adv	_	_
+5	што	чьто	P	Px	NUMBs|GENDn|CASEa	4	obl	_	_
+6	а	а	C	C-	INFLn	0	pred	_	_
+7	сидет	сѣдѣти	V	V-	TENSp|MOODn|VOICa	6	pred	_	_
+8	не	не	D	Df	INFLn	9	aux	_	_
+9	чем	чьто	P	Px	NUMBs|GENDn|CASEi	7	adv	_	_
+
+1	помилуі	помиловати	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+2	гсдрь	государь	N	Nb	NUMBs|GENDm|CASEn	0	voc	_	_
+3	бѣднаго	бѣдьныи	A	A-	NUMBs|GENDm|CASEg|DEGRp|STREw	4	atr	_	_
+4	сиротꙋ	сирота	N	Nb	NUMBs|GENDm|CASEa	1	obj	_	_
+
+1	взозри	възьрѣти	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+2	на	на	R	R-	INFLn	1	obl	_	_
+3	бѣспомошного	беспомочьныи	A	A-	NUMBs|GENDm|CASEg|DEGRp|STREw	2	obl	_	_
+
+1	даі	даяти	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+2	бѣдному	бѣдьныи	A	A-	NUMBs|GENDm|CASEd|DEGRp|STREw	1	obl	_	_
+3	свет	свѣтъ	N	Nb	NUMBs|GENDm|CASEa	4	obj	_	_
+4	видат	видати	V	V-	TENSp|MOODn|VOICa	1	xobj	_	_
+
+1	не	не	D	Df	INFLn	2	aux	_	_
+2	даі	даяти	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+3	б]ѣдному	бѣдьныи	A	A-	NUMBs|GENDm|CASEd|DEGRp|STREw	2	obl	_	_
+4	в	въ	R	R-	INFLn	6	adv	_	_
+5	конец	коньць	N	Nb	NUMBs|GENDm|CASEa	4	obl	_	_
+6	погинут	погыбнути	V	V-	TENSp|MOODn|VOICa	2	xobj	_	_
+
+1	погибаем	погыбати	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+2	гсдрь	государь	N	Nb	NUMBs|GENDm|CASEn	0	voc	_	_
+3	в	въ	R	R-	INFLn	1	adv	_	_
+4	конец	коньць	N	Nb	NUMBs|GENDm|CASEa	3	obl	_	_
+
+1	голодною	голодьныи	A	A-	NUMBs|GENDf|CASEi|DEGRp|STREt	2	atr	_	_
+2	смертию	съмьрть	N	Nb	NUMBs|GENDf|CASEi	3	adv	_	_
+3	помираем	помирати	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+
+1	смилуі	съмиловати	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+2	ся	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	1	aux	_	_
+3	гсдрь	государь	N	Nb	NUMBs|GENDm|CASEn	0	voc	_	_
+
+1	п]ажалуі	пожаловати	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+
+1	скотинишко	скотинишько	N	Nb	NUMBs|GENDn|CASEn	4	sub	_	_
+2	гсдрь	государь	N	Nb	NUMBs|GENDm|CASEn	0	voc	_	_
+3	тепер	теперь	D	Df	INFLn	4	adv	_	_
+4	помирает	помирати	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+5	же	же	D	Df	INFLn	4	aux	_	_
+6	з	съ	R	R-	INFLn	4	adv	_	_
+7	беско[рм]ицы	бескърмица	N	Nb	NUMBs|GENDf|CASEg	6	obl	_	_
+
+1	ни	ни	C	C-	INFLn	4	aux	_	_
+2	гуменнова	гумьньныи	A	A-	NUMBs|GENDm|CASEg|DEGRp|STREw	3	atr	_	_
+3	корму	кърмъ	N	Nb	NUMBs|GENDm|CASEg	4	sub	_	_
+4	ни	ни	C	C-	INFLn	6	sub	_	_
+5	сена	сѣно	N	Nb	NUMBs|GENDn|CASEg	4	sub	_	_
+6	нет	нѣту	V	V-	INFLn	0	pred	_	_
+
+1	а	а	C	C-	INFLn	0	aux(5)pred	_	_
+2	сенны[е	сѣньныи	A	A-	NUMBp|GENDm|CASEn|DEGRp|STREw	3	atr	_	_
+3	п]окосы	покосъ	N	Nb	NUMBp|GENDm|CASEn	0	sub(5)pred	_	_
+4	нужные	нужьныи	A	A-	NUMBp|GENDm|CASEn|DEGRp|STREw	0	xobj(5)pred	_	_
+
+1	и	и	C	C-	INFLn	4	aux	_	_
+2	те	тыи	P	Pd	NUMBp|GENDm|CASEn	4	sub	_	_
+3	не	не	D	Df	INFLn	4	aux	_	_
+4	родили	родити	V	V-	NUMBp|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	0	pred	_	_
+5	с	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	4	aux	_	_
+
+1	а	а	C	C-	INFLn	9	aux	_	_
+2	за	за	R	R-	INFLn	9	adv	_	_
+3	рекою	рѣка	N	Nb	NUMBs|GENDf|CASEi	2	obl	_	_
+4	сен[н]ые	сѣньныи	A	A-	NUMBp|GENDm|CASEa|DEGRp|STREw	5	atr	_	_
+5	покосы	покосъ	N	Nb	NUMBp|GENDm|CASEa	9	obj	_	_
+6	Михаіло	михаило	N	Ne	NUMBs|GENDm|CASEn	9	sub	_	_
+7	Петрович	петровичь	N	Ne	NUMBs|GENDm|CASEn	6	apos	_	_
+8	все	вьсь	P	Px	NUMBp|GENDm|CASEa	5	atr	_	_
+9	покосил	покосити	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	0	pred	_	_
+10	Б[е]клемишев	беклемишевъ	N	Ne	NUMBs|GENDm|CASEn	7	apos	_	_
+
+1	и	и	C	C-	INFLn	5	aux	_	_
+2	мы	мы	P	Pp	PERS1|NUMBp|GENDm|CASEn	5	sub	_	_
+3	гсдрь	государь	N	Nb	NUMBs|GENDm|CASEn	0	voc	_	_
+4	тепер	теперь	D	Df	INFLn	5	adv	_	_
+5	помираем	помирати	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	6	pred	_	_
+6	и	и	C	C-	INFLn	0	pred	_	_
+7	погибаем	погыбати	V	V-	PERS1|NUMBp|TENSp|MOODi|VOICa	6	pred	_	_
+8	сами	самъ	P	Pd	NUMBp|GENDm|CASEn	2	atr	_	_
+9	і	и	D	Df	INFLn	10	aux	_	_
+10	с	съ	R	R-	INFLn	8	atr	_	_
+11	скотинишком	скотинишько	N	Nb	NUMBs|GENDn|CASEi	10	obl	_	_
+

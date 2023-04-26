@@ -4321,11 +4321,615 @@
 6	хѹбь	хубъ	F	F-	INFLn	0	voc	_	_
 7	сїѧ	сия	F	F-	INFLn	0	voc	_	_
 
+1	а	а	C	C-	INFLn	4	aux	_	_
+2	силѧн	силянъ	N	Ne	NUMBs|GENDm|CASEn	4	sub	_	_
+3	же	же	D	Df	INFLn	4	aux	_	_
+4	есть	быти	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+5	пристанище	пристанище	N	Nb	NUMBs|GENDn|CASEn	4	xobj	_	_
+6	индѣискаго	индѣискыи	A	A-	NUMBs|GENDn|CASEg|DEGRp|STREw	7	atr	_	_
+7	морѧ	море	N	Nb	NUMBs|GENDn|CASEg	5	atr	_	_
+8	немало	немалыи	A	A-	NUMBs|GENDn|CASEn|DEGRp|STREs	5	atr	_	_
+
+1	а	а	C	C-	INFLn	0	aux(10)pred	_	_
+2	в	въ	R	R-	INFLn	0	adv(10)pred	_	_
+3	немъ	и	P	Pp	PERS3|NUMBs|GENDm|CASEl	2	obl	_	_
+4	баба	баба	N	Nb	NUMBs|GENDf|CASEn	0	sub(10)pred	_	_
+5	адамъ	адамъ	N	Ne	NUMBs|GENDm|CASEn	4	apos	_	_
+6	на	на	R	R-	INFLn	0	adv(10)pred	_	_
+7	горѣ	гора	N	Nb	NUMBs|GENDf|CASEl	6	obl	_	_
+8	на	на	R	R-	INFLn	6	aux	_	_
+9	высоцѣ	высокыи	A	A-	NUMBs|GENDf|CASEl|DEGRp|STREs	7	atr	_	_
+
+1	да	да	C	C-	INFLn	4	aux	_	_
+2	ѡколо	около	R	R-	INFLn	4	adv	_	_
+3	его	и	P	Pp	PERS3|NUMBs|GENDm|CASEg	2	obl	_	_
+4	родит	родити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+5	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	4	aux	_	_
+6	каменье	камение	N	Nb	NUMBs|GENDn|CASEn	8	sub	_	_
+7	драгое	драгыи	A	A-	NUMBs|GENDn|CASEn|DEGRp|STREw	6	atr	_	_
+8	да	да	C	C-	INFLn	4	sub	_	_
+9	червьци	чьрвьць	N	Nb	NUMBp|GENDm|CASEn	8	sub	_	_
+10	да	да	C	C-	INFLn	8	aux	_	_
+11	фатисы	фатисы	N	Nb	NUMBp|GENDp|CASEn	8	sub	_	_
+12	да	да	C	C-	INFLn	8	aux	_	_
+13	бабогѹры	бабогури	N	Nb	NUMBp|GENDp|CASEn	8	sub	_	_
+14	да	да	C	C-	INFLn	8	aux	_	_
+15	бинчаи	бинчаи	N	Nb	NUMBs|GENDm|CASEn	8	sub	_	_
+16	да	да	C	C-	INFLn	8	aux	_	_
+17	хрѹсталь	хрусталь	N	Nb	NUMBs|GENDm|CASEn	8	sub	_	_
+18	да	да	C	C-	INFLn	8	aux	_	_
+19	сѹм꙽бада	сумбада	N	Nb	NUMBs|GENDf|CASEn	8	sub	_	_
+
+1	да	да	C	C-	INFLn	3	aux	_	_
+2	слоны	слонъ	N	Nb	NUMBp|GENDm|CASEn	3	sub	_	_
+3	родѧт	родити	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+4	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	3	aux	_	_
+
+1	да	да	C	C-	INFLn	2	aux	_	_
+2	продають	продаяти	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+3	в	въ	R	R-	INFLn	2	adv	_	_
+4	локоть	локъть	N	Nb	NUMBs|GENDm|CASEa	3	obl	_	_
+
+1	да	да	C	C-	INFLn	3	aux	_	_
+2	девѧкꙋши	девякуши	N	Nb	NUMBp|GENDp|CASEa	3	obj	_	_
+3	продають	продаяти	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+4	в	въ	R	R-	INFLn	3	adv	_	_
+5	вѣсъ	вѣсъ	N	Nb	NUMBs|GENDm|CASEa	4	obl	_	_
+
+1	а	а	C	C-	INFLn	0	aux(8)pred	_	_
+2	шабаитьское	шабаитьскыи	A	A-	NUMBs|GENDn|CASEn|DEGRp|STREw	3	atr	_	_
+3	пристанище	пристанище	N	Nb	NUMBs|GENDn|CASEn	0	sub(8)pred	_	_
+4	индѣискаго	индѣискыи	A	A-	NUMBs|GENDn|CASEg|DEGRp|STREw	5	atr	_	_
+5	морѧ	море	N	Nb	NUMBs|GENDn|CASEg	3	atr	_	_
+6	велми	вельми	D	Df	INFLn	7	adv	_	_
+7	велико	великыи	A	A-	NUMBs|GENDn|CASEn|DEGRp|STREs	0	xobj(8)pred	_	_
+
+1	а	а	C	C-	INFLn	3	aux	_	_
+2	хоросанцемъ	хоросаньць	N	Nb	NUMBp|GENDm|CASEd	3	obl	_	_
+3	дають	даяти	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+4	алафꙋ	алафа	N	Nb	NUMBs|GENDf|CASEa	3	obj	_	_
+5	по	по	R	R-	INFLn	3	adv	_	_
+6	тенкѣ	тенька	N	Nb	NUMBs|GENDf|CASEd	5	obl	_	_
+7	на	на	R	R-	INFLn	5	adv	_	_
+8	дн҃ь	дьнь	N	Nb	NUMBs|GENDm|CASEa	7	obl	_	_
+9	и	и	C	C-	INFLn	11	aux	_	_
+10	великомѹ	великыи	A	A-	NUMBs|GENDm|CASEd|DEGRp|STREw	11	apos	_	_
+11	и	и	C	C-	INFLn	2	apos	_	_
+12	маломѹ	малыи	A	A-	NUMBs|GENDm|CASEd|DEGRp|STREw	11	apos	_	_
+
+1	а	а	C	C-	INFLn	5	aux	_	_
+2	кто	къто	P	Px	NUMBs|GENDq|CASEn	5	sub	_	_
+3	в	въ	R	R-	INFLn	5	adv	_	_
+4	немъ	и	P	Pp	PERS3|NUMBs|GENDm|CASEl	3	obl	_	_
+5	женит	женити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	8	pred	_	_
+6	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	5	aux	_	_
+7	хоросанець	хоросаньць	N	Nb	NUMBs|GENDm|CASEn	2	apos	_	_
+8	и	и	C	C-	INFLn	0	pred	_	_
+9	кн҃ѧзь	кънязь	N	Nb	NUMBs|GENDm|CASEn	11	sub	_	_
+10	шабатьскои	шабаитьскыи	A	A-	NUMBs|GENDm|CASEn|DEGRp|STREw	9	atr	_	_
+11	даеть	даяти	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	8	pred	_	_
+12	по	по	R	R-	INFLn	11	obj	_	_
+13	тысѧчи	тысяча	M	Ma	NUMBs|GENDf|CASEd	12	obl	_	_
+14	тенекъ	тенька	N	Nb	NUMBp|GENDf|CASEg	13	part	_	_
+15	на	на	R	R-	INFLn	17	adv	_	_
+16	жертвѹ	жьртва	N	Nb	NUMBs|GENDf|CASEa	15	obl	_	_
+17	да	да	C	C-	INFLn	11	adv	_	_
+18	на	на	R	R-	INFLn	17	adv	_	_
+19	ѡлафꙋ	алафа	N	Nb	NUMBs|GENDf|CASEa	18	obl	_	_
+
+1	да	да	C	C-	INFLn	2	aux	_	_
+2	ѣстъ	ясти	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+3	на	на	R	R-	INFLn	2	adv	_	_
+4	всѧкыи	вьсякыи	A	A-	NUMBs|GENDm|CASEa|DEGRp|STREw	5	atr	_	_
+5	мц҃ь	мѣсяць	N	Nb	NUMBs|GENDm|CASEa	3	obl	_	_
+6	по	по	R	R-	INFLn	2	adv	_	_
+7	десѧти	десять	M	Ma	NUMBs|GENDf|CASEd	6	obl	_	_
+8	денек	тенька	N	Nb	NUMBp|GENDf|CASEg	7	part	_	_
+
+1	да	да	C	C-	INFLn	2	aux	_	_
+2	родит	родити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+3	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	2	aux	_	_
+4	в	въ	R	R-	INFLn	2	adv	_	_
+5	шаботѣ	шаибатъ	N	Ne	NUMBs|GENDm|CASEl	4	obl	_	_
+6	шелкъ	шелкъ	N	Nb	NUMBs|GENDm|CASEn	7	sub	_	_
+7	да	да	C	C-	INFLn	2	sub	_	_
+8	сандал	сандалъ	N	Nb	NUMBs|GENDm|CASEn	7	sub	_	_
+9	да	да	C	C-	INFLn	7	aux	_	_
+10	жемчюгъ	жемчугъ	N	Nb	NUMBs|GENDm|CASEn	7	sub	_	_
+
+1	да	да	C	C-	INFLn	0	aux(4)pred	_	_
+2	все	вьсь	P	Px	NUMBs|GENDn|CASEn	0	sub(4)pred	_	_
+3	дешево	дешевыи	A	A-	NUMBs|GENDn|CASEn|DEGRp|STREs	0	xobj(4)pred	_	_
+
+1	а	а	C	C-	INFLn	5	aux	_	_
+2	в	въ	R	R-	INFLn	5	adv	_	_
+3	пегѹ	пегу	N	Ne	INFLn	2	obl	_	_
+4	же	же	D	Df	INFLn	5	aux	_	_
+5	есть	быти	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+6	пристанище	пристанище	N	Nb	NUMBs|GENDn|CASEn	5	sub	_	_
+7	немало	немалыи	A	A-	NUMBs|GENDn|CASEn|DEGRp|STREs	6	atr	_	_
+
+1	да	да#2	D	Df	INFLn	6	aux	_	_
+2	все	вьсе	D	Df	INFLn	5	aux	_	_
+3	в	въ	R	R-	INFLn	6	obl	_	_
+4	нем	и	P	Pp	PERS3|NUMBs|GENDm|CASEl	3	obl	_	_
+5	дербыши	дербышь	N	Nb	NUMBp|GENDm|CASEn	6	sub	_	_
+6	живѹть	жити	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+7	индѣискыѧ	индѣискыи	A	A-	NUMBp|GENDm|CASEn|DEGRp|STREw	5	atr	_	_
+
+1	да	да	C	C-	INFLn	2	aux	_	_
+2	родит	родити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+3	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	2	aux	_	_
+4	в	въ	R	R-	INFLn	2	adv	_	_
+5	немъ	и	P	Pp	PERS3|NUMBs|GENDm|CASEl	4	obl	_	_
+6	камение	камение	N	Nb	NUMBs|GENDn|CASEn	2	sub	_	_
+7	дорогое	дорогыи	A	A-	NUMBs|GENDn|CASEn|DEGRp|STREw	6	atr	_	_
+8	маникъ	маникъ	N	Nb	NUMBs|GENDm|CASEn	9	apos	_	_
+9	да	да	C	C-	INFLn	6	apos	_	_
+10	ѧхꙋт	яхонтъ	N	Nb	NUMBs|GENDm|CASEn	9	apos	_	_
+11	да	да	C	C-	INFLn	9	aux	_	_
+12	кырпѹкъ	кирпукъ	N	Nb	NUMBs|GENDm|CASEn	9	apos	_	_
+
+1	а	а	C	C-	INFLn	2	aux	_	_
+2	продають	продаяти	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+3	же	же	D	Df	INFLn	2	aux	_	_
+4	камение	камение	N	Nb	NUMBs|GENDn|CASEa	2	obj	_	_
+5	дербыши	дербышь	N	Nb	NUMBp|GENDm|CASEn	2	sub	_	_
+
+1	а	а	C	C-	INFLn	0	aux(10)pred	_	_
+2	чиньское	чиньскыи	A	A-	NUMBs|GENDn|CASEn|DEGRp|STREw	4	atr	_	_
+3	же	же	D	Df	INFLn	0	aux(10)pred	_	_
+4	да	да	C	C-	INFLn	7	atr	_	_
+5	мачиньское	мачиньскыи	A	A-	NUMBs|GENDn|CASEn|DEGRp|STREw	4	atr	_	_
+6	же	же	D	Df	INFLn	0	aux(10)pred	_	_
+7	пристанище	пристанище	N	Nb	NUMBs|GENDn|CASEn	0	sub(10)pred	_	_
+8	велми	вельми	D	Df	INFLn	9	adv	_	_
+9	велико	великыи	A	A-	NUMBs|GENDn|CASEn|DEGRp|STREs	0	xobj(10)pred	_	_
+
+1	да	да	C	C-	INFLn	2	aux	_	_
+2	дѣлають	дѣлати	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+3	в	въ	R	R-	INFLn	2	adv	_	_
+4	нем	и	P	Pp	PERS3|NUMBs|GENDm|CASEl	3	obl	_	_
+5	чини	чини	N	Nb	INFLn	2	obj	_	_
+
+1	да	да	C	C-	INFLn	2	aux	_	_
+2	продають	продаяти	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+3	чини	чини	N	Nb	INFLn	2	obj	_	_
+4	в	въ	R	R-	INFLn	6	adv	_	_
+5	вѣсъ	вѣсъ	N	Nb	NUMBs|GENDm|CASEa	4	obl	_	_
+6	а	а	C	C-	INFLn	2	adv	_	_
+7	дешево	дешевыи	A	A-	NUMBs|GENDn|CASEa|DEGRp|STREs	6	adv	_	_
+
+1	а	а	C	C-	INFLn	8	aux	_	_
+2	жены	жена	N	Nb	NUMBp|GENDf|CASEn	8	sub	_	_
+3	же	же	D	Df	INFLn	8	aux	_	_
+4	их	и	P	Pp	PERS3|NUMBp|GENDm|CASEg	2	atr	_	_
+5	с	съ	R	R-	INFLn	8	adv	_	_
+6	мѹжи	мужь	N	Nb	NUMBp|GENDm|CASEi	5	obl	_	_
+7	своими	свои	P	Pt	PERS3|NUMBp|GENDm|CASEi	6	atr	_	_
+8	спѧть	съпати	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+9	в꙽	въ	R	R-	INFLn	8	adv	_	_
+10	дн҃ь	дьнь	N	Nb	NUMBs|GENDm|CASEa	9	obl	_	_
+
+1	а	а	C	C-	INFLn	5	aux	_	_
+2	ночи	ночь	N	Nb	NUMBs|GENDf|CASEg	5	adv	_	_
+3	жены	жена	N	Nb	NUMBp|GENDf|CASEn	5	sub	_	_
+4	их	и	P	Pp	PERS3|NUMBp|GENDm|CASEg	3	atr	_	_
+5	ходѧть	ходити	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+6	к	къ	R	R-	INFLn	5	obl	_	_
+7	гарипомъ	гарипъ	N	Nb	NUMBp|GENDm|CASEd	6	obl	_	_
+
+1	да	да	C	C-	INFLn	2	aux	_	_
+2	спѧть	съпати	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+3	с	съ	R	R-	INFLn	2	adv	_	_
+4	гарипы	гарипъ	N	Nb	NUMBp|GENDm|CASEi	3	obl	_	_
+
+1	дают	даяти	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+2	имъ	и	P	Pp	PERS3|NUMBp|GENDm|CASEd	1	obl	_	_
+3	ѡлафꙋ	алафа	N	Nb	NUMBs|GENDf|CASEa	1	obj	_	_
+
+1	да	да	C	C-	INFLn	2	aux	_	_
+2	приносѧть	приносити	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+3	с꙽	съ	R	R-	INFLn	2	adv	_	_
+4	собою	себе	P	Pk	PERS3|NUMBs|GENDf|CASEi	3	obl	_	_
+5	ꙗствꙋ	яства	N	Nb	NUMBs|GENDf|CASEa	7	obj	_	_
+6	сахорнѹю	сахарьныи	A	A-	NUMBs|GENDf|CASEa|DEGRp|STREw	5	atr	_	_
+7	да	да	C	C-	INFLn	2	obj	_	_
+8	вино	вино	N	Nb	NUMBs|GENDn|CASEa	7	obj	_	_
+9	сахарное	сахарьныи	A	A-	NUMBs|GENDn|CASEa|DEGRp|STREw	8	atr	_	_
+
+1	да	да	C	C-	INFLn	3	aux	_	_
+2	кормѧть	кърмити	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	3	pred	_	_
+3	да	да	C	C-	INFLn	0	pred	_	_
+4	поꙗтъ	поити#2	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	3	pred	_	_
+5	гостеи	гость	N	Nb	NUMBp|GENDm|CASEg	2	obj	_	_
+6	чтобы	чьтобы	G	G-	INFLn	2	adv	_	_
+7	ее	и	P	Pp	PERS3|NUMBs|GENDf|CASEg	8	obj	_	_
+8	любилъ	любити	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	6	pred	_	_
+
+1	а	а	C	C-	INFLn	2	aux	_	_
+2	любѧть	любити	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+3	гостеи	гость	N	Nb	NUMBp|GENDm|CASEg	2	obj	_	_
+4	людеи	людие	N	Nb	NUMBp|GENDm|CASEg	3	apos	_	_
+5	бѣлых	бѣлыи	A	A-	NUMBp|GENDm|CASEg|DEGRp|STREw	4	atr	_	_
+6	занже	занеже	G	G-	INFLn	2	adv	_	_
+7	их	и	P	Pp	PERS3|NUMBp|GENDm|CASEg	8	atr	_	_
+8	люди	людие	N	Nb	NUMBp|GENDm|CASEn	6	sub(11)pred	_	_
+9	черны	чьрныи	A	A-	NUMBp|GENDm|CASEn|DEGRp|STREs	6	xobj(11)pred	_	_
+10	велми	вельми	D	Df	INFLn	9	adv	_	_
+
+1	а	а	C	C-	INFLn	7	aux	_	_
+2	ѹ	у	R	R-	INFLn	7	adv	_	_
+3	которые	которыи	P	Px	NUMBs|GENDf|CASEg	4	atr	_	_
+4	жены	жена	N	Nb	NUMBs|GENDf|CASEg	2	obl	_	_
+5	ѿ	отъ	R	R-	INFLn	7	adv	_	_
+6	гостѧ	гость	N	Nb	NUMBs|GENDm|CASEg	5	obl	_	_
+7	зачнет	зачати	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+8	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	7	aux	_	_
+9	дитѧ	дѣтя	N	Nb	NUMBs|GENDn|CASEn	7	sub	_	_
+
+1	и	и	C	C-	INFLn	3	aux	_	_
+2	мѹжь	мужь	N	Nb	NUMBs|GENDm|CASEn	3	sub	_	_
+3	даеть	даяти	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+4	алафꙋ	алафа	N	Nb	NUMBs|GENDf|CASEa	3	obj	_	_
+
+1	а	а	C	C-	INFLn	2	aux	_	_
+2	родит	родити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	5	apos	_	_
+3	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	2	aux	_	_
+4	бело	бѣлыи	A	A-	NUMBs|GENDn|CASEn|DEGRp|STREs	2	xadv	_	_
+5	ино	ино	D	Df	INFLn	0	adv(10)pred	_	_
+6	гостю	гость	N	Nb	NUMBs|GENDm|CASEd	0	sub(10)pred	_	_
+7	пошлины	пошьлина	N	Nb	NUMBs|GENDf|CASEg	9	part	_	_
+8	иі҃	трисъта	M	Ma	INFLn	0	obj(10)pred	_	_
+9	тенекъ	тенька	N	Nb	NUMBp|GENDf|CASEg	8	part	_	_
+
+1	а	а	C	C-	INFLn	7	aux	_	_
+2	черно	чьрныи	A	A-	NUMBs|GENDn|CASEn|DEGRp|STREs	3	xadv	_	_
+3	родит	родити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	5	apos	_	_
+4	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	3	aux	_	_
+5	ино	ино	D	Df	INFLn	7	adv	_	_
+6	емѹ	и	P	Pp	PERS3|NUMBs|GENDm|CASEd	7	obl	_	_
+7	нѣтъ	нѣту	V	V-	INFLn	0	pred	_	_
+8	ничево	ничьто	P	Px	NUMBs|GENDn|CASEg	7	sub	_	_
+
+1	что	чьто	P	Pr	NUMBs|GENDn|CASEa	2	obj	_	_
+2	пил	пити	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	3	apos	_	_
+3	да	да	C	C-	INFLn	5	apos	_	_
+4	ѣлъ	ѣсти	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	3	apos	_	_
+5	то	тыи	P	Pd	NUMBs|GENDn|CASEn	0	sub(8)pred	_	_
+6	емѹ	и	P	Pp	PERS3|NUMBs|GENDm|CASEd	0	adv(8)pred	_	_
+7	халѧлъ	халялъ	N	Nb	NUMBs|GENDm|CASEn	0	xobj(8)pred	_	_
+
+1	шаибатъ	шаибатъ	N	Ne	NUMBs|GENDm|CASEn	0	sub(7)pred	_	_
+2	же	же	D	Df	INFLn	0	aux(7)pred	_	_
+3	ѿ	отъ	R	R-	INFLn	0	obl(7)pred	_	_
+4	бедерѧ	бедерь	N	Ne	NUMBs|GENDm|CASEg	3	obl	_	_
+5	г҃	трие	M	Ma	INFLn	6	atr	_	_
+6	мсци	мѣсяць	N	Nb	NUMBp|GENDm|CASEa	0	adv(7)pred	_	_
+
+1	а	а	C	C-	INFLn	9	aux	_	_
+2	ѿ	отъ	R	R-	INFLn	9	obl	_	_
+3	дабылѧ	дабыль	N	Ne	NUMBs|GENDm|CASEg	2	obl	_	_
+4	до	до	R	R-	INFLn	9	obl	_	_
+5	шаибата	шаибатъ	N	Ne	NUMBs|GENDm|CASEg	4	obl	_	_
+6	в҃	дъва	M	Ma	INFLn	7	atr	_	_
+7	мсца	мѣсяць	N	Nb	NUMBd|GENDm|CASEa	9	adv	_	_
+8	моремъ	море	N	Nb	NUMBs|GENDn|CASEi	9	adv	_	_
+9	итьти	ити	V	V-	TENSp|MOODn|VOICa	0	pred	_	_
+
+1	мачимъ	мачинъ	N	Ne	NUMBs|GENDm|CASEa	2	obl	_	_
+2	да	да	C	C-	INFLn	9	obl	_	_
+3	чимъ	чинь	N	Ne	NUMBs|GENDm|CASEa	2	obl	_	_
+4	ѿ	отъ	R	R-	INFLn	9	obl	_	_
+5	бедерѧ	бедерь	N	Ne	NUMBs|GENDm|CASEg	4	obl	_	_
+6	д҃	четыре	M	Ma	INFLn	9	adv	_	_
+7	мсца	мѣсяць	N	Nb	NUMBs|GENDm|CASEg	6	part	_	_
+8	моремъ	море	N	Nb	NUMBs|GENDn|CASEi	9	adv	_	_
+9	итьти	ити	V	V-	TENSp|MOODn|VOICa	0	pred	_	_
+
+1	а	а	C	C-	INFLn	4	aux	_	_
+2	там꙽	тамъ	D	Df	INFLn	4	adv	_	_
+3	же	же	D	Df	INFLn	4	aux	_	_
+4	дѣлають	дѣлати	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+5	чими	чини	N	Nb	INFLn	4	obj	_	_
+
+1	да	да	C	C-	INFLn	0	aux(4)pred	_	_
+2	все	вьсь	P	Px	NUMBs|GENDn|CASEn	0	sub(4)pred	_	_
+3	дешево	дешевыи	A	A-	NUMBs|GENDn|CASEn|DEGRp|STREs	0	xobj(4)pred	_	_
+
+1	а	а	C	C-	INFLn	7	aux	_	_
+2	до	до	R	R-	INFLn	7	obl	_	_
+3	силѧна	силянъ	N	Ne	NUMBs|GENDm|CASEg	2	obl	_	_
+4	в҃	дъва	M	Ma	INFLn	5	atr	_	_
+5	мсца	мѣсяць	N	Nb	NUMBd|GENDm|CASEa	7	adv	_	_
+6	моремъ	море	N	Nb	NUMBs|GENDn|CASEi	7	adv	_	_
+7	итьти	ити	V	V-	TENSp|MOODn|VOICa	0	pred	_	_
+
+1	в	въ	R	R-	INFLn	4	adv	_	_
+2	шабаите	шаибатъ	N	Ne	NUMBs|GENDm|CASEl	1	obl	_	_
+3	же	же	D	Df	INFLn	4	aux	_	_
+4	родит	родити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+5	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	4	aux	_	_
+6	шелкъ	шелкъ	N	Nb	NUMBs|GENDm|CASEn	7	sub	_	_
+7	да	да	C	C-	INFLn	4	sub	_	_
+8	инчи	инчи	N	Nb	INFLn	7	sub	_	_
+9	да	да	C	C-	INFLn	7	aux	_	_
+10	жемчюгъ	жемчугъ	N	Nb	NUMBs|GENDm|CASEn	7	sub	_	_
+11	да	да	C	C-	INFLn	7	aux	_	_
+12	сандалъ	сандалъ	N	Nb	NUMBs|GENDm|CASEn	7	sub	_	_
+
+1	слоны	слонъ	N	Nb	NUMBp|GENDm|CASEa	2	obj	_	_
+2	продають	продаяти	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+3	в	въ	R	R-	INFLn	2	adv	_	_
+4	локот	локъть	N	Nb	NUMBs|GENDm|CASEa	3	obl	_	_
+
+1	в	въ	R	R-	INFLn	4	adv	_	_
+2	силѧне	силянъ	N	Ne	NUMBs|GENDm|CASEl	1	obl	_	_
+3	же	же	D	Df	INFLn	4	aux	_	_
+4	родит	родити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+5	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	4	aux	_	_
+6	ам꙽моны	аммонъ	N	Nb	NUMBp|GENDm|CASEn	7	sub	_	_
+7	да	да	C	C-	INFLn	4	sub	_	_
+8	чрьвци	чьрвьць	N	Nb	NUMBp|GENDm|CASEn	7	sub	_	_
+9	да	да	C	C-	INFLn	7	aux	_	_
+10	фатисы	фатисы	N	Nb	NUMBp|GENDp|CASEn	7	sub	_	_
+
+1	в	въ	R	R-	INFLn	4	adv	_	_
+2	лекоте	келекотъ	N	Ne	NUMBs|GENDm|CASEl	1	obl	_	_
+3	же	же	D	Df	INFLn	4	aux	_	_
+4	родит	родити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+5	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	4	aux	_	_
+6	перець	пьрьць	N	Nb	NUMBs|GENDm|CASEn	7	sub	_	_
+7	да	да	C	C-	INFLn	4	sub	_	_
+8	мошкат	мошкатъ	N	Ne	NUMBs|GENDm|CASEn	7	sub	_	_
+9	да	да	C	C-	INFLn	7	aux	_	_
+10	гвоздникы	гвоздьникы	N	Nb	NUMBp|GENDm|CASEn	7	sub	_	_
+11	да	да	C	C-	INFLn	7	aux	_	_
+12	фѹфалъ	фуфалъ	N	Nb	NUMBs|GENDm|CASEn	7	sub	_	_
+13	да	да	C	C-	INFLn	7	aux	_	_
+14	цвѣт	цвѣтъ	N	Nb	NUMBs|GENDm|CASEn	7	sub	_	_
+
+1	в	въ	R	R-	INFLn	4	adv	_	_
+2	кѹзрѧте	кузратъ	N	Ne	NUMBs|GENDm|CASEl	1	obl	_	_
+3	же	же	D	Df	INFLn	4	aux	_	_
+4	родит	родити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+5	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	4	aux	_	_
+6	краска	красъка	N	Nb	NUMBs|GENDf|CASEn	7	sub	_	_
+7	да	да	C	C-	INFLn	4	sub	_	_
+8	люкъ	люкъ	N	Nb	NUMBs|GENDm|CASEn	7	sub	_	_
+
+1	да	да	C	C-	INFLn	4	aux	_	_
+2	в	въ	R	R-	INFLn	4	adv	_	_
+3	кам꙽батѣ	камбатъ	N	Ne	NUMBs|GENDm|CASEl	2	obl	_	_
+4	родит	родити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+5	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	4	aux	_	_
+6	ахикъ	ахикъ	N	Nb	NUMBs|GENDm|CASEn	4	sub	_	_
+
+1	в	въ	R	R-	INFLn	4	adv	_	_
+2	рачюре	рачуръ	N	Nb	NUMBs|GENDm|CASEl	1	obl	_	_
+3	же	же	D	Df	INFLn	4	aux	_	_
+4	родит	родити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+5	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	4	aux	_	_
+6	алмазъ	алмазъ	N	Nb	NUMBs|GENDm|CASEn	9	sub	_	_
+7	бир꙽	биръ	F	F-	INFLn	6	apos	_	_
+8	кона	конъ	N	Nb	NUMBs|GENDm|CASEg	7	apos	_	_
+9	да	да	C	C-	INFLn	4	sub	_	_
+10	новъ	новыи	A	A-	NUMBs|GENDm|CASEa|DEGRp|STREs	12	apos	_	_
+11	кона	конъ	N	Nb	NUMBs|GENDm|CASEg	10	apos	_	_
+12	алмазъ	алмазъ	N	Nb	NUMBs|GENDm|CASEn	9	sub	_	_
+
+1	продають	продаяти	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+2	посыкꙋ	почька	N	Nb	NUMBs|GENDf|CASEa	1	obj	_	_
+3	по	по	R	R-	INFLn	1	adv	_	_
+4	пѧти	пять	M	Ma	NUMBs|GENDf|CASEd	3	obl	_	_
+5	рѹблевъ	рубль	N	Nb	NUMBp|GENDm|CASEg	4	part	_	_
+
+1	а	а	C	C-	INFLn	0	aux(6)pred	_	_
+2	доброго	добрыи	A	A-	NUMBs|GENDm|CASEg|DEGRp|STREw	0	obj(6)pred	_	_
+3	по	по	R	R-	INFLn	0	adv(6)pred	_	_
+4	десѧти	десять	M	Ma	NUMBs|GENDf|CASEd	3	obl	_	_
+5	рѹблевъ	рубль	N	Nb	NUMBp|GENDm|CASEg	4	part	_	_
+
+1	новаго	новыи	A	A-	NUMBs|GENDm|CASEg|DEGRp|STREw	4	atr	_	_
+2	же	же	D	Df	INFLn	0	aux(7)pred	_	_
+3	почка	почька	N	Nb	NUMBs|GENDf|CASEn	0	sub(7)pred	_	_
+4	алмазꙋ	алмазъ	N	Nb	NUMBs|GENDm|CASEg	3	atr	_	_
+5	пѣнечь.че	пѣнечьче	F	F-	INFLn	0	voc	_	_
+6	кени	кени	F	F-	INFLn	0	voc	_	_
+
+1	сїѧ	сия	F	F-	INFLn	0	voc	_	_
+2	же	же	D	Df	INFLn	0	aux(6)pred	_	_
+3	чар	чаръ	F	F-	INFLn	0	voc	_	_
+4	шеш꙽	шешь	F	F-	INFLn	0	voc	_	_
+5	кени	кени	F	F-	INFLn	0	voc	_	_
+
+1	а	а	C	C-	INFLn	0	aux(5)pred	_	_
+2	сипитъ	сипитъ	F	F-	INFLn	0	voc	_	_
+3	екъ	екъ	F	F-	INFLn	0	voc	_	_
+4	тенка	тенька	N	Nb	NUMBs|GENDf|CASEn	0	sub(5)pred	_	_
+
+1	алмазъ	алмазъ	N	Nb	NUMBs|GENDm|CASEn	3	sub	_	_
+2	же	же	D	Df	INFLn	3	aux	_	_
+3	родит	родити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+4	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	3	aux	_	_
+5	в	въ	R	R-	INFLn	3	adv	_	_
+6	горѣ	гора	N	Nb	NUMBs|GENDf|CASEl	5	obl	_	_
+7	каменои	каменьныи	A	A-	NUMBs|GENDf|CASEl|DEGRp|STREw	6	atr	_	_
+
+1	а	а	C	C-	INFLn	2	aux	_	_
+2	продають	продаяти	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+3	же	же	D	Df	INFLn	2	aux	_	_
+4	тѹю	тыи	P	Pd	NUMBs|GENDf|CASEa	5	atr	_	_
+5	горꙋ	гора	N	Nb	NUMBs|GENDf|CASEa	2	obj	_	_
+6	каменѹю	каменьныи	A	A-	NUMBs|GENDf|CASEa|DEGRp|STREw	5	atr	_	_
+
+1	по	по	R	R-	INFLn	0	adv(8)pred	_	_
+2	двѣ	дъва	M	Ma	NUMBd|GENDf|CASEa	3	atr	_	_
+3	тысѧчи	тысяча	M	Ma	NUMBd|GENDf|CASEa	1	obl	_	_
+4	фѹнтовъ	фунтъ	N	Nb	NUMBp|GENDm|CASEg	3	part	_	_
+5	золотых	золотыи	A	A-	NUMBp|GENDm|CASEg|DEGRp|STREw	4	atr	_	_
+6	новаго	новыи	A	A-	NUMBs|GENDm|CASEg|DEGRp|STREw	7	atr	_	_
+7	алмазꙋ	алмазъ	N	Nb	NUMBs|GENDm|CASEg	0	obj(8)pred	_	_
+
+1	а	а	C	C-	INFLn	4	aux	_	_
+2	кона	конъ	N	Nb	NUMBs|GENDm|CASEg	3	apos	_	_
+3	алмазꙋ	алмазъ	N	Nb	NUMBs|GENDm|CASEg	4	obj	_	_
+4	продають	продаяти	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+5	в	въ	R	R-	INFLn	4	adv	_	_
+6	локот	локъть	N	Nb	NUMBs|GENDm|CASEa	5	obl	_	_
+7	по	по	R	R-	INFLn	4	adv	_	_
+8	і҃	десять	M	Ma	INFLn	7	obl	_	_
+9	тысѧчь	тысяча	M	Ma	NUMBp|GENDf|CASEg	8	part	_	_
+10	фѹнтовъ	фунтъ	N	Nb	NUMBp|GENDm|CASEg	9	part	_	_
+11	золотых	золотыи	A	A-	NUMBp|GENDm|CASEg|DEGRp|STREw	10	atr	_	_
+
+1	а	а	C	C-	INFLn	0	aux(6)pred	_	_
+2	землѧ	земля	N	Nb	NUMBs|GENDf|CASEn	0	sub(6)pred	_	_
+3	же	же	D	Df	INFLn	0	aux(6)pred	_	_
+4	тоѧ	тыи	P	Pd	NUMBs|GENDf|CASEn	2	atr	_	_
+5	меликханова	меликъхановъ	A	A-	NUMBs|GENDf|CASEn|DEGRp|STREs	0	xobj(6)pred	_	_
+
+1	а	а	C	C-	INFLn	0	aux(4)pred	_	_
+2	холопъ	холопъ	N	Nb	NUMBs|GENDm|CASEn	0	sub(4)pred	_	_
+3	салтановъ	салтановъ	A	A-	NUMBs|GENDm|CASEn|DEGRp|STREs	0	xobj(4)pred	_	_
+
+1	а	а	C	C-	INFLn	0	aux(6)pred	_	_
+2	ѿ	отъ	R	R-	INFLn	0	adv(6)pred	_	_
+3	бедерѧ	бедерь	N	Ne	NUMBs|GENDm|CASEg	2	obl	_	_
+4	л҃	тридесяте	M	Ma	INFLn	0	sub(6)pred	_	_
+5	кововъ	ковъ	N	Nb	NUMBp|GENDm|CASEg	4	part	_	_
+
+1	а	а	C	C-	INFLn	0	aux(10)pred	_	_
+2	шабаите	шабаитинъ	N	Nb	NUMBp|GENDm|CASEn	0	sub(10)pred	_	_
+3	не	не	D	Df	INFLn	0	aux(10)pred	_	_
+4	ни	ни	C	C-	INFLn	6	aux	_	_
+5	жидове	жидовинъ	N	Nb	NUMBp|GENDm|CASEn	6	xobj	_	_
+6	ни	ни	C	C-	INFLn	0	xobj(10)pred	_	_
+7	бесермена	бесерменинъ	N	Nb	NUMBp|GENDm|CASEn	6	xobj	_	_
+8	ни	ни	C	C-	INFLn	6	aux	_	_
+9	хрстиане	хрьстиянинъ	N	Nb	NUMBp|GENDm|CASEn	6	xobj	_	_
+
+1	инаа	иныи	P	Px	NUMBs|GENDf|CASEn	0	xobj(4)pred	_	_
+2	вѣра	вѣра	N	Nb	NUMBs|GENDf|CASEn	0	sub(4)pred	_	_
+3	индѣискаа	индѣискыи	A	A-	NUMBs|GENDf|CASEn|DEGRp|STREw	1	apos	_	_
+
+1	ни	ни	C	C-	INFLn	4	aux	_	_
+2	с	съ	R	R-	INFLn	4	adv	_	_
+3	хѹды	худинъ	N	Nb	NUMBp|GENDm|CASEi	2	obl	_	_
+4	ни	ни	C	C-	INFLn	9	adv	_	_
+5	зъ	съ	R	R-	INFLn	4	adv	_	_
+6	бесермены	бесерменинъ	N	Nb	NUMBp|GENDm|CASEi	5	obl	_	_
+7	ни	ни	C	C-	INFLn	9	aux	_	_
+8	пїють	пити	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	9	pred	_	_
+9	ни	ни	C	C-	INFLn	0	pred	_	_
+10	ꙗдѧть	ясти	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	9	pred	_	_
+
 1	а	а	C	C-	INFLn	5	aux	_	_
 2	мѧса	мясо	N	Nb	NUMBs|GENDn|CASEg	5	obj	_	_
 3	никакого	никакыи	P	Px	NUMBs|GENDn|CASEg	2	atr	_	_
 4	не	не	D	Df	INFLn	5	aux	_	_
 5	ꙗдѧть	ясти	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+
+1	да	да	C	C-	INFLn	0	aux(7)pred	_	_
+2	в	въ	R	R-	INFLn	0	adv(7)pred	_	_
+3	шабатѣ	шаибатъ	N	Ne	NUMBs|GENDm|CASEl	2	obl	_	_
+4	же	же	D	Df	INFLn	0	aux(7)pred	_	_
+5	все	вьсь	P	Px	NUMBs|GENDn|CASEn	0	sub(7)pred	_	_
+6	дешево	дешевыи	A	A-	NUMBs|GENDn|CASEn|DEGRp|STREs	0	xobj(7)pred	_	_
+
+1	а	а	C	C-	INFLn	2	aux	_	_
+2	родит	родити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+3	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	2	aux	_	_
+4	шелкъ	шелкъ	N	Nb	NUMBs|GENDm|CASEn	5	sub	_	_
+5	да	да	C	C-	INFLn	2	sub	_	_
+6	сахаръ	сахаръ	N	Nb	NUMBs|GENDm|CASEn	5	sub	_	_
+
+1	велми	вельми	D	Df	INFLn	2	adv	_	_
+2	дешево	дешевыи	A	A-	NUMBs|GENDn|CASEn|DEGRp|STREs	0	xobj(3)pred	_	_
+
+1	да	да#2	D	Df	INFLn	0	aux(9)pred	_	_
+2	по	по	R	R-	INFLn	0	adv(9)pred	_	_
+3	лесѹ	лѣсъ	N	Nb	NUMBs|GENDm|CASEd	2	obl	_	_
+4	ѹ	у	R	R-	INFLn	0	adv(9)pred	_	_
+5	них	и	P	Pp	PERS3|NUMBp|GENDm|CASEg	4	obl	_	_
+6	мамоны	мамона	N	Nb	NUMBp|GENDf|CASEn	7	sub	_	_
+7	да	да	C	C-	INFLn	0	sub(9)pred	_	_
+8	ѡбезьꙗны	обезияна	N	Nb	NUMBp|GENDf|CASEn	7	sub	_	_
+
+1	да	да	C	C-	INFLn	5	aux	_	_
+2	по	по	R	R-	INFLn	5	adv	_	_
+3	дорогамъ	дорога	N	Nb	NUMBp|GENDf|CASEd	2	obl	_	_
+4	людеи	людие	N	Nb	NUMBp|GENDm|CASEg	5	obj	_	_
+5	дерѹт	дьрати	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+
+1	ино	ино	D	Df	INFLn	8	aux	_	_
+2	ꙋ	у	R	R-	INFLn	8	adv	_	_
+3	нихъ	и	P	Pp	PERS3|NUMBp|GENDm|CASEg	2	obl	_	_
+4	ночи	ночь	N	Nb	NUMBs|GENDf|CASEl	9	adv	_	_
+5	по	по	R	R-	INFLn	9	adv	_	_
+6	дорогамъ	дорога	N	Nb	NUMBp|GENDf|CASEd	5	obl	_	_
+7	не	не	D	Df	INFLn	8	aux	_	_
+8	смѣють	смѣяти	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+9	ѣздити	ѣздити	V	V-	TENSp|MOODn|VOICa	8	xobj	_	_
+10	ѡбезъꙗнъ	обезияна	N	Nb	NUMBp|GENDf|CASEg	11	obl	_	_
+11	дѣлѧ	дѣля	R	R-	INFLn	12	adv	_	_
+12	да	да	C	C-	INFLn	8	adv	_	_
+13	момонъ	мамона	N	Nb	NUMBp|GENDf|CASEg	14	obl	_	_
+14	дѣлѧ	дѣля	R	R-	INFLn	12	adv	_	_
+
+1	а	а	C	C-	INFLn	8	aux	_	_
+2	ѿ	отъ	R	R-	INFLn	8	obl	_	_
+3	шаибата	шаибатъ	N	Ne	NUMBs|GENDm|CASEg	2	obl	_	_
+4	же	же	D	Df	INFLn	8	aux	_	_
+5	і҃	десять	M	Ma	INFLn	8	adv	_	_
+6	мсць	мѣсяць	N	Nb	NUMBp|GENDm|CASEg	5	part	_	_
+7	сѹхомъ	сухо	N	Nb	NUMBs|GENDn|CASEi	8	adv	_	_
+8	итьти	ити	V	V-	TENSp|MOODn|VOICa	9	pred	_	_
+9	а	а	C	C-	INFLn	0	pred	_	_
+10	моремъ	море	N	Nb	NUMBs|GENDn|CASEi	9	adv(14)pred	_	_
+11	д҃	четыре	M	Ma	INFLn	9	adv(14)pred	_	_
+12	мсца	мѣсяць	N	Nb	NUMBs|GENDm|CASEg	11	part	_	_
+13	аѹкиковъ	аукиковъ	F	F-	INFLn	0	voc	_	_
+
+1	а	а	C	C-	INFLn	4	aux	_	_
+2	ѡленеи	олень	N	Nb	NUMBp|GENDm|CASEg	5	atr	_	_
+3	ѡкормленых	окърмити	V	V-	NUMBp|TENSu|MOODp|VOICp|GENDm|CASEg|STREw	2	atr	_	_
+4	рѣжѹть	рѣзати	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+5	пꙋпы	пупъ	N	Nb	NUMBp|GENDm|CASEa	4	obj	_	_
+
+1	а	а	C	C-	INFLn	6	aux	_	_
+2	пѹпъ	пупъ	N	Nb	NUMBs|GENDm|CASEa	4	apos	_	_
+3	в	въ	R	R-	INFLn	6	adv	_	_
+4	не	и	P	Pp	PERS3|NUMBs|GENDm|CASEl	3	obl	_	_
+5	мъскѹсъ	мускусъ	N	Nb	NUMBs|GENDm|CASEn	6	sub	_	_
+6	родит	родити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+7	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	6	aux	_	_
+
+1	а	а	C	C-	INFLn	7	aux	_	_
+2	дикыи	дикыи	A	A-	NUMBp|GENDm|CASEn|DEGRp|STREw	3	atr	_	_
+3	ѡленї	олень	N	Nb	NUMBp|GENDm|CASEn	7	sub	_	_
+4	пѹпькы	пупъкъ	N	Nb	NUMBp|GENDm|CASEa	7	obj	_	_
+5	ис	из	R	R-	INFLn	7	obl	_	_
+6	собѧ	себе	P	Pk	PERS3|NUMBs|GENDm|CASEg	5	obl	_	_
+7	ронѧть	ронити	V	V-	PERS3|NUMBp|TENSp|MOODi|VOICa	0	pred	_	_
+8	по	по	R	R-	INFLn	10	adv	_	_
+9	полю	поле	N	Nb	NUMBs|GENDn|CASEd	8	obl	_	_
+10	и	и	C	C-	INFLn	7	adv	_	_
+11	по	по	R	R-	INFLn	10	adv	_	_
+12	лесѹ	лѣсъ	N	Nb	NUMBs|GENDm|CASEd	11	obl	_	_
+
+1	ино	ино	D	Df	INFLn	5	aux	_	_
+2	ис	из	R	R-	INFLn	5	obl	_	_
+3	тѣх	тыи	P	Pd	NUMBp|GENDm|CASEg	2	obl	_	_
+4	вонѧ	воня	N	Nb	NUMBs|GENDf|CASEn	5	sub	_	_
+5	выходить	выходити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+
+1	да	да	C	C-	INFLn	0	aux(7)pred	_	_
+2	ѣстъ	ѣсти	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	parpred	_	_
+3	то	то	D	Df	INFLn	0	aux(7)pred	_	_
+4	тотъ	тътъ	P	Pd	NUMBs|GENDm|CASEn	0	sub(7)pred	_	_
+5	не	не	D	Df	INFLn	0	aux(7)pred	_	_
+6	свѣжь	свѣжии	A	A-	NUMBs|GENDm|CASEn|DEGRp|STREs	0	xobj(7)pred	_	_
 
 1	мсца	мѣсяць	N	Nb	NUMBs|GENDm|CASEg	5	adv	_	_
 2	маа	маи	N	Nb	NUMBs|GENDm|CASEg	1	apos	_	_

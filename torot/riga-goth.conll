@@ -592,6 +592,22 @@
 10	роускои	русьскыи	A	A-	NUMBs|GENDf|CASEl|DEGRp|STREw	11	atr	_	_
 11	земли	земля	N	Nb	NUMBs|GENDf|CASEl	9	obl	_	_
 
+1	А	а	C	C-	INFLn	4	aux	_	_
+2	латининоу	латининъ	N	Nb	NUMBs|GENDm|CASEd	4	sub	_	_
+3	не	не	D	Df	INFLn	4	aux	_	_
+4	звати	зъвати	V	V-	TENSp|MOODn|VOICa	0	pred	_	_
+5	роусина	русинъ	N	Nb	NUMBs|GENDm|CASEg	4	obj	_	_
+6	на	на	R	R-	INFLn	4	obl	_	_
+7	полѣ	поле	N	Nb	NUMBs|GENDn|CASEa	6	obl	_	_
+8	бито	бити	V	V-	MOODu|CASEa	4	xadv	_	_
+9	сѧ	себе	P	Pk	PERS3|NUMBs|GENDq|CASEa	8	aux	_	_
+10	оу	въ	R	R-	INFLn	12	adv	_	_
+11	ризѣ	рига	N	Ne	NUMBs|GENDf|CASEl	10	obl	_	_
+12	и	и	C	C-	INFLn	4	adv	_	_
+13	на	на	R	R-	INFLn	12	adv	_	_
+14	готскомь	готьскыи	A	A-	NUMBs|GENDm|CASEl|DEGRp|STREw	15	atr	_	_
+15	березѣ	берегъ	N	Nb	NUMBs|GENDm|CASEl	13	obl	_	_
+
 1	Аже	аже	G	G-	INFLn	0	adv(20)pred	_	_
 2	латинескии	латиньскыи	A	A-	NUMBs|GENDm|CASEn|DEGRp|STREw	3	atr	_	_
 3	гость	гость	N	Nb	NUMBs|GENDm|CASEn	4	sub	_	_
@@ -1218,6 +1234,18 @@
 8	гочкого	готьскыи	A	A-	NUMBs|GENDm|CASEg|DEGRp|STREw	9	atr	_	_
 9	берега	берегъ	N	Nb	NUMBs|GENDm|CASEg	7	obl	_	_
 
+1	Тиоуноу	тиунъ	N	Nb	NUMBs|GENDm|CASEd	4	obl	_	_
+2	на	на	R	R-	INFLn	1	atr	_	_
+3	вълъцѣ	волокъ	N	Nb	NUMBs|GENDm|CASEl	2	obl	_	_
+4	дати	дати	V	V-	TENSp|MOODn|VOICa	0	pred	_	_
+5	роукавицѣ	рукавица	N	Nb	NUMBp|GENDf|CASEa	4	obj	_	_
+6	аж	аже	G	G-	INFLn	4	adv	_	_
+7	бы	быти	V	V-	PERS3|NUMBs|TENSa|MOODi|VOICa	9	aux	_	_
+8	товаръ	товаръ	N	Nb	NUMBs|GENDm|CASEa	9	obj	_	_
+9	пьревьзлъ	перевезти	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	6	pred	_	_
+10	без	без	R	R-	INFLn	9	adv	_	_
+11	дѣржания	дьржание	N	Nb	NUMBs|GENDn|CASEg	10	obl	_	_
+
 1	Латинескомоу	латиньскыи	A	A-	NUMBs|GENDm|CASEd|DEGRp|STREw	2	sub	_	_
 2	дати	дати	V	V-	TENSp|MOODn|VOICa	0	pred	_	_
 3	ѿ	отъ	R	R-	INFLn	2	adv	_	_
@@ -1499,4 +1527,198 @@
 7	болѣ	болии	A	A-	NUMBs|GENDn|CASEa|DEGRc|STREs	9	obj	_	_
 8	не	не	D	Df	INFLn	9	aux	_	_
 9	даи	даяти	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	6	pred	_	_
+
+1	Тая	тыи	P	Pd	NUMBs|GENDf|CASEn	2	atr	_	_
+2	правда	правьда	N	Nb	NUMBs|GENDf|CASEn	4	obj	_	_
+3	латинескомоу	латиньскыи	A	A-	NUMBs|GENDm|CASEd|DEGRp|STREw	4	sub	_	_
+4	възѧти	възяти	V	V-	TENSp|MOODn|VOICa	0	pred	_	_
+5	оу	въ	R	R-	INFLn	4	adv	_	_
+6	роускои	русьскыи	A	A-	NUMBs|GENDf|CASEl|DEGRp|STREw	7	atr	_	_
+7	земли	земля	N	Nb	NUMBs|GENDf|CASEl	5	obl	_	_
+8	оу	въ	R	R-	INFLn	12	apos	_	_
+9	вълъсти	волость	N	Nb	NUMBs|GENDf|CASEl	8	obl	_	_
+10	кнѧзѧ	кънязь	N	Nb	NUMBs|GENDm|CASEg	9	atr	_	_
+11	смольнеского	смольньскыи	A	A-	NUMBs|GENDm|CASEg|DEGRp|STREw	10	atr	_	_
+12	и	и	C	C-	INFLn	5	apos	_	_
+13	оу	въ	R	R-	INFLn	12	apos	_	_
+14	полотьского	полотьскыи	A	A-	NUMBs|GENDm|CASEg|DEGRp|STREw	15	atr	_	_
+15	кнѧзѧ	кънязь	N	Nb	NUMBs|GENDm|CASEg	16	atr	_	_
+16	вълъсти	волость	N	Nb	NUMBs|GENDf|CASEl	13	obl	_	_
+17	и	и	C	C-	INFLn	12	aux	_	_
+18	оу	въ	R	R-	INFLn	12	apos	_	_
+19	витьбеского	витьбьскыи	A	A-	NUMBs|GENDm|CASEg|DEGRp|STREw	20	atr	_	_
+20	кнѧзѧ	кънязь	N	Nb	NUMBs|GENDm|CASEg	21	atr	_	_
+21	вълъсти	волость	N	Nb	NUMBs|GENDf|CASEl	18	obl	_	_
+
+1	Коли	коли	D	Dq	INFLn	5	adv(23)adv	_	_
+2	сѧ	сии	P	Pd	NUMBs|GENDf|CASEn	3	atr	_	_
+3	грамота	грамота	N	Nb	NUMBs|GENDf|CASEn	5	sub(23)adv	_	_
+4	псана	пьсати	V	V-	NUMBs|TENSu|MOODp|VOICp|GENDf|CASEn|STREs	5	xobj(23)adv	_	_
+5	ишлъ	изити	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	0	pred	_	_
+6	былъ	быти	V	V-	NUMBs|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	5	aux	_	_
+7	ѿ	отъ	R	R-	INFLn	5	adv	_	_
+8	ржс҃тва	рожьство	N	Nb	NUMBs|GENDn|CASEg	7	obl	_	_
+9	гс҃нѧ	господьнь	A	A-	NUMBs|GENDn|CASEg|DEGRp|STREs	8	atr	_	_
+10	до	до	R	R-	INFLn	5	adv	_	_
+11	сего	сии	P	Pd	NUMBs|GENDn|CASEg	12	atr	_	_
+12	лѣта	лѣто	N	Nb	NUMBs|GENDn|CASEg	10	obl	_	_
+13	а҃҂	тысяча	M	Ma	INFLn	15	sub	_	_
+14	лѣт҃	лѣто	N	Nb	NUMBp|GENDn|CASEg	13	part	_	_
+15	и	и	C	C-	INFLn	5	sub	_	_
+16	с҃	дъвѣсътѣ	M	Ma	INFLn	15	sub	_	_
+17	лѣт҃	лѣто	N	Nb	NUMBp|GENDn|CASEg	16	part	_	_
+18	и	и	C	C-	INFLn	15	aux	_	_
+19	и҃	осмь	M	Ma	INFLn	15	sub	_	_
+20	лѣт҃	лѣто	N	Nb	NUMBp|GENDn|CASEg	19	part	_	_
+21	и	и	C	C-	INFLn	15	aux	_	_
+22	к҃	дъвадесяти	M	Ma	INFLn	15	sub	_	_
+
+1	подъ	подъ	R	R-	INFLn	10	adv	_	_
+2	пискоупомь	пискупъ	N	Nb	NUMBs|GENDm|CASEi	1	obl(19)obl	_	_
+3	ризкимь	рижьскыи	A	A-	NUMBs|GENDm|CASEi|DEGRp|STREs	2	atr	_	_
+4	провстъ	провстъ	N	Nb	NUMBs|GENDm|CASEn	1	obl(19)obl	_	_
+5	яганъ	яганъ	N	Ne	NUMBs|GENDm|CASEn	4	apos	_	_
+6	мастьръ	мастеръ	N	Nb	NUMBs|GENDm|CASEn	1	obl(19)obl	_	_
+7	вълквинъ	вълквинъ	N	Ne	NUMBs|GENDm|CASEn	6	apos	_	_
+8	бж҃ии	божии	A	A-	NUMBs|GENDm|CASEn|DEGRp|STREt	9	atr	_	_
+9	дворѧнинъ	дворянинъ	N	Nb	NUMBs|GENDm|CASEn	6	apos	_	_
+10	и	и	C	C-	INFLn	0	adv(18)pred	_	_
+11	подъ	подъ	R	R-	INFLn	10	adv	_	_
+12	горожаны	горожанинъ	N	Nb	NUMBp|GENDm|CASEi	11	obl	_	_
+13	ризѣскими	рижьскыи	A	A-	NUMBp|GENDm|CASEi|DEGRp|STREw	12	atr	_	_
+14	прѣдъ	прѣдъ	R	R-	INFLn	0	adv(18)pred	_	_
+15	всеми	вьсь	P	Px	NUMBp|GENDm|CASEi	17	atr	_	_
+16	латинескими	латиньскыи	A	A-	NUMBp|GENDm|CASEi|DEGRp|STREw	17	atr	_	_
+17	коупци	купьць	N	Nb	NUMBp|GENDm|CASEi	14	obl	_	_
+
+1	сѧ	сии	P	Pd	NUMBs|GENDf|CASEn	2	atr	_	_
+2	грамота	грамота	N	Nb	NUMBs|GENDf|CASEn	0	sub(7)pred	_	_
+3	оутвьржена	утвьрдити	V	V-	NUMBs|TENSu|MOODp|VOICp|GENDf|CASEn|STREs	0	xobj(7)pred	_	_
+4	всехо	вьсь	P	Px	NUMBs|GENDm|CASEg	5	atr	_	_
+5	коупьче	купьць	N	Nb	NUMBs|GENDm|CASEg	6	atr	_	_
+6	пьчатию	печать	N	Nb	NUMBs|GENDf|CASEi	3	adv	_	_
+
+1	се	сии	P	Pd	NUMBs|GENDn|CASEa	2	atr	_	_
+2	ороудиѥ	орудие	N	Nb	NUMBs|GENDn|CASEa	3	obj	_	_
+3	исправили	исправити	V	V-	NUMBp|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	0	pred	_	_
+4	оумнии	умьныи	A	A-	NUMBp|GENDm|CASEn|DEGRp|STREw	5	atr	_	_
+5	коупчи	купьць	N	Nb	NUMBp|GENDm|CASEn	3	sub	_	_
+6	регньбодѣ	регньбодѣ	N	Ne	NUMBs|GENDm|CASEn	5	apos(9)apos	_	_
+7	дѣтѧртъ	дѣтяртъ	N	Ne	NUMBs|GENDm|CASEn	5	apos(9)apos	_	_
+8	адамъ	адамъ	N	Ne	NUMBs|GENDm|CASEn	5	apos(9)apos	_	_
+
+1	то	тыи	P	Pd	NUMBs|GENDn|CASEn	2	sub	_	_
+2	были	быти	V	V-	NUMBp|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	0	pred	_	_
+3	горожане	горожанинъ	N	Nb	NUMBp|GENDm|CASEn	2	xobj	_	_
+4	на	на	R	R-	INFLn	3	atr	_	_
+5	гочкомь	готьскыи	A	A-	NUMBs|GENDm|CASEl|DEGRp|STREw	6	atr	_	_
+6	березе	берегъ	N	Nb	NUMBs|GENDm|CASEl	4	obl	_	_
+
+1	мьмьбернь	мьмьбернь	N	Ne	NUMBs|GENDm|CASEn	0	sub(5)sub(4)pred	_	_
+2	вредрикъ	вредрикъ	N	Ne	NUMBs|GENDm|CASEn	0	sub(5)sub(4)pred	_	_
+3	доумбѣ	думбѣ	N	Ne	NUMBs|GENDm|CASEn	0	sub(5)sub(4)pred	_	_
+
+1	ти	тыи	P	Pd	NUMBp|GENDm|CASEn	2	sub	_	_
+2	были	быти	V	V-	NUMBp|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	0	pred	_	_
+3	из	из	R	R-	INFLn	2	xobj	_	_
+4	любка	любъкъ	N	Ne	NUMBs|GENDm|CASEg	3	obl	_	_
+
+1	гиндрикъ	гиндрикъ	N	Ne	NUMBs|GENDm|CASEn	0	sub(5)sub(4)pred	_	_
+2	готь	готъ	N	Nb	NUMBs|GENDm|CASEn	1	apos	_	_
+3	илдигьрь	илдигьрь	N	Ne	NUMBs|GENDm|CASEn	0	sub(5)sub(4)pred	_	_
+
+1	та	тыи	P	Pd	NUMBd|GENDm|CASEn	3	sub	_	_
+2	два	дъва	M	Ma	NUMBd|GENDm|CASEn	1	atr	_	_
+3	была	быти	V	V-	NUMBd|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	0	pred	_	_
+4	и	из	R	R-	INFLn	3	xobj	_	_
+5	съ.жата	съжатъ	N	Ne	NUMBs|GENDm|CASEg	4	obl	_	_
+
+1	конратъ	конратъ	N	Ne	NUMBs|GENDm|CASEn	3	sub	_	_
+2	шхель	шхель	N	Ne	NUMBs|GENDm|CASEn	1	apos	_	_
+3	ѡдѣ	одѣ	C	C-	INFLn	0	sub(6)pred	_	_
+4	яганть	яганть	N	Ne	NUMBs|GENDm|CASEn	3	sub	_	_
+5	кинть	кинть	N	Ne	NUMBs|GENDm|CASEn	4	apos	_	_
+
+1	та	тыи	P	Pd	NUMBd|GENDm|CASEn	3	sub	_	_
+2	два	дъва	M	Ma	NUMBd|GENDm|CASEn	1	atr	_	_
+3	была	быти	V	V-	NUMBd|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	0	pred	_	_
+4	из	из	R	R-	INFLn	3	xobj	_	_
+5	мюньстьрѧ	мюньстьрь	N	Ne	NUMBs|GENDm|CASEg	4	obl	_	_
+
+1	бернѧрь	бернярь	N	Ne	NUMBs|GENDm|CASEn	2	sub	_	_
+2	ѡдѣ	одѣ	C	C-	INFLn	0	sub(4)pred	_	_
+3	вълкерь	вълкерь	N	Ne	NUMBs|GENDm|CASEn	2	sub	_	_
+
+1	та	тыи	P	Pd	NUMBd|GENDm|CASEn	3	sub	_	_
+2	два	дъва	M	Ma	NUMBd|GENDm|CASEn	1	atr	_	_
+3	была	быти	V	V-	NUMBd|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	0	pred	_	_
+4	изъ	из	R	R-	INFLn	3	xobj	_	_
+5	грюнигь	грюнигь	N	Ne	NUMBs|GENDm|CASEa	4	obl	_	_
+
+1	ѥрмьбрьхть	ермьбрьхть	N	Ne	NUMBs|GENDm|CASEn	2	sub	_	_
+2	ѡдѣ	одѣ	C	C-	INFLn	0	sub(4)pred	_	_
+3	албрахтъ	албрахтъ	N	Ne	NUMBs|GENDm|CASEn	2	sub	_	_
+
+1	та	тыи	P	Pd	NUMBd|GENDm|CASEn	3	sub	_	_
+2	два	дъва	M	Ma	NUMBd|GENDm|CASEn	1	atr	_	_
+3	была	быти	V	V-	NUMBd|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	0	pred	_	_
+4	из	из	R	R-	INFLn	3	xobj	_	_
+5	дортмьнѧ	дортмьнь	N	Ne	NUMBs|GENDm|CASEg	4	obl	_	_
+
+1	тиндрикъ	тиндрикъ	N	Ne	NUMBs|GENDm|CASEn	0	sub(5)pred	_	_
+2	цижикъ	цижикъ	N	Ne	NUMBs|GENDm|CASEn	1	apos	_	_
+3	из	из	R	R-	INFLn	1	atr	_	_
+4	бремьнь	бремьнь	N	Ne	NUMBs|GENDm|CASEa	3	obl	_	_
+
+1	албрахтъ	албрахтъ	N	Ne	NUMBs|GENDm|CASEn	4	sub	_	_
+2	слоукъ	слукъ	N	Ne	NUMBs|GENDm|CASEn	1	apos	_	_
+3	бернѧртъ	берняртъ	N	Ne	NUMBs|GENDm|CASEn	4	sub	_	_
+4	ѡдѣ	одѣ	C	C-	INFLn	0	sub(9)pred	_	_
+5	валтърь	валтърь	N	Ne	NUMBs|GENDm|CASEn	4	sub	_	_
+6	ѡдѣ	одѣ	C	C-	INFLn	4	aux	_	_
+7	албрахтъ	албрахтъ	N	Ne	NUMBs|GENDm|CASEn	4	sub	_	_
+8	фоготь	фоготь	N	Ne	NUMBs|GENDm|CASEn	7	apos	_	_
+
+1	то	тыи	P	Pd	NUMBs|GENDn|CASEn	2	sub	_	_
+2	были	быти	V	V-	NUMBp|TENSs|MOODp|VOICa|GENDm|CASEn|STREs	0	pred	_	_
+3	горожане	горожанинъ	N	Nb	NUMBp|GENDm|CASEn	2	xobj	_	_
+4	оу	въ	R	R-	INFLn	3	atr	_	_
+5	ризѣ	рига	N	Ne	NUMBs|GENDf|CASEl	4	obl	_	_
+
+1	и	и	C	C-	INFLn	0	aux(7)pred	_	_
+2	инехъ	иныи	P	Px	NUMBp|GENDm|CASEg	6	atr	_	_
+3	много	мъногыи	A	A-	NUMBs|GENDn|CASEn|DEGRp|STREs	0	sub(7)pred	_	_
+4	оумныхъ	умьныи	A	A-	NUMBp|GENDm|CASEg|DEGRp|STREw	6	atr	_	_
+5	добрыхъ	добрыи	A	A-	NUMBp|GENDm|CASEg|DEGRp|STREw	6	atr	_	_
+6	людѣи	людие	N	Nb	NUMBp|GENDm|CASEg	3	part	_	_
+
+1	которыи	которыи	P	Px	NUMBs|GENDm|CASEn	3	atr	_	_
+2	роусинъ	русинъ	N	Nb	NUMBs|GENDm|CASEn	3	sub	_	_
+3	или	или	C	C-	INFLn	8	sub	_	_
+4	латинескыи	латиньскыи	A	A-	NUMBs|GENDm|CASEn|DEGRp|STREw	3	sub	_	_
+5	противоу	противу	R	R-	INFLn	8	obl	_	_
+6	сеѥ	сии	P	Pd	NUMBs|GENDf|CASEg	7	atr	_	_
+7	правды	правьда	N	Nb	NUMBs|GENDf|CASEg	5	obl	_	_
+8	мълвить	мълвити	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	9	apos	_	_
+9	того	тыи	P	Pd	NUMBs|GENDm|CASEg	10	obj	_	_
+10	почьсти	почьстити	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+11	за	за	R	R-	INFLn	10	obl	_	_
+12	лихии	лихыи	A	A-	NUMBs|GENDm|CASEa|DEGRp|STREw	13	atr	_	_
+13	моужь	мужь	N	Nb	NUMBs|GENDm|CASEa	11	obl	_	_
+
+1	сѧ	сии	P	Pd	NUMBs|GENDf|CASEn	2	atr	_	_
+2	грамота	грамота	N	Nb	NUMBs|GENDf|CASEn	3	sub	_	_
+3	ѥсть	быти	V	V-	PERS3|NUMBs|TENSp|MOODi|VOICa	0	pred	_	_
+4	выдана	выдати	V	V-	NUMBs|TENSu|MOODp|VOICp|GENDf|CASEn|STREs	3	xobj	_	_
+5	на	на	R	R-	INFLn	4	adv	_	_
+6	гочкомь	готьскыи	A	A-	NUMBs|GENDm|CASEl|DEGRp|STREw	7	atr	_	_
+7	берьзѣ	берегъ	N	Nb	NUMBs|GENDm|CASEl	5	obl	_	_
+8	пьрьдъ	передъ	R	R-	INFLn	11	adv	_	_
+9	роускимь	русьскыи	A	A-	NUMBs|GENDm|CASEi|DEGRp|STREw	10	atr	_	_
+10	посломь	посълъ	N	Nb	NUMBs|GENDm|CASEi	8	obl	_	_
+11	и	и	C	C-	INFLn	4	adv	_	_
+12	пьрьдъ	передъ	R	R-	INFLn	11	adv	_	_
+13	всеми	вьсь	P	Px	NUMBp|GENDm|CASEi	15	atr	_	_
+14	латинскими	латиньскыи	A	A-	NUMBp|GENDm|CASEi|DEGRp|STREw	15	atr	_	_
+15	коупци	купьць	N	Nb	NUMBp|GENDm|CASEi	12	obl	_	_
 
