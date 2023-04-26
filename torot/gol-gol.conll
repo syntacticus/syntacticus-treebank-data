@@ -1,0 +1,45 @@
+1	﻿Светꙋ	свѣтъ	N	Nb	NUMBs|GENDm|CASEd	0	adv(6)pred	_	_
+2	моемꙋ	мои	P	Ps	PERS1|NUMBs|GENDm|CASEd	1	atr	_	_
+3	кнзю	кънязь	N	Nb	NUMBs|GENDm|CASEd	1	apos	_	_
+4	Василю	василии	N	Ne	NUMBs|GENDm|CASEd	3	apos	_	_
+5	Василевичю	василиевичь	N	Ne	NUMBs|GENDm|CASEd	4	apos	_	_
+
+1	бꙋдь	быти	V	V-	PERS3|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+2	на	на	R	R-	INFLn	1	xobj	_	_
+3	тебѣ	ты	P	Pp	PERS2|NUMBs|GENDm|CASEl	2	obl	_	_
+4	свѣт	свѣтъ	N	Nb	NUMBs|GENDm|CASEn	0	voc	_	_
+5	мои	мои	P	Ps	PERS1|NUMBs|GENDm|CASEn	4	atr	_	_
+6	млсть	милость	N	Nb	NUMBs|GENDf|CASEn	8	sub	_	_
+7	бжия	божии	A	A-	NUMBs|GENDf|CASEn|DEGRp|STREs	6	atr	_	_
+8	и	и	C	C-	INFLn	1	sub	_	_
+9	мое	мои	P	Ps	PERS1|NUMBs|GENDn|CASEn	11	atr	_	_
+10	грешное	грѣшьныи	A	A-	NUMBs|GENDn|CASEn|DEGRp|STREw	11	atr	_	_
+11	блгоссловение	благословение	N	Nb	NUMBs|GENDn|CASEn	8	sub	_	_
+12	отнне	отънынѣ	D	Df	INFLn	13	adv	_	_
+13	и	и	C	C-	INFLn	1	adv	_	_
+14	до	до	R	R-	INFLn	13	adv	_	_
+15	века	вѣкъ#1	N	Nb	NUMBs|GENDm|CASEg	14	obl	_	_
+
+1	здравствуи	съдравьствовати	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+2	свѣт	свѣтъ	N	Nb	NUMBs|GENDm|CASEn	0	voc	_	_
+3	мои	мои	P	Ps	PERS1|NUMBs|GENDm|CASEn	2	atr	_	_
+4	на	на	R	R-	INFLn	1	adv	_	_
+5	многие	мъногыи	A	A-	NUMBp|GENDn|CASEa|DEGRp|STREw	6	atr	_	_
+6	лѣта	лѣто	N	Nb	NUMBp|GENDn|CASEa	4	obl	_	_
+
+1	и	и	C	C-	INFLn	10	aux	_	_
+2	ты	ты	P	Pp	PERS2|NUMBs|GENDm|CASEn	10	sub	_	_
+3	свѣт	свѣтъ	N	Nb	NUMBs|GENDm|CASEn	0	voc	_	_
+4	мои	мои	P	Ps	PERS1|NUMBs|GENDm|CASEn	3	atr	_	_
+5	имя	имя	N	Nb	NUMBs|GENDn|CASEa	10	obj	_	_
+6	ево	и	P	Pp	PERS3|NUMBs|GENDm|CASEg	5	atr	_	_
+7	в	въ	R	R-	INFLn	10	obl	_	_
+8	нетах	нѣтъ	N	Nb	NUMBp|GENDm|CASEl	7	obl	_	_
+9	не	не	D	Df	INFLn	10	aux	_	_
+10	напиши	написати	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+
+1	напиши	написати	V	V-	PERS2|NUMBs|TENSp|MOODm|VOICa	0	pred	_	_
+2	ево	и	P	Pp	PERS3|NUMBs|GENDm|CASEg	1	obj	_	_
+3	в	въ	R	R-	INFLn	1	obl	_	_
+4	ѣстях	есть	N	Nb	NUMBp|GENDf|CASEl	3	obl	_	_
+

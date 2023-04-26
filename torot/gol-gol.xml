@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<proiel export-time="2023-04-26T12:46:03+02:00" schema-version="2.1">
+  <annotation>
+    <relations>
+      <value tag="adnom" summary="adnominal" primary="true" secondary="true"/>
+      <value tag="adv" summary="adverbial" primary="true" secondary="true"/>
+      <value tag="ag" summary="agens" primary="true" secondary="true"/>
+      <value tag="apos" summary="apposition" primary="true" secondary="true"/>
+      <value tag="arg" summary="argument (object or oblique)" primary="true" secondary="true"/>
+      <value tag="atr" summary="attribute" primary="true" secondary="true"/>
+      <value tag="aux" summary="auxiliary" primary="true" secondary="true"/>
+      <value tag="comp" summary="complement" primary="true" secondary="true"/>
+      <value tag="expl" summary="expletive" primary="true" secondary="true"/>
+      <value tag="narg" summary="adnominal argument" primary="true" secondary="true"/>
+      <value tag="nonsub" summary="non-subject (object, oblique or adverbial)" primary="true" secondary="true"/>
+      <value tag="obj" summary="object" primary="true" secondary="true"/>
+      <value tag="obl" summary="oblique" primary="true" secondary="true"/>
+      <value tag="parpred" summary="parenthetical predication" primary="true" secondary="true"/>
+      <value tag="part" summary="partitive" primary="true" secondary="true"/>
+      <value tag="per" summary="peripheral (oblique or adverbial)" primary="true" secondary="true"/>
+      <value tag="pid" summary="Predicate identity" primary="false" secondary="true"/>
+      <value tag="pred" summary="predicate" primary="true" secondary="true"/>
+      <value tag="rel" summary="apposition or attribute" primary="true" secondary="true"/>
+      <value tag="sub" summary="subject" primary="true" secondary="true"/>
+      <value tag="voc" summary="vocative" primary="true" secondary="true"/>
+      <value tag="xadv" summary="open adverbial complement" primary="true" secondary="true"/>
+      <value tag="xobj" summary="open objective complement" primary="true" secondary="true"/>
+      <value tag="xsub" summary="external subject" primary="false" secondary="true"/>
+    </relations>
+    <parts-of-speech>
+      <value tag="A-" summary="adjective"/>
+      <value tag="Df" summary="adverb"/>
+      <value tag="S-" summary="article"/>
+      <value tag="Ma" summary="cardinal numeral"/>
+      <value tag="Nb" summary="common noun"/>
+      <value tag="C-" summary="conjunction"/>
+      <value tag="Pd" summary="demonstrative pronoun"/>
+      <value tag="F-" summary="foreign word"/>
+      <value tag="Px" summary="indefinite pronoun"/>
+      <value tag="N-" summary="infinitive marker"/>
+      <value tag="I-" summary="interjection"/>
+      <value tag="Du" summary="interrogative adverb"/>
+      <value tag="Pi" summary="interrogative pronoun"/>
+      <value tag="Mo" summary="ordinal numeral"/>
+      <value tag="Pp" summary="personal pronoun"/>
+      <value tag="Pk" summary="personal reflexive pronoun"/>
+      <value tag="Ps" summary="possessive pronoun"/>
+      <value tag="Pt" summary="possessive reflexive pronoun"/>
+      <value tag="R-" summary="preposition"/>
+      <value tag="Ne" summary="proper noun"/>
+      <value tag="Py" summary="quantifier"/>
+      <value tag="Pc" summary="reciprocal pronoun"/>
+      <value tag="Dq" summary="relative adverb"/>
+      <value tag="Pr" summary="relative pronoun"/>
+      <value tag="G-" summary="subjunction"/>
+      <value tag="V-" summary="verb"/>
+      <value tag="X-" summary="unassigned"/>
+    </parts-of-speech>
+    <morphology>
+      <field tag="person">
+        <value tag="1" summary="first person"/>
+        <value tag="2" summary="second person"/>
+        <value tag="3" summary="third person"/>
+        <value tag="x" summary="uncertain person"/>
+      </field>
+      <field tag="number">
+        <value tag="s" summary="singular"/>
+        <value tag="d" summary="dual"/>
+        <value tag="p" summary="plural"/>
+        <value tag="x" summary="uncertain number"/>
+      </field>
+      <field tag="tense">
+        <value tag="p" summary="present"/>
+        <value tag="i" summary="imperfect"/>
+        <value tag="r" summary="perfect"/>
+        <value tag="s" summary="resultative"/>
+        <value tag="a" summary="aorist"/>
+        <value tag="u" summary="past"/>
+        <value tag="l" summary="pluperfect"/>
+        <value tag="f" summary="future"/>
+        <value tag="t" summary="future perfect"/>
+        <value tag="x" summary="uncertain tense"/>
+      </field>
+      <field tag="mood">
+        <value tag="i" summary="indicative"/>
+        <value tag="s" summary="subjunctive"/>
+        <value tag="m" summary="imperative"/>
+        <value tag="o" summary="optative"/>
+        <value tag="n" summary="infinitive"/>
+        <value tag="p" summary="participle"/>
+        <value tag="d" summary="gerund"/>
+        <value tag="g" summary="gerundive"/>
+        <value tag="u" summary="supine"/>
+        <value tag="x" summary="uncertain mood"/>
+        <value tag="y" summary="finiteness unspecified"/>
+        <value tag="e" summary="indicative or subjunctive"/>
+        <value tag="f" summary="indicative or imperative"/>
+        <value tag="h" summary="subjunctive or imperative"/>
+        <value tag="t" summary="finite"/>
+      </field>
+      <field tag="voice">
+        <value tag="a" summary="active"/>
+        <value tag="m" summary="middle"/>
+        <value tag="p" summary="passive"/>
+        <value tag="e" summary="middle or passive"/>
+        <value tag="x" summary="unspecified"/>
+      </field>
+      <field tag="gender">
+        <value tag="m" summary="masculine"/>
+        <value tag="f" summary="feminine"/>
+        <value tag="n" summary="neuter"/>
+        <value tag="p" summary="masculine or feminine"/>
+        <value tag="o" summary="masculine or neuter"/>
+        <value tag="r" summary="feminine or neuter"/>
+        <value tag="q" summary="masculine, feminine or neuter"/>
+        <value tag="x" summary="uncertain gender"/>
+      </field>
+      <field tag="case">
+        <value tag="n" summary="nominative"/>
+        <value tag="a" summary="accusative"/>
+        <value tag="o" summary="oblique"/>
+        <value tag="g" summary="genitive"/>
+        <value tag="c" summary="genitive or dative"/>
+        <value tag="e" summary="accusative or dative"/>
+        <value tag="d" summary="dative"/>
+        <value tag="b" summary="ablative"/>
+        <value tag="i" summary="instrumental"/>
+        <value tag="l" summary="locative"/>
+        <value tag="v" summary="vocative"/>
+        <value tag="x" summary="uncertain case"/>
+        <value tag="z" summary="no case"/>
+      </field>
+      <field tag="degree">
+        <value tag="p" summary="positive"/>
+        <value tag="c" summary="comparative"/>
+        <value tag="s" summary="superlative"/>
+        <value tag="x" summary="uncertain degree"/>
+        <value tag="z" summary="no degree"/>
+      </field>
+      <field tag="strength">
+        <value tag="w" summary="weak"/>
+        <value tag="s" summary="strong"/>
+        <value tag="t" summary="weak or strong"/>
+      </field>
+      <field tag="inflection">
+        <value tag="n" summary="non-inflecting"/>
+        <value tag="i" summary="inflecting"/>
+      </field>
+    </morphology>
+    <information-statuses>
+      <value tag="new" summary="new"/>
+      <value tag="kind" summary="kind"/>
+      <value tag="acc_gen" summary="acc-gen"/>
+      <value tag="acc_sit" summary="acc-sit"/>
+      <value tag="acc_inf" summary="acc-inf"/>
+      <value tag="old" summary="old"/>
+      <value tag="old_inact" summary="old-inact"/>
+      <value tag="no_info_status" summary="annotatable (undecided)"/>
+      <value tag="info_unannotatable" summary="unannotatable"/>
+      <value tag="quant" summary="quantifier restriction"/>
+      <value tag="non_spec" summary="non-specific"/>
+      <value tag="non_spec_inf" summary="inferred from non-specific"/>
+      <value tag="non_spec_old" summary="non-specific old"/>
+    </information-statuses>
+  </annotation>
+  <source id="gol-gol" language="orv">
+    <title>Letter of F. I. Golitsyna to V. V. Golitsyn</title>
+    <citation-part>Golitsyna</citation-part>
+    <license>CC BY-NC-SA 4.0</license>
+    <license-url>https://creativecommons.org/licenses/by-nc-sa/4.0/</license-url>
+    <annotator>Katie Sykes (50 sentences)</annotator>
+    <div id="8578">
+      <title>Letter of T. I. Golitsyna to V. V. Golitsyn</title>
+      <sentence id="292987" status="reviewed">
+        <token id="3516449" form="﻿Светꙋ" lemma="свѣтъ" part-of-speech="Nb" morphology="-s---md--i" head-id="3516454" relation="adv" presentation-after=" "/>
+        <token id="3516450" form="моемꙋ" lemma="мои" part-of-speech="Ps" morphology="1s---md--i" head-id="3516449" relation="atr" presentation-after=" "/>
+        <token id="3516451" form="кнзю" lemma="кънязь" part-of-speech="Nb" morphology="-s---md--i" head-id="3516449" relation="apos" presentation-after=" "/>
+        <token id="3516452" form="Василю" lemma="василии" part-of-speech="Ne" morphology="-s---md--i" head-id="3516451" relation="apos" presentation-after=" "/>
+        <token id="3516453" form="Василевичю" lemma="василиевичь" part-of-speech="Ne" morphology="-s---md--i" head-id="3516452" relation="apos" presentation-after=" "/>
+        <token id="3516454" empty-token-sort="V" relation="pred"/>
+      </sentence>
+      <sentence id="292988" status="reviewed">
+        <token id="3516455" form="бꙋдь" lemma="быти" part-of-speech="V-" morphology="3spma----i" relation="pred" presentation-after=" "/>
+        <token id="3516456" form="на" lemma="на" part-of-speech="R-" morphology="---------n" head-id="3516455" relation="xobj" presentation-after=" ">
+          <slash target-id="3516462" relation="xsub"/>
+        </token>
+        <token id="3516457" form="тебѣ" lemma="ты" part-of-speech="Pp" morphology="2s---ml--i" head-id="3516456" relation="obl" presentation-after=" "/>
+        <token id="3516458" form="свѣт" lemma="свѣтъ" part-of-speech="Nb" morphology="-s---mn--i" relation="voc" presentation-after=" "/>
+        <token id="3516459" form="мои" lemma="мои" part-of-speech="Ps" morphology="1s---mn--i" head-id="3516458" relation="atr" presentation-after=" "/>
+        <token id="3516460" form="млсть" lemma="милость" part-of-speech="Nb" morphology="-s---fn--i" head-id="3516462" relation="sub" presentation-after=" "/>
+        <token id="3516461" form="бжия" lemma="божии" part-of-speech="A-" morphology="-s---fnpsi" head-id="3516460" relation="atr" presentation-after=" "/>
+        <token id="3516462" form="и" lemma="и" part-of-speech="C-" morphology="---------n" head-id="3516455" relation="sub" presentation-after=" "/>
+        <token id="3516463" form="мое" lemma="мои" part-of-speech="Ps" morphology="1s---nn--i" head-id="3516465" relation="atr" presentation-after=" "/>
+        <token id="3516464" form="грешное" lemma="грѣшьныи" part-of-speech="A-" morphology="-s---nnpwi" head-id="3516465" relation="atr" presentation-after=" "/>
+        <token id="3516465" form="блгоссловение" lemma="благословение" part-of-speech="Nb" morphology="-s---nn--i" head-id="3516462" relation="sub" presentation-after=" "/>
+        <token id="3516466" form="отнне" lemma="отънынѣ" part-of-speech="Df" morphology="---------n" head-id="3516467" relation="adv" presentation-after=" "/>
+        <token id="3516467" form="и" lemma="и" part-of-speech="C-" morphology="---------n" head-id="3516455" relation="adv" presentation-after=" "/>
+        <token id="3516468" form="до" lemma="до" part-of-speech="R-" morphology="---------n" head-id="3516467" relation="adv" presentation-after=" "/>
+        <token id="3516469" form="века" lemma="вѣкъ#1" part-of-speech="Nb" morphology="-s---mg--i" head-id="3516468" relation="obl" presentation-after=" "/>
+      </sentence>
+      <sentence id="292989" status="reviewed">
+        <token id="3516470" form="здравствуи" lemma="съдравьствовати" part-of-speech="V-" morphology="2spma----i" relation="pred" presentation-after=" "/>
+        <token id="3516471" form="свѣт" lemma="свѣтъ" part-of-speech="Nb" morphology="-s---mn--i" relation="voc" presentation-after=" "/>
+        <token id="3516472" form="мои" lemma="мои" part-of-speech="Ps" morphology="1s---mn--i" head-id="3516471" relation="atr" presentation-after=" "/>
+        <token id="3516473" form="на" lemma="на" part-of-speech="R-" morphology="---------n" head-id="3516470" relation="adv" presentation-after=" "/>
+        <token id="3516474" form="многие" lemma="мъногыи" part-of-speech="A-" morphology="-p---napwi" head-id="3516475" relation="atr" presentation-after=" "/>
+        <token id="3516475" form="лѣта" lemma="лѣто" part-of-speech="Nb" morphology="-p---na--i" head-id="3516473" relation="obl" presentation-after=" "/>
+      </sentence>
+      <sentence id="293032" status="reviewed">
+        <token id="3517030" form="и" lemma="и" part-of-speech="C-" morphology="---------n" head-id="3517039" relation="aux" presentation-after=" "/>
+        <token id="3517031" form="ты" lemma="ты" part-of-speech="Pp" morphology="2s---mn--i" head-id="3517039" relation="sub" presentation-after=" "/>
+        <token id="3517032" form="свѣт" lemma="свѣтъ" part-of-speech="Nb" morphology="-s---mn--i" relation="voc" presentation-after=" "/>
+        <token id="3517033" form="мои" lemma="мои" part-of-speech="Ps" morphology="1s---mn--i" head-id="3517032" relation="atr" presentation-after=" "/>
+        <token id="3517034" form="имя" lemma="имя" part-of-speech="Nb" morphology="-s---na--i" head-id="3517039" relation="obj" presentation-after=" "/>
+        <token id="3517035" form="ево" lemma="и" part-of-speech="Pp" morphology="3s---mg--i" head-id="3517034" relation="atr" presentation-after=" "/>
+        <token id="3517036" form="в" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3517039" relation="obl" presentation-after=" "/>
+        <token id="3517037" form="нетах" lemma="нѣтъ" part-of-speech="Nb" morphology="-p---ml--i" head-id="3517036" relation="obl" presentation-after=" "/>
+        <token id="3517038" form="не" lemma="не" part-of-speech="Df" morphology="---------n" head-id="3517039" relation="aux" presentation-after=" "/>
+        <token id="3517039" form="напиши" lemma="написати" part-of-speech="V-" morphology="2spma----i" relation="pred" presentation-after=" "/>
+      </sentence>
+      <sentence id="293033" status="reviewed">
+        <token id="3517040" form="напиши" lemma="написати" part-of-speech="V-" morphology="2spma----i" relation="pred" presentation-after=" "/>
+        <token id="3517041" form="ево" lemma="и" part-of-speech="Pp" morphology="3s---mg--i" head-id="3517040" relation="obj" presentation-after=" "/>
+        <token id="3517042" form="в" lemma="въ" part-of-speech="R-" morphology="---------n" head-id="3517040" relation="obl" presentation-after=" "/>
+        <token id="3517043" form="ѣстях" lemma="есть" part-of-speech="Nb" morphology="-p---fl--i" head-id="3517042" relation="obl" presentation-after=" "/>
+      </sentence>
+    </div>
+  </source>
+</proiel>
